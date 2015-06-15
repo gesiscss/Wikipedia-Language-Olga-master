@@ -1,0 +1,150 @@
+    Accordeur de piano 
+    Ambulancier 
+    Archetier 
+    Bijoutier Joaillier 
+    Bonnetier
+    Bottier
+    Boucher
+    Boucher chevalin
+    Boulanger
+    Canalisateur
+    Carreleur - Mosaïste
+    Carrossier
+    Céramiste
+	Chapelier
+    Charcutier
+    Charpentier
+    Chaudronnier
+    Chauffagiste
+    Chauffeur de taxi
+    Chocolatier confiseur
+    Coiffeur 
+    Compagnon routier
+    Conducteur d'engins
+    Confiseur
+    Constructeur bois
+    Constructeur d'ouvrages d'art	
+    Contrôleur Technique
+    Cordonnier
+    Costumier
+    Coutelier
+    Couturier
+    Couvreur
+    Créateur de jouets en bois
+    Crémateur animalier
+    Crêpier
+    Décorateur de théâtre
+    Décorateur sur porcelaine
+    Décorateur sur verre
+    Déménageur
+    Doreur
+    Ebéniste
+    Ecailler
+    Électricien
+    Electricien automobile
+    Electrotechnicien
+    Emailleur
+    Embaumeur
+    Encadreur
+    Esthéticienne
+    Etancheur du BTP
+    Fabricant de cycles
+    Fabricant d’articles textiles    
+    Fabricant d’objets en plastique
+    Façonnier
+    Facteur d’instrument de musique
+    Ferronnier
+    Fleuriste
+    Fondeur
+    Fourreur
+    Fraiseur
+    Fresquiste
+    Frigoriste
+    Glacier
+    Graphiste
+    Graveur sur pierre
+    Horloger
+    Imprimeur
+    Infographiste
+    Installateur en électroménager
+    Installateur sanitaire 
+    Joaillier
+    Lapidaire
+    Layetier
+    Lunetier
+    Luthier
+    Maçon
+    Maquilleur
+    Marbrier
+    Maréchal-ferrant
+    Maroquinier
+    Marqueteur
+    Mécanicien agricole
+    Mécanicien automobile
+    Mécanicien cycles et motocycles
+    Mécanicien d'engins
+    Mécanicien en matériels de parcs et jardins
+    Menuisier-Agenceur
+    Métallier
+    Modéliste maquettiste
+    Modéliste-textile
+    Modiste
+    Monteur - Électricien
+    Moquettiste - Solier
+    Mosaïste
+    Naturaliste
+    Opérateur en productique mécanique
+    Opticien
+    Orfèvre
+    Orthoprothésiste
+    Outilleur
+    Pâtissier
+    Paysagiste
+    Peintre en bâtiment
+    Peintre en carrosserie	
+    Peintre en décor
+    Photographe
+    Photograveur
+    Plâtrier-plaquiste
+    Plombier
+    Podo-orthésiste
+    Poissonnier
+    Potier
+    Professionnel du pesage
+    Prothésiste dentaire
+    Prototypiste
+    Relieur
+    Réparateur automobiles
+    Réparateur cycles et motocycles
+    Réparateur électroménager et électronique
+    Restaurateur de céramique
+    Retoucheur
+    Savonnier
+    Sculpteur sur bois
+    Sculpteur sur pierre
+    Sellier harnacheur
+    Sérigraphe
+    Serrurier - Métallier
+    Sertisseur
+    Shaper
+    Solier	
+    Souffleur de verre
+    Staffeur - Stucateur
+    Tailleur
+    Tailleur de pierre
+    Tapissier
+    Taxidermiste
+    Technicien en réseau de communication
+    Teinturier pressing
+    Toiletteur d'animaux de compagnie
+    Tonnelier 
+    Tourneur
+    Tourneur sur bois
+    Traiteur 	
+    Tripier
+    Tuyautier en orgues
+    Vendeur en alimentation
+    Verrier
+    Vitrailliste
+    Voilier
+    Volailler

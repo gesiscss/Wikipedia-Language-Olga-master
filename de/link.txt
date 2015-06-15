@@ -1,0 +1,2 @@
+http://download-portal.arbeitsagentur.de/files/personList.do?doNext=listAnzeigen
+http://berufenet.arbeitsagentur.de/dkz/jsp/suche/index.jsp

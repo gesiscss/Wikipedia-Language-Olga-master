@@ -1,0 +1,84 @@
+{
+    "Cr\u00eapier": [
+        [
+            "Croupier", 
+            0
+        ]
+    ], 
+    "Contr\u00f4leur technique de la construction": [
+        [
+            "Contr\u00f4le technique de la construction en France", 
+            0
+        ]
+    ], 
+    "Fa\u00e7onnier": [
+        [
+            "Wagonnier", 
+            0
+        ]
+    ], 
+    "Peintre en d\u00e9cor": [
+        [
+            "Peintre de cour", 
+            0
+        ]
+    ], 
+    "Accordeur de piano": [
+        [
+            "Porteur de piano", 
+            0
+        ]
+    ], 
+    "Layetier": [
+        [
+            "Papetier", 
+            0
+        ], 
+        [
+            "Waretier", 
+            0
+        ], 
+        [
+            "Savetier", 
+            0
+        ]
+    ], 
+    "Oculariste": [
+        [
+            "Oculiste", 
+            0
+        ]
+    ], 
+    "Personnel de chauffe": [
+        [
+            "Personnel de hall", 
+            0
+        ]
+    ], 
+    "Bonnetier": [
+        [
+            "Tonnelier", 
+            1
+        ]
+    ], 
+    "Technicien de laboratoire m\u00e9dical": [
+        [
+            "Technicien de laboratoire", 
+            0
+        ]
+    ], 
+    "Bottier": [
+        [
+            "Bouvier", 
+            0
+        ], 
+        [
+            "Blatier", 
+            0
+        ], 
+        [
+            "Bottier orthop\u00e9diste", 
+            0
+        ]
+    ]
+}

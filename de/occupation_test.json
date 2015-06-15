@@ -1,0 +1,138 @@
+{
+	    "Bekleidungsteilen\u00e4her": [
+        [
+            "Bekleidungsteilen\u00e4herIn", 
+            "Bekleidungsteilen\u00e4herin und Bekleidungsteilen\u00e4her", 
+            "Bekleidungsteilen\u00e4herin oder Bekleidungsteilen\u00e4her", 
+            "Bekleidungsteilen\u00e4herin bzw. Bekleidungsteilen\u00e4her"
+        ], 
+        "Bekleidungsteilen\u00e4herin"
+    ],
+	    "Direktionsbevollm\u00e4chtigter": [
+        [
+            "Direktionsbevollm\u00e4chtigteR", 
+            "Direktionsbevollm\u00e4chtigte und Direktionsbevollm\u00e4chtigter", 
+            "Direktionsbevollm\u00e4chtigte oder Direktionsbevollm\u00e4chtigter", 
+            "Direktionsbevollm\u00e4chtigte bzw. Direktionsbevollm\u00e4chtigter"
+        ], 
+        "Direktionsbevollm\u00e4chtigte"
+    ], 
+	    "Immobilien-\u00d6konom": [
+        [
+            "Immobilien-\u00d6konomIn", 
+            "Immobilien-\u00d6konomin und Immobilien-\u00d6konom", 
+            "Immobilien-\u00d6konomin oder Immobilien-\u00d6konom", 
+            "Immobilien-\u00d6konomin bzw. Immobilien-\u00d6konom"
+        ], 
+        "Immobilien-\u00d6konomin"
+    ], 
+    "Zucker- und S\u00fc\u00dfwarenherstellerhelfer": [
+        [
+            "Zucker- und S\u00fc\u00dfwarenherstellerhelferIn", 
+            "Zucker- und S\u00fc\u00dfwarenherstellerhelferin und Zucker- und S\u00fc\u00dfwarenherstellerhelfer", 
+            "Zucker- und S\u00fc\u00dfwarenherstellerhelferin oder Zucker- und S\u00fc\u00dfwarenherstellerhelfer", 
+            "Zucker- und S\u00fc\u00dfwarenherstellerhelferin bzw. Zucker- und S\u00fc\u00dfwarenherstellerhelfer"
+        ], 
+        "Zucker- und S\u00fc\u00dfwarenherstellerhelferin"
+    ], 
+	    "Schlie\u00df- und Sicherungstechniker": [
+        [
+            "Schlie\u00df- und SicherungstechnikerIn", 
+            "Schlie\u00df- und Sicherungstechnikerin und Schlie\u00df- und Sicherungstechniker", 
+            "Schlie\u00df- und Sicherungstechnikerin oder Schlie\u00df- und Sicherungstechniker", 
+            "Schlie\u00df- und Sicherungstechnikerin bzw. Schlie\u00df- und Sicherungstechniker"
+        ], 
+        "Schlie\u00df- und Sicherungstechnikerin"
+    ], 
+    "Di\u00e4tkoch": [
+        [
+            "Di\u00e4tk\u00f6chin und Di\u00e4tkoch", 
+            "Di\u00e4tk\u00f6chin oder Di\u00e4tkoch", 
+            "Di\u00e4tk\u00f6chin bzw. Di\u00e4tkoch"
+        ], 
+        "Di\u00e4tk\u00f6chin"
+    ], 
+    "Tiefk\u00fchlkonservierer": [
+        [
+            "Tiefk\u00fchlkonserviererIn", 
+            "Tiefk\u00fchlkonserviererin und Tiefk\u00fchlkonservierer", 
+            "Tiefk\u00fchlkonserviererin oder Tiefk\u00fchlkonservierer", 
+            "Tiefk\u00fchlkonserviererin bzw. Tiefk\u00fchlkonservierer"
+        ], 
+        "Tiefk\u00fchlkonserviererin"
+    ], 
+	    "M\u00f6belpolsterer": [
+        [
+            "M\u00f6belpolsterin und M\u00f6belpolsterer", 
+            "M\u00f6belpolsterin oder M\u00f6belpolsterer", 
+            "M\u00f6belpolsterin bzw. M\u00f6belpolsterer"
+        ], 
+        "M\u00f6belpolsterin"
+    ], 
+    "Presserhelfer": [
+        [
+            "PresserhelferIn", 
+            "Presserhelferin und Presserhelfer", 
+            "Presserhelferin oder Presserhelfer", 
+            "Presserhelferin bzw. Presserhelfer"
+        ], 
+        "Presserhelferin"
+    ], 
+	    "Ofenf\u00fchrer": [
+        [
+            "Ofenf\u00fchrerIn", 
+            "Ofenf\u00fchrerin und Ofenf\u00fchrer", 
+            "Ofenf\u00fchrerin oder Ofenf\u00fchrer", 
+            "Ofenf\u00fchrerin bzw. Ofenf\u00fchrer"
+        ], 
+        "Ofenf\u00fchrerin"
+    ], 
+    "Beschaffungsbetriebswirt": [
+        [
+            "BeschaffungsbetriebswirtIn", 
+            "Beschaffungsbetriebswirtin und Beschaffungsbetriebswirt", 
+            "Beschaffungsbetriebswirtin oder Beschaffungsbetriebswirt", 
+            "Beschaffungsbetriebswirtin bzw. Beschaffungsbetriebswirt"
+        ], 
+        "Beschaffungsbetriebswirtin"
+    ], 
+    "K\u00fcper": [
+        [
+            "K\u00fcperIn", 
+            "K\u00fcperin und K\u00fcper", 
+            "K\u00fcperin oder K\u00fcper", 
+            "K\u00fcperin bzw. K\u00fcper"
+        ], 
+        "K\u00fcperin"
+    ],
+    "Geb\u00e4udereinigermeister": [
+        [
+            "Geb\u00e4udereinigermeisterIn", 
+            "Geb\u00e4udereinigermeisterin und Geb\u00e4udereinigermeister", 
+            "Geb\u00e4udereinigermeisterin oder Geb\u00e4udereinigermeister", 
+            "Geb\u00e4udereinigermeisterin bzw. Geb\u00e4udereinigermeister"
+        ], 
+        "Geb\u00e4udereinigermeisterin"
+    ],
+    "Assistent f\u00fcr Wirtschaftsinformatik": [
+        [
+            "Assistentin f\u00fcr Wirtschaftsinformatik und Assistent f\u00fcr Wirtschaftsinformatik", 
+            "Assistentin f\u00fcr Wirtschaftsinformatik oder Assistent f\u00fcr Wirtschaftsinformatik", 
+            "Assistentin f\u00fcr Wirtschaftsinformatik bzw. Assistent f\u00fcr Wirtschaftsinformatik"
+        ], 
+        "Assistentin f\u00fcr Wirtschaftsinformatik"
+    ],	
+
+    "Elektroger\u00e4temechaniker": [
+        [
+            "Elektroger\u00e4temechanikerIn", 
+            "Elektroger\u00e4temechanikerin und Elektroger\u00e4temechaniker", 
+            "Elektroger\u00e4temechanikerin oder Elektroger\u00e4temechaniker", 
+            "Elektroger\u00e4temechanikerin bzw. Elektroger\u00e4temechaniker"
+        ], 
+        "Elektroger\u00e4temechanikerin"
+    ]
+	
+	
+	
+}	

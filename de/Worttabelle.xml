@@ -1,0 +1,5594 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataroot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Worttabelle>
+		<Laenge>23</Laenge>
+		<Hauptwort>Außendienstmitarbeitern</Hauptwort>
+		<Vorschlag>Außendienstmitarbeiterinnen und Außendienstmitarbeitern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>23</Laenge>
+		<Hauptwort>Maschinenbauingenieuren</Hauptwort>
+		<Vorschlag>Maschinenbauingenieurinnen und Maschinenbauingenieuren</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>23</Laenge>
+		<Hauptwort>Universitätsassistenten</Hauptwort>
+		<Vorschlag>Universitätsassistentinnen und Universitätsassistenten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>22</Laenge>
+		<Hauptwort>Außendienstmitarbeiter</Hauptwort>
+		<Vorschlag>AußendienstmitarbeiterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>22</Laenge>
+		<Hauptwort>Außendienstmitarbeiter</Hauptwort>
+		<Vorschlag>Außendienstmitarbeiterinnen und Außendienstmitarbeiter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>22</Laenge>
+		<Hauptwort>Frau Fachoberinspektor</Hauptwort>
+		<Vorschlag>Frau Fachoberinspektorin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>22</Laenge>
+		<Hauptwort>Frau Generalprokurator</Hauptwort>
+		<Vorschlag>Frau Generalprokuratorin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>22</Laenge>
+		<Hauptwort>Frau Obermagistratsrat</Hauptwort>
+		<Vorschlag>Frau Obermagistratsrätin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>22</Laenge>
+		<Hauptwort>Maschinenbauingenieure</Hauptwort>
+		<Vorschlag>Maschinenbauingenieurinnen und Maschinenbauingenieure</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>22</Laenge>
+		<Hauptwort>Sprachwissenschaftlern</Hauptwort>
+		<Vorschlag>Sprachwissenschaftlerinnen und Sprachwissenschaftlern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>21</Laenge>
+		<Hauptwort>Agrarwissenschaftlern</Hauptwort>
+		<Vorschlag>Agrarwissenschaftlerinnen und Agrarwissenschaftlern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>21</Laenge>
+		<Hauptwort>Elektroinstallateuren</Hauptwort>
+		<Vorschlag>Elektroinstallateurinnen und Elektroninstallateure</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>21</Laenge>
+		<Hauptwort>Fr. Fachoberinspektor</Hauptwort>
+		<Vorschlag>Fr. Fachoberinspektorin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>21</Laenge>
+		<Hauptwort>Fr. Generalprokurator</Hauptwort>
+		<Vorschlag>Fr. Generalprokuratorin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>21</Laenge>
+		<Hauptwort>Fr. Obermagistratsrat</Hauptwort>
+		<Vorschlag>Fr. Obermagistratsrätin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>21</Laenge>
+		<Hauptwort>Frau Oberstaatsanwalt</Hauptwort>
+		<Vorschlag>Frau Oberstaatsanwältin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>21</Laenge>
+		<Hauptwort>Sprachwissenschaftler</Hauptwort>
+		<Vorschlag>Sprachwissenschaftlerinnen und Sprachwissenschaftler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>21</Laenge>
+		<Hauptwort>Systemadministratoren</Hauptwort>
+		<Vorschlag>Systemadministratorinnen und Systemadministratoren</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>20</Laenge>
+		<Hauptwort>Agrarwissenschaftler</Hauptwort>
+		<Vorschlag>Agrarwissenschaftlerinnen und Agrarwissenschaftler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>20</Laenge>
+		<Hauptwort>Alternativmedizinern</Hauptwort>
+		<Vorschlag>AlternativmedizinerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>20</Laenge>
+		<Hauptwort>Alternativmedizinern</Hauptwort>
+		<Vorschlag>Alternativmedizinerinnen und Alternativmedizinern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>20</Laenge>
+		<Hauptwort>Elektroinstallateure</Hauptwort>
+		<Vorschlag>Elektroinstallateurinnen und Elektroninstallateure</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>20</Laenge>
+		<Hauptwort>Fr. Oberstaatsanwalt</Hauptwort>
+		<Vorschlag>Fr. Oberstaatsanwältin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>20</Laenge>
+		<Hauptwort>Frau Diplomingenieur</Hauptwort>
+		<Vorschlag>Frau Diplomingenieuren</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>20</Laenge>
+		<Hauptwort>Versicherungsmaklern</Hauptwort>
+		<Vorschlag>Versicherungsmaklerinnen und Versicherungsmaklern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>19</Laenge>
+		<Hauptwort>Alternativmediziner</Hauptwort>
+		<Vorschlag>Alternativmedizinerinnen und Alternativmediziner</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>19</Laenge>
+		<Hauptwort>Alternativmediziner</Hauptwort>
+		<Vorschlag>AlternativmedizinerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>19</Laenge>
+		<Hauptwort>Fr. Diplomingenieur</Hauptwort>
+		<Vorschlag>Fr. Diplomingenieurin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>19</Laenge>
+		<Hauptwort>Frau Ministerialrat</Hauptwort>
+		<Vorschlag>Frau Ministerialrätin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>19</Laenge>
+		<Hauptwort>Frau Oberkontrollor</Hauptwort>
+		<Vorschlag>Frau Oberkontrollorin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>19</Laenge>
+		<Hauptwort>Maschinenschlossern</Hauptwort>
+		<Vorschlag>Maschinenschlosserinnen und Maschinenschlossern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>19</Laenge>
+		<Hauptwort>Niederösterreichern</Hauptwort>
+		<Vorschlag>Niederösterreicherinnen und Niederösterreichern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>19</Laenge>
+		<Hauptwort>Schlittschuhläufern</Hauptwort>
+		<Vorschlag>Schlittschuhläuferinnen und Schlittschuhläufern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>19</Laenge>
+		<Hauptwort>Versicherungsmakler</Hauptwort>
+		<Vorschlag>Versicherungsmaklerinnen und Versicherungsmakler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>19</Laenge>
+		<Hauptwort>Versicherungsmakler</Hauptwort>
+		<Vorschlag>VersicherungsmaklerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>18</Laenge>
+		<Hauptwort>Anwaltsassistenten</Hauptwort>
+		<Vorschlag>Anwaltsassistentinnen und Anwaltsassistenten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>18</Laenge>
+		<Hauptwort>Elektroingenieuren</Hauptwort>
+		<Vorschlag>Elektroingenieurinnen und Elektroingenieure</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>18</Laenge>
+		<Hauptwort>Ferialpraktikanten</Hauptwort>
+		<Vorschlag>Ferialpraktikantinnen und Ferialpraktikanten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>18</Laenge>
+		<Hauptwort>Fr. Ministerialrat</Hauptwort>
+		<Vorschlag>Fr. Ministerialrätin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>18</Laenge>
+		<Hauptwort>Fr. Oberkontrollor</Hauptwort>
+		<Vorschlag>Fr. Oberkontrollorin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>18</Laenge>
+		<Hauptwort>Frau Fachinspektor</Hauptwort>
+		<Vorschlag>Frau Fachinspektorin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>18</Laenge>
+		<Hauptwort>Frau Generalanwalt</Hauptwort>
+		<Vorschlag>Frau Generalanwältin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>18</Laenge>
+		<Hauptwort>Frau Oberkommissär</Hauptwort>
+		<Vorschlag>Frau Oberkommissärin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>18</Laenge>
+		<Hauptwort>Maschinenschlosser</Hauptwort>
+		<Vorschlag>MaschinenschlosserInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>18</Laenge>
+		<Hauptwort>Maschinenschlosser</Hauptwort>
+		<Vorschlag>Maschinenschlosserinnen und Maschinenschlosser</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>18</Laenge>
+		<Hauptwort>Mittelschullehrern</Hauptwort>
+		<Vorschlag>MittelschullehrerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>18</Laenge>
+		<Hauptwort>Mittelschullehrern</Hauptwort>
+		<Vorschlag>Lehrkörper</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>18</Laenge>
+		<Hauptwort>Mittelschullehrern</Hauptwort>
+		<Vorschlag>Mittelschullehrerinnen und Mittelschullehrern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>18</Laenge>
+		<Hauptwort>Niederösterreicher</Hauptwort>
+		<Vorschlag>NiederösterreicherInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>18</Laenge>
+		<Hauptwort>Niederösterreicher</Hauptwort>
+		<Vorschlag>Niederösterreicherinnen und Niederösterreicher</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>18</Laenge>
+		<Hauptwort>Schlittschuhläufer</Hauptwort>
+		<Vorschlag>Schlittschuhläuferinnen und Schlittschuhläufer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>18</Laenge>
+		<Hauptwort>Schlittschuhläufer</Hauptwort>
+		<Vorschlag>SchlittschuhläuferInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Abteilungsleitern</Hauptwort>
+		<Vorschlag>Abteilungsleiterinnen und Abteilungsleitern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Elektroingenieure</Hauptwort>
+		<Vorschlag>Elektroningenieurinnen und Elektroingenieure</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Fr. Fachinspektor</Hauptwort>
+		<Vorschlag>Fr. Fachinspektorin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Fr. Generalanwalt</Hauptwort>
+		<Vorschlag>Fr. Generalanwältin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Fr. Oberkommissär</Hauptwort>
+		<Vorschlag>Fr. Oberkommissärin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Frau Amtsdirektor</Hauptwort>
+		<Vorschlag>Frau Amtsdirektorin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Frau Amtssekretär</Hauptwort>
+		<Vorschlag>Frau Amtssekretärin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Frau Oberamtswart</Hauptwort>
+		<Vorschlag>Frau Oberamtswartin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Frau Oberoffizial</Hauptwort>
+		<Vorschlag>Frau Oberoffizialin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Frau Oberrevident</Hauptwort>
+		<Vorschlag>Frau Oberrevidentin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Frau Sektionschef</Hauptwort>
+		<Vorschlag>Frau Sektionschefin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Frau Staatsanwalt</Hauptwort>
+		<Vorschlag>Frau Staatsanwältin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Genossenschaftern</Hauptwort>
+		<Vorschlag>Genossenschafterinnen und Genossenschaftern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Geschäftsinhabern</Hauptwort>
+		<Vorschlag>Geschäftsinhaberinnen und Geschäftsinhabern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Hauptschullehrern</Hauptwort>
+		<Vorschlag>Lehrkörper</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Hauptschullehrern</Hauptwort>
+		<Vorschlag>Hauptschullehrerinnen und Hauptschullehrern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Immobilienmaklern</Hauptwort>
+		<Vorschlag>Immobilienmaklerinnen und Immobilienmaklern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Krankenschwestern</Hauptwort>
+		<Vorschlag>Krankenschwestern und Krankenpfleger</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Krankenschwestern</Hauptwort>
+		<Vorschlag>Krankenpflegepersonal</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Lateinamerikanern</Hauptwort>
+		<Vorschlag>Lateinamerikanerinnen und Lateinamerikanern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Mittelschullehrer</Hauptwort>
+		<Vorschlag>Lehrkörper</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Mittelschullehrer</Hauptwort>
+		<Vorschlag>MittelschullehrerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Mittelschullehrer</Hauptwort>
+		<Vorschlag>Mittelschullehrerinnen und Mittelschullehrer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Oberösterreichern</Hauptwort>
+		<Vorschlag>Oberösterreicherinnen und Oberösterreichern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Physiotherapeuten</Hauptwort>
+		<Vorschlag>Physiotherapeutinnen und Physiotherapeuten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Psychotherapeuten</Hauptwort>
+		<Vorschlag>Psychotherapeutinnen und Psychotherapeuten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Systemanalytikern</Hauptwort>
+		<Vorschlag>Systemanalytikerinnen und Systemanalytikern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Volksschullehrern</Hauptwort>
+		<Vorschlag>Volksschullehrerinnen und Volksschullehrern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>17</Laenge>
+		<Hauptwort>Volksschullehrern</Hauptwort>
+		<Vorschlag>Volksschul-Lehrkörper</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Abteilungsleiter</Hauptwort>
+		<Vorschlag>AbteilungsleiterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Abteilungsleiter</Hauptwort>
+		<Vorschlag>Abteilungsleiterinnen und Abteilungsleiter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Elektromonteuren</Hauptwort>
+		<Vorschlag>Elektromonteurinnen und Elektromonteure</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Fr. Amtsdirektor</Hauptwort>
+		<Vorschlag>Fr. Amtsdirektorin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Fr. Amtssekretär</Hauptwort>
+		<Vorschlag>Fr. Amtssekretärin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Fr. Oberamtswart</Hauptwort>
+		<Vorschlag>Fr. Oberamtswartin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Fr. Oberoffizial</Hauptwort>
+		<Vorschlag>Fr. Oberoffizialin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Fr. Oberrevident</Hauptwort>
+		<Vorschlag>Fr. Oberrevidentin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Fr. Sektionschef</Hauptwort>
+		<Vorschlag>Fr. Sektionschefin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Fr. Staatsanwalt</Hauptwort>
+		<Vorschlag>Fr. Staatsanwältin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Frau Gemeinderat</Hauptwort>
+		<Vorschlag>Frau Gemeinderätin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Frau Univ.-Prof.</Hauptwort>
+		<Vorschlag>Frau Univ.-Prof.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Genossenschafter</Hauptwort>
+		<Vorschlag>GenossenschafterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Genossenschafter</Hauptwort>
+		<Vorschlag>Genossenschafterinnen und Genossenschafter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Gerwerkschaftern</Hauptwort>
+		<Vorschlag>Gerwerkschafterinnen und Gerwerkschaftern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Geschäftsführern</Hauptwort>
+		<Vorschlag>Geschäftsführerinnen und Geschäftsführern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Geschäftsinhaber</Hauptwort>
+		<Vorschlag>Geschäftsinhaberinnen und Geschäftsinhaber</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Geschäftsinhaber</Hauptwort>
+		<Vorschlag>GeschäftsinhaberInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Geschäftsleitern</Hauptwort>
+		<Vorschlag>Geschäftsleiterinnen und Geschäftsleitern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Hauptschullehrer</Hauptwort>
+		<Vorschlag>Lehrkörper</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Hauptschullehrer</Hauptwort>
+		<Vorschlag>HauptschullehrerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Hauptschullehrer</Hauptwort>
+		<Vorschlag>Hauptschullehrerinnen und Hauptschullehrer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Immobilienmakler</Hauptwort>
+		<Vorschlag>Immobilienmaklerinnen und Immobilienmakler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Immobilienmakler</Hauptwort>
+		<Vorschlag>ImmobilienmaklerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Klassensprechern</Hauptwort>
+		<Vorschlag>Klassensprecherinnen und Klassensprechern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Lateinamerikaner</Hauptwort>
+		<Vorschlag>Lateinamerikanerinnen und Lateinamerikaner</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Lateinamerikaner</Hauptwort>
+		<Vorschlag>LateinamerikanerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Lokomotivführern</Hauptwort>
+		<Vorschlag>Lokomotivführerinnen und Lokomotivführern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Oberösterreicher</Hauptwort>
+		<Vorschlag>OberösterreicherInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Oberösterreicher</Hauptwort>
+		<Vorschlag>Oberösterreicherinnen und Oberösterreicher</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Rauchfangkehrern</Hauptwort>
+		<Vorschlag>Rauchfangkehrerinnen und Rauchfangkehrern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Sozialdemokraten</Hauptwort>
+		<Vorschlag>Sozialdemokrateninnen und Sozialdemokraten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Sozialdemokraten</Hauptwort>
+		<Vorschlag>Sozialdemokratinnen und Sozialdemokraten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Systemanalytiker</Hauptwort>
+		<Vorschlag>SystemanalytikerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Systemanalytiker</Hauptwort>
+		<Vorschlag>Systemanalytikerinnen und Systemanalytiker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Volksschullehrer</Hauptwort>
+		<Vorschlag>VolksschullehrerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Volksschullehrer</Hauptwort>
+		<Vorschlag>Volksschul-Lehrkörper</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Volksschullehrer</Hauptwort>
+		<Vorschlag>Volksschullehrerinnen und Volksschullehrer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Wissenschaftlern</Hauptwort>
+		<Vorschlag>Wissenschaftlerinnen und Wissenschaftlern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>16</Laenge>
+		<Hauptwort>Zentraleuropäern</Hauptwort>
+		<Vorschlag>Zentraleuropäerinnen und Zentraleuropäern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Administratoren</Hauptwort>
+		<Vorschlag>Administratorinnen und Administratoren</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Altersforschern</Hauptwort>
+		<Vorschlag>Altersforscherinnen und Altersforschern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Antragsstellern</Hauptwort>
+		<Vorschlag>Antragsstellerinnen und Antragsstellern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Arbeitskollegen</Hauptwort>
+		<Vorschlag>Arbeitskolleginnen und Arbeitskollegen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Autoelektrikern</Hauptwort>
+		<Vorschlag>Autoelektrikerinnen und Autoelektrikern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Automechanikern</Hauptwort>
+		<Vorschlag>Automechanikerinnen und Automechanikern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Bankkaufmännern</Hauptwort>
+		<Vorschlag>Bankkauffrauen und Bankkaufmännern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Betriebsprüfern</Hauptwort>
+		<Vorschlag>Betriebsprüferinnen und Betriebsprüfern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Elektromonteure</Hauptwort>
+		<Vorschlag>Elektromonteurinnen und Elektromonteure</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Feuerwehrmänner</Hauptwort>
+		<Vorschlag>Feuerwehrleute</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Feuerwehrmänner</Hauptwort>
+		<Vorschlag>Feuerwehrpersonal</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Fr. Gemeinderat</Hauptwort>
+		<Vorschlag>Fr. Gemeinderätin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Fr. Univ.-Prof.</Hauptwort>
+		<Vorschlag>Fr. Univ.-Prof.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Frau Kontrollor</Hauptwort>
+		<Vorschlag>Frau Kontrollorin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Geschäftsführer</Hauptwort>
+		<Vorschlag>GeschäftsführerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Geschäftsführer</Hauptwort>
+		<Vorschlag>Geschäftsführerinnen und Geschäftsführer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Geschäftsleiter</Hauptwort>
+		<Vorschlag>Geschäftsleiterinnen und Geschäftsleiter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Geschäftsleiter</Hauptwort>
+		<Vorschlag>GeschäftsleiterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Gesellschaftern</Hauptwort>
+		<Vorschlag>Gesellschafterinnen und Gesellschaftern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Klassensprecher</Hauptwort>
+		<Vorschlag>Klassensprecherinnen und Klassensprecher</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Klassensprecher</Hauptwort>
+		<Vorschlag>KlassensprecherInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Krankenpflegern</Hauptwort>
+		<Vorschlag>Krankenpflegerinnen und Krankenpflegern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Masseverwaltern</Hauptwort>
+		<Vorschlag>Masseverwalterinnen und Masseverwaltern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Metallarbeitern</Hauptwort>
+		<Vorschlag>Metallarbeiterinnen und Metallarbeitern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Mitteleuropäern</Hauptwort>
+		<Vorschlag>Mitteleuropäerinnen und Mitteleuropäern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Motorradfahrern</Hauptwort>
+		<Vorschlag>Motorradfahrerinnen und Motorradfahrern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Nordamerikanern</Hauptwort>
+		<Vorschlag>Nordamerikanerinnen und Nordamerikanern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Parlamentariern</Hauptwort>
+		<Vorschlag>Parlamentarierinnen und Parlamentariern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Rauchfangkehrer</Hauptwort>
+		<Vorschlag>RauchfangkehrerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Rauchfangkehrer</Hauptwort>
+		<Vorschlag>Rauchfangkehrerinnen und Rauchfangkehrer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Sachbearbeitern</Hauptwort>
+		<Vorschlag>Sachbearbeiterinnen und Sachbearbeitern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Schriftstellern</Hauptwort>
+		<Vorschlag>Schriftstellerinnen und Schriftstellern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Sektionsleitern</Hauptwort>
+		<Vorschlag>Sektionsleiterinnen und Sektionsleitern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Unteroffizieren</Hauptwort>
+		<Vorschlag>Unteroffizierinnen und Unteroffizieren</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Werkzeugmachern</Hauptwort>
+		<Vorschlag>Werkzeugmacherinnen und Werkzeugmachern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Wissenschaftler</Hauptwort>
+		<Vorschlag>Wissenschaftlerinnen und Wissenschaftler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Wissenschaftler</Hauptwort>
+		<Vorschlag>WissenschaftlerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Wohnungsmaklern</Hauptwort>
+		<Vorschlag>Wohnungsmaklerinnen und Wohnungsmaklern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Zahnarzthelfern</Hauptwort>
+		<Vorschlag>Zahnarzthelferinnen und Zahnarzthelfern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Zentraleuropäer</Hauptwort>
+		<Vorschlag>Zentraleuropäerinnen und Zentraleuropäer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>15</Laenge>
+		<Hauptwort>Zentraleuropäer</Hauptwort>
+		<Vorschlag>ZentraleuropäerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Altersforscher</Hauptwort>
+		<Vorschlag>AltersforscherInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Altersforscher</Hauptwort>
+		<Vorschlag>Altersforscherinnen und Altersforscher</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Antragssteller</Hauptwort>
+		<Vorschlag>AntragsstellerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Antragssteller</Hauptwort>
+		<Vorschlag>Antragsstellerinnen und Antragssteller</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Autoelektriker</Hauptwort>
+		<Vorschlag>Autoelektrikerinnen und Autoelektriker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Autoelektriker</Hauptwort>
+		<Vorschlag>AutoelektrikerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Automechaniker</Hauptwort>
+		<Vorschlag>Automechanikerinnen und Automechaniker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Automechaniker</Hauptwort>
+		<Vorschlag>AutomechanikerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Bankkaufmänner</Hauptwort>
+		<Vorschlag>Bankkauffrauen und Bankkaufmänner</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Bauingenieuren</Hauptwort>
+		<Vorschlag>Bauingenieureinnen und Bauingenieuren</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Betriebsprüfer</Hauptwort>
+		<Vorschlag>BetriebsprüferInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Betriebsprüfer</Hauptwort>
+		<Vorschlag>Betriebsprüferinnen und Betriebsprüfer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Bibliothekaren</Hauptwort>
+		<Vorschlag>Bibliothekarinnen und Bibliothekaren</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Bürgermeistern</Hauptwort>
+		<Vorschlag>Bürgermeisterinnen und Bürgermeistern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>die Mannschaft</Hauptwort>
+		<Vorschlag>das Team</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>die Mannschaft</Hauptwort>
+		<Vorschlag>die Gruppe</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Fr. Kontrollor</Hauptwort>
+		<Vorschlag>Fr. Kontrollorin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Frau Kommissär</Hauptwort>
+		<Vorschlag>Frau Kommissärin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Gesellschafter</Hauptwort>
+		<Vorschlag>GesellschafterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Gesellschafter</Hauptwort>
+		<Vorschlag>Gesellschafterinnen und Gesellschafter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Gewerkschafter</Hauptwort>
+		<Vorschlag>GerwerkschafterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Gewerkschafter</Hauptwort>
+		<Vorschlag>Gerwerkschafterinnen und Gerwerkschafter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Installateuren</Hauptwort>
+		<Vorschlag>Installateurinnen und Installateure</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Kindergärtnern</Hauptwort>
+		<Vorschlag>Kindergartenpädagoginnen und Kindergartenpädagogen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Krankenpfleger</Hauptwort>
+		<Vorschlag>Krankenpflegerinnen und Krankenpfleger</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Krankenpfleger</Hauptwort>
+		<Vorschlag>KrankenpflegerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Krankenpfleger</Hauptwort>
+		<Vorschlag>Pflegepersonal</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Masseverwalter</Hauptwort>
+		<Vorschlag>MasseverwalterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Masseverwalter</Hauptwort>
+		<Vorschlag>Masseverwalterinnen und Masseverwalter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Mechatronikern</Hauptwort>
+		<Vorschlag>Mechatronikerinnen und Mechatronikern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Metallarbeiter</Hauptwort>
+		<Vorschlag>MetallarbeiterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Metallarbeiter</Hauptwort>
+		<Vorschlag>Metallarbeiterinnen und Metallarbeiter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Mitteleuropäer</Hauptwort>
+		<Vorschlag>MitteleuropäerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Mitteleuropäer</Hauptwort>
+		<Vorschlag>Mitteleuropäerinnen und Mitteleuropäer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Motorradfahrer</Hauptwort>
+		<Vorschlag>Motorradfahrerinnen und Motorradfahrer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Motorradfahrer</Hauptwort>
+		<Vorschlag>MotorradfahrerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Nordamerikaner</Hauptwort>
+		<Vorschlag>NordamerikanerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Nordamerikaner</Hauptwort>
+		<Vorschlag>Nordamerikanerinnen und Nordamerikaner</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Notarzthelfern</Hauptwort>
+		<Vorschlag>Notarzthelferinnen und Notarzthelfern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Parlamentarier</Hauptwort>
+		<Vorschlag>ParlamentarierInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Parlamentarier</Hauptwort>
+		<Vorschlag>Parlamentarierinnen und Parlamentarier</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Programmierern</Hauptwort>
+		<Vorschlag>Programmiererinnen und Programmierern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Rechtsanwälten</Hauptwort>
+		<Vorschlag>Rechtsanwältinnen und Rechtsanwälten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Repräsentanten</Hauptwort>
+		<Vorschlag>Repräsentantinnen und Repräsentanten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Sachbearbeiter</Hauptwort>
+		<Vorschlag>Sachbearbeiterinnen und Sachbearbeiter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Sachbearbeiter</Hauptwort>
+		<Vorschlag>SachbearbeiterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Schriftsteller</Hauptwort>
+		<Vorschlag>Schriftstellerinnen und Schriftsteller</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Schriftsteller</Hauptwort>
+		<Vorschlag>SchriftstellerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Schulsprechern</Hauptwort>
+		<Vorschlag>Schulsprecherinnen und Schulsprechern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Sektionsleiter</Hauptwort>
+		<Vorschlag>Sektionsleiterinnen und Sektionsleiter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Sektionsleiter</Hauptwort>
+		<Vorschlag>SektionsleiterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Südamerikanern</Hauptwort>
+		<Vorschlag>Südamerikanerinnen und Südamerikanern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Unteroffiziere</Hauptwort>
+		<Vorschlag>Unteroffizierinnen und Unteroffiziere</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Werkzeugmacher</Hauptwort>
+		<Vorschlag>Werkzeugmacherinnen und Werkzeugmacher</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Werkzeugmacher</Hauptwort>
+		<Vorschlag>WerkzeugmacherInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Wohnungsmakler</Hauptwort>
+		<Vorschlag>Wohnungsmaklerinnen und Wohnungsmakler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Wohnungsmakler</Hauptwort>
+		<Vorschlag>WohnungsmaklerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Zahnarzthelfer</Hauptwort>
+		<Vorschlag>Zahnarzthelferinnen und Zahnarzthelfer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>14</Laenge>
+		<Hauptwort>Zahnarzthelfer</Hauptwort>
+		<Vorschlag>ZahnarzthelferInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Altenpflegern</Hauptwort>
+		<Vorschlag>Pflegepersonal</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Altenpflegern</Hauptwort>
+		<Vorschlag>Altenpflegerinnen und Altenpflegern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Anthropologen</Hauptwort>
+		<Vorschlag>Anthropologinnen und Anthropologen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Asylbewerbern</Hauptwort>
+		<Vorschlag>Asylbewerberinnen und Asylbewerbern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Bauingenieure</Hauptwort>
+		<Vorschlag>Bauingenieurinnen und Bauingenieure</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Bibliothekare</Hauptwort>
+		<Vorschlag>Bibliothekarinnen und Bibliothekare</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Börsenmaklern</Hauptwort>
+		<Vorschlag>Börsenmaklerinnen und Börsenmaklern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Burgenländern</Hauptwort>
+		<Vorschlag>Burgenländerinnen und Burgenländern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Bürgermeister</Hauptwort>
+		<Vorschlag>Bürgermeisterinnen und Bürgermeister</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Bürgermeister</Hauptwort>
+		<Vorschlag>BürgermeisterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Eisenstädtern</Hauptwort>
+		<Vorschlag>Eisenstädterinnen und Eisenstädtern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Fleischhauern</Hauptwort>
+		<Vorschlag>Fleischhauerinnen und Fleischhauern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Fliesenlegern</Hauptwort>
+		<Vorschlag>Fliesenlegerinnen und Fliesenlegern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Fr. Kommissär</Hauptwort>
+		<Vorschlag>Fr. Kommissärin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Frau Amtswart</Hauptwort>
+		<Vorschlag>Frau Amtswartin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Frau Direktor</Hauptwort>
+		<Vorschlag>Frau Direktorin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Frau GenProk.</Hauptwort>
+		<Vorschlag>Frau GenProk.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Frau Kontr.ⁱⁿ</Hauptwort>
+		<Vorschlag>Frau Kontr.</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Frau Magister</Hauptwort>
+		<Vorschlag>Frau Magistra</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Frau Offizial</Hauptwort>
+		<Vorschlag>Frau Offizialin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Frau Revident</Hauptwort>
+		<Vorschlag>Frau Revidentin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Frau SektChef</Hauptwort>
+		<Vorschlag>Frau SektChef.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Informatikern</Hauptwort>
+		<Vorschlag>Informatikerinnen und Informatikern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Installateure</Hauptwort>
+		<Vorschlag>Installateurinnen und Installateure</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Kabarettisten</Hauptwort>
+		<Vorschlag>Kabarettistinnen und Kaberettisten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Kindergärtner</Hauptwort>
+		<Vorschlag>Kindergartenpädagoginnen und Kindergartenpädagogen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Klagenfurtern</Hauptwort>
+		<Vorschlag>Klagenfurterinnen und Klagenfurtern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Ladeninhabern</Hauptwort>
+		<Vorschlag>Ladeninhaberinnen und Ladeninhabern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Mathematikern</Hauptwort>
+		<Vorschlag>Mathematikerinnen und Mathematikern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Mechatroniker</Hauptwort>
+		<Vorschlag>Mechatronikerinnen und Mechatroniker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Mechatroniker</Hauptwort>
+		<Vorschlag>MechatronikerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Nordeuropäern</Hauptwort>
+		<Vorschlag>Nordeuropäerinnen und Nordeuropäern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Notarzthelfer</Hauptwort>
+		<Vorschlag>NotarzthelferInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Notarzthelfer</Hauptwort>
+		<Vorschlag>Notarzthelferinnen und Notarzthelfer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Österreichern</Hauptwort>
+		<Vorschlag>Österreicherinnen und Österreichern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Programmierer</Hauptwort>
+		<Vorschlag>ProgrammiererInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Programmierer</Hauptwort>
+		<Vorschlag>Programmiererinnen und Programmierer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Rechtsanwälte</Hauptwort>
+		<Vorschlag>Rechtsanwältinnen und Rechtsanwälte</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Schauspielern</Hauptwort>
+		<Vorschlag>Schauspielerinnen und Schauspielern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Schauspielern</Hauptwort>
+		<Vorschlag>SchauspielerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Schulsprecher</Hauptwort>
+		<Vorschlag>SchulsprecherInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Schulsprecher</Hauptwort>
+		<Vorschlag>Schulsprecherinnen und Schulsprecher</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Staatsbürgern</Hauptwort>
+		<Vorschlag>Staatsbürgerinnen und Staatsbürgern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Südamerikaner</Hauptwort>
+		<Vorschlag>Südamerikanerinnen und Südamerikaner</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Südamerikaner</Hauptwort>
+		<Vorschlag>SüdamerikanerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Vorarlbergern</Hauptwort>
+		<Vorschlag>Vorarlbergerinnen und Vorarlbergern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Westeuropäern</Hauptwort>
+		<Vorschlag>Westeuropäerinnen und Westeuropäern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Wettbewerbern</Hauptwort>
+		<Vorschlag>Wettbewerberinnen und Wettbewerbern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>13</Laenge>
+		<Hauptwort>Zugbegleitern</Hauptwort>
+		<Vorschlag>Zugbegleiterinnen und Zugbegleitern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Alkoholikern</Hauptwort>
+		<Vorschlag>Alkoholsuchtkranken</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Altenpfleger</Hauptwort>
+		<Vorschlag>Altenpflegerinnen und Altenpfleger</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Altenpfleger</Hauptwort>
+		<Vorschlag>AltenpflegerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Altenpfleger</Hauptwort>
+		<Vorschlag>Pflegepersonal</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Aristokraten</Hauptwort>
+		<Vorschlag>Aristokratinnen und Aristokraten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Asylbewerber</Hauptwort>
+		<Vorschlag>Asylbewerberinnen und Asylbewerber</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Asylbewerber</Hauptwort>
+		<Vorschlag>AsylbewerberInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Bademeistern</Hauptwort>
+		<Vorschlag>Bademeisterinnen und Bademeistern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Bauarbeitern</Hauptwort>
+		<Vorschlag>Bauarbeiterinnen und Bauarbeitern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Börsenmakler</Hauptwort>
+		<Vorschlag>BörsenmaklerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Börsenmakler</Hauptwort>
+		<Vorschlag>Börsenmaklerinnen und Börsenmakler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Burgenländer</Hauptwort>
+		<Vorschlag>Burgenländerinnen und Burgenländer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Burgenländer</Hauptwort>
+		<Vorschlag>BurgenländerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Eisenstädter</Hauptwort>
+		<Vorschlag>Eisenstädterinnen und Eisenstädter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Eisenstädter</Hauptwort>
+		<Vorschlag>EisenstädterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Fleischhauer</Hauptwort>
+		<Vorschlag>Fleischhauerinnen und Fleischhauer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Fleischhauer</Hauptwort>
+		<Vorschlag>FleischhauerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Fliesenleger</Hauptwort>
+		<Vorschlag>Fliesenlegerinnen und Fliesenleger</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Fliesenleger</Hauptwort>
+		<Vorschlag>FliesenlegerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Fr. Amtswart</Hauptwort>
+		<Vorschlag>Fr. Amtswartin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Fr. Direktor</Hauptwort>
+		<Vorschlag>Fr. Direktorin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Fr. GenProk.</Hauptwort>
+		<Vorschlag>Fr.GenProk.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Fr. Magister</Hauptwort>
+		<Vorschlag>Fr. Magistra</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Fr. Offizial</Hauptwort>
+		<Vorschlag>Fr. Offizialin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Fr. Revident</Hauptwort>
+		<Vorschlag>Fr. Revidentin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Fr. SektChef</Hauptwort>
+		<Vorschlag>Fr. SektChef.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Frau Amtsrat</Hauptwort>
+		<Vorschlag>Frau Amtsrätin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Frau Oberrat</Hauptwort>
+		<Vorschlag>Frau Oberrätin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Frau OKontr.</Hauptwort>
+		<Vorschlag>Frau OKontr.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Frau Ooffzl.</Hauptwort>
+		<Vorschlag>Frau Ooffzl.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Funktionären</Hauptwort>
+		<Vorschlag>Funktionärinnen und Funktionären</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Genforschern</Hauptwort>
+		<Vorschlag>Genforscherinnen und Genforschern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Gymnasiasten</Hauptwort>
+		<Vorschlag>Gymnasiastinnen und Gymnasiasten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Hausmeistern</Hauptwort>
+		<Vorschlag>Hausmeisterinnen und Hausmeistern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Informatiker</Hauptwort>
+		<Vorschlag>InformatikerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Informatiker</Hauptwort>
+		<Vorschlag>Informatikerinnen und Informatiker</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Journalisten</Hauptwort>
+		<Vorschlag>Journalistinnen und Journalisten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Klagenfurter</Hauptwort>
+		<Vorschlag>Klagenfurterinnen und Klagenfurter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Klagenfurter</Hauptwort>
+		<Vorschlag>KlagenfurterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Kraftfahrern</Hauptwort>
+		<Vorschlag>Kraftfahrerinnen und Kraftfahrern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Ladeninhaber</Hauptwort>
+		<Vorschlag>Ladeninhaberinnen und Ladeninhaber</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Ladeninhaber</Hauptwort>
+		<Vorschlag>LadeninhaberInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Mannschaften</Hauptwort>
+		<Vorschlag>Teams</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Mannschaften</Hauptwort>
+		<Vorschlag>Gruppen</Vorschlag>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Maschinisten</Hauptwort>
+		<Vorschlag>Maschinistinnen und Maschinisten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Mathematiker</Hauptwort>
+		<Vorschlag>MathematikerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Mathematiker</Hauptwort>
+		<Vorschlag>Mathematikerinnen und Mathematiker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Mitarbeitern</Hauptwort>
+		<Vorschlag>Mitarbeiterinnen und Mitarbeitern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Mitbewohnern</Hauptwort>
+		<Vorschlag>Mitbewohnerinnen und Mitbewohnern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Nordeuropäer</Hauptwort>
+		<Vorschlag>NordeuropäerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Nordeuropäer</Hauptwort>
+		<Vorschlag>Nordeuropäerinnen und Nordeuropäer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Österreicher</Hauptwort>
+		<Vorschlag>Österreicherinnen und Österreicher</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Österreicher</Hauptwort>
+		<Vorschlag>ÖsterreicherInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Osteuropäern</Hauptwort>
+		<Vorschlag>Osteuropäerinnen und Osteuropäern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Pharmazeuten</Hauptwort>
+		<Vorschlag>Pharmazeutinnen und Pharmazeuten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Praktikanten</Hauptwort>
+		<Vorschlag>Praktikantinnen und Praktikanten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Schauspieler</Hauptwort>
+		<Vorschlag>SchauspielerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Schauspieler</Hauptwort>
+		<Vorschlag>Schauspielerinnen und Schauspieler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Schuhmachern</Hauptwort>
+		<Vorschlag>Schuhmacherinnen und Schuhmachern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Spezialisten</Hauptwort>
+		<Vorschlag>Spezialistinnen und Spezialisten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Staatsbürger</Hauptwort>
+		<Vorschlag>StaatsbürgerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Staatsbürger</Hauptwort>
+		<Vorschlag>Staatsbürgerinnen und Staatsbürger</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Südeuropäern</Hauptwort>
+		<Vorschlag>Südeuropäerinnen und Südeuropäern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Telefonisten</Hauptwort>
+		<Vorschlag>Telefonistinnen und Telefonisten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Tierpflegern</Hauptwort>
+		<Vorschlag>Tierpflegerinnen und Tierpflegern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Unternehmern</Hauptwort>
+		<Vorschlag>Unternehmerinnen und Unternehmern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Vorarlberger</Hauptwort>
+		<Vorschlag>Vorarlbergerinnen und Vorarlberger</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Vorarlberger</Hauptwort>
+		<Vorschlag>VorarlbergerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Westeuropäer</Hauptwort>
+		<Vorschlag>Westeuropäerinnen und Westeuropäer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Westeuropäer</Hauptwort>
+		<Vorschlag>WesteuropäerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Wettbewerber</Hauptwort>
+		<Vorschlag>Wettbewerberinnen und Wettbewerber</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Wettbewerber</Hauptwort>
+		<Vorschlag>WettbewerberInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Zimmermänner</Hauptwort>
+		<Vorschlag>Zimmerleute</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Zugbegleiter</Hauptwort>
+		<Vorschlag>Zugbegleiterinnen und Zugbegleiter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>12</Laenge>
+		<Hauptwort>Zugbegleiter</Hauptwort>
+		<Vorschlag>ZugbegleiterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Absolventen</Hauptwort>
+		<Vorschlag>Absolventinnen und Absolventen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>AHS-Lehrern</Hauptwort>
+		<Vorschlag>AHS-Lehrkörper</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>AHS-Lehrern</Hauptwort>
+		<Vorschlag>AHS-Lehrerinnen und AHS-Lehrern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Alkoholiker</Hauptwort>
+		<Vorschlag>Alkoholsuchtkranken</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Amerikanern</Hauptwort>
+		<Vorschlag>Amerikanerinnen und Amerikanern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Amtsleitern</Hauptwort>
+		<Vorschlag>Amtsleiterinnen und Amtsleitern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Analytikern</Hauptwort>
+		<Vorschlag>Analytikerinnen und Analytikern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Architekten</Hauptwort>
+		<Vorschlag>Architektinnen und Architekten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Arzthelfern</Hauptwort>
+		<Vorschlag>Arzthelferinnen und Arzthelfern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Assistenten</Hauptwort>
+		<Vorschlag>Assistentinnen und Assistenten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Augenzeugen</Hauptwort>
+		<Vorschlag>Augenzeuginnen und Augenzeugen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Ausstellern</Hauptwort>
+		<Vorschlag>Ausstellerinnen und Ausstellern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Autofahrern</Hauptwort>
+		<Vorschlag>Autofahrerinnen und Autofahrern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Bademeister</Hauptwort>
+		<Vorschlag>Bademeisterinnen und Bademeister</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Bademeister</Hauptwort>
+		<Vorschlag>BademeisterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Bauarbeiter</Hauptwort>
+		<Vorschlag>BauarbeiterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Bauarbeiter</Hauptwort>
+		<Vorschlag>Bauarbeiterinnen und Bauarbeiter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Bierbrauern</Hauptwort>
+		<Vorschlag>Bierbrauerinnen und Bierbrauern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Buchhaltern</Hauptwort>
+		<Vorschlag>Buchhalterinnen und Buchhaltern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Controllern</Hauptwort>
+		<Vorschlag>Controllerinnen und Controllern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Dachdeckern</Hauptwort>
+		<Vorschlag>Dachdeckerinnen und Dachdeckern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Delegierten</Hauptwort>
+		<Vorschlag>Delegiertinnen und Delegierte</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Einrichtern</Hauptwort>
+		<Vorschlag>Einrichterinnen und Einrichtern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Elektrikern</Hauptwort>
+		<Vorschlag>Elektrikerinnen und Elektrikern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Fr. Amtsrat</Hauptwort>
+		<Vorschlag>Fr. Amtsrätin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Fr. Oberrat</Hauptwort>
+		<Vorschlag>Fr. Oberrätin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Fr. OKontr.</Hauptwort>
+		<Vorschlag>Fr.OKontr.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Fr. Ooffzl.</Hauptwort>
+		<Vorschlag>Fr. Ooffzl.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Frau ASekr.</Hauptwort>
+		<Vorschlag>Frau ASekr.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Frau Doktor</Hauptwort>
+		<Vorschlag>Frau Doktorin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Frau Hofrat</Hauptwort>
+		<Vorschlag>Frau Hofrätin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Frau Offzl.</Hauptwort>
+		<Vorschlag>Frau Offzl.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Frau OKmsr.</Hauptwort>
+		<Vorschlag>Frau OKmsr.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Freigängern</Hauptwort>
+		<Vorschlag>Freigängerinnen und Freigängern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Funktionäre</Hauptwort>
+		<Vorschlag>Funktionärinnen und Funktionäre</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Genforscher</Hauptwort>
+		<Vorschlag>GenforscherInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Genforscher</Hauptwort>
+		<Vorschlag>Genforscherinnen und Genforscher</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Glasbläsern</Hauptwort>
+		<Vorschlag>Glasbläserinnen und Glasbläsern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Hausmeister</Hauptwort>
+		<Vorschlag>Hausmeisterinnen und Hausmeister</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Hausmeister</Hauptwort>
+		<Vorschlag>HausmeisterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>HTL-Lehrern</Hauptwort>
+		<Vorschlag>HTL-Lehrerinnen und HTL-Lehrern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>HTL-Lehrern</Hauptwort>
+		<Vorschlag>HTL-Lehrkörper</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Ingenieuren</Hauptwort>
+		<Vorschlag>Ingenieurinnen und Ingenieure</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Innsbrucker</Hauptwort>
+		<Vorschlag>Innsbruckerinnen und Innsbrucker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Innsbrucker</Hauptwort>
+		<Vorschlag>InnsbruckerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Kaufmännern</Hauptwort>
+		<Vorschlag>Kauffrauen und Kaufmännern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Kommissaren</Hauptwort>
+		<Vorschlag>Kommissarinnen und Kommissaren</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Komponisten</Hauptwort>
+		<Vorschlag>Komponistinnen und Komponisten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Konsumenten</Hauptwort>
+		<Vorschlag>Konsumentinnen und Konsumenten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Kosmetikern</Hauptwort>
+		<Vorschlag>Kosmetikerinnen und Kosmetikern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Kraftfahrer</Hauptwort>
+		<Vorschlag>Kraftfahrerinnen und Kraftfahrer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Kraftfahrer</Hauptwort>
+		<Vorschlag>KraftfahrerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Logistikern</Hauptwort>
+		<Vorschlag>Logistikerinnen und Logistikern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Mechanikern</Hauptwort>
+		<Vorschlag>Mechanikerinnen und Mechanikern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Mitarbeiter</Hauptwort>
+		<Vorschlag>Mitarbeiterinnen und Mitarbeiter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Mitarbeiter</Hauptwort>
+		<Vorschlag>MitarbeiterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Mitbewohner</Hauptwort>
+		<Vorschlag>MitbewohnerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Mitbewohner</Hauptwort>
+		<Vorschlag>Mitbewohnerinnen und Mitbewohner</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Moderatoren</Hauptwort>
+		<Vorschlag>Moderatorinnen und Moderatoren</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Ofensetzern</Hauptwort>
+		<Vorschlag>Ofensetzerinnen und Ofensetzern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Osteuropäer</Hauptwort>
+		<Vorschlag>Osteuropäerinnen und Osteuropäer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Osteuropäer</Hauptwort>
+		<Vorschlag>OsteuropäerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Osttirolern</Hauptwort>
+		<Vorschlag>Osttirolerinnen und Osttirolern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Professoren</Hauptwort>
+		<Vorschlag>Professorinnen und Professoren</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Redakteuren</Hauptwort>
+		<Vorschlag>Redakteurinnen und Redakteuren</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Salzburgern</Hauptwort>
+		<Vorschlag>Salzburgerinnen und Salzburgern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Schuhmacher</Hauptwort>
+		<Vorschlag>SchuhmacherInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Schuhmacher</Hauptwort>
+		<Vorschlag>Schuhmacherinnen und Schuhmacher</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Steinmetzen</Hauptwort>
+		<Vorschlag>Steinmetzinnen und Steinmetzen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Südeuropäer</Hauptwort>
+		<Vorschlag>SüdeuropäerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Südeuropäer</Hauptwort>
+		<Vorschlag>Südeuropäerinnen und Südeuropäer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Südtirolern</Hauptwort>
+		<Vorschlag>Südtirolerinnen und Südtirolern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Taxifahrern</Hauptwort>
+		<Vorschlag>Taxifahrerinnen und Taxifahrern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Technologen</Hauptwort>
+		<Vorschlag>Technologinnen und Technologen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Teilnehmern</Hauptwort>
+		<Vorschlag>Teilnehmerinnen und Teilnehmern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Therapeuten</Hauptwort>
+		<Vorschlag>Therapeutinnen und Therapeuten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Tierpfleger</Hauptwort>
+		<Vorschlag>Tierpflegerinnen und Tierpfleger</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Tierpfleger</Hauptwort>
+		<Vorschlag>TierpflegerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Unternehmer</Hauptwort>
+		<Vorschlag>Unternehmerinnen und Unternehmer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>11</Laenge>
+		<Hauptwort>Unternehmer</Hauptwort>
+		<Vorschlag>UnternehmerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Abonnenten</Hauptwort>
+		<Vorschlag>Abonnentinnen und Abonnenten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>AHS-Lehrer</Hauptwort>
+		<Vorschlag>AHS-Lehrkörper</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>AHS-Lehrer</Hauptwort>
+		<Vorschlag>AHS-LehrerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>AHS-Lehrer</Hauptwort>
+		<Vorschlag>AHS-Lehrerinnen und AHS-Lehrer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Amerikaner</Hauptwort>
+		<Vorschlag>AmerikanerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Amerikaner</Hauptwort>
+		<Vorschlag>Amerikanerinnen und Amerikaner</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Amtsleiter</Hauptwort>
+		<Vorschlag>Amtsleiterinnen und Amtsleiter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Amtsleiter</Hauptwort>
+		<Vorschlag>AmtsleiterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Analytiker</Hauptwort>
+		<Vorschlag>Analytikerinnen und Analytiker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Analytiker</Hauptwort>
+		<Vorschlag>AnalytikerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Apothekern</Hauptwort>
+		<Vorschlag>Apothekerinnen und Apothekern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Archivaren</Hauptwort>
+		<Vorschlag>Archivarinnen und Archivaren</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Arzthelfer</Hauptwort>
+		<Vorschlag>ArzthelferInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Arzthelfer</Hauptwort>
+		<Vorschlag>Arzthelferinnen und Arzthelfer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Astrologen</Hauptwort>
+		<Vorschlag>Astrologinnen und Astrologen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Astronomen</Hauptwort>
+		<Vorschlag>Astronominnen und Astronomen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Ausländern</Hauptwort>
+		<Vorschlag>Immigranten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Ausländern</Hauptwort>
+		<Vorschlag>Ausländerinnen und Ausländern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Aussteller</Hauptwort>
+		<Vorschlag>Ausstellerinnen und Aussteller</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Aussteller</Hauptwort>
+		<Vorschlag>AusstellerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Autofahrer</Hauptwort>
+		<Vorschlag>AutofahrerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Autofahrer</Hauptwort>
+		<Vorschlag>Autofahrerinnen und Autofahrer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Bauwerbern</Hauptwort>
+		<Vorschlag>Bauwerberinnen und Bauwerbern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Begleitern</Hauptwort>
+		<Vorschlag>Begleiterinnen und Begleitern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Beifahrern</Hauptwort>
+		<Vorschlag>Beifahrerinnen und Beifahrern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Bierbrauer</Hauptwort>
+		<Vorschlag>Bierbrauerinnen und Bierbrauer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Bierbrauer</Hauptwort>
+		<Vorschlag>BierbrauerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Bildhauern</Hauptwort>
+		<Vorschlag>Bildhauerinnen und Bildhauern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Bregenzern</Hauptwort>
+		<Vorschlag>Bregenzerinnen und Bregenzern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Buchhalter</Hauptwort>
+		<Vorschlag>Buchhalterinnen und Buchhalter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Controller</Hauptwort>
+		<Vorschlag>ControllerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Controller</Hauptwort>
+		<Vorschlag>Controllerinnen und Controller</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Dachdecker</Hauptwort>
+		<Vorschlag>Dachdeckerinnen und Dachdecker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Dachdecker</Hauptwort>
+		<Vorschlag>DachdeckerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Dirigenten</Hauptwort>
+		<Vorschlag>Dirigentinnen und Dirigenten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Drechslern</Hauptwort>
+		<Vorschlag>Drechslerinnen und Drechslern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Einrichter</Hauptwort>
+		<Vorschlag>Einrichterinnen und Einrichter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Einrichter</Hauptwort>
+		<Vorschlag>EinrichterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Einwohnern</Hauptwort>
+		<Vorschlag>Einwohnerinnen und Einwohnern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Eisläufern</Hauptwort>
+		<Vorschlag>Eisläuferinnen und Eisläufern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Elektriker</Hauptwort>
+		<Vorschlag>Elektrikerinnen und Elektriker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Elektriker</Hauptwort>
+		<Vorschlag>ElektrikerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Fleischern</Hauptwort>
+		<Vorschlag>Fleischerinnen und Fleischern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Fluglotsen</Hauptwort>
+		<Vorschlag>Fluglotsinnen und Fluglotsen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Fr. ASekr.</Hauptwort>
+		<Vorschlag>Fr. ASekr.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Fr. Doktor</Hauptwort>
+		<Vorschlag>Fr. Doktorin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Fr. Hofrat</Hauptwort>
+		<Vorschlag>Fr. Hofrätin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Fr. Kontr.</Hauptwort>
+		<Vorschlag>Fr. Kontr.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Fr. Offzl.</Hauptwort>
+		<Vorschlag>Fr. Offzl.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Fr. OKmsr.</Hauptwort>
+		<Vorschlag>Fr. OKmsr.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Frau ADir.</Hauptwort>
+		<Vorschlag>Frau ADir.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Frau Kmsr.</Hauptwort>
+		<Vorschlag>Frau Kmsr.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Frau ORev.</Hauptwort>
+		<Vorschlag>Fr. ORev.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Freigänger</Hauptwort>
+		<Vorschlag>FreigängerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Freigänger</Hauptwort>
+		<Vorschlag>Freigängerinnen und Freigänger</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Glasbläser</Hauptwort>
+		<Vorschlag>Glasbläserinnen und Glasbläser</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Glasbläser</Hauptwort>
+		<Vorschlag>GlasbläserInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Hausfrauen</Hauptwort>
+		<Vorschlag>Hausfrauen und Hausmänner</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>HTL-Lehrer</Hauptwort>
+		<Vorschlag>HTL-Lehrerinnen und HTL-Lehrer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>HTL-Lehrer</Hauptwort>
+		<Vorschlag>HTL-LehrerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>HTL-Lehrer</Hauptwort>
+		<Vorschlag>HTL-Lehrkörper</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Ingenieure</Hauptwort>
+		<Vorschlag>Ingenieurinnen und Ingenieure</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Kassierern</Hauptwort>
+		<Vorschlag>Kassiererinnen und Kassierern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Katholiken</Hauptwort>
+		<Vorschlag>Katholikinnen und Katholiken</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Kaufmänner</Hauptwort>
+		<Vorschlag>Kauffrauen und Kaufmänner</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Kommissare</Hauptwort>
+		<Vorschlag>Kommissarinnen und Kommissare</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Korbmacher</Hauptwort>
+		<Vorschlag>KorbmacherInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Korbmacher</Hauptwort>
+		<Vorschlag>Korbmacherinnen und Korbmacher</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Kosmetiker</Hauptwort>
+		<Vorschlag>Kosmetikerinnen und Kosmetiker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Kürschnern</Hauptwort>
+		<Vorschlag>Kürschnerinnen und Kürschnern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Laboranten</Hauptwort>
+		<Vorschlag>Laborantinnen und Laboranten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Logistiker</Hauptwort>
+		<Vorschlag>LogistikerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Logistiker</Hauptwort>
+		<Vorschlag>Logistikerinnen und Logistiker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Lokführern</Hauptwort>
+		<Vorschlag>Lokführerinnen und Lokführern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Mannmonate</Hauptwort>
+		<Vorschlag>Personenmonate</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Mannschaft</Hauptwort>
+		<Vorschlag>Belegschaft</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Maturanten</Hauptwort>
+		<Vorschlag>Maturantinnen und Maturanten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Mechaniker</Hauptwort>
+		<Vorschlag>MechanikerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Mechaniker</Hauptwort>
+		<Vorschlag>Mechanikerinnen und Mechaniker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Medizinern</Hauptwort>
+		<Vorschlag>Medizinerinnen und Medizinern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Mitbürgern</Hauptwort>
+		<Vorschlag>Mitbürgerinnen und Mitbürgern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Ofensetzer</Hauptwort>
+		<Vorschlag>Ofensetzerinnen und Ofensetzer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Ofensetzer</Hauptwort>
+		<Vorschlag>OfensetzerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Orthopäden</Hauptwort>
+		<Vorschlag>Orthopädinnen und Orthopäden</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Osttiroler</Hauptwort>
+		<Vorschlag>OsttirolerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Osttiroler</Hauptwort>
+		<Vorschlag>Osttirolerinnen und Osttiroler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Politikern</Hauptwort>
+		<Vorschlag>Politikerinnen und Politikern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Polizisten</Hauptwort>
+		<Vorschlag>Polizistinnen und Polizisten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Radfahrern</Hauptwort>
+		<Vorschlag>Radfahrerinnen und Radfahrern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Redakteure</Hauptwort>
+		<Vorschlag>Redakteurinnen und Redakteure</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Referenten</Hauptwort>
+		<Vorschlag>Referentinnen und Referenten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Salzburger</Hauptwort>
+		<Vorschlag>Salzburgerinnen und Salzburger</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Salzburger</Hauptwort>
+		<Vorschlag>SalzburgerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Sanitätern</Hauptwort>
+		<Vorschlag>Sanitäterinnen und Sanitätern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Satirikern</Hauptwort>
+		<Vorschlag>Satirikerinnen und Satirikern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Schaffnern</Hauptwort>
+		<Vorschlag>Schaffnerinnen und Schaffnern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Schlossern</Hauptwort>
+		<Vorschlag>Schlosserinnen und Schlossern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Schneidern</Hauptwort>
+		<Vorschlag>Schneiderinnen und Schneidern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Schreibern</Hauptwort>
+		<Vorschlag>Schreiberinnen und Schreibern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Sekretären</Hauptwort>
+		<Vorschlag>Sekretärinnen und Sekretären</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Soziologen</Hauptwort>
+		<Vorschlag>Soziologinnen und Soziologen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Steinmetze</Hauptwort>
+		<Vorschlag>Steinmetzinnen und Steinmetze</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Südtiroler</Hauptwort>
+		<Vorschlag>Südtirolerinnen und Südtiroler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Südtiroler</Hauptwort>
+		<Vorschlag>SüdtirolerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Taxifahrer</Hauptwort>
+		<Vorschlag>Taxifahrerinnen und Taxifahrer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Taxifahrer</Hauptwort>
+		<Vorschlag>TaxifahrerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Teilnehmer</Hauptwort>
+		<Vorschlag>TeilnehmerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Teilnehmer</Hauptwort>
+		<Vorschlag>Teilnehmerinnen und Teilnehmer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Tierärzten</Hauptwort>
+		<Vorschlag>Tierärztinnen und Tierärzten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Uhrmachern</Hauptwort>
+		<Vorschlag>Uhrmacherinnen und Uhrmachern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Verkäufern</Hauptwort>
+		<Vorschlag>Verkäuferinnen und Verkäufern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Verkäufern</Hauptwort>
+		<Vorschlag>Verkaufspersonal</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Vertretern</Hauptwort>
+		<Vorschlag>Vertreterinnen und Vertretern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Verwaltern</Hauptwort>
+		<Vorschlag>Verwalterinnen und Verwaltern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>10</Laenge>
+		<Hauptwort>Zuschauern</Hauptwort>
+		<Vorschlag>Zuschauerinnen und Zuschauern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Abnehmern</Hauptwort>
+		<Vorschlag>Abnehmerinnen und Abnehmern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Anhängern</Hauptwort>
+		<Vorschlag>Anhängerinnen und Anhängern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Anwärtern</Hauptwort>
+		<Vorschlag>Anwärterinnen und Anwärtern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Anwendern</Hauptwort>
+		<Vorschlag>Anwenderinnen und Anwendern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Anwerbern</Hauptwort>
+		<Vorschlag>Anwerberinnen und Anwerbern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Apotheker</Hauptwort>
+		<Vorschlag>ApothekerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Apotheker</Hauptwort>
+		<Vorschlag>Apothekerinnen und Apotheker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Arbeitern</Hauptwort>
+		<Vorschlag>Arbeiterinnen und Arbeitern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Archivare</Hauptwort>
+		<Vorschlag>Archivarinnen und Archivare</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Ausländer</Hauptwort>
+		<Vorschlag>Ausländerinnen und Ausländer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Ausländer</Hauptwort>
+		<Vorschlag>AusländerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Bauwerber</Hauptwort>
+		<Vorschlag>Bauwerberinnen und Bauwerber</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Bauwerber</Hauptwort>
+		<Vorschlag>BauwerberInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Begleiter</Hauptwort>
+		<Vorschlag>BegleiterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Begleiter</Hauptwort>
+		<Vorschlag>Begleiterinnen und Begleiter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Beifahrer</Hauptwort>
+		<Vorschlag>BeifahrerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Beifahrer</Hauptwort>
+		<Vorschlag>Beifahrerinnen und Beifahrer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Benutzern</Hauptwort>
+		<Vorschlag>Benutzerinnen und Benutzern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Besuchern</Hauptwort>
+		<Vorschlag>Besucherinnen und Besuchern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Betreuern</Hauptwort>
+		<Vorschlag>Betreuerinnen und Betreuern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Bewerbern</Hauptwort>
+		<Vorschlag>Bewerberinnen und Bewerbern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Bewohnern</Hauptwort>
+		<Vorschlag>Bewohnerinnen und Bewohnern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Bildhauer</Hauptwort>
+		<Vorschlag>Bildhauerinnen und Bildhauer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Bildhauer</Hauptwort>
+		<Vorschlag>BildhauerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Bregenzer</Hauptwort>
+		<Vorschlag>Bregenzerinnen und Bregenzer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Bregenzer</Hauptwort>
+		<Vorschlag>BregenzerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Chemikern</Hauptwort>
+		<Vorschlag>Chemikerinnen und Chemikern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Chirurgen</Hauptwort>
+		<Vorschlag>Chirurginnen und Chirurgen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Dentisten</Hauptwort>
+		<Vorschlag>DentistenInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Dentisten</Hauptwort>
+		<Vorschlag>Dentistinnen und Dentisten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Drechsler</Hauptwort>
+		<Vorschlag>Drechslerinnen und Drechsler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Drechsler</Hauptwort>
+		<Vorschlag>DrechslerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Einwohner</Hauptwort>
+		<Vorschlag>Einwohnerinnen und Einwohner</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Einwohner</Hauptwort>
+		<Vorschlag>EinwohnerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Eisläufer</Hauptwort>
+		<Vorschlag>EisläuferInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Eisläufer</Hauptwort>
+		<Vorschlag>Eisläuferinnen und Eisläufer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Erziehern</Hauptwort>
+		<Vorschlag>Erzieherinnen und Erziehern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Europäern</Hauptwort>
+		<Vorschlag>Europäerinnen und Europäern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Fleischer</Hauptwort>
+		<Vorschlag>FleischerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Fleischer</Hauptwort>
+		<Vorschlag>Fleischerinnen und Fleischer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Forschern</Hauptwort>
+		<Vorschlag>Forscherinnen und Forschern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Fr. ADir.</Hauptwort>
+		<Vorschlag>Fr. ADir.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Fr. Kmsr.</Hauptwort>
+		<Vorschlag>Fr. Kmsr.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Fr. ORev.</Hauptwort>
+		<Vorschlag>Fr. ORev.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Frau Dir.</Hauptwort>
+		<Vorschlag>Frau Dir.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Frau GenA</Hauptwort>
+		<Vorschlag>Frau GenAⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Frau Mag.</Hauptwort>
+		<Vorschlag>Frau Mag.ᵊ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Frau MinR</Hauptwort>
+		<Vorschlag>Frau MinRⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Frau OStA</Hauptwort>
+		<Vorschlag>Frau OStAⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Frau Rev.</Hauptwort>
+		<Vorschlag>Fr. Rev.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Gewinnern</Hauptwort>
+		<Vorschlag>Gewinnerinnen und Gewinnern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Kärntnern</Hauptwort>
+		<Vorschlag>Kärntnerinnen und Kärntnern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Kassierer</Hauptwort>
+		<Vorschlag>Kassiererinnen und Kassierer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Kassierer</Hauptwort>
+		<Vorschlag>KassiererInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Künstlern</Hauptwort>
+		<Vorschlag>Künstlerinnen und Künstlern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Kürschner</Hauptwort>
+		<Vorschlag>KürschnerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Kürschner</Hauptwort>
+		<Vorschlag>Kürschnerinnen und Kürschner</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Lokführer</Hauptwort>
+		<Vorschlag>Lokführerinnen und Lokführer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Lokführer</Hauptwort>
+		<Vorschlag>LokführerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Masseuren</Hauptwort>
+		<Vorschlag>Masseurinnen und Masseuren</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Mediziner</Hauptwort>
+		<Vorschlag>MedizinerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Mediziner</Hauptwort>
+		<Vorschlag>Medizinerinnen und Mediziner</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Ministern</Hauptwort>
+		<Vorschlag>Ministerinnen und Ministern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Mitbürger</Hauptwort>
+		<Vorschlag>MitbürgerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Mitbürger</Hauptwort>
+		<Vorschlag>Mitbürgerinnen und Mitbürger</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Monteuren</Hauptwort>
+		<Vorschlag>Monteurinnen und Monteuren</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Pädagogen</Hauptwort>
+		<Vorschlag>Pädagoginnen und Pädagogen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Patienten</Hauptwort>
+		<Vorschlag>Patientinnen und Patienten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Physikern</Hauptwort>
+		<Vorschlag>Physikerinnen und Physikern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Physikern</Hauptwort>
+		<Vorschlag>PhysikerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Politiker</Hauptwort>
+		<Vorschlag>PolitikerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Politiker</Hauptwort>
+		<Vorschlag>Politikerinnen und Politiker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Radfahrer</Hauptwort>
+		<Vorschlag>RadfahrerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Radfahrer</Hauptwort>
+		<Vorschlag>Radfahrerinnen und Radfahrer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Sanitäter</Hauptwort>
+		<Vorschlag>Sanitäterinnen und Sanitäter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Sanitäter</Hauptwort>
+		<Vorschlag>SanitäterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Satiriker</Hauptwort>
+		<Vorschlag>Satirikerinnen und Satiriker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Satiriker</Hauptwort>
+		<Vorschlag>SatirikerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Schaffner</Hauptwort>
+		<Vorschlag>Schaffnerinnen und Schaffner</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Schaffner</Hauptwort>
+		<Vorschlag>SchaffnerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Schlosser</Hauptwort>
+		<Vorschlag>Schlosserinnen und Schlosser</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Schlosser</Hauptwort>
+		<Vorschlag>SchlosserInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Schneider</Hauptwort>
+		<Vorschlag>SchneiderInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Schneider</Hauptwort>
+		<Vorschlag>Schneiderinnen und Schneider</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Schreiber</Hauptwort>
+		<Vorschlag>Schreiberinnen und Schreiber</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Schreiber</Hauptwort>
+		<Vorschlag>SchreiberInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Schustern</Hauptwort>
+		<Vorschlag>Schusterinnen und Schustern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Schustern</Hauptwort>
+		<Vorschlag>SchusterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Sekretäre</Hauptwort>
+		<Vorschlag>Sekretärinnen und Sekretäre</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Spenglern</Hauptwort>
+		<Vorschlag>Spenglerinnen und Spenglern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Spenglern</Hauptwort>
+		<Vorschlag>SpenglerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Sportlern</Hauptwort>
+		<Vorschlag>SportlerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Sportlern</Hauptwort>
+		<Vorschlag>Sportlerinnen und Sportlern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Sprechern</Hauptwort>
+		<Vorschlag>Sprecherinnen und Sprechern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Sprechern</Hauptwort>
+		<Vorschlag>SprecherInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Statikern</Hauptwort>
+		<Vorschlag>Statikerinnen und Statikern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Steierern</Hauptwort>
+		<Vorschlag>Steiererinnen und Steierern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Studenten</Hauptwort>
+		<Vorschlag>Studentinnen und Studenten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Tierärzte</Hauptwort>
+		<Vorschlag>Tierärztinnen und Tierärzte</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Tischlern</Hauptwort>
+		<Vorschlag>Tischlerinnen und Tischlern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Uhrmacher</Hauptwort>
+		<Vorschlag>UhrmacherInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Uhrmacher</Hauptwort>
+		<Vorschlag>Uhrmacherinnen und Uhrmacher</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Verkäufer</Hauptwort>
+		<Vorschlag>Verkäuferinnen und Verkäufer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Verkäufer</Hauptwort>
+		<Vorschlag>VerkäuferInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Verkäufer</Hauptwort>
+		<Vorschlag>Verkaufspersonal</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Vertreter</Hauptwort>
+		<Vorschlag>Vertreterinnen und Vertreter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Vertreter</Hauptwort>
+		<Vorschlag>VertreterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Verwalter</Hauptwort>
+		<Vorschlag>Verwalterinnen und Verwalter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Verwalter</Hauptwort>
+		<Vorschlag>VerwalterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Zuschauer</Hauptwort>
+		<Vorschlag>Zuschauerinnen und Zuschauer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>9</Laenge>
+		<Hauptwort>Zuschauer</Hauptwort>
+		<Vorschlag>ZuschauerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Anhänger</Hauptwort>
+		<Vorschlag>Anhängerinnen und Anhänger</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Anhänger</Hauptwort>
+		<Vorschlag>AnhängerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Anlegern</Hauptwort>
+		<Vorschlag>Anlegerinnen und Anlegern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Anwälten</Hauptwort>
+		<Vorschlag>Anwältinnen und Anwälten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Anwärter</Hauptwort>
+		<Vorschlag>Anwärterinnen und Anwärter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Anwärter</Hauptwort>
+		<Vorschlag>AnwärterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Anwender</Hauptwort>
+		<Vorschlag>AnwenderInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Anwender</Hauptwort>
+		<Vorschlag>Anwenderinnen und Anwender</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Anwerber</Hauptwort>
+		<Vorschlag>Anwerberinnen und Anwerber</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Anwerber</Hauptwort>
+		<Vorschlag>AnwerberInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Arbeiter</Hauptwort>
+		<Vorschlag>Arbeiterinnen und Arbeiter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Arbeiter</Hauptwort>
+		<Vorschlag>ArbeiterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Athleten</Hauptwort>
+		<Vorschlag>AthletenInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Athleten</Hauptwort>
+		<Vorschlag>Athletinnen und Athleten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Athleten</Hauptwort>
+		<Vorschlag>Athleteninnen und Athleten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Benutzer</Hauptwort>
+		<Vorschlag>Benutzerinnen und Benutzer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Benutzer</Hauptwort>
+		<Vorschlag>BenutzerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Besucher</Hauptwort>
+		<Vorschlag>Besucherinnen und Besucher</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Besucher</Hauptwort>
+		<Vorschlag>BesucherInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Betreuer</Hauptwort>
+		<Vorschlag>Betreuerinnen und Betreuer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Betreuer</Hauptwort>
+		<Vorschlag>BetreuerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Bewerber</Hauptwort>
+		<Vorschlag>BewerberInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Bewerber</Hauptwort>
+		<Vorschlag>Bewerberinnen und Bewerber</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Bewohner</Hauptwort>
+		<Vorschlag>Bewohnerinnen und Bewohner</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Bewohner</Hauptwort>
+		<Vorschlag>BewohnerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Biologen</Hauptwort>
+		<Vorschlag>Biologinnen und Biologen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Chemiker</Hauptwort>
+		<Vorschlag>Chemikerinnen und Chemiker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Chemiker</Hauptwort>
+		<Vorschlag>ChemikerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Dozenten</Hauptwort>
+		<Vorschlag>Dozentinnen und Dozenten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Erzieher</Hauptwort>
+		<Vorschlag>Erzieherinnen und Erzieher</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Erzieher</Hauptwort>
+		<Vorschlag>ErzieherInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Europäer</Hauptwort>
+		<Vorschlag>EuropäerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Europäer</Hauptwort>
+		<Vorschlag>Europäerinnen und Europäer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Fischern</Hauptwort>
+		<Vorschlag>Fischerinnen und Fischern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Forscher</Hauptwort>
+		<Vorschlag>Forscherinnen und Forscher</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Forscher</Hauptwort>
+		<Vorschlag>ForscherInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Förstern</Hauptwort>
+		<Vorschlag>Försterinnen und Förstern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Fr. Dir.</Hauptwort>
+		<Vorschlag>Fr. Dir.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Fr. GenA</Hauptwort>
+		<Vorschlag>Fr. GenAⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Fr. Mag.</Hauptwort>
+		<Vorschlag>Fr. Mag.ᵊ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Fr. MinR</Hauptwort>
+		<Vorschlag>Fr. MinRⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Fr. OStA</Hauptwort>
+		<Vorschlag>Fr. OStAⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Fr. Rev.</Hauptwort>
+		<Vorschlag>Fr. Rev.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Frau Dr.</Hauptwort>
+		<Vorschlag>Frau DR.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Frau FOI</Hauptwort>
+		<Vorschlag>Frau FOIⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Frau OAW</Hauptwort>
+		<Vorschlag>Frau OAWⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Frau OMR</Hauptwort>
+		<Vorschlag>Frau OMRⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Frau Rat</Hauptwort>
+		<Vorschlag>Frau Rätin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Frau StA</Hauptwort>
+		<Vorschlag>Frau StAⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Frisören</Hauptwort>
+		<Vorschlag>Frisörinnen und Frisören</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Gärtnern</Hauptwort>
+		<Vorschlag>Gärtnerinnen und Gärtnern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Genossen</Hauptwort>
+		<Vorschlag>Genossinnen und Genossen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Gewinner</Hauptwort>
+		<Vorschlag>GewinnerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Gewinner</Hauptwort>
+		<Vorschlag>Gewinnerinnen und Gewinner</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Juristen</Hauptwort>
+		<Vorschlag>Juristinnen und Juristen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Kärntner</Hauptwort>
+		<Vorschlag>Kärntnerinnen und Kärntner</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Kärntner</Hauptwort>
+		<Vorschlag>KärntnerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Kellnern</Hauptwort>
+		<Vorschlag>Kellnerinnen und Kellnern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Kollegen</Hauptwort>
+		<Vorschlag>Kolleginnen und Kollegen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Konditor</Hauptwort>
+		<Vorschlag>Konditorinnen und Konditor</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Künstler</Hauptwort>
+		<Vorschlag>Künstlerinnen und Künstler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Künstler</Hauptwort>
+		<Vorschlag>KünstlerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Lektoren</Hauptwort>
+		<Vorschlag>Lektorinnen und Lektoren</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Managern</Hauptwort>
+		<Vorschlag>Managerinnen und Managern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Managern</Hauptwort>
+		<Vorschlag>Führungskräften</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Manntage</Hauptwort>
+		<Vorschlag>Personentage</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Masseure</Hauptwort>
+		<Vorschlag>Masseurinnen und Masseure</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Minister</Hauptwort>
+		<Vorschlag>Ministerinnen und Minister</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Minister</Hauptwort>
+		<Vorschlag>MinisterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Monteure</Hauptwort>
+		<Vorschlag>Monteurinnen und Monteure</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Musikern</Hauptwort>
+		<Vorschlag>Musikerinnen und Musikern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Nachbarn</Hauptwort>
+		<Vorschlag>Nachbarinnen und Nachbarn</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Physiker</Hauptwort>
+		<Vorschlag>PhysikerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Physiker</Hauptwort>
+		<Vorschlag>Physikerinnen und Physiker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Rauchern</Hauptwort>
+		<Vorschlag>Raucherinnen und Rauchern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Richtern</Hauptwort>
+		<Vorschlag>Richterinnen und Richtern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Sattlern</Hauptwort>
+		<Vorschlag>Sattlerinnen und Sattlern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Schülern</Hauptwort>
+		<Vorschlag>Schülerinnen und Schülern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Schuster</Hauptwort>
+		<Vorschlag>SchusterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Schuster</Hauptwort>
+		<Vorschlag>Schusterinnen und Schuster</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Siedlern</Hauptwort>
+		<Vorschlag>Siedlerinnen und Siedlern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Soldaten</Hauptwort>
+		<Vorschlag>Soldatinnen und Soldaten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Spengler</Hauptwort>
+		<Vorschlag>SpenglerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Spengler</Hauptwort>
+		<Vorschlag>Spenglerinnen und Spengler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Spielern</Hauptwort>
+		<Vorschlag>Spielerinnen und Spielern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Sportler</Hauptwort>
+		<Vorschlag>Sportlerinnen und Sportler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Sportler</Hauptwort>
+		<Vorschlag>SportlerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Sprecher</Hauptwort>
+		<Vorschlag>Sprecherinnen und Sprecher</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Sprecher</Hauptwort>
+		<Vorschlag>SprecherInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Statiker</Hauptwort>
+		<Vorschlag>Statikerinnen und Statiker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Statiker</Hauptwort>
+		<Vorschlag>StatikerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Tirolern</Hauptwort>
+		<Vorschlag>Tirolerinnen und Tirolern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Tirolern</Hauptwort>
+		<Vorschlag>TirolerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Tischler</Hauptwort>
+		<Vorschlag>TischlerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Tischler</Hauptwort>
+		<Vorschlag>Tischlerinnen und Tischler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Urologen</Hauptwort>
+		<Vorschlag>Urologinnen und Urologen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Züchtern</Hauptwort>
+		<Vorschlag>Züchterinnen und Züchtern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>8</Laenge>
+		<Hauptwort>Zuhörern</Hauptwort>
+		<Vorschlag>Zuhörerinnen und Zuhörern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Agenten</Hauptwort>
+		<Vorschlag>Agentinnen und Agenten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Anleger</Hauptwort>
+		<Vorschlag>AnlegerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Anleger</Hauptwort>
+		<Vorschlag>Anlegerinnen und Anleger</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Anwälte</Hauptwort>
+		<Vorschlag>Anwältinnen und Anwälte</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Asiaten</Hauptwort>
+		<Vorschlag>Asiatinnen und Asiaten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Autoren</Hauptwort>
+		<Vorschlag>Autorinnen und Autoren</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Bäckern</Hauptwort>
+		<Vorschlag>Bäckerinnen und Bäckern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Beamten</Hauptwort>
+		<Vorschlag>Beamtinnen und Beamten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Brauern</Hauptwort>
+		<Vorschlag>Brauerinnen und Brauern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Bürgern</Hauptwort>
+		<Vorschlag>Bürgerinnen und Bürgern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Drehern</Hauptwort>
+		<Vorschlag>Dreherinnen und Drehern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Fahrern</Hauptwort>
+		<Vorschlag>Fahrerinnen und Fahrern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Fiakern</Hauptwort>
+		<Vorschlag>Fiakerinnen und Fiakern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Fischer</Hauptwort>
+		<Vorschlag>Fischerinnen und Fischer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Fischer</Hauptwort>
+		<Vorschlag>FischerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Förster</Hauptwort>
+		<Vorschlag>Försterinnen und Förster</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Förster</Hauptwort>
+		<Vorschlag>FörsterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Fr. Dr.</Hauptwort>
+		<Vorschlag>Fr. Dr.ⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Fr. FOI</Hauptwort>
+		<Vorschlag>Fr. FOIⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Fr. OAW</Hauptwort>
+		<Vorschlag>Fr. OAWⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Fr. OMR</Hauptwort>
+		<Vorschlag>Fr. OMRⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Fr. Rat</Hauptwort>
+		<Vorschlag>Fr. Rätin</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Fr. StA</Hauptwort>
+		<Vorschlag>Fr. StAⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Frau AR</Hauptwort>
+		<Vorschlag>Frau ARⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Frau AW</Hauptwort>
+		<Vorschlag>Frau AWⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Frau DI</Hauptwort>
+		<Vorschlag>Frau DIⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Frau FI</Hauptwort>
+		<Vorschlag>Frau FIⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Frau GR</Hauptwort>
+		<Vorschlag>Frau GRⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Frau HR</Hauptwort>
+		<Vorschlag>Frau HRⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Frau OR</Hauptwort>
+		<Vorschlag>Frau ORⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Frisöre</Hauptwort>
+		<Vorschlag>Frisörinnen und Frisöre</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Führern</Hauptwort>
+		<Vorschlag>Führerinnen und Führern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Gärtner</Hauptwort>
+		<Vorschlag>GärtnerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Gärtner</Hauptwort>
+		<Vorschlag>Gärtnerinnen und Gärtner</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Gerbern</Hauptwort>
+		<Vorschlag>Gerberinnen und Gerbern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Gießern</Hauptwort>
+		<Vorschlag>Gießerinnen und Gießern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Glasern</Hauptwort>
+		<Vorschlag>Glaserinnen und Glasern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Grazern</Hauptwort>
+		<Vorschlag>Grazerinnen und Grazern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Kellner</Hauptwort>
+		<Vorschlag>KellnerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Kellner</Hauptwort>
+		<Vorschlag>Kellnerinnen und Kellner</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Lehrern</Hauptwort>
+		<Vorschlag>Lehrkörper</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Lehrern</Hauptwort>
+		<Vorschlag>Lehrerinnen und Lehrern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Leitern</Hauptwort>
+		<Vorschlag>Leiterinnen und Leitern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Lenkern</Hauptwort>
+		<Vorschlag>Lenkerinnen und Lenkern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Linzern</Hauptwort>
+		<Vorschlag>Linzerinnen und Linzern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Maklern</Hauptwort>
+		<Vorschlag>Maklerinnen und Maklern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Manager</Hauptwort>
+		<Vorschlag>Managerinnen und Manager</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Manager</Hauptwort>
+		<Vorschlag>ManagerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Manager</Hauptwort>
+		<Vorschlag>Führungskräfte</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Maurern</Hauptwort>
+		<Vorschlag>Maurerinnen und Maurern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Mietern</Hauptwort>
+		<Vorschlag>Mieterinnen und Mietern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Musiker</Hauptwort>
+		<Vorschlag>Musikerinnen und Musiker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Musiker</Hauptwort>
+		<Vorschlag>MusikerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Notaren</Hauptwort>
+		<Vorschlag>Notarinnen und Notaren</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Piloten</Hauptwort>
+		<Vorschlag>Pilotinnen und Piloten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Prüfern</Hauptwort>
+		<Vorschlag>Prüferinnen und Prüfern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Raucher</Hauptwort>
+		<Vorschlag>RaucherInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Raucher</Hauptwort>
+		<Vorschlag>Raucherinnen und Raucher</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Rednern</Hauptwort>
+		<Vorschlag>Rednerinnen und Rednern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Reitern</Hauptwort>
+		<Vorschlag>Reiterinnen und Reitern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Richter</Hauptwort>
+		<Vorschlag>RichterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Richter</Hauptwort>
+		<Vorschlag>Richterinnen und Richter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Sattler</Hauptwort>
+		<Vorschlag>SattlerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Sattler</Hauptwort>
+		<Vorschlag>Sattlerinnen und Sattler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Schüler</Hauptwort>
+		<Vorschlag>SchülerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Schüler</Hauptwort>
+		<Vorschlag>Schülerinnen und Schüler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Seglern</Hauptwort>
+		<Vorschlag>Seglerinnen und Seglern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Sennern</Hauptwort>
+		<Vorschlag>Sennerinnen und Sennern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Siedler</Hauptwort>
+		<Vorschlag>SiedlerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Siedler</Hauptwort>
+		<Vorschlag>Siedlerinnen und Siedler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Spieler</Hauptwort>
+		<Vorschlag>SpielerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Spieler</Hauptwort>
+		<Vorschlag>Spielerinnen und Spieler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Steirer</Hauptwort>
+		<Vorschlag>SteirerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Steirer</Hauptwort>
+		<Vorschlag>Steirerinnen und Steirer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Testern</Hauptwort>
+		<Vorschlag>Testerinnen und Testern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Tiroler</Hauptwort>
+		<Vorschlag>TirolerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Tiroler</Hauptwort>
+		<Vorschlag>Tirolerinnen und Tiroler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Töpfern</Hauptwort>
+		<Vorschlag>Töpferinnen und Töpfern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Trinker</Hauptwort>
+		<Vorschlag>TrinkerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Trinker</Hauptwort>
+		<Vorschlag>Trinkerinnen und Trinker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Wählern</Hauptwort>
+		<Vorschlag>Wählerinnen und Wählern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Wienern</Hauptwort>
+		<Vorschlag>Wienerinnen und Wienern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Winzern</Hauptwort>
+		<Vorschlag>Winzerinnen und Winzern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Züchter</Hauptwort>
+		<Vorschlag>Züchterinnen und Züchter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Züchter</Hauptwort>
+		<Vorschlag>ZüchterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Zuhörer</Hauptwort>
+		<Vorschlag>ZuhörerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>7</Laenge>
+		<Hauptwort>Zuhörer</Hauptwort>
+		<Vorschlag>Zuhörerinnen und Zuhörer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Ärzten</Hauptwort>
+		<Vorschlag>Ärztinnen und Ärzten</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Ärzten</Hauptwort>
+		<Vorschlag>Ärzteschaft</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Bäcker</Hauptwort>
+		<Vorschlag>BäckerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Bäcker</Hauptwort>
+		<Vorschlag>Bäckerinnen und Bäcker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Bauern</Hauptwort>
+		<Vorschlag>Bäuerinnen und Bauern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Beamte</Hauptwort>
+		<Vorschlag>Beamtinnen und Beamte</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Brauer</Hauptwort>
+		<Vorschlag>BrauerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Brauer</Hauptwort>
+		<Vorschlag>Brauerinnen und Brauer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Bürger</Hauptwort>
+		<Vorschlag>Bürgerinnen und Bürger</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Bürger</Hauptwort>
+		<Vorschlag>BürgerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Dreher</Hauptwort>
+		<Vorschlag>Dreherinnen und Dreher</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Dreher</Hauptwort>
+		<Vorschlag>DreherInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Fahrer</Hauptwort>
+		<Vorschlag>FahrerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Fahrer</Hauptwort>
+		<Vorschlag>Fahrerinnen und Fahrer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Fiaker</Hauptwort>
+		<Vorschlag>FiakerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Fiaker</Hauptwort>
+		<Vorschlag>Fiakerinnen und Fiaker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Fr. AR</Hauptwort>
+		<Vorschlag>Fr. ARⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Fr. AW</Hauptwort>
+		<Vorschlag>Fr. AWⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Fr. DI</Hauptwort>
+		<Vorschlag>Fr. DIⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Fr. FI</Hauptwort>
+		<Vorschlag>Fr. FIⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Fr. GR</Hauptwort>
+		<Vorschlag>Fr. GRⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Fr. HR</Hauptwort>
+		<Vorschlag>Fr. HRⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Fr. OR</Hauptwort>
+		<Vorschlag>Fr. ORⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Frau R</Hauptwort>
+		<Vorschlag>Frau Rⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Führer</Hauptwort>
+		<Vorschlag>FührerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Führer</Hauptwort>
+		<Vorschlag>Führerinnen und Führer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Gerber</Hauptwort>
+		<Vorschlag>Gerberinnen und Gerber</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Gerber</Hauptwort>
+		<Vorschlag>GerberInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Gießer</Hauptwort>
+		<Vorschlag>GießerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Gießer</Hauptwort>
+		<Vorschlag>Gießerinnen und Gießer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Glaser</Hauptwort>
+		<Vorschlag>GlaserInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Glaser</Hauptwort>
+		<Vorschlag>Glaserinnen und Glaser</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Grazer</Hauptwort>
+		<Vorschlag>GrazerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Grazer</Hauptwort>
+		<Vorschlag>Grazerinnen und Grazer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Hörern</Hauptwort>
+		<Vorschlag>Hörerinnen und Hörern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Köchen</Hauptwort>
+		<Vorschlag>Köchinnen und Köchen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Lehrer</Hauptwort>
+		<Vorschlag>Lehrkörper</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Lehrer</Hauptwort>
+		<Vorschlag>LehrerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Lehrer</Hauptwort>
+		<Vorschlag>Lehrerinnen und Lehrer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Leiter</Hauptwort>
+		<Vorschlag>LeiterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Leiter</Hauptwort>
+		<Vorschlag>Leiterinnen und Leiter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Lenker</Hauptwort>
+		<Vorschlag>Lenkerinnen und Lenker</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Lenker</Hauptwort>
+		<Vorschlag>LenkerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Linzer</Hauptwort>
+		<Vorschlag>LinzerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Linzer</Hauptwort>
+		<Vorschlag>Linzerinnen und Linzer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Lotsen</Hauptwort>
+		<Vorschlag>Lotsinnen und Lotsen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Makler</Hauptwort>
+		<Vorschlag>MaklerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Makler</Hauptwort>
+		<Vorschlag>Maklerinnen und Makler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Malern</Hauptwort>
+		<Vorschlag>Malerinnen und Malern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Maurer</Hauptwort>
+		<Vorschlag>MaurerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Maurer</Hauptwort>
+		<Vorschlag>Maurerinnen und Maurer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Mieter</Hauptwort>
+		<Vorschlag>MieterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Mieter</Hauptwort>
+		<Vorschlag>Mieterinnen und Mieter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Nähern</Hauptwort>
+		<Vorschlag>NäherInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Nähern</Hauptwort>
+		<Vorschlag>Näherinnen und Nähern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Notare</Hauptwort>
+		<Vorschlag>Notarinnen und Notare</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Prüfer</Hauptwort>
+		<Vorschlag>Prüferinnen und Prüfer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Prüfer</Hauptwort>
+		<Vorschlag>PrüferInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Redner</Hauptwort>
+		<Vorschlag>Rednerinnen und Redner</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Redner</Hauptwort>
+		<Vorschlag>RednerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Reiter</Hauptwort>
+		<Vorschlag>ReiterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Reiter</Hauptwort>
+		<Vorschlag>Reiterinnen und Reiter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Segler</Hauptwort>
+		<Vorschlag>SeglerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Segler</Hauptwort>
+		<Vorschlag>Seglerinnen und Segler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Sehern</Hauptwort>
+		<Vorschlag>Seherinnen und Sehern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Senner</Hauptwort>
+		<Vorschlag>SennerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Senner</Hauptwort>
+		<Vorschlag>Sennerinnen und Senner</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Tätern</Hauptwort>
+		<Vorschlag>Täterinnen und Tätern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Tester</Hauptwort>
+		<Vorschlag>TesterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Tester</Hauptwort>
+		<Vorschlag>Testerinnen und Tester</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Töpfer</Hauptwort>
+		<Vorschlag>Töpferinnen und Töpfer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Töpfer</Hauptwort>
+		<Vorschlag>TöpferInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Wähler</Hauptwort>
+		<Vorschlag>Wählerinnen und Wähler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Wähler</Hauptwort>
+		<Vorschlag>WählerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Webern</Hauptwort>
+		<Vorschlag>Weberinnen und Webern</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Wiener</Hauptwort>
+		<Vorschlag>WienerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Wiener</Hauptwort>
+		<Vorschlag>Wienerinnen und Wiener</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Winzer</Hauptwort>
+		<Vorschlag>WinzerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Winzer</Hauptwort>
+		<Vorschlag>Winzerinnen und Winzer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>6</Laenge>
+		<Hauptwort>Zeugen</Hauptwort>
+		<Vorschlag>Zeuginnen und Zeugen</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>5</Laenge>
+		<Hauptwort>Ärzte</Hauptwort>
+		<Vorschlag>Ärzteschaft</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>5</Laenge>
+		<Hauptwort>Ärzte</Hauptwort>
+		<Vorschlag>Ärztinnen und Ärzte</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>5</Laenge>
+		<Hauptwort>Fr. R</Hauptwort>
+		<Vorschlag>Fr. Rⁱⁿ</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>5</Laenge>
+		<Hauptwort>Hörer</Hauptwort>
+		<Vorschlag>Hörerinnen und Hörer</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>5</Laenge>
+		<Hauptwort>Hörer</Hauptwort>
+		<Vorschlag>HörerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>5</Laenge>
+		<Hauptwort>Köche</Hauptwort>
+		<Vorschlag>Köchinnen und Köche</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>5</Laenge>
+		<Hauptwort>Maler</Hauptwort>
+		<Vorschlag>MalerInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>5</Laenge>
+		<Hauptwort>Maler</Hauptwort>
+		<Vorschlag>Malerinnen und Maler</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>5</Laenge>
+		<Hauptwort>Näher</Hauptwort>
+		<Vorschlag>Näherinnen und Näher</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>5</Laenge>
+		<Hauptwort>Näher</Hauptwort>
+		<Vorschlag>NäherInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>5</Laenge>
+		<Hauptwort>Seher</Hauptwort>
+		<Vorschlag>Seherinnen und Seher</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>5</Laenge>
+		<Hauptwort>Seher</Hauptwort>
+		<Vorschlag>SeherInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>5</Laenge>
+		<Hauptwort>Täter</Hauptwort>
+		<Vorschlag>Täterinnen und Täter</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>5</Laenge>
+		<Hauptwort>Täter</Hauptwort>
+		<Vorschlag>TäterInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>5</Laenge>
+		<Hauptwort>Weber</Hauptwort>
+		<Vorschlag>Weberinnen und Weber</Vorschlag>
+		<Binnen>N</Binnen>
+	</Worttabelle>
+	<Worttabelle>
+		<Laenge>5</Laenge>
+		<Hauptwort>Weber</Hauptwort>
+		<Vorschlag>WeberInnen</Vorschlag>
+		<Binnen>Y</Binnen>
+	</Worttabelle>
+</dataroot>
