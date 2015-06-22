@@ -1,0 +1,272 @@
+[
+    "Financial Planner", N
+    "Media-Fachkraft", N
+    "Fachkraft - Abwassertechnik", N
+    "Innanarchitekt", M, "Innanarchitektin"
+    "Wirkereitechniker", M, "Wirkereitechnikerin" 
+    "Bauwerkerhaltungstechniker", M, "Bauwerkerhaltungstechnikerin" 
+    "Lehrkraft - Schulen im Gesundheitswesen", N
+    "Bestattungsfachkraft", N
+    "Recruiter", M, "Recruiterin"
+    "Human Resources", N 
+    "Forschungs- und Entwicklungsing. - Bau", N
+    "Hoteldirektrice",  F, "Hoteldirektor",
+    "Elektroanlagenfachkraft", N
+    "Recycling-Fachkraft", N
+    "Feldwebel - Truppendienst", N 
+    "Entsorgungstechniker", M, "Entsorgungstechnikerin"
+    "Fachkraft - Sozialarbeit", N 
+    "Baukonstruktionstechniker", M, "Baukonstruktionstechnikerin"
+    "Gesundheitsf\u00f6rderin, -p\u00e4dagogin", F, "Gesundheitsf\u00f6rderer, -p\u00e4dagoge",
+    "Fachkraft - Agrarservice", N
+    "Empfangskraft", N
+    "Wirtschaftsingenieur - Logistik", M, "Wirtschaftsingenieurin - Logistik"
+    "Lichtspiel-Servicekraft", N
+    "Kassenaufsicht", N
+    "Schulungssoftware", N 
+    "Venture-Capitalist", N
+    "Glastechniker", M, "Glastechnikerin",
+    "Werbedesigner", M, "Werbedesignerin",
+    "Information-Architect", M, "Information-Architectin"
+    "Marketingfachkraft", N
+    "B\u00fcrofachkraft", N
+    "B\u00e4ckereiverk\u00e4ufer", M, "B\u00e4ckereiverk\u00e4uferin",
+    "PC-Fachkraft - kaufm\u00e4nnisch", N
+    "Theologie - Katholische Theologie", N
+    "Betriebswirtin - Schifffahrt", F, "Betriebswirt - Schifffahrt",
+    "Fachkraft - Wasserversorgungstechnik", N
+    "Fachkraft - Marketing", N
+    "Informationssystemtechniker", 
+    "Bachelor of Arts  - BWL-Versicherung", N
+    "Verwaltungsfachkraft - Evangelische Kirche", N
+    "Feldwebel", M, "Feldwebelin",
+    "Spinnerei", N
+    "Lehrkraft - Heilerziehungspflege", N
+    "Diplom-Pharmazeutin", F, "Diplom-Pharmazeut",
+    "Fertigungsdirektrice", F, "Fertigungsdirektor", 
+    "CAD-Fachkraft - Bau", N
+    "Demichef d'\u00e9tage", ??? 
+    "Nachtwache - Pflege", N
+    "Fachkraft - S\u00fc\u00dfwarentechnik", N
+    "Rechtsbeistand", N
+    "Au-pair", N
+    "Continuity-Person", N
+    "PR-Fachkraft", N
+    "S\u00fc\u00dfwarentechniker", M, "S\u00fc\u00dfwarentechnikerin"
+    "Korrossionsschutztechniker", M, "Korrossionsschutztechnikerin" 
+    "E-Recruiter", M, "E-Recruiterin"
+    "CAD-Fachkraft - Metall", N
+    "Portier", M, "Portierfrau / Portierin"
+    "CAD-Fachkraft - Elektrotechnik", N
+    "Aufsichtsperson", N
+    "Meisterin im Bestattungswesen", F, "Meister im Bestattungswesen"
+    "Fachkraft - S\u00fc\u00dfwarentechnik - Dauerbackwaren", N
+    "Chemieverfahrenstechniker", M, "Chemieverfahrenstechnikerin"
+    "Qualit\u00e4tstechniker", M, "Qualit\u00e4tstechnikerin"
+    "Medical Advisor", N
+    "M\u00f6belhandelsbetriebswirtin", F, "M\u00f6belhandelsbetriebswirt"
+    "CAD-Fachkraft - Maschinenbau", N
+    "Fachkraft - Veranstaltungstechnik", N
+    "Fachkraft - Kreislauf- und Abfallwirtschaft", N
+    "Diskjockey", M, "DJane"
+    "Art-Buyer", N
+    "Forschungs- und Entwicklungsing. - Elektro", N
+    "Textildesigningenieur", M, "Textildesigningenieurin"
+    "Fachkraft - \u00fcberbetriebliche Aus- und Weiterbildung", N
+    "Fachkraft - Stra\u00dfen- und Verkehrstechnik", N
+    "Fachkraft - Geb\u00e4udetechnik", N
+    "Knappe", ?
+    "Location-Coordinator", N
+    "Fachunteroffizier - Allgemeiner Fachdienst", M, "Fachunteroffizierin - Allgemeiner Fachdienst" 
+    "Fachunteroffizier - Milit\u00e4rmusikdienst", M, "Fachunteroffizierin - Milit\u00e4rmusikdienst"
+    "CAD-Fachkraft - Holz", N
+    "Brautechniker", M, "Brautechnikerin"
+    "Schiffsjunge", M, "Schiffsmädchen"
+    "Fachkraft - mechatronische Systeme", N
+    "Pneumatik-Fachkraft", N
+    "Theologie - Evangelische Theologie", N
+    "Blechbearbeitungstechniker", M, "Blechbearbeitungstechnikerin"
+    "Bachelor of Arts  - Mittelst\u00e4ndische Wirtschaft", N
+    "Fachkraft - Holz- und Bautenschutzarbeiten", N
+    "Fachkraft - Rohr-, Kanal- und Industrieservice", N
+    "Fachkraft - S\u00fc\u00dfwarentechnik - Zuckerwaren", N
+    "Klebefachkraft", N
+    "Fachkraft - Lebensmitteltechnik", N
+    "Fachkraft - S\u00fc\u00dfwarentechnik - Schokolade", N
+    "Autosattlerei", N
+    "Lehrkraft - Pharmazieberufe", N
+    "Datenverarbeitungstechniker", M, "Datenverarbeitungstechnikerin"
+    "Fachkraft - Wasserwirtschaft", N
+    "Schutz- und Sicherheitskraft", N
+    "Multimedia-Producer", N
+    "Kommunikationstechniker", M, "Kommunikationstechnikerin"
+    "PC- und Netzwerkfachkraft", N
+    "Tiefbau", N
+    "Lehrkraft - Sprachtherapie", N
+    "SPS-Fachkraft", N
+    "Fachkraft - EDV-gest\u00fctzte Unternehmensf\u00fchrung", N
+    "\u00d6kotechniker", M, "\u00d6kotechnikerin" 
+    "Lehrkraft - Desinfektorenschulen", N
+    "Wachsbildnerin", F, "Wachsbildner"
+    "Fachkraft - Gastgewerbe", N
+    "Edelsteindesigner", M, "Edelsteindesignerin"
+    "CAD-Fachkraft", N
+    "Bachelor of Science  - K\u00e4ltesystemtechnik", N
+    "Duty-Officer", N
+    "Fachkraft - Beauty und Wellness", N
+    "Handwerk - B\u00fcroleiterin", F, "Handwerk - B\u00fcroleiter"
+    "Fachkraft - Arbeits- und Berufsf\u00f6rderung", N
+    "Parkplatz-, Parkhausaufsicht", N
+    "B\u00fcfettkraft", N
+    "Bachelor of Science  - Baubetriebsmanagement", N
+    "Lehrkraft - Motop\u00e4die", N
+    "Spielhallenaufsicht", N
+    "Fachkraft - Lagerwirtschaft", N
+    "Lehrkraft - Haus- u. Familienpflegeschulen", N
+    "Fachkraft - Kurier-, Express- und Postdienstleistungen", N
+    "CNC-Fachkraft", N
+    "Elektroger\u00e4tefachkraft", N
+    "Comedian", N
+    "Fachkraft", N
+    "B\u00fcrokraft", N
+    "Dipl.-Betriebswirtin - Versicherungswesen", F, "Dipl.-Betriebswirt - Versicherungswesen"
+    "Fotomodell", N
+    "Fachkraft - Moden\u00e4herei", N
+    "Fachkraft - B\u00fcroorganisation und Textverarbeitung", N
+    "Lehrkraft", N
+    "Edelsteingraveur- bzw. Edelsteinschleifermeisterin", N
+    "Elektrofachkraft", N
+    "Lehrkraft - Besch\u00e4ftigungs- u. Arbeitstherapie", N
+    "Fachkraft - Hygiene\u00fcberwachung", N
+    "Buchf\u00fchrungsfachkraft", N
+    "Lehrkraft - Kosmetik", N
+    "Maschinenhauer", M, "Maschinenhauerin" 
+    "Fachkraft - Personalberatung und -vermittlung", N
+    "Friedhofstechniker", M, "Friedhofstechnikerin"
+    "Fachunteroffizier - Geoinformationsdienst", N
+    "Laborfachkraft", N
+    "Fachkraft - Logistik", N 
+    "Bachelor of Arts  - Health Care Management", N
+    "EDV-Fachkraft", N
+    "Fachkraft im Geld-, Wert- u. Sicherheitstransport", N
+    "Offizier - Milit\u00e4rmusikdienst", N
+    "Servicekraft - Schutz und Sicherheit", N
+    "Touristik-Fachkraft", N
+    "Strickereitechniker", M, "Strickereitechnikerin"
+    "Rehafachkraft - Blinde", N
+    "Servicekraft", N
+    "Verkaufsaufsicht", N
+    "Hydraulik-Fachkraft",N 
+    "Gestaltungsdirektrice", F, "Gestaltungsdirektor" 
+    "Schiffbau und Meerestechnik - B.Eng.", N
+    "Werkschutzfachkraft", N
+    "Chefportier", M, "Chefportierfrau", 
+    "Gardemanger", M, "Gardemangerin"
+    "Matrose - Binnenschifffahrt", M, "Matrosin - Binnenschifffahrt"
+    "Feldwebel - Milit\u00e4rmusikdienst", M, "Feldwebelin - Milit\u00e4rmusikdienst"
+    "Fachkraft - Automatenservice", N
+    "Fachunteroffizier", M, "Fachunteroffizierin"
+    "Feinkeramtechniker", M, "Feinkeramtechnikerin"
+    "Sprechstundenschwester", M, "Sprechstundenpfleger", 
+	"Krankenschwester", M, "Krankenpfleger",
+    "Fachkraft - Audiotechnik", N
+    "Fachkraft - Schutz und Sicherheit", N
+    "Farbtechniker", M, "Farbtechnikerin"
+    "IT-Consultant", N
+    "Fachkraft im Labor", N 
+    "Dienstleistungsfachkraft - Postbetrieb", N
+    "Diakonisse", F, "Diakon"
+    "Lehrkraft - Physiotherapie", N 
+    "Fachkraft - Betreuung", N
+    "Mergers-and-Acquisitions-Specialist", M, "Mergers-and-Acquisitions-Specialistin" 
+    "Fachkraft - Lederverarbeitung", N
+    "Food-and-Beverage-Assistant", N
+    "Schwei\u00dffachkraft - Apparatetechnik", N
+    "Katholischer Pfarrer", M, "Katholische Priesterin"
+    "Farbdesigner", M, "Farbdesignerin" 
+    "Fachkraft - innovative Fahrzeugaufbereitung", N
+    "Fachkraft - Bauwirtschaft", N
+    "Forschungs- und Entwicklungsing. - Chemie", N
+    "Etagenaufsicht", N
+    "Schulungsfachkraft", N 
+    "Offizier", M, "Offizierin"
+    "Fachkraft - Brief- und Frachtverkehr", N
+    "Technisch-kaufm\u00e4nnische Fachkraft - Handwerk", N
+    "Modedesigningenieur", M, "Modedesigningenieurin"
+    "Direktrice", F, "Direktor"
+    "Feldwebel - Sanit\u00e4tsdienst", M, "Feldwebelin - Sanit\u00e4tsdienst" 
+    "Servicefachkraft - Dialogmarketing", N
+    "Jockey", N
+    "Master of Business Administration", N
+    "Verpackungstechniker", M, "Verpackungstechnikerin"
+    "Produktionsfachkraft Chemie", N
+    "Fachkraft - landwirtschaftlicher Haushalt", N
+    "Tagebautechniker", M, "Tagebautechnikerin"
+    "IT-Professional", N
+    "Rechtswissenschaft", N 
+    "Metallh\u00fcttentechniker", M,   "Metallh\u00fcttentechnikerin" 
+    "Schienenfahrzeugtechniker", M, "Schienenfahrzeugtechnikerin"
+    "Produktionstechniker", M,   "Produktionstechnikerin" 
+    "Fachkraft - Bauwerkserhaltung", N
+    "Nachtportier", M, "Nachtportierin"
+    "Industrial Engineer", N 
+    "Kramtechniker", M,  "Kramtechnikerin"
+    "Funeralmaster", N
+    "Fachkraft - Arbeitssicherheit", N
+    "Internet-Scout", N
+    "Vertriebsfachkraft", N
+    "Fachkraft - Fahrbetrieb", N
+    "Konfliktberaterin", F, "Konfliktberater"
+    "Bachelor of Arts  - BWL-Automobilhandel", N
+    "Veranstaltungscaterer", N
+    "Stomatologische Schwester", F, "Stomatologischer Pfleger"
+    "Lehrkraft - Heilp\u00e4dagogik", N
+    "Betriebswirtschaft und Unternehmensf\u00fchrung", N
+    "Verkaufskraft", N
+    "Fachkraft - Schiff", N
+    "Lehrkraft - Tierwirtschaftliche Aus- u. Weiterbildung", N
+    "Steuerungstechniker", M, "Steuerungstechnikerin"
+    "Pr\u00e4ventionsfachkraft", N
+    "Prozesstechniker", M, "Prozesstechnikerin"
+    "Fachkraft - Pflegeassistenz", N
+    "Regeltechniker", M, "Regeltechnikerin"
+    "Fachkraft - Brennereiwesen", N 
+    "Fachunteroffizier - Sanit\u00e4tsdienst", M, "Fachunteroffizierin - Sanit\u00e4tsdienst"
+    "Backtechniker", M, "Backtechnikerin"
+    "Keramikerhandwerk", N 
+    "Strahlenschutzfachkraft", N
+    "Fachkraft - M\u00f6bel-, K\u00fcchen- und Umzugsservice", N
+    "Fachkraft - S\u00fc\u00dfwarentechnik - Konfekt", N
+    "Brandschutzfachkraft", N
+    "Fensterbautechniker - Techniker - Holztechnik", M,  "Fensterbautechnikerin - Techniker - Holztechnik",
+    "Fachkraft - Automatisierungstechnik", N
+    "Fachkraft - Qualit\u00e4tssicherung", N
+    "Lehrkraft - Naturwissenschaften und Technik", N
+    "Bonbon- und Konfektmacherin", F, "Bonbon- und Konfektmacher"
+    "Zahn\u00e4rztliche Helferin", F, "Zahn\u00e4rztliche Helfer"
+    "Pneumatiktechniker", M, "Pneumatiktechnikerin"
+    "Forschungs- und Entwicklungsing. - Textil", N
+    "Fachkraft - Hafenlogistik", N
+    "DTP-Fachkraft", N
+    "Fachkraft - Umweltschutz", N
+    "Gep\u00e4ck-Servicekraft", N
+    "Fachkraft - Trockenbau", N
+    "Fachkraft f\u00fcr Metalltechnik", N
+    "Fachkraft f\u00fcr Metalltechnik - Umform- und Drahttechnik", N
+    "Fachkraft f\u00fcr Metalltechnik - Zerspanungstechnik", N
+    "Fachkraft f\u00fcr Metalltechnik - Konstruktionstechnik", N 
+    "Fachkraft f\u00fcr Metalltechnik - Montagetechnik", N
+    "Fachkraft f\u00fcr Speiseeis", N
+    "Fachkraft f\u00fcr Rekultivierung",  N
+    "Fachkraft f\u00fcr Materialwirtschaft",  N
+    "Fachkraft f\u00fcr Rechnungswesen",  N
+    "Fachkraft f\u00fcr speicherprogrammierbare Maschinensteuerung",  N
+    "Fachkraft f\u00fcr speicherprogrammierbare Steuerung",  N
+    "Fachkraft f\u00fcr speicherprogrammierbare Steuerungstechnik",  N
+    "Fachkraft f\u00fcr Druck und Vervielf\u00e4ltigung",  N
+    "Fachkraft f\u00fcr Automatisierungstechnik-Elektro",  N
+    "Fachkraft f\u00fcr Absatzwirtschaft",  N
+    "Elektrofachkraft f\u00fcr festgelegte T\u00e4tigkeiten", N 
+    "Fachkraft f\u00fcr Solartechnik - Solarteur/in",  N
+    "Lehrkraft f\u00fcr besondere Aufgaben - Hochschulen" N
+]
