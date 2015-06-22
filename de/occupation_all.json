@@ -345,14 +345,14 @@
         ], 
         "Bergbauingenieurin"
     ], 
-    "Abgleicher": [
+    "Verpacker": [
         [
-            "AbgleicherIn", 
-            "Abgleicherin und Abgleicher", 
-            "Abgleicherin oder Abgleicher", 
-            "Abgleicherin bzw. Abgleicher"
+            "VerpackerIn", 
+            "Verpackerin und Verpacker", 
+            "Verpackerin oder Verpacker", 
+            "Verpackerin bzw. Verpacker"
         ], 
-        "Abgleicherin"
+        "Verpackerin"
     ], 
     "Unterwasserschwei\u00dfer": [
         [
@@ -879,15 +879,6 @@
         ], 
         "Fischverarbeiterhelferin"
     ], 
-    "Baltist": [
-        [
-            "BaltistIn", 
-            "Baltistin und Baltist", 
-            "Baltistin oder Baltist", 
-            "Baltistin bzw. Baltist"
-        ], 
-        "Baltistin"
-    ], 
     "Gruppent\u00e4nzer": [
         [
             "Gruppent\u00e4nzerIn", 
@@ -1002,6 +993,15 @@
             "Facharbeiterin f\u00fcr Nachrichtentechnik im studiotechnischen Anlagen bzw. Facharbeiter f\u00fcr Nachrichtentechnik im studiotechnischen Anlagen"
         ], 
         "Facharbeiterin f\u00fcr Nachrichtentechnik im studiotechnischen Anlagen"
+    ], 
+    "Automobilmechaniker": [
+        [
+            "AutomobilmechanikerIn", 
+            "Automobilmechanikerin und Automobilmechaniker", 
+            "Automobilmechanikerin oder Automobilmechaniker", 
+            "Automobilmechanikerin bzw. Automobilmechaniker"
+        ], 
+        "Automobilmechanikerin"
     ], 
     "Gewerbegehilfe": [
         [
@@ -1334,15 +1334,6 @@
         ], 
         "Ausstellungstischlerin"
     ], 
-    "H\u00e4ngeger\u00fcstbauer": [
-        [
-            "H\u00e4ngeger\u00fcstbauerIn", 
-            "H\u00e4ngeger\u00fcstbauerin und H\u00e4ngeger\u00fcstbauer", 
-            "H\u00e4ngeger\u00fcstbauerin oder H\u00e4ngeger\u00fcstbauer", 
-            "H\u00e4ngeger\u00fcstbauerin bzw. H\u00e4ngeger\u00fcstbauer"
-        ], 
-        "H\u00e4ngeger\u00fcstbauerin"
-    ], 
     "Textilzeichner": [
         [
             "TextilzeichnerIn", 
@@ -1479,15 +1470,6 @@
             "Fahrzeugtechnikingenieurin bzw. Fahrzeugtechnikingenieur"
         ], 
         "Fahrzeugtechnikingenieurin"
-    ], 
-    "Brenner": [
-        [
-            "BrennerIn", 
-            "Brennerin und Brenner", 
-            "Brennerin oder Brenner", 
-            "Brennerin bzw. Brenner"
-        ], 
-        "Brennerin"
     ], 
     "Schleusengehilfe": [
         [
@@ -1824,6 +1806,14 @@
         ], 
         "Baumeisterin"
     ], 
+    "Landschafts\u00f6kologe": [
+        [
+            "Landschafts\u00f6kologin und Landschafts\u00f6kologe", 
+            "Landschafts\u00f6kologin oder Landschafts\u00f6kologe", 
+            "Landschafts\u00f6kologin bzw. Landschafts\u00f6kologe"
+        ], 
+        "Landschafts\u00f6kologin"
+    ], 
     "Orientarch\u00e4ologe": [
         [
             "Orientarch\u00e4ologin und Orientarch\u00e4ologe", 
@@ -2128,14 +2118,14 @@
         ], 
         "Hotel- und Gastronomiemanagement-\u00d6konomin"
     ], 
-    "Seilermeister": [
+    "Spielwarenmaler": [
         [
-            "SeilermeisterIn", 
-            "Seilermeisterin und Seilermeister", 
-            "Seilermeisterin oder Seilermeister", 
-            "Seilermeisterin bzw. Seilermeister"
+            "SpielwarenmalerIn", 
+            "Spielwarenmalerin und Spielwarenmaler", 
+            "Spielwarenmalerin oder Spielwarenmaler", 
+            "Spielwarenmalerin bzw. Spielwarenmaler"
         ], 
-        "Seilermeisterin"
+        "Spielwarenmalerin"
     ], 
     "Bauchredner": [
         [
@@ -2236,14 +2226,15 @@
         ], 
         "Tiefk\u00fchlkonserviererin"
     ], 
-    "Klavierbauer": [
+    "Berufsfeuerwehrmann": [
         [
-            "KlavierbauerIn", 
-            "Klavierbauerin und Klavierbauer", 
-            "Klavierbauerin oder Klavierbauer", 
-            "Klavierbauerin bzw. Klavierbauer"
+            "Berufsfeuerwehrkraft", 
+            "Berufsfeuerwehrleute", 
+            "Berufsfeuerwehrfrau und Berufsfeuerwehrmann", 
+            "Berufsfeuerwehrfrau oder Berufsfeuerwehrmann", 
+            "Berufsfeuerwehrfrau bzw. Berufsfeuerwehrmann"
         ], 
-        "Klavierbauerin"
+        "Berufsfeuerwehrfrau"
     ], 
     "Umweltschutzlaborant": [
         [
@@ -2362,14 +2353,14 @@
         ], 
         "Ramp-Agentin"
     ], 
-    "Fachverk\u00e4ufer": [
+    "Chemiefacharbeiter": [
         [
-            "Fachverk\u00e4uferIn", 
-            "Fachverk\u00e4uferin und Fachverk\u00e4ufer", 
-            "Fachverk\u00e4uferin oder Fachverk\u00e4ufer", 
-            "Fachverk\u00e4uferin bzw. Fachverk\u00e4ufer"
+            "ChemiefacharbeiterIn", 
+            "Chemiefacharbeiterin und Chemiefacharbeiter", 
+            "Chemiefacharbeiterin oder Chemiefacharbeiter", 
+            "Chemiefacharbeiterin bzw. Chemiefacharbeiter"
         ], 
-        "Fachverk\u00e4uferin"
+        "Chemiefacharbeiterin"
     ], 
     "Bauelektriker": [
         [
@@ -2888,15 +2879,6 @@
         ], 
         "Werkschutzfachfrau"
     ], 
-    "Sicherheitstechniker": [
-        [
-            "SicherheitstechnikerIn", 
-            "Sicherheitstechnikerin und Sicherheitstechniker", 
-            "Sicherheitstechnikerin oder Sicherheitstechniker", 
-            "Sicherheitstechnikerin bzw. Sicherheitstechniker"
-        ], 
-        "Sicherheitstechnikerin"
-    ], 
     "Logistik-\u00d6konom": [
         [
             "Logistik-\u00d6konomIn", 
@@ -2932,15 +2914,6 @@
             "Generalagentin bzw. Generalagent"
         ], 
         "Generalagentin"
-    ], 
-    "Medienberater": [
-        [
-            "MedienberaterIn", 
-            "Medienberaterin und Medienberater", 
-            "Medienberaterin oder Medienberater", 
-            "Medienberaterin bzw. Medienberater"
-        ], 
-        "Medienberaterin"
     ], 
     "Merchandiser": [
         [
@@ -3190,6 +3163,15 @@
             "Bausparkassenvertragsverwalterin bzw. Bausparkassenvertragsverwalter"
         ], 
         "Bausparkassenvertragsverwalterin"
+    ], 
+    "Heizungsinstallateur": [
+        [
+            "HeizungsinstallateurIn", 
+            "Heizungsinstallateurin und Heizungsinstallateur", 
+            "Heizungsinstallateurin oder Heizungsinstallateur", 
+            "Heizungsinstallateurin bzw. Heizungsinstallateur"
+        ], 
+        "Heizungsinstallateurin"
     ], 
     "Konjunkturforscher": [
         [
@@ -3954,6 +3936,15 @@
         ], 
         "Kraftfahrzeugmechanikermeisterin"
     ], 
+    "B\u00fchnentischler": [
+        [
+            "B\u00fchnentischlerIn", 
+            "B\u00fchnentischlerin und B\u00fchnentischler", 
+            "B\u00fchnentischlerin oder B\u00fchnentischler", 
+            "B\u00fchnentischlerin bzw. B\u00fchnentischler"
+        ], 
+        "B\u00fchnentischlerin"
+    ], 
     "Fachverk\u00e4ufer im Spielwaren": [
         [
             "Fachverk\u00e4uferin im Spielwaren und Fachverk\u00e4ufer im Spielwaren", 
@@ -4609,15 +4600,6 @@
         ], 
         "Gestalterin f\u00fcr visuelles Marketing"
     ], 
-    "Lokomotivf\u00fchrer": [
-        [
-            "Lokomotivf\u00fchrerinnen und Lokomotivf\u00fchrern", 
-            "Lokomotivf\u00fchrerin oder Lokomotivf\u00fchrer", 
-            "Lokomotivf\u00fchrerin und Lokomotivf\u00fchrer", 
-            "Lokomotivf\u00fchrerin bzw. Lokomotivf\u00fchrer"
-        ], 
-        "Lokomotivf\u00fchrerin"
-    ], 
     "Wirtschaftssinologe": [
         [
             "Wirtschaftssinologin und Wirtschaftssinologe", 
@@ -4795,14 +4777,13 @@
         ], 
         "Feuerungs- und Schornsteinbauerin"
     ], 
-    "Kundendienstfacharbeiter": [
+    "Fachzahnarzt": [
         [
-            "KundendienstfacharbeiterIn", 
-            "Kundendienstfacharbeiterin und Kundendienstfacharbeiter", 
-            "Kundendienstfacharbeiterin oder Kundendienstfacharbeiter", 
-            "Kundendienstfacharbeiterin bzw. Kundendienstfacharbeiter"
+            "Fachzahn\u00e4rztin und Fachzahnarzt", 
+            "Fachzahn\u00e4rztin oder Fachzahnarzt", 
+            "Fachzahn\u00e4rztin bzw. Fachzahnarzt"
         ], 
-        "Kundendienstfacharbeiterin"
+        "Fachzahn\u00e4rztin"
     ], 
     "Glaswollemacher": [
         [
@@ -4876,14 +4857,14 @@
         ], 
         "Kunststopferin"
     ], 
-    "Bootsf\u00fchrer": [
+    "Justizfachwirt": [
         [
-            "Bootsf\u00fchrerIn", 
-            "Bootsf\u00fchrerin und Bootsf\u00fchrer", 
-            "Bootsf\u00fchrerin oder Bootsf\u00fchrer", 
-            "Bootsf\u00fchrerin bzw. Bootsf\u00fchrer"
+            "JustizfachwirtIn", 
+            "Justizfachwirtin und Justizfachwirt", 
+            "Justizfachwirtin oder Justizfachwirt", 
+            "Justizfachwirtin bzw. Justizfachwirt"
         ], 
-        "Bootsf\u00fchrerin"
+        "Justizfachwirtin"
     ], 
     "Gewehrsch\u00e4fter": [
         [
@@ -5161,14 +5142,13 @@
         ], 
         "Biologin"
     ], 
-    "Physikingenieur": [
+    "Dressman": [
         [
-            "PhysikingenieurIn", 
-            "Physikingenieurin und Physikingenieur", 
-            "Physikingenieurin oder Physikingenieur", 
-            "Physikingenieurin bzw. Physikingenieur"
+            "Mannequin und Dressman", 
+            "Mannequin oder Dressman", 
+            "Mannequin bzw. Dressman"
         ], 
-        "Physikingenieurin"
+        "Mannequin"
     ], 
     "Ewerf\u00fchrer": [
         [
@@ -5234,14 +5214,14 @@
         ], 
         "Fotomedienlaborantin"
     ], 
-    "Arbeitsjurist": [
+    "Aufbereitungsingenieur": [
         [
-            "ArbeitsjuristIn", 
-            "Arbeitsjuristin und Arbeitsjurist", 
-            "Arbeitsjuristin oder Arbeitsjurist", 
-            "Arbeitsjuristin bzw. Arbeitsjurist"
+            "AufbereitungsingenieurIn", 
+            "Aufbereitungsingenieurin und Aufbereitungsingenieur", 
+            "Aufbereitungsingenieurin oder Aufbereitungsingenieur", 
+            "Aufbereitungsingenieurin bzw. Aufbereitungsingenieur"
         ], 
-        "Arbeitsjuristin"
+        "Aufbereitungsingenieurin"
     ], 
     "Schwei\u00dfwerker": [
         [
@@ -5467,14 +5447,13 @@
         ], 
         "Beifahrerin"
     ], 
-    "Lymphdrainage- und \u00d6demtherapeut": [
+    "Vermessungsgehilfe": [
         [
-            "Lymphdrainage- und \u00d6demtherapeutIn", 
-            "Lymphdrainage- und \u00d6demtherapeutin und Lymphdrainage- und \u00d6demtherapeut", 
-            "Lymphdrainage- und \u00d6demtherapeutin oder Lymphdrainage- und \u00d6demtherapeut", 
-            "Lymphdrainage- und \u00d6demtherapeutin bzw. Lymphdrainage- und \u00d6demtherapeut"
+            "Vermessungsgehilfin und Vermessungsgehilfe", 
+            "Vermessungsgehilfin oder Vermessungsgehilfe", 
+            "Vermessungsgehilfin bzw. Vermessungsgehilfe"
         ], 
-        "Lymphdrainage- und \u00d6demtherapeutin"
+        "Vermessungsgehilfin"
     ], 
     "Baumaschinenvorarbeiter": [
         [
@@ -5625,14 +5604,14 @@
         ], 
         "Datenbankmanagerin"
     ], 
-    "Industrieelektroniker": [
+    "Universalfr\u00e4ser": [
         [
-            "IndustrieelektronikerIn", 
-            "Industrieelektronikerin und Industrieelektroniker", 
-            "Industrieelektronikerin oder Industrieelektroniker", 
-            "Industrieelektronikerin bzw. Industrieelektroniker"
+            "Universalfr\u00e4serIn", 
+            "Universalfr\u00e4serin und Universalfr\u00e4ser", 
+            "Universalfr\u00e4serin oder Universalfr\u00e4ser", 
+            "Universalfr\u00e4serin bzw. Universalfr\u00e4ser"
         ], 
-        "Industrieelektronikerin"
+        "Universalfr\u00e4serin"
     ], 
     "Risspr\u00fcfer": [
         [
@@ -5881,14 +5860,14 @@
         ], 
         "Drahtwalzerin"
     ], 
-    "Verpacker": [
+    "Abgleicher": [
         [
-            "VerpackerIn", 
-            "Verpackerin und Verpacker", 
-            "Verpackerin oder Verpacker", 
-            "Verpackerin bzw. Verpacker"
+            "AbgleicherIn", 
+            "Abgleicherin und Abgleicher", 
+            "Abgleicherin oder Abgleicher", 
+            "Abgleicherin bzw. Abgleicher"
         ], 
-        "Verpackerin"
+        "Abgleicherin"
     ], 
     "Sprechstundenhelfer": [
         [
@@ -6352,6 +6331,14 @@
         ], 
         "Maschinenbaumechanikerin"
     ], 
+    "Algesiologe": [
+        [
+            "Algesiologin und Algesiologe", 
+            "Algesiologin oder Algesiologe", 
+            "Algesiologin bzw. Algesiologe"
+        ], 
+        "Algesiologin"
+    ], 
     "Reifenmacher": [
         [
             "ReifenmacherIn", 
@@ -6544,6 +6531,15 @@
         ], 
         "Schaftweberin"
     ], 
+    "Portr\u00e4tzeichner": [
+        [
+            "Portr\u00e4tzeichnerIn", 
+            "Portr\u00e4tzeichnerin und Portr\u00e4tzeichner", 
+            "Portr\u00e4tzeichnerin oder Portr\u00e4tzeichner", 
+            "Portr\u00e4tzeichnerin bzw. Portr\u00e4tzeichner"
+        ], 
+        "Portr\u00e4tzeichnerin"
+    ], 
     "Bildgie\u00dfer": [
         [
             "Bildgie\u00dferIn", 
@@ -6562,14 +6558,14 @@
         ], 
         "Theatermodistin"
     ], 
-    "Justizfachwirt": [
+    "Bootsf\u00fchrer": [
         [
-            "JustizfachwirtIn", 
-            "Justizfachwirtin und Justizfachwirt", 
-            "Justizfachwirtin oder Justizfachwirt", 
-            "Justizfachwirtin bzw. Justizfachwirt"
+            "Bootsf\u00fchrerIn", 
+            "Bootsf\u00fchrerin und Bootsf\u00fchrer", 
+            "Bootsf\u00fchrerin oder Bootsf\u00fchrer", 
+            "Bootsf\u00fchrerin bzw. Bootsf\u00fchrer"
         ], 
-        "Justizfachwirtin"
+        "Bootsf\u00fchrerin"
     ], 
     "G\u00e4rtner": [
         [
@@ -6625,6 +6621,15 @@
         ], 
         "Brosch\u00fcrerin"
     ], 
+    "Ingenieur": [
+        [
+            "Ingenieurinnen und Ingenieure", 
+            "Ingenieurin oder Ingenieur", 
+            "Ingenieurin und Ingenieur", 
+            "Ingenieurin bzw. Ingenieur"
+        ], 
+        "Ingenieurin"
+    ], 
     "Kreditmanager": [
         [
             "KreditmanagerIn", 
@@ -6634,14 +6639,14 @@
         ], 
         "Kreditmanagerin"
     ], 
-    "Aufbereitungsingenieur": [
+    "Arbeitsjurist": [
         [
-            "AufbereitungsingenieurIn", 
-            "Aufbereitungsingenieurin und Aufbereitungsingenieur", 
-            "Aufbereitungsingenieurin oder Aufbereitungsingenieur", 
-            "Aufbereitungsingenieurin bzw. Aufbereitungsingenieur"
+            "ArbeitsjuristIn", 
+            "Arbeitsjuristin und Arbeitsjurist", 
+            "Arbeitsjuristin oder Arbeitsjurist", 
+            "Arbeitsjuristin bzw. Arbeitsjurist"
         ], 
-        "Aufbereitungsingenieurin"
+        "Arbeitsjuristin"
     ], 
     "Zuschneider": [
         [
@@ -7133,6 +7138,16 @@
         ], 
         "Rettungsassistentin"
     ], 
+    "Maler": [
+        [
+            "MalerInnen", 
+            "Malerinnen und Maler", 
+            "Malerin oder Maler", 
+            "Malerin und Maler", 
+            "Malerin bzw. Maler"
+        ], 
+        "Malerin"
+    ], 
     "Glasgemengemacher": [
         [
             "GlasgemengemacherIn", 
@@ -7261,14 +7276,15 @@
         ], 
         "Textilmechanikerin"
     ], 
-    "Modistenmeister": [
+    "Leiter": [
         [
-            "ModistenmeisterIn", 
-            "Modistenmeisterin und Modistenmeister", 
-            "Modistenmeisterin oder Modistenmeister", 
-            "Modistenmeisterin bzw. Modistenmeister"
+            "LeiterInnen", 
+            "Leiterinnen und Leiter", 
+            "Leiterin oder Leiter", 
+            "Leiterin und Leiter", 
+            "Leiterin bzw. Leiter"
         ], 
-        "Modistenmeisterin"
+        "Leiterin"
     ], 
     "Stanz- und Umformmechaniker": [
         [
@@ -7652,15 +7668,6 @@
             "Eisenbeschichtungswerkerin bzw. Eisenbeschichtungswerker"
         ], 
         "Eisenbeschichtungswerkerin"
-    ], 
-    "Wachsziehermeister": [
-        [
-            "WachsziehermeisterIn", 
-            "Wachsziehermeisterin und Wachsziehermeister", 
-            "Wachsziehermeisterin oder Wachsziehermeister", 
-            "Wachsziehermeisterin bzw. Wachsziehermeister"
-        ], 
-        "Wachsziehermeisterin"
     ], 
     "Land- und Baumaschinenmechatroniker": [
         [
@@ -8141,14 +8148,6 @@
         ], 
         "Abfalltechnikerin"
     ], 
-    "Produktionstechnologe": [
-        [
-            "Produktionstechnologin und Produktionstechnologe", 
-            "Produktionstechnologin oder Produktionstechnologe", 
-            "Produktionstechnologin bzw. Produktionstechnologe"
-        ], 
-        "Produktionstechnologin"
-    ], 
     "Karikaturist": [
         [
             "KarikaturistIn", 
@@ -8210,14 +8209,6 @@
             "Filmgesch\u00e4ftsf\u00fchrerin bzw. Filmgesch\u00e4ftsf\u00fchrer"
         ], 
         "Filmgesch\u00e4ftsf\u00fchrerin"
-    ], 
-    "Researcher": [
-        [
-            "Personalvermittler und Researcher", 
-            "Personalvermittler oder Researcher", 
-            "Personalvermittler bzw. Researcher"
-        ], 
-        "Personalvermittler"
     ], 
     "Albanologe": [
         [
@@ -9241,14 +9232,14 @@
         ], 
         "\u00d6lraffiniererin"
     ], 
-    "Landschaftsarchitekt": [
+    "Finanzdienstleister": [
         [
-            "LandschaftsarchitektIn", 
-            "Landschaftsarchitektin und Landschaftsarchitekt", 
-            "Landschaftsarchitektin oder Landschaftsarchitekt", 
-            "Landschaftsarchitektin bzw. Landschaftsarchitekt"
+            "FinanzdienstleisterIn", 
+            "Finanzdienstleisterin und Finanzdienstleister", 
+            "Finanzdienstleisterin oder Finanzdienstleister", 
+            "Finanzdienstleisterin bzw. Finanzdienstleister"
         ], 
-        "Landschaftsarchitektin"
+        "Finanzdienstleisterin"
     ], 
     "Getreidefacharbeiter": [
         [
@@ -9294,6 +9285,14 @@
         ], 
         "Key-Account-Managerin"
     ], 
+    "Fachverk\u00e4ufer im Pflanzen und Saatgut": [
+        [
+            "Fachverk\u00e4uferin im Pflanzen und Saatgut und Fachverk\u00e4ufer im Pflanzen und Saatgut", 
+            "Fachverk\u00e4uferin im Pflanzen und Saatgut oder Fachverk\u00e4ufer im Pflanzen und Saatgut", 
+            "Fachverk\u00e4uferin im Pflanzen und Saatgut bzw. Fachverk\u00e4ufer im Pflanzen und Saatgut"
+        ], 
+        "Fachverk\u00e4uferin im Pflanzen und Saatgut"
+    ], 
     "Maschinensetzer": [
         [
             "MaschinensetzerIn", 
@@ -9321,14 +9320,13 @@
         ], 
         "Industrieelektrikerin"
     ], 
-    "N\u00e4hmaschinenmechaniker": [
+    "Technischer Zeichner im Holztechnik": [
         [
-            "N\u00e4hmaschinenmechanikerIn", 
-            "N\u00e4hmaschinenmechanikerin und N\u00e4hmaschinenmechaniker", 
-            "N\u00e4hmaschinenmechanikerin oder N\u00e4hmaschinenmechaniker", 
-            "N\u00e4hmaschinenmechanikerin bzw. N\u00e4hmaschinenmechaniker"
+            "Technische Zeichnerin im Holztechnik und Technischer Zeichner im Holztechnik", 
+            "Technische Zeichnerin im Holztechnik oder Technischer Zeichner im Holztechnik", 
+            "Technische Zeichnerin im Holztechnik bzw. Technischer Zeichner im Holztechnik"
         ], 
-        "N\u00e4hmaschinenmechanikerin"
+        "Technische Zeichnerin im Holztechnik"
     ], 
     "Katamaranlehrer": [
         [
@@ -10155,14 +10153,14 @@
         ], 
         "Textilveredlerin"
     ], 
-    "Informationselektroniker": [
+    "Wachsziehermeister": [
         [
-            "InformationselektronikerIn", 
-            "Informationselektronikerin und Informationselektroniker", 
-            "Informationselektronikerin oder Informationselektroniker", 
-            "Informationselektronikerin bzw. Informationselektroniker"
+            "WachsziehermeisterIn", 
+            "Wachsziehermeisterin und Wachsziehermeister", 
+            "Wachsziehermeisterin oder Wachsziehermeister", 
+            "Wachsziehermeisterin bzw. Wachsziehermeister"
         ], 
-        "Informationselektronikerin"
+        "Wachsziehermeisterin"
     ], 
     "Statistiker": [
         [
@@ -10384,6 +10382,15 @@
             "Krankenversicherungsvertragsverwalterin bzw. Krankenversicherungsvertragsverwalter"
         ], 
         "Krankenversicherungsvertragsverwalterin"
+    ], 
+    "Kundendienstfacharbeiter": [
+        [
+            "KundendienstfacharbeiterIn", 
+            "Kundendienstfacharbeiterin und Kundendienstfacharbeiter", 
+            "Kundendienstfacharbeiterin oder Kundendienstfacharbeiter", 
+            "Kundendienstfacharbeiterin bzw. Kundendienstfacharbeiter"
+        ], 
+        "Kundendienstfacharbeiterin"
     ], 
     "Goldschl\u00e4ger": [
         [
@@ -10728,14 +10735,14 @@
         ], 
         "W\u00e4rmestellengehilfin"
     ], 
-    "Tankwart": [
+    "Genderwissenschaftler": [
         [
-            "TankwartIn", 
-            "Tankwartin und Tankwart", 
-            "Tankwartin oder Tankwart", 
-            "Tankwartin bzw. Tankwart"
+            "GenderwissenschaftlerIn", 
+            "Genderwissenschaftlerin und Genderwissenschaftler", 
+            "Genderwissenschaftlerin oder Genderwissenschaftler", 
+            "Genderwissenschaftlerin bzw. Genderwissenschaftler"
         ], 
-        "Tankwartin"
+        "Genderwissenschaftlerin"
     ], 
     "Pilot": [
         [
@@ -11028,14 +11035,15 @@
         ], 
         "Konservierungsgutfrosterin"
     ], 
-    "Kommunikationsdesigner": [
+    "Versicherungsmakler": [
         [
-            "KommunikationsdesignerIn", 
-            "Kommunikationsdesignerin und Kommunikationsdesigner", 
-            "Kommunikationsdesignerin oder Kommunikationsdesigner", 
-            "Kommunikationsdesignerin bzw. Kommunikationsdesigner"
+            "Versicherungsmaklerinnen und Versicherungsmakler", 
+            "VersicherungsmaklerInnen", 
+            "Versicherungsmaklerin oder Versicherungsmakler", 
+            "Versicherungsmaklerin und Versicherungsmakler", 
+            "Versicherungsmaklerin bzw. Versicherungsmakler"
         ], 
-        "Kommunikationsdesignerin"
+        "Versicherungsmaklerin"
     ], 
     "Kartograf": [
         [
@@ -11046,14 +11054,15 @@
         ], 
         "Kartografin"
     ], 
-    "Touristikassistent": [
+    "Internationaler Wirtschaftsfachmann": [
         [
-            "TouristikassistentIn", 
-            "Touristikassistentin und Touristikassistent", 
-            "Touristikassistentin oder Touristikassistent", 
-            "Touristikassistentin bzw. Touristikassistent"
+            "Internationaler Wirtschaftsfachkraft", 
+            "Internationaler Wirtschaftsfachleute", 
+            "Internationale Wirtschaftsfachfrau und Internationaler Wirtschaftsfachmann", 
+            "Internationale Wirtschaftsfachfrau oder Internationaler Wirtschaftsfachmann", 
+            "Internationale Wirtschaftsfachfrau bzw. Internationaler Wirtschaftsfachmann"
         ], 
-        "Touristikassistentin"
+        "Internationale Wirtschaftsfachfrau"
     ], 
     "Pannendienstfahrer": [
         [
@@ -11602,6 +11611,14 @@
         ], 
         "Heizerin"
     ], 
+    "Glasmacher im Chemisch-technischer Hohlglasmacher": [
+        [
+            "Glasmacherin im Chemisch-technische Hohlglasmacherin und Glasmacher im Chemisch-technischer Hohlglasmacher", 
+            "Glasmacherin im Chemisch-technische Hohlglasmacherin oder Glasmacher im Chemisch-technischer Hohlglasmacher", 
+            "Glasmacherin im Chemisch-technische Hohlglasmacherin bzw. Glasmacher im Chemisch-technischer Hohlglasmacher"
+        ], 
+        "Glasmacherin im Chemisch-technische Hohlglasmacherin"
+    ], 
     "Fachpraktiker f\u00fcr Fahrzeugpflege": [
         [
             "Fachpraktikerin f\u00fcr Fahrzeugpflege und Fachpraktiker f\u00fcr Fahrzeugpflege", 
@@ -11637,14 +11654,23 @@
         ], 
         "Wagnerin"
     ], 
-    "Telefonist": [
+    "Drehbuchautor": [
         [
-            "Telefonistinnen und Telefonisten", 
-            "Telefonistin oder Telefonist", 
-            "Telefonistin und Telefonist", 
-            "Telefonistin bzw. Telefonist"
+            "DrehbuchautorIn", 
+            "Drehbuchautorin und Drehbuchautor", 
+            "Drehbuchautorin oder Drehbuchautor", 
+            "Drehbuchautorin bzw. Drehbuchautor"
         ], 
-        "Telefonistin"
+        "Drehbuchautorin"
+    ], 
+    "Honorarprofessor": [
+        [
+            "HonorarprofessorIn", 
+            "Honorarprofessorin und Honorarprofessor", 
+            "Honorarprofessorin oder Honorarprofessor", 
+            "Honorarprofessorin bzw. Honorarprofessor"
+        ], 
+        "Honorarprofessorin"
     ], 
     "Lager- und Transportarbeiter": [
         [
@@ -12269,14 +12295,14 @@
         ], 
         "Iranistin"
     ], 
-    "Chemiefacharbeiter": [
+    "Fachverk\u00e4ufer": [
         [
-            "ChemiefacharbeiterIn", 
-            "Chemiefacharbeiterin und Chemiefacharbeiter", 
-            "Chemiefacharbeiterin oder Chemiefacharbeiter", 
-            "Chemiefacharbeiterin bzw. Chemiefacharbeiter"
+            "Fachverk\u00e4uferIn", 
+            "Fachverk\u00e4uferin und Fachverk\u00e4ufer", 
+            "Fachverk\u00e4uferin oder Fachverk\u00e4ufer", 
+            "Fachverk\u00e4uferin bzw. Fachverk\u00e4ufer"
         ], 
-        "Chemiefacharbeiterin"
+        "Fachverk\u00e4uferin"
     ], 
     "Hauswart": [
         [
@@ -12286,15 +12312,6 @@
             "Hauswartin bzw. Hauswart"
         ], 
         "Hauswartin"
-    ], 
-    "Umweltberater": [
-        [
-            "UmweltberaterIn", 
-            "Umweltberaterin und Umweltberater", 
-            "Umweltberaterin oder Umweltberater", 
-            "Umweltberaterin bzw. Umweltberater"
-        ], 
-        "Umweltberaterin"
     ], 
     "Purser": [
         [
@@ -13399,13 +13416,14 @@
         ], 
         "Pharmakantin"
     ], 
-    "Algesiologe": [
+    "Orthop\u00e4dieschuhmachermeister": [
         [
-            "Algesiologin und Algesiologe", 
-            "Algesiologin oder Algesiologe", 
-            "Algesiologin bzw. Algesiologe"
+            "Orthop\u00e4dieschuhmachermeisterIn", 
+            "Orthop\u00e4dieschuhmachermeisterin und Orthop\u00e4dieschuhmachermeister", 
+            "Orthop\u00e4dieschuhmachermeisterin oder Orthop\u00e4dieschuhmachermeister", 
+            "Orthop\u00e4dieschuhmachermeisterin bzw. Orthop\u00e4dieschuhmachermeister"
         ], 
-        "Algesiologin"
+        "Orthop\u00e4dieschuhmachermeisterin"
     ], 
     "Elektromaschinenbauerhelfer": [
         [
@@ -13663,16 +13681,6 @@
         ], 
         "Pferdewirtschafterin"
     ], 
-    "Leiter": [
-        [
-            "LeiterInnen", 
-            "Leiterinnen und Leiter", 
-            "Leiterin oder Leiter", 
-            "Leiterin und Leiter", 
-            "Leiterin bzw. Leiter"
-        ], 
-        "Leiterin"
-    ], 
     "Rechtsanwaltsfachangestellter": [
         [
             "RechtsanwaltsfachangestellteR", 
@@ -13816,6 +13824,15 @@
         ], 
         "Drehofenarbeiterin"
     ], 
+    "Schiffsfunker": [
+        [
+            "SchiffsfunkerIn", 
+            "Schiffsfunkerin und Schiffsfunker", 
+            "Schiffsfunkerin oder Schiffsfunker", 
+            "Schiffsfunkerin bzw. Schiffsfunker"
+        ], 
+        "Schiffsfunkerin"
+    ], 
     "Wertpapieranalyst": [
         [
             "WertpapieranalystIn", 
@@ -13824,14 +13841,6 @@
             "Wertpapieranalystin bzw. Wertpapieranalyst"
         ], 
         "Wertpapieranalystin"
-    ], 
-    "Sozialversicherungsfachangestellter im Rentenversicherung": [
-        [
-            "Sozialversicherungsfachangestellte im Rentenversicherung und Sozialversicherungsfachangestellter im Rentenversicherung", 
-            "Sozialversicherungsfachangestellte im Rentenversicherung oder Sozialversicherungsfachangestellter im Rentenversicherung", 
-            "Sozialversicherungsfachangestellte im Rentenversicherung bzw. Sozialversicherungsfachangestellter im Rentenversicherung"
-        ], 
-        "Sozialversicherungsfachangestellte im Rentenversicherung"
     ], 
     "Schnittmeister": [
         [
@@ -14057,14 +14066,6 @@
             "Handels-\u00d6konomin bzw. Handels-\u00d6konom"
         ], 
         "Handels-\u00d6konomin"
-    ], 
-    "Fachzahnarzt": [
-        [
-            "Fachzahn\u00e4rztin und Fachzahnarzt", 
-            "Fachzahn\u00e4rztin oder Fachzahnarzt", 
-            "Fachzahn\u00e4rztin bzw. Fachzahnarzt"
-        ], 
-        "Fachzahn\u00e4rztin"
     ], 
     "Filmvorf\u00fchrer": [
         [
@@ -14360,14 +14361,14 @@
         ], 
         "Ledersch\u00e4rferin"
     ], 
-    "Schiffsf\u00fchrer": [
+    "Schwangerschaftskonfliktberater": [
         [
-            "Schiffsf\u00fchrerIn", 
-            "Schiffsf\u00fchrerin und Schiffsf\u00fchrer", 
-            "Schiffsf\u00fchrerin oder Schiffsf\u00fchrer", 
-            "Schiffsf\u00fchrerin bzw. Schiffsf\u00fchrer"
+            "SchwangerschaftskonfliktberaterIn", 
+            "Schwangerschaftskonfliktberaterin und Schwangerschaftskonfliktberater", 
+            "Schwangerschaftskonfliktberaterin oder Schwangerschaftskonfliktberater", 
+            "Schwangerschaftskonfliktberaterin bzw. Schwangerschaftskonfliktberater"
         ], 
-        "Schiffsf\u00fchrerin"
+        "Schwangerschaftskonfliktberaterin"
     ], 
     "Zoologe": [
         [
@@ -14618,15 +14619,6 @@
         ], 
         "Blitzschutzmonteurin"
     ], 
-    "Braumeister": [
-        [
-            "BraumeisterIn", 
-            "Braumeisterin und Braumeister", 
-            "Braumeisterin oder Braumeister", 
-            "Braumeisterin bzw. Braumeister"
-        ], 
-        "Braumeisterin"
-    ], 
     "Wurstwarenhersteller": [
         [
             "WurstwarenherstellerIn", 
@@ -14750,14 +14742,23 @@
         ], 
         "Kieferorthop\u00e4dische Helferin"
     ], 
-    "Schwangerschaftskonfliktberater": [
+    "Produktionsleiter": [
         [
-            "SchwangerschaftskonfliktberaterIn", 
-            "Schwangerschaftskonfliktberaterin und Schwangerschaftskonfliktberater", 
-            "Schwangerschaftskonfliktberaterin oder Schwangerschaftskonfliktberater", 
-            "Schwangerschaftskonfliktberaterin bzw. Schwangerschaftskonfliktberater"
+            "ProduktionsleiterIn", 
+            "Produktionsleiterin und Produktionsleiter", 
+            "Produktionsleiterin oder Produktionsleiter", 
+            "Produktionsleiterin bzw. Produktionsleiter"
         ], 
-        "Schwangerschaftskonfliktberaterin"
+        "Produktionsleiterin"
+    ], 
+    "Verkaufsfahrer": [
+        [
+            "VerkaufsfahrerIn", 
+            "Verkaufsfahrerin und Verkaufsfahrer", 
+            "Verkaufsfahrerin oder Verkaufsfahrer", 
+            "Verkaufsfahrerin bzw. Verkaufsfahrer"
+        ], 
+        "Verkaufsfahrerin"
     ], 
     "Tiermedizinischer Fachangestellter": [
         [
@@ -14969,6 +14970,15 @@
             "Rollladen- und Jalousieschlosserin bzw. Rollladen- und Jalousieschlosser"
         ], 
         "Rollladen- und Jalousieschlosserin"
+    ], 
+    "Goldschmiedemeister": [
+        [
+            "GoldschmiedemeisterIn", 
+            "Goldschmiedemeisterin und Goldschmiedemeister", 
+            "Goldschmiedemeisterin oder Goldschmiedemeister", 
+            "Goldschmiedemeisterin bzw. Goldschmiedemeister"
+        ], 
+        "Goldschmiedemeisterin"
     ], 
     "Hoteldirektor": [
         [
@@ -15193,14 +15203,6 @@
         ], 
         "Scanner-Operatorin"
     ], 
-    "Fremdsprachensteward": [
-        [
-            "Fremdsprachenhostess und Fremdsprachensteward", 
-            "Fremdsprachenhostess oder Fremdsprachensteward", 
-            "Fremdsprachenhostess bzw. Fremdsprachensteward"
-        ], 
-        "Fremdsprachenhostess"
-    ], 
     "Technischer Modellbauer im Gie\u00dferei": [
         [
             "Technische Modellbauerin im Gie\u00dferei und Technischer Modellbauer im Gie\u00dferei", 
@@ -15298,6 +15300,15 @@
         ], 
         "Kosmetikerin"
     ], 
+    "Schiffsf\u00fchrer": [
+        [
+            "Schiffsf\u00fchrerIn", 
+            "Schiffsf\u00fchrerin und Schiffsf\u00fchrer", 
+            "Schiffsf\u00fchrerin oder Schiffsf\u00fchrer", 
+            "Schiffsf\u00fchrerin bzw. Schiffsf\u00fchrer"
+        ], 
+        "Schiffsf\u00fchrerin"
+    ], 
     "Bezirksnotar": [
         [
             "BezirksnotarIn", 
@@ -15333,14 +15344,14 @@
         ], 
         "Physiklaborantin"
     ], 
-    "Drehbuchautor": [
+    "Steinsetzer": [
         [
-            "DrehbuchautorIn", 
-            "Drehbuchautorin und Drehbuchautor", 
-            "Drehbuchautorin oder Drehbuchautor", 
-            "Drehbuchautorin bzw. Drehbuchautor"
+            "SteinsetzerIn", 
+            "Steinsetzerin und Steinsetzer", 
+            "Steinsetzerin oder Steinsetzer", 
+            "Steinsetzerin bzw. Steinsetzer"
         ], 
-        "Drehbuchautorin"
+        "Steinsetzerin"
     ], 
     "Fachangestellter f\u00fcr Medien- und Informationsdienste im Bibliothek": [
         [
@@ -15689,6 +15700,14 @@
             "Fotogravurzeichnerin bzw. Fotogravurzeichner"
         ], 
         "Fotogravurzeichnerin"
+    ], 
+    "Metallsinterer": [
+        [
+            "Metallsinterin und Metallsinterer", 
+            "Metallsinterin oder Metallsinterer", 
+            "Metallsinterin bzw. Metallsinterer"
+        ], 
+        "Metallsinterin"
     ], 
     "B\u00f6rsenh\u00e4ndler": [
         [
@@ -16091,15 +16110,6 @@
             "Fachverk\u00e4uferin im Kfz-Zubeh\u00f6r und Reifen bzw. Fachverk\u00e4ufer im Kfz-Zubeh\u00f6r und Reifen"
         ], 
         "Fachverk\u00e4uferin im Kfz-Zubeh\u00f6r und Reifen"
-    ], 
-    "Greenkeeper-Assistent": [
-        [
-            "Greenkeeper-AssistentIn", 
-            "Greenkeeper-Assistentin und Greenkeeper-Assistent", 
-            "Greenkeeper-Assistentin oder Greenkeeper-Assistent", 
-            "Greenkeeper-Assistentin bzw. Greenkeeper-Assistent"
-        ], 
-        "Greenkeeper-Assistentin"
     ], 
     "Veterin\u00e4rmedizinischtechnischer Lehrassistent": [
         [
@@ -16527,13 +16537,14 @@
         ], 
         "\u00d6konomin"
     ], 
-    "Landschafts\u00f6kologe": [
+    "Verkehrsplaner": [
         [
-            "Landschafts\u00f6kologin und Landschafts\u00f6kologe", 
-            "Landschafts\u00f6kologin oder Landschafts\u00f6kologe", 
-            "Landschafts\u00f6kologin bzw. Landschafts\u00f6kologe"
+            "VerkehrsplanerIn", 
+            "Verkehrsplanerin und Verkehrsplaner", 
+            "Verkehrsplanerin oder Verkehrsplaner", 
+            "Verkehrsplanerin bzw. Verkehrsplaner"
         ], 
-        "Landschafts\u00f6kologin"
+        "Verkehrsplanerin"
     ], 
     "Metallschlauchmacher": [
         [
@@ -16561,14 +16572,6 @@
             "Kommissioniererin bzw. Kommissionierer"
         ], 
         "Kommissioniererin"
-    ], 
-    "K\u00fcnstlerischer Betriebsdirektor": [
-        [
-            "K\u00fcnstlerische Betriebsdirektorin und K\u00fcnstlerischer Betriebsdirektor", 
-            "K\u00fcnstlerische Betriebsdirektorin oder K\u00fcnstlerischer Betriebsdirektor", 
-            "K\u00fcnstlerische Betriebsdirektorin bzw. K\u00fcnstlerischer Betriebsdirektor"
-        ], 
-        "K\u00fcnstlerische Betriebsdirektorin"
     ], 
     "Planierer": [
         [
@@ -17336,15 +17339,6 @@
         ], 
         "Damenschneiderin"
     ], 
-    "Schwimmmeister": [
-        [
-            "SchwimmmeisterIn", 
-            "Schwimmmeisterin und Schwimmmeister", 
-            "Schwimmmeisterin oder Schwimmmeister", 
-            "Schwimmmeisterin bzw. Schwimmmeister"
-        ], 
-        "Schwimmmeisterin"
-    ], 
     "Hochdruckrohrschlosser": [
         [
             "HochdruckrohrschlosserIn", 
@@ -17462,12 +17456,11 @@
     ], 
     "Zucker- und S\u00fc\u00dfwarenmaschinensteuerer": [
         [
-            "Zucker- und S\u00fc\u00dfwarenmaschinensteuererIn", 
-            "Zucker- und S\u00fc\u00dfwarenmaschinensteuererin und Zucker- und S\u00fc\u00dfwarenmaschinensteuerer", 
-            "Zucker- und S\u00fc\u00dfwarenmaschinensteuererin oder Zucker- und S\u00fc\u00dfwarenmaschinensteuerer", 
-            "Zucker- und S\u00fc\u00dfwarenmaschinensteuererin bzw. Zucker- und S\u00fc\u00dfwarenmaschinensteuerer"
+            "Zucker- und S\u00fc\u00dfwarenmaschinensteuerin und Zucker- und S\u00fc\u00dfwarenmaschinensteuerer", 
+            "Zucker- und S\u00fc\u00dfwarenmaschinensteuerin oder Zucker- und S\u00fc\u00dfwarenmaschinensteuerer", 
+            "Zucker- und S\u00fc\u00dfwarenmaschinensteuerin bzw. Zucker- und S\u00fc\u00dfwarenmaschinensteuerer"
         ], 
-        "Zucker- und S\u00fc\u00dfwarenmaschinensteuererin"
+        "Zucker- und S\u00fc\u00dfwarenmaschinensteuerin"
     ], 
     "Fremdsprachenassistent": [
         [
@@ -17700,14 +17693,15 @@
         ], 
         "Inkassobeauftragte"
     ], 
-    "Forstmeister": [
+    "Sportfachmann": [
         [
-            "ForstmeisterIn", 
-            "Forstmeisterin und Forstmeister", 
-            "Forstmeisterin oder Forstmeister", 
-            "Forstmeisterin bzw. Forstmeister"
+            "Sportfachkraft", 
+            "Sportfachleute", 
+            "Sportfachfrau und Sportfachmann", 
+            "Sportfachfrau oder Sportfachmann", 
+            "Sportfachfrau bzw. Sportfachmann"
         ], 
-        "Forstmeisterin"
+        "Sportfachfrau"
     ], 
     "Tierversuchstechniker": [
         [
@@ -17735,15 +17729,6 @@
             "M\u00fchlenbautechnikerin bzw. M\u00fchlenbautechniker"
         ], 
         "M\u00fchlenbautechnikerin"
-    ], 
-    "Holzf\u00e4ller": [
-        [
-            "Holzf\u00e4llerIn", 
-            "Holzf\u00e4llerin und Holzf\u00e4ller", 
-            "Holzf\u00e4llerin oder Holzf\u00e4ller", 
-            "Holzf\u00e4llerin bzw. Holzf\u00e4ller"
-        ], 
-        "Holzf\u00e4llerin"
     ], 
     "Bildungsreferent": [
         [
@@ -18192,14 +18177,14 @@
         ], 
         "Antennenw\u00e4rterin"
     ], 
-    "Film- und Fernsehdramaturg": [
+    "K\u00e4lteanlagenbauermeister": [
         [
-            "Film- und FernsehdramaturgIn", 
-            "Film- und Fernsehdramaturgin und Film- und Fernsehdramaturg", 
-            "Film- und Fernsehdramaturgin oder Film- und Fernsehdramaturg", 
-            "Film- und Fernsehdramaturgin bzw. Film- und Fernsehdramaturg"
+            "K\u00e4lteanlagenbauermeisterIn", 
+            "K\u00e4lteanlagenbauermeisterin und K\u00e4lteanlagenbauermeister", 
+            "K\u00e4lteanlagenbauermeisterin oder K\u00e4lteanlagenbauermeister", 
+            "K\u00e4lteanlagenbauermeisterin bzw. K\u00e4lteanlagenbauermeister"
         ], 
-        "Film- und Fernsehdramaturgin"
+        "K\u00e4lteanlagenbauermeisterin"
     ], 
     "Pumpenw\u00e4rter": [
         [
@@ -19180,14 +19165,6 @@
         ], 
         "Drahtwarenmacherin"
     ], 
-    "Mannequin": [
-        [
-            "Dressman und Mannequin", 
-            "Dressman oder Mannequin", 
-            "Dressman bzw. Mannequin"
-        ], 
-        "Dressman"
-    ], 
     "Keramgie\u00dfer": [
         [
             "Keramgie\u00dferIn", 
@@ -19392,13 +19369,14 @@
         ], 
         "Medizinisch-technische Lehrassistentin im Laboratoriumstechnik"
     ], 
-    "Fachverk\u00e4ufer im Pflanzen und Saatgut": [
+    "Streichmaschinenf\u00fchrer": [
         [
-            "Fachverk\u00e4uferin im Pflanzen und Saatgut und Fachverk\u00e4ufer im Pflanzen und Saatgut", 
-            "Fachverk\u00e4uferin im Pflanzen und Saatgut oder Fachverk\u00e4ufer im Pflanzen und Saatgut", 
-            "Fachverk\u00e4uferin im Pflanzen und Saatgut bzw. Fachverk\u00e4ufer im Pflanzen und Saatgut"
+            "Streichmaschinenf\u00fchrerIn", 
+            "Streichmaschinenf\u00fchrerin und Streichmaschinenf\u00fchrer", 
+            "Streichmaschinenf\u00fchrerin oder Streichmaschinenf\u00fchrer", 
+            "Streichmaschinenf\u00fchrerin bzw. Streichmaschinenf\u00fchrer"
         ], 
-        "Fachverk\u00e4uferin im Pflanzen und Saatgut"
+        "Streichmaschinenf\u00fchrerin"
     ], 
     "Spitzendreher": [
         [
@@ -19543,15 +19521,6 @@
             "Elektrosteigerin bzw. Elektrosteiger"
         ], 
         "Elektrosteigerin"
-    ], 
-    "Genderwissenschaftler": [
-        [
-            "GenderwissenschaftlerIn", 
-            "Genderwissenschaftlerin und Genderwissenschaftler", 
-            "Genderwissenschaftlerin oder Genderwissenschaftler", 
-            "Genderwissenschaftlerin bzw. Genderwissenschaftler"
-        ], 
-        "Genderwissenschaftlerin"
     ], 
     "Tierzuchtberater": [
         [
@@ -20263,6 +20232,15 @@
         ], 
         "Fachverk\u00e4uferin im Drogeriewaren"
     ], 
+    "N\u00e4hmaschinenmechaniker": [
+        [
+            "N\u00e4hmaschinenmechanikerIn", 
+            "N\u00e4hmaschinenmechanikerin und N\u00e4hmaschinenmechaniker", 
+            "N\u00e4hmaschinenmechanikerin oder N\u00e4hmaschinenmechaniker", 
+            "N\u00e4hmaschinenmechanikerin bzw. N\u00e4hmaschinenmechaniker"
+        ], 
+        "N\u00e4hmaschinenmechanikerin"
+    ], 
     "Hotelangestellter": [
         [
             "HotelangestellteR", 
@@ -20528,14 +20506,15 @@
         ], 
         "H\u00f6rger\u00e4teakustikermeisterin"
     ], 
-    "Schiffsfunker": [
+    "Bildhauer": [
         [
-            "SchiffsfunkerIn", 
-            "Schiffsfunkerin und Schiffsfunker", 
-            "Schiffsfunkerin oder Schiffsfunker", 
-            "Schiffsfunkerin bzw. Schiffsfunker"
+            "Bildhauerinnen und Bildhauer", 
+            "BildhauerInnen", 
+            "Bildhauerin oder Bildhauer", 
+            "Bildhauerin und Bildhauer", 
+            "Bildhauerin bzw. Bildhauer"
         ], 
-        "Schiffsfunkerin"
+        "Bildhauerin"
     ], 
     "Sportp\u00e4dagoge": [
         [
@@ -20746,6 +20725,15 @@
             "Systemprogrammiererin bzw. Systemprogrammierer"
         ], 
         "Systemprogrammiererin"
+    ], 
+    "Comic-Zeichner": [
+        [
+            "Comic-ZeichnerIn", 
+            "Comic-Zeichnerin und Comic-Zeichner", 
+            "Comic-Zeichnerin oder Comic-Zeichner", 
+            "Comic-Zeichnerin bzw. Comic-Zeichner"
+        ], 
+        "Comic-Zeichnerin"
     ], 
     "Obst- und Gem\u00fcsekonservierer": [
         [
@@ -20978,16 +20966,6 @@
         ], 
         "Perspektivzeichnerin"
     ], 
-    "Bildhauer": [
-        [
-            "Bildhauerinnen und Bildhauer", 
-            "BildhauerInnen", 
-            "Bildhauerin oder Bildhauer", 
-            "Bildhauerin und Bildhauer", 
-            "Bildhauerin bzw. Bildhauer"
-        ], 
-        "Bildhauerin"
-    ], 
     "Gabelstaplerfahrer": [
         [
             "GabelstaplerfahrerIn", 
@@ -21049,6 +21027,15 @@
             "Dritte Technische Schiffsoffizierin bzw. Dritter Technischer Schiffsoffizier"
         ], 
         "Dritte Technische Schiffsoffizierin"
+    ], 
+    "Kommunikationsdesigner": [
+        [
+            "KommunikationsdesignerIn", 
+            "Kommunikationsdesignerin und Kommunikationsdesigner", 
+            "Kommunikationsdesignerin oder Kommunikationsdesigner", 
+            "Kommunikationsdesignerin bzw. Kommunikationsdesigner"
+        ], 
+        "Kommunikationsdesignerin"
     ], 
     "Textilreinigerwerker": [
         [
@@ -21385,15 +21372,6 @@
         ], 
         "Nieterhelferin"
     ], 
-    "Arbeitsvermittler": [
-        [
-            "ArbeitsvermittlerIn", 
-            "Arbeitsvermittlerin und Arbeitsvermittler", 
-            "Arbeitsvermittlerin oder Arbeitsvermittler", 
-            "Arbeitsvermittlerin bzw. Arbeitsvermittler"
-        ], 
-        "Arbeitsvermittlerin"
-    ], 
     "Kurator": [
         [
             "KuratorIn", 
@@ -21709,14 +21687,14 @@
         ], 
         "Verfahrenstechnikerin"
     ], 
-    "Agrarinformatiker": [
+    "Modistenmeister": [
         [
-            "AgrarinformatikerIn", 
-            "Agrarinformatikerin und Agrarinformatiker", 
-            "Agrarinformatikerin oder Agrarinformatiker", 
-            "Agrarinformatikerin bzw. Agrarinformatiker"
+            "ModistenmeisterIn", 
+            "Modistenmeisterin und Modistenmeister", 
+            "Modistenmeisterin oder Modistenmeister", 
+            "Modistenmeisterin bzw. Modistenmeister"
         ], 
-        "Agrarinformatikerin"
+        "Modistenmeisterin"
     ], 
     "Kommunikationspsychologe": [
         [
@@ -21769,15 +21747,6 @@
             "Kalanderf\u00fchrerin bzw. Kalanderf\u00fchrer"
         ], 
         "Kalanderf\u00fchrerin"
-    ], 
-    "Natur- und Landschaftspfleger": [
-        [
-            "Natur- und LandschaftspflegerIn", 
-            "Natur- und Landschaftspflegerin und Natur- und Landschaftspfleger", 
-            "Natur- und Landschaftspflegerin oder Natur- und Landschaftspfleger", 
-            "Natur- und Landschaftspflegerin bzw. Natur- und Landschaftspfleger"
-        ], 
-        "Natur- und Landschaftspflegerin"
     ], 
     "Glaswerker": [
         [
@@ -21966,14 +21935,14 @@
         ], 
         "Informationsdesignerin"
     ], 
-    "Altenpflegehelfer": [
+    "Gesundheits- und Sozial\u00f6konom": [
         [
-            "AltenpflegehelferIn", 
-            "Altenpflegehelferin und Altenpflegehelfer", 
-            "Altenpflegehelferin oder Altenpflegehelfer", 
-            "Altenpflegehelferin bzw. Altenpflegehelfer"
+            "Gesundheits- und Sozial\u00f6konomIn", 
+            "Gesundheits- und Sozial\u00f6konomin und Gesundheits- und Sozial\u00f6konom", 
+            "Gesundheits- und Sozial\u00f6konomin oder Gesundheits- und Sozial\u00f6konom", 
+            "Gesundheits- und Sozial\u00f6konomin bzw. Gesundheits- und Sozial\u00f6konom"
         ], 
-        "Altenpflegehelferin"
+        "Gesundheits- und Sozial\u00f6konomin"
     ], 
     "Fachpraktiker f\u00fcr Textilreiniger": [
         [
@@ -22326,14 +22295,14 @@
         ], 
         "Latinistin"
     ], 
-    "Kunsttherapeut": [
+    "Agrarinformatiker": [
         [
-            "KunsttherapeutIn", 
-            "Kunsttherapeutin und Kunsttherapeut", 
-            "Kunsttherapeutin oder Kunsttherapeut", 
-            "Kunsttherapeutin bzw. Kunsttherapeut"
+            "AgrarinformatikerIn", 
+            "Agrarinformatikerin und Agrarinformatiker", 
+            "Agrarinformatikerin oder Agrarinformatiker", 
+            "Agrarinformatikerin bzw. Agrarinformatiker"
         ], 
-        "Kunsttherapeutin"
+        "Agrarinformatikerin"
     ], 
     "Kartografieingenieur": [
         [
@@ -22476,6 +22445,15 @@
         ], 
         "Bestattermeisterin"
     ], 
+    "Seilermeister": [
+        [
+            "SeilermeisterIn", 
+            "Seilermeisterin und Seilermeister", 
+            "Seilermeisterin oder Seilermeister", 
+            "Seilermeisterin bzw. Seilermeister"
+        ], 
+        "Seilermeisterin"
+    ], 
     "Schalungsbauer": [
         [
             "SchalungsbauerIn", 
@@ -22485,14 +22463,14 @@
         ], 
         "Schalungsbauerin"
     ], 
-    "Funkelektroniker": [
+    "Holzf\u00e4ller": [
         [
-            "FunkelektronikerIn", 
-            "Funkelektronikerin und Funkelektroniker", 
-            "Funkelektronikerin oder Funkelektroniker", 
-            "Funkelektronikerin bzw. Funkelektroniker"
+            "Holzf\u00e4llerIn", 
+            "Holzf\u00e4llerin und Holzf\u00e4ller", 
+            "Holzf\u00e4llerin oder Holzf\u00e4ller", 
+            "Holzf\u00e4llerin bzw. Holzf\u00e4ller"
         ], 
-        "Funkelektronikerin"
+        "Holzf\u00e4llerin"
     ], 
     "Eisen- und Metallerzeugerhelfer": [
         [
@@ -22786,15 +22764,6 @@
         ], 
         "Flugzeugmechanikerin"
     ], 
-    "Spielwarenmaler": [
-        [
-            "SpielwarenmalerIn", 
-            "Spielwarenmalerin und Spielwarenmaler", 
-            "Spielwarenmalerin oder Spielwarenmaler", 
-            "Spielwarenmalerin bzw. Spielwarenmaler"
-        ], 
-        "Spielwarenmalerin"
-    ], 
     "Zimmererpolier": [
         [
             "ZimmererpolierIn", 
@@ -22990,15 +22959,6 @@
             "Schweinem\u00e4sterin bzw. Schweinem\u00e4ster"
         ], 
         "Schweinem\u00e4sterin"
-    ], 
-    "Restaurantleiter": [
-        [
-            "RestaurantleiterIn", 
-            "Restaurantleiterin und Restaurantleiter", 
-            "Restaurantleiterin oder Restaurantleiter", 
-            "Restaurantleiterin bzw. Restaurantleiter"
-        ], 
-        "Restaurantleiterin"
     ], 
     "Fotograf": [
         [
@@ -23269,14 +23229,13 @@
         ], 
         "Schaberin"
     ], 
-    "Brennschneiderhelfer": [
+    "Fachpraktiker f\u00fcr Tiefbaufacharbeiter": [
         [
-            "BrennschneiderhelferIn", 
-            "Brennschneiderhelferin und Brennschneiderhelfer", 
-            "Brennschneiderhelferin oder Brennschneiderhelfer", 
-            "Brennschneiderhelferin bzw. Brennschneiderhelfer"
+            "Fachpraktikerin f\u00fcr Tiefbaufacharbeiter und Fachpraktiker f\u00fcr Tiefbaufacharbeiter", 
+            "Fachpraktikerin f\u00fcr Tiefbaufacharbeiter oder Fachpraktiker f\u00fcr Tiefbaufacharbeiter", 
+            "Fachpraktikerin f\u00fcr Tiefbaufacharbeiter bzw. Fachpraktiker f\u00fcr Tiefbaufacharbeiter"
         ], 
-        "Brennschneiderhelferin"
+        "Fachpraktikerin f\u00fcr Tiefbaufacharbeiter"
     ], 
     "Konstruktionsingenieur": [
         [
@@ -23618,15 +23577,14 @@
         ], 
         "Asphaltierervorarbeiterin"
     ], 
-    "Maler": [
+    "Baltist": [
         [
-            "MalerInnen", 
-            "Malerinnen und Maler", 
-            "Malerin oder Maler", 
-            "Malerin und Maler", 
-            "Malerin bzw. Maler"
+            "BaltistIn", 
+            "Baltistin und Baltist", 
+            "Baltistin oder Baltist", 
+            "Baltistin bzw. Baltist"
         ], 
-        "Malerin"
+        "Baltistin"
     ], 
     "Maschinenf\u00fchrer": [
         [
@@ -23814,14 +23772,14 @@
         ], 
         "Verkehrsbauingenieurin"
     ], 
-    "Werkzeugpr\u00fcfer": [
+    "Bildredakteur": [
         [
-            "Werkzeugpr\u00fcferIn", 
-            "Werkzeugpr\u00fcferin und Werkzeugpr\u00fcfer", 
-            "Werkzeugpr\u00fcferin oder Werkzeugpr\u00fcfer", 
-            "Werkzeugpr\u00fcferin bzw. Werkzeugpr\u00fcfer"
+            "BildredakteurIn", 
+            "Bildredakteurin und Bildredakteur", 
+            "Bildredakteurin oder Bildredakteur", 
+            "Bildredakteurin bzw. Bildredakteur"
         ], 
-        "Werkzeugpr\u00fcferin"
+        "Bildredakteurin"
     ], 
     "Werkstofftechniker": [
         [
@@ -24001,14 +23959,14 @@
         ], 
         "Tai-Chi-Chuan- und Qigong-Lehrerin"
     ], 
-    "Finanzdienstleister": [
+    "Textilverarbeiter": [
         [
-            "FinanzdienstleisterIn", 
-            "Finanzdienstleisterin und Finanzdienstleister", 
-            "Finanzdienstleisterin oder Finanzdienstleister", 
-            "Finanzdienstleisterin bzw. Finanzdienstleister"
+            "TextilverarbeiterIn", 
+            "Textilverarbeiterin und Textilverarbeiter", 
+            "Textilverarbeiterin oder Textilverarbeiter", 
+            "Textilverarbeiterin bzw. Textilverarbeiter"
         ], 
-        "Finanzdienstleisterin"
+        "Textilverarbeiterin"
     ], 
     "Bergbautechniker": [
         [
@@ -24683,14 +24641,13 @@
         ], 
         "Rundstrickerin"
     ], 
-    "Heizungsinstallateur": [
+    "Sozialversicherungsfachangestellter im Rentenversicherung": [
         [
-            "HeizungsinstallateurIn", 
-            "Heizungsinstallateurin und Heizungsinstallateur", 
-            "Heizungsinstallateurin oder Heizungsinstallateur", 
-            "Heizungsinstallateurin bzw. Heizungsinstallateur"
+            "Sozialversicherungsfachangestellte im Rentenversicherung und Sozialversicherungsfachangestellter im Rentenversicherung", 
+            "Sozialversicherungsfachangestellte im Rentenversicherung oder Sozialversicherungsfachangestellter im Rentenversicherung", 
+            "Sozialversicherungsfachangestellte im Rentenversicherung bzw. Sozialversicherungsfachangestellter im Rentenversicherung"
         ], 
-        "Heizungsinstallateurin"
+        "Sozialversicherungsfachangestellte im Rentenversicherung"
     ], 
     "Textilverarbeiterhelfer": [
         [
@@ -24736,14 +24693,14 @@
         ], 
         "Wirtschaftsinformatikerin"
     ], 
-    "Automobilmechaniker": [
+    "Schmucktextilienhersteller": [
         [
-            "AutomobilmechanikerIn", 
-            "Automobilmechanikerin und Automobilmechaniker", 
-            "Automobilmechanikerin oder Automobilmechaniker", 
-            "Automobilmechanikerin bzw. Automobilmechaniker"
+            "SchmucktextilienherstellerIn", 
+            "Schmucktextilienherstellerin und Schmucktextilienhersteller", 
+            "Schmucktextilienherstellerin oder Schmucktextilienhersteller", 
+            "Schmucktextilienherstellerin bzw. Schmucktextilienhersteller"
         ], 
-        "Automobilmechanikerin"
+        "Schmucktextilienherstellerin"
     ], 
     "Kindergartenhelfer": [
         [
@@ -24789,16 +24746,6 @@
             "Maschinistenhelferin bzw. Maschinistenhelfer"
         ], 
         "Maschinistenhelferin"
-    ], 
-    "Berufsfeuerwehrmann": [
-        [
-            "Berufsfeuerwehrkraft", 
-            "Berufsfeuerwehrleute", 
-            "Berufsfeuerwehrfrau und Berufsfeuerwehrmann", 
-            "Berufsfeuerwehrfrau oder Berufsfeuerwehrmann", 
-            "Berufsfeuerwehrfrau bzw. Berufsfeuerwehrmann"
-        ], 
-        "Berufsfeuerwehrfrau"
     ], 
     "Marketing-Kommunikationswirt": [
         [
@@ -24851,6 +24798,15 @@
             "Entschlichterin bzw. Entschlichter"
         ], 
         "Entschlichterin"
+    ], 
+    "Radialbohrer": [
+        [
+            "RadialbohrerIn", 
+            "Radialbohrerin und Radialbohrer", 
+            "Radialbohrerin oder Radialbohrer", 
+            "Radialbohrerin bzw. Radialbohrer"
+        ], 
+        "Radialbohrerin"
     ], 
     "Jugendberater": [
         [
@@ -24986,14 +24942,14 @@
         ], 
         "Fachverk\u00e4uferin, -beraterin f\u00fcr Antiquit\u00e4ten"
     ], 
-    "B\u00fchnentischler": [
+    "Schwimmmeister": [
         [
-            "B\u00fchnentischlerIn", 
-            "B\u00fchnentischlerin und B\u00fchnentischler", 
-            "B\u00fchnentischlerin oder B\u00fchnentischler", 
-            "B\u00fchnentischlerin bzw. B\u00fchnentischler"
+            "SchwimmmeisterIn", 
+            "Schwimmmeisterin und Schwimmmeister", 
+            "Schwimmmeisterin oder Schwimmmeister", 
+            "Schwimmmeisterin bzw. Schwimmmeister"
         ], 
-        "B\u00fchnentischlerin"
+        "Schwimmmeisterin"
     ], 
     "Medizinischer Illustrator": [
         [
@@ -25807,6 +25763,15 @@
         ], 
         "Gesunheits\u00f6konomin"
     ], 
+    "Restaurantleiter": [
+        [
+            "RestaurantleiterIn", 
+            "Restaurantleiterin und Restaurantleiter", 
+            "Restaurantleiterin oder Restaurantleiter", 
+            "Restaurantleiterin bzw. Restaurantleiter"
+        ], 
+        "Restaurantleiterin"
+    ], 
     "Wirtschaftsdolmetscher": [
         [
             "WirtschaftsdolmetscherIn", 
@@ -26101,14 +26066,14 @@
         ], 
         "Viehpflegerin"
     ], 
-    "Streichmaschinenf\u00fchrer": [
+    "Informationselektroniker": [
         [
-            "Streichmaschinenf\u00fchrerIn", 
-            "Streichmaschinenf\u00fchrerin und Streichmaschinenf\u00fchrer", 
-            "Streichmaschinenf\u00fchrerin oder Streichmaschinenf\u00fchrer", 
-            "Streichmaschinenf\u00fchrerin bzw. Streichmaschinenf\u00fchrer"
+            "InformationselektronikerIn", 
+            "Informationselektronikerin und Informationselektroniker", 
+            "Informationselektronikerin oder Informationselektroniker", 
+            "Informationselektronikerin bzw. Informationselektroniker"
         ], 
-        "Streichmaschinenf\u00fchrerin"
+        "Informationselektronikerin"
     ], 
     "Laborhelfer": [
         [
@@ -26280,14 +26245,14 @@
         ], 
         "Sportpsychologin"
     ], 
-    "Verkaufsfahrer": [
+    "Kunsttherapeut": [
         [
-            "VerkaufsfahrerIn", 
-            "Verkaufsfahrerin und Verkaufsfahrer", 
-            "Verkaufsfahrerin oder Verkaufsfahrer", 
-            "Verkaufsfahrerin bzw. Verkaufsfahrer"
+            "KunsttherapeutIn", 
+            "Kunsttherapeutin und Kunsttherapeut", 
+            "Kunsttherapeutin oder Kunsttherapeut", 
+            "Kunsttherapeutin bzw. Kunsttherapeut"
         ], 
-        "Verkaufsfahrerin"
+        "Kunsttherapeutin"
     ], 
     "Flugsicherungstechniker": [
         [
@@ -26914,15 +26879,6 @@
         ], 
         "Schachtarbeiterin"
     ], 
-    "Bildredakteur": [
-        [
-            "BildredakteurIn", 
-            "Bildredakteurin und Bildredakteur", 
-            "Bildredakteurin oder Bildredakteur", 
-            "Bildredakteurin bzw. Bildredakteur"
-        ], 
-        "Bildredakteurin"
-    ], 
     "Silberschmiedemeister": [
         [
             "SilberschmiedemeisterIn", 
@@ -27065,15 +27021,6 @@
         ], 
         "Hut- und M\u00fctzenmachermeisterin"
     ], 
-    "Segelmacher": [
-        [
-            "SegelmacherIn", 
-            "Segelmacherin und Segelmacher", 
-            "Segelmacherin oder Segelmacher", 
-            "Segelmacherin bzw. Segelmacher"
-        ], 
-        "Segelmacherin"
-    ], 
     "Textilreinigermeister": [
         [
             "TextilreinigermeisterIn", 
@@ -27126,6 +27073,15 @@
         ], 
         "Laborleiterin"
     ], 
+    "Plisseebrenner": [
+        [
+            "PlisseebrennerIn", 
+            "Plisseebrennerin und Plisseebrenner", 
+            "Plisseebrennerin oder Plisseebrenner", 
+            "Plisseebrennerin bzw. Plisseebrenner"
+        ], 
+        "Plisseebrennerin"
+    ], 
     "Verkehrs\u00fcberwacher": [
         [
             "Verkehrs\u00fcberwacherIn", 
@@ -27143,14 +27099,14 @@
         ], 
         "Temperin"
     ], 
-    "Steinsetzer": [
+    "Arbeitsvermittler": [
         [
-            "SteinsetzerIn", 
-            "Steinsetzerin und Steinsetzer", 
-            "Steinsetzerin oder Steinsetzer", 
-            "Steinsetzerin bzw. Steinsetzer"
+            "ArbeitsvermittlerIn", 
+            "Arbeitsvermittlerin und Arbeitsvermittler", 
+            "Arbeitsvermittlerin oder Arbeitsvermittler", 
+            "Arbeitsvermittlerin bzw. Arbeitsvermittler"
         ], 
-        "Steinsetzerin"
+        "Arbeitsvermittlerin"
     ], 
     "Weihnachtsmann": [
         [
@@ -27264,6 +27220,15 @@
         ], 
         "Freiwillige Wehrdienstleistende"
     ], 
+    "Film- und Fernsehdramaturg": [
+        [
+            "Film- und FernsehdramaturgIn", 
+            "Film- und Fernsehdramaturgin und Film- und Fernsehdramaturg", 
+            "Film- und Fernsehdramaturgin oder Film- und Fernsehdramaturg", 
+            "Film- und Fernsehdramaturgin bzw. Film- und Fernsehdramaturg"
+        ], 
+        "Film- und Fernsehdramaturgin"
+    ], 
     "Textilschmuckmacher": [
         [
             "TextilschmuckmacherIn", 
@@ -27362,15 +27327,6 @@
         ], 
         "Neuropsychologin"
     ], 
-    "Gesundheits- und Sozial\u00f6konom": [
-        [
-            "Gesundheits- und Sozial\u00f6konomIn", 
-            "Gesundheits- und Sozial\u00f6konomin und Gesundheits- und Sozial\u00f6konom", 
-            "Gesundheits- und Sozial\u00f6konomin oder Gesundheits- und Sozial\u00f6konom", 
-            "Gesundheits- und Sozial\u00f6konomin bzw. Gesundheits- und Sozial\u00f6konom"
-        ], 
-        "Gesundheits- und Sozial\u00f6konomin"
-    ], 
     "Kunststoffschwei\u00dfer": [
         [
             "Kunststoffschwei\u00dferIn", 
@@ -27407,14 +27363,14 @@
         ], 
         "Wirtschaftslogistikerin"
     ], 
-    "Radialbohrer": [
+    "Designer": [
         [
-            "RadialbohrerIn", 
-            "Radialbohrerin und Radialbohrer", 
-            "Radialbohrerin oder Radialbohrer", 
-            "Radialbohrerin bzw. Radialbohrer"
+            "DesignerIn", 
+            "Designerin und Designer", 
+            "Designerin oder Designer", 
+            "Designerin bzw. Designer"
         ], 
-        "Radialbohrerin"
+        "Designerin"
     ], 
     "Seiler": [
         [
@@ -27424,16 +27380,6 @@
             "Seilerin bzw. Seiler"
         ], 
         "Seilerin"
-    ], 
-    "Versicherungsmakler": [
-        [
-            "Versicherungsmaklerinnen und Versicherungsmakler", 
-            "VersicherungsmaklerInnen", 
-            "Versicherungsmaklerin oder Versicherungsmakler", 
-            "Versicherungsmaklerin und Versicherungsmakler", 
-            "Versicherungsmaklerin bzw. Versicherungsmakler"
-        ], 
-        "Versicherungsmaklerin"
     ], 
     "Fahrzeugglaser": [
         [
@@ -27824,6 +27770,15 @@
         ], 
         "S\u00e4ngerin"
     ], 
+    "Gerichtshelfer": [
+        [
+            "GerichtshelferIn", 
+            "Gerichtshelferin und Gerichtshelfer", 
+            "Gerichtshelferin oder Gerichtshelfer", 
+            "Gerichtshelferin bzw. Gerichtshelfer"
+        ], 
+        "Gerichtshelferin"
+    ], 
     "Bew\u00e4hrungshelfer": [
         [
             "Bew\u00e4hrungshelferIn", 
@@ -27947,15 +27902,6 @@
             "Musikerzieherin bzw. Musikerzieher"
         ], 
         "Musikerzieherin"
-    ], 
-    "Handschuhzuschneider": [
-        [
-            "HandschuhzuschneiderIn", 
-            "Handschuhzuschneiderin und Handschuhzuschneider", 
-            "Handschuhzuschneiderin oder Handschuhzuschneider", 
-            "Handschuhzuschneiderin bzw. Handschuhzuschneider"
-        ], 
-        "Handschuhzuschneiderin"
     ], 
     "Layouter": [
         [
@@ -28414,14 +28360,14 @@
         ], 
         "Foliendruckerin"
     ], 
-    "Schmucksteinfasser": [
+    "Natur- und Landschaftspfleger": [
         [
-            "SchmucksteinfasserIn", 
-            "Schmucksteinfasserin und Schmucksteinfasser", 
-            "Schmucksteinfasserin oder Schmucksteinfasser", 
-            "Schmucksteinfasserin bzw. Schmucksteinfasser"
+            "Natur- und LandschaftspflegerIn", 
+            "Natur- und Landschaftspflegerin und Natur- und Landschaftspfleger", 
+            "Natur- und Landschaftspflegerin oder Natur- und Landschaftspfleger", 
+            "Natur- und Landschaftspflegerin bzw. Natur- und Landschaftspfleger"
         ], 
-        "Schmucksteinfasserin"
+        "Natur- und Landschaftspflegerin"
     ], 
     "Elektroinstallateurhelfer": [
         [
@@ -28681,14 +28627,6 @@
         ], 
         "Maurermeisterin"
     ], 
-    "Technischer Zeichner im Holztechnik": [
-        [
-            "Technische Zeichnerin im Holztechnik und Technischer Zeichner im Holztechnik", 
-            "Technische Zeichnerin im Holztechnik oder Technischer Zeichner im Holztechnik", 
-            "Technische Zeichnerin im Holztechnik bzw. Technischer Zeichner im Holztechnik"
-        ], 
-        "Technische Zeichnerin im Holztechnik"
-    ], 
     "Werkpfleger": [
         [
             "Werkschwester und Werkpfleger", 
@@ -28904,14 +28842,14 @@
         ], 
         "Fachbauleiterin"
     ], 
-    "Verkehrsplaner": [
+    "Segelmacher": [
         [
-            "VerkehrsplanerIn", 
-            "Verkehrsplanerin und Verkehrsplaner", 
-            "Verkehrsplanerin oder Verkehrsplaner", 
-            "Verkehrsplanerin bzw. Verkehrsplaner"
+            "SegelmacherIn", 
+            "Segelmacherin und Segelmacher", 
+            "Segelmacherin oder Segelmacher", 
+            "Segelmacherin bzw. Segelmacher"
         ], 
-        "Verkehrsplanerin"
+        "Segelmacherin"
     ], 
     "Logistiker": [
         [
@@ -28922,6 +28860,15 @@
             "Logistikerin bzw. Logistiker"
         ], 
         "Logistikerin"
+    ], 
+    "Telefonist": [
+        [
+            "Telefonistinnen und Telefonisten", 
+            "Telefonistin oder Telefonist", 
+            "Telefonistin und Telefonist", 
+            "Telefonistin bzw. Telefonist"
+        ], 
+        "Telefonistin"
     ], 
     "Finanzkaufmann": [
         [
@@ -29206,14 +29153,14 @@
         ], 
         "Bausteinmetzin"
     ], 
-    "Stuckateurhelfer": [
+    "Tankwart": [
         [
-            "StuckateurhelferIn", 
-            "Stuckateurhelferin und Stuckateurhelfer", 
-            "Stuckateurhelferin oder Stuckateurhelfer", 
-            "Stuckateurhelferin bzw. Stuckateurhelfer"
+            "TankwartIn", 
+            "Tankwartin und Tankwart", 
+            "Tankwartin oder Tankwart", 
+            "Tankwartin bzw. Tankwart"
         ], 
-        "Stuckateurhelferin"
+        "Tankwartin"
     ], 
     "Tiefbauvorarbeiter": [
         [
@@ -29518,13 +29465,14 @@
         ], 
         "Schiffsk\u00f6chin"
     ], 
-    "Glasmacher im Chemisch-technischer Hohlglasmacher": [
+    "Stuckateurhelfer": [
         [
-            "Glasmacherin im Chemisch-technische Hohlglasmacherin und Glasmacher im Chemisch-technischer Hohlglasmacher", 
-            "Glasmacherin im Chemisch-technische Hohlglasmacherin oder Glasmacher im Chemisch-technischer Hohlglasmacher", 
-            "Glasmacherin im Chemisch-technische Hohlglasmacherin bzw. Glasmacher im Chemisch-technischer Hohlglasmacher"
+            "StuckateurhelferIn", 
+            "Stuckateurhelferin und Stuckateurhelfer", 
+            "Stuckateurhelferin oder Stuckateurhelfer", 
+            "Stuckateurhelferin bzw. Stuckateurhelfer"
         ], 
-        "Glasmacherin im Chemisch-technische Hohlglasmacherin"
+        "Stuckateurhelferin"
     ], 
     "Internationaler Assistent im Multimedia": [
         [
@@ -30093,6 +30041,14 @@
         ], 
         "Umweltmanagementbeauftragte"
     ], 
+    "Fachverk\u00e4ufer im Medizintechnik und medizinische Einrichtungen": [
+        [
+            "Fachverk\u00e4uferin im Medizintechnik und medizinische Einrichtungen und Fachverk\u00e4ufer im Medizintechnik und medizinische Einrichtungen", 
+            "Fachverk\u00e4uferin im Medizintechnik und medizinische Einrichtungen oder Fachverk\u00e4ufer im Medizintechnik und medizinische Einrichtungen", 
+            "Fachverk\u00e4uferin im Medizintechnik und medizinische Einrichtungen bzw. Fachverk\u00e4ufer im Medizintechnik und medizinische Einrichtungen"
+        ], 
+        "Fachverk\u00e4uferin im Medizintechnik und medizinische Einrichtungen"
+    ], 
     "Medienwirt": [
         [
             "MedienwirtIn", 
@@ -30189,14 +30145,14 @@
         ], 
         "Lerntherapeutin"
     ], 
-    "F\u00f6rdermaschinist": [
+    "Klavierbauer": [
         [
-            "F\u00f6rdermaschinistIn", 
-            "F\u00f6rdermaschinistin und F\u00f6rdermaschinist", 
-            "F\u00f6rdermaschinistin oder F\u00f6rdermaschinist", 
-            "F\u00f6rdermaschinistin bzw. F\u00f6rdermaschinist"
+            "KlavierbauerIn", 
+            "Klavierbauerin und Klavierbauer", 
+            "Klavierbauerin oder Klavierbauer", 
+            "Klavierbauerin bzw. Klavierbauer"
         ], 
-        "F\u00f6rdermaschinistin"
+        "Klavierbauerin"
     ], 
     "B\u00fchnenbild-Assistent": [
         [
@@ -30725,14 +30681,14 @@
         ], 
         "Glasschneiderin"
     ], 
-    "Schmucktextilienhersteller": [
+    "Brenner": [
         [
-            "SchmucktextilienherstellerIn", 
-            "Schmucktextilienherstellerin und Schmucktextilienhersteller", 
-            "Schmucktextilienherstellerin oder Schmucktextilienhersteller", 
-            "Schmucktextilienherstellerin bzw. Schmucktextilienhersteller"
+            "BrennerIn", 
+            "Brennerin und Brenner", 
+            "Brennerin oder Brenner", 
+            "Brennerin bzw. Brenner"
         ], 
-        "Schmucktextilienherstellerin"
+        "Brennerin"
     ], 
     "S\u00fcdostasienwissenschaftler": [
         [
@@ -30974,14 +30930,14 @@
         ], 
         "Theatermaschinistin"
     ], 
-    "Plisseebrenner": [
+    "Altenpflegehelfer": [
         [
-            "PlisseebrennerIn", 
-            "Plisseebrennerin und Plisseebrenner", 
-            "Plisseebrennerin oder Plisseebrenner", 
-            "Plisseebrennerin bzw. Plisseebrenner"
+            "AltenpflegehelferIn", 
+            "Altenpflegehelferin und Altenpflegehelfer", 
+            "Altenpflegehelferin oder Altenpflegehelfer", 
+            "Altenpflegehelferin bzw. Altenpflegehelfer"
         ], 
-        "Plisseebrennerin"
+        "Altenpflegehelferin"
     ], 
     "Fachleiter": [
         [
@@ -31056,6 +31012,15 @@
             "Baufachwerkerin bzw. Baufachwerker"
         ], 
         "Baufachwerkerin"
+    ], 
+    "Industrieelektroniker": [
+        [
+            "IndustrieelektronikerIn", 
+            "Industrieelektronikerin und Industrieelektroniker", 
+            "Industrieelektronikerin oder Industrieelektroniker", 
+            "Industrieelektronikerin bzw. Industrieelektroniker"
+        ], 
+        "Industrieelektronikerin"
     ], 
     "Minilab-Operator": [
         [
@@ -31506,13 +31471,14 @@
         ], 
         "Dachinstandsetzerin"
     ], 
-    "Vermessungsgehilfe": [
+    "Augenoptiker": [
         [
-            "Vermessungsgehilfin und Vermessungsgehilfe", 
-            "Vermessungsgehilfin oder Vermessungsgehilfe", 
-            "Vermessungsgehilfin bzw. Vermessungsgehilfe"
+            "AugenoptikerIn", 
+            "Augenoptikerin und Augenoptiker", 
+            "Augenoptikerin oder Augenoptiker", 
+            "Augenoptikerin bzw. Augenoptiker"
         ], 
-        "Vermessungsgehilfin"
+        "Augenoptikerin"
     ], 
     "Handzuginstrumentenmachermeister": [
         [
@@ -31756,15 +31722,6 @@
             "Kistentischlerin bzw. Kistentischler"
         ], 
         "Kistentischlerin"
-    ], 
-    "Goldschmiedemeister": [
-        [
-            "GoldschmiedemeisterIn", 
-            "Goldschmiedemeisterin und Goldschmiedemeister", 
-            "Goldschmiedemeisterin oder Goldschmiedemeister", 
-            "Goldschmiedemeisterin bzw. Goldschmiedemeister"
-        ], 
-        "Goldschmiedemeisterin"
     ], 
     "Orchestergesch\u00e4ftsf\u00fchrer": [
         [
@@ -32088,14 +32045,14 @@
         ], 
         "Flugingenieurin"
     ], 
-    "Universalfr\u00e4ser": [
+    "Brennschneiderhelfer": [
         [
-            "Universalfr\u00e4serIn", 
-            "Universalfr\u00e4serin und Universalfr\u00e4ser", 
-            "Universalfr\u00e4serin oder Universalfr\u00e4ser", 
-            "Universalfr\u00e4serin bzw. Universalfr\u00e4ser"
+            "BrennschneiderhelferIn", 
+            "Brennschneiderhelferin und Brennschneiderhelfer", 
+            "Brennschneiderhelferin oder Brennschneiderhelfer", 
+            "Brennschneiderhelferin bzw. Brennschneiderhelfer"
         ], 
-        "Universalfr\u00e4serin"
+        "Brennschneiderhelferin"
     ], 
     "Jacquardweber": [
         [
@@ -32313,6 +32270,15 @@
         ], 
         "Orthoptistin"
     ], 
+    "Metallisierer": [
+        [
+            "MetallisiererIn", 
+            "Metallisiererin und Metallisierer", 
+            "Metallisiererin oder Metallisierer", 
+            "Metallisiererin bzw. Metallisierer"
+        ], 
+        "Metallisiererin"
+    ], 
     "Chemischreiniger": [
         [
             "ChemischreinigerIn", 
@@ -32520,15 +32486,14 @@
         ], 
         "Pfannenarbeiterin"
     ], 
-    "Internationaler Wirtschaftsfachmann": [
+    "Touristikassistent": [
         [
-            "Internationaler Wirtschaftsfachkraft", 
-            "Internationaler Wirtschaftsfachleute", 
-            "Internationale Wirtschaftsfachfrau und Internationaler Wirtschaftsfachmann", 
-            "Internationale Wirtschaftsfachfrau oder Internationaler Wirtschaftsfachmann", 
-            "Internationale Wirtschaftsfachfrau bzw. Internationaler Wirtschaftsfachmann"
+            "TouristikassistentIn", 
+            "Touristikassistentin und Touristikassistent", 
+            "Touristikassistentin oder Touristikassistent", 
+            "Touristikassistentin bzw. Touristikassistent"
         ], 
-        "Internationale Wirtschaftsfachfrau"
+        "Touristikassistentin"
     ], 
     "Schiffszimmerer": [
         [
@@ -32599,14 +32564,14 @@
         ], 
         "Formstecherin"
     ], 
-    "Honorarprofessor": [
+    "Personalvermittler": [
         [
-            "HonorarprofessorIn", 
-            "Honorarprofessorin und Honorarprofessor", 
-            "Honorarprofessorin oder Honorarprofessor", 
-            "Honorarprofessorin bzw. Honorarprofessor"
+            "PersonalvermittlerIn", 
+            "Personalvermittlerin und Personalvermittler", 
+            "Personalvermittlerin oder Personalvermittler", 
+            "Personalvermittlerin bzw. Personalvermittler"
         ], 
-        "Honorarprofessorin"
+        "Personalvermittlerin"
     ], 
     "Kokereiarbeiter": [
         [
@@ -32715,14 +32680,14 @@
         ], 
         "Verfahrensentwicklerin"
     ], 
-    "Orthop\u00e4dieschuhmachermeister": [
+    "Umweltberater": [
         [
-            "Orthop\u00e4dieschuhmachermeisterIn", 
-            "Orthop\u00e4dieschuhmachermeisterin und Orthop\u00e4dieschuhmachermeister", 
-            "Orthop\u00e4dieschuhmachermeisterin oder Orthop\u00e4dieschuhmachermeister", 
-            "Orthop\u00e4dieschuhmachermeisterin bzw. Orthop\u00e4dieschuhmachermeister"
+            "UmweltberaterIn", 
+            "Umweltberaterin und Umweltberater", 
+            "Umweltberaterin oder Umweltberater", 
+            "Umweltberaterin bzw. Umweltberater"
         ], 
-        "Orthop\u00e4dieschuhmachermeisterin"
+        "Umweltberaterin"
     ], 
     "Kunstformer": [
         [
@@ -33015,6 +32980,15 @@
         ], 
         "Industriekeramikerin Anlagentechnik"
     ], 
+    "Physikingenieur": [
+        [
+            "PhysikingenieurIn", 
+            "Physikingenieurin und Physikingenieur", 
+            "Physikingenieurin oder Physikingenieur", 
+            "Physikingenieurin bzw. Physikingenieur"
+        ], 
+        "Physikingenieurin"
+    ], 
     "Kranmaschinist": [
         [
             "KranmaschinistIn", 
@@ -33256,15 +33230,6 @@
         ], 
         "Betonsaniererin"
     ], 
-    "Designer": [
-        [
-            "DesignerIn", 
-            "Designerin und Designer", 
-            "Designerin oder Designer", 
-            "Designerin bzw. Designer"
-        ], 
-        "Designerin"
-    ], 
     "REFA-Techniker": [
         [
             "REFA-TechnikerIn", 
@@ -33310,14 +33275,13 @@
         ], 
         "Tiefbohrfacharbeiterin"
     ], 
-    "Metallisierer": [
+    "Produktionstechnologe": [
         [
-            "MetallisiererIn", 
-            "Metallisiererin und Metallisierer", 
-            "Metallisiererin oder Metallisierer", 
-            "Metallisiererin bzw. Metallisierer"
+            "Produktionstechnologin und Produktionstechnologe", 
+            "Produktionstechnologin oder Produktionstechnologe", 
+            "Produktionstechnologin bzw. Produktionstechnologe"
         ], 
-        "Metallisiererin"
+        "Produktionstechnologin"
     ], 
     "Handelslehrer": [
         [
@@ -33625,6 +33589,15 @@
         ], 
         "Krankenhausmanagerin"
     ], 
+    "Braumeister": [
+        [
+            "BraumeisterIn", 
+            "Braumeisterin und Braumeister", 
+            "Braumeisterin oder Braumeister", 
+            "Braumeisterin bzw. Braumeister"
+        ], 
+        "Braumeisterin"
+    ], 
     "Papierkalanderf\u00fchrer": [
         [
             "Papierkalanderf\u00fchrerIn", 
@@ -33928,6 +33901,15 @@
         ], 
         "Metallscharfschleiferin"
     ], 
+    "Landschaftsarchitekt": [
+        [
+            "LandschaftsarchitektIn", 
+            "Landschaftsarchitektin und Landschaftsarchitekt", 
+            "Landschaftsarchitektin oder Landschaftsarchitekt", 
+            "Landschaftsarchitektin bzw. Landschaftsarchitekt"
+        ], 
+        "Landschaftsarchitektin"
+    ], 
     "Sozialtherapeut": [
         [
             "SozialtherapeutIn", 
@@ -34228,6 +34210,15 @@
         ], 
         "Humanbiologin"
     ], 
+    "Lymphdrainage- und \u00d6demtherapeut": [
+        [
+            "Lymphdrainage- und \u00d6demtherapeutIn", 
+            "Lymphdrainage- und \u00d6demtherapeutin und Lymphdrainage- und \u00d6demtherapeut", 
+            "Lymphdrainage- und \u00d6demtherapeutin oder Lymphdrainage- und \u00d6demtherapeut", 
+            "Lymphdrainage- und \u00d6demtherapeutin bzw. Lymphdrainage- und \u00d6demtherapeut"
+        ], 
+        "Lymphdrainage- und \u00d6demtherapeutin"
+    ], 
     "Altentherapeut": [
         [
             "AltentherapeutIn", 
@@ -34363,14 +34354,14 @@
         ], 
         "Baukontrolleurin"
     ], 
-    "Gerichtshelfer": [
+    "Medienberater": [
         [
-            "GerichtshelferIn", 
-            "Gerichtshelferin und Gerichtshelfer", 
-            "Gerichtshelferin oder Gerichtshelfer", 
-            "Gerichtshelferin bzw. Gerichtshelfer"
+            "MedienberaterIn", 
+            "Medienberaterin und Medienberater", 
+            "Medienberaterin oder Medienberater", 
+            "Medienberaterin bzw. Medienberater"
         ], 
-        "Gerichtshelferin"
+        "Medienberaterin"
     ], 
     "Verlagskaufmann": [
         [
@@ -34435,15 +34426,6 @@
             "Rohrschwei\u00dferin bzw. Rohrschwei\u00dfer"
         ], 
         "Rohrschwei\u00dferin"
-    ], 
-    "Augenoptiker": [
-        [
-            "AugenoptikerIn", 
-            "Augenoptikerin und Augenoptiker", 
-            "Augenoptikerin oder Augenoptiker", 
-            "Augenoptikerin bzw. Augenoptiker"
-        ], 
-        "Augenoptikerin"
     ], 
     "E-Commerce-Assistent": [
         [
@@ -34593,15 +34575,6 @@
             "Stellmacherhelferin bzw. Stellmacherhelfer"
         ], 
         "Stellmacherhelferin"
-    ], 
-    "Ingenieur": [
-        [
-            "Ingenieurinnen und Ingenieure", 
-            "Ingenieurin oder Ingenieur", 
-            "Ingenieurin und Ingenieur", 
-            "Ingenieurin bzw. Ingenieur"
-        ], 
-        "Ingenieurin"
     ], 
     "Taxifahrer": [
         [
@@ -34819,13 +34792,14 @@
         ], 
         "Schmuckpoliererin"
     ], 
-    "Metallsinterer": [
+    "Lokomotivf\u00fchrer": [
         [
-            "Metallsinterin und Metallsinterer", 
-            "Metallsinterin oder Metallsinterer", 
-            "Metallsinterin bzw. Metallsinterer"
+            "Lokomotivf\u00fchrerinnen und Lokomotivf\u00fchrern", 
+            "Lokomotivf\u00fchrerin oder Lokomotivf\u00fchrer", 
+            "Lokomotivf\u00fchrerin und Lokomotivf\u00fchrer", 
+            "Lokomotivf\u00fchrerin bzw. Lokomotivf\u00fchrer"
         ], 
-        "Metallsinterin"
+        "Lokomotivf\u00fchrerin"
     ], 
     "Bauabrechner": [
         [
@@ -34968,15 +34942,6 @@
             "Instrumentenpoliererin bzw. Instrumentenpolierer"
         ], 
         "Instrumentenpoliererin"
-    ], 
-    "Produktionsleiter": [
-        [
-            "ProduktionsleiterIn", 
-            "Produktionsleiterin und Produktionsleiter", 
-            "Produktionsleiterin oder Produktionsleiter", 
-            "Produktionsleiterin bzw. Produktionsleiter"
-        ], 
-        "Produktionsleiterin"
     ], 
     "Flachgraveur": [
         [
@@ -35219,6 +35184,15 @@
             "Ma\u00dfschneiderin bzw. Ma\u00dfschneider"
         ], 
         "Ma\u00dfschneiderin"
+    ], 
+    "Greenkeeper-Assistent": [
+        [
+            "Greenkeeper-AssistentIn", 
+            "Greenkeeper-Assistentin und Greenkeeper-Assistent", 
+            "Greenkeeper-Assistentin oder Greenkeeper-Assistent", 
+            "Greenkeeper-Assistentin bzw. Greenkeeper-Assistent"
+        ], 
+        "Greenkeeper-Assistentin"
     ], 
     "Trockenbaumonteur": [
         [
@@ -35720,6 +35694,15 @@
         ], 
         "Reinigerin"
     ], 
+    "F\u00f6rdermaschinist": [
+        [
+            "F\u00f6rdermaschinistIn", 
+            "F\u00f6rdermaschinistin und F\u00f6rdermaschinist", 
+            "F\u00f6rdermaschinistin oder F\u00f6rdermaschinist", 
+            "F\u00f6rdermaschinistin bzw. F\u00f6rdermaschinist"
+        ], 
+        "F\u00f6rdermaschinistin"
+    ], 
     "Medientechnologe Druck": [
         [
             "Medientechnologin Druck und Medientechnologe Druck", 
@@ -35800,13 +35783,14 @@
         ], 
         "Sozialhelferin"
     ], 
-    "Fachpraktiker f\u00fcr Tiefbaufacharbeiter": [
+    "H\u00e4ngeger\u00fcstbauer": [
         [
-            "Fachpraktikerin f\u00fcr Tiefbaufacharbeiter und Fachpraktiker f\u00fcr Tiefbaufacharbeiter", 
-            "Fachpraktikerin f\u00fcr Tiefbaufacharbeiter oder Fachpraktiker f\u00fcr Tiefbaufacharbeiter", 
-            "Fachpraktikerin f\u00fcr Tiefbaufacharbeiter bzw. Fachpraktiker f\u00fcr Tiefbaufacharbeiter"
+            "H\u00e4ngeger\u00fcstbauerIn", 
+            "H\u00e4ngeger\u00fcstbauerin und H\u00e4ngeger\u00fcstbauer", 
+            "H\u00e4ngeger\u00fcstbauerin oder H\u00e4ngeger\u00fcstbauer", 
+            "H\u00e4ngeger\u00fcstbauerin bzw. H\u00e4ngeger\u00fcstbauer"
         ], 
-        "Fachpraktikerin f\u00fcr Tiefbaufacharbeiter"
+        "H\u00e4ngeger\u00fcstbauerin"
     ], 
     "Sprengsteiger": [
         [
@@ -35953,13 +35937,14 @@
         ], 
         "Ver- und Entsorgerin"
     ], 
-    "Fachverk\u00e4ufer im Medizintechnik und medizinische Einrichtungen": [
+    "Handschuhzuschneider": [
         [
-            "Fachverk\u00e4uferin im Medizintechnik und medizinische Einrichtungen und Fachverk\u00e4ufer im Medizintechnik und medizinische Einrichtungen", 
-            "Fachverk\u00e4uferin im Medizintechnik und medizinische Einrichtungen oder Fachverk\u00e4ufer im Medizintechnik und medizinische Einrichtungen", 
-            "Fachverk\u00e4uferin im Medizintechnik und medizinische Einrichtungen bzw. Fachverk\u00e4ufer im Medizintechnik und medizinische Einrichtungen"
+            "HandschuhzuschneiderIn", 
+            "Handschuhzuschneiderin und Handschuhzuschneider", 
+            "Handschuhzuschneiderin oder Handschuhzuschneider", 
+            "Handschuhzuschneiderin bzw. Handschuhzuschneider"
         ], 
-        "Fachverk\u00e4uferin im Medizintechnik und medizinische Einrichtungen"
+        "Handschuhzuschneiderin"
     ], 
     "Technologiekollegiat": [
         [
@@ -36121,6 +36106,15 @@
         ], 
         "Zweiradmechanikerwerkerin"
     ], 
+    "Werkzeugpr\u00fcfer": [
+        [
+            "Werkzeugpr\u00fcferIn", 
+            "Werkzeugpr\u00fcferin und Werkzeugpr\u00fcfer", 
+            "Werkzeugpr\u00fcferin oder Werkzeugpr\u00fcfer", 
+            "Werkzeugpr\u00fcferin bzw. Werkzeugpr\u00fcfer"
+        ], 
+        "Werkzeugpr\u00fcferin"
+    ], 
     "Industrie-Betriebswirt": [
         [
             "Industrie-BetriebswirtIn", 
@@ -36165,15 +36159,6 @@
             "Tonmeisterin bzw. Tonmeister"
         ], 
         "Tonmeisterin"
-    ], 
-    "K\u00e4lteanlagenbauermeister": [
-        [
-            "K\u00e4lteanlagenbauermeisterIn", 
-            "K\u00e4lteanlagenbauermeisterin und K\u00e4lteanlagenbauermeister", 
-            "K\u00e4lteanlagenbauermeisterin oder K\u00e4lteanlagenbauermeister", 
-            "K\u00e4lteanlagenbauermeisterin bzw. K\u00e4lteanlagenbauermeister"
-        ], 
-        "K\u00e4lteanlagenbauermeisterin"
     ], 
     "Deichmeister": [
         [
@@ -36527,14 +36512,13 @@
         ], 
         "Berufstrainerin"
     ], 
-    "Comic-Zeichner": [
+    "K\u00fcnstlerischer Betriebsdirektor": [
         [
-            "Comic-ZeichnerIn", 
-            "Comic-Zeichnerin und Comic-Zeichner", 
-            "Comic-Zeichnerin oder Comic-Zeichner", 
-            "Comic-Zeichnerin bzw. Comic-Zeichner"
+            "K\u00fcnstlerische Betriebsdirektorin und K\u00fcnstlerischer Betriebsdirektor", 
+            "K\u00fcnstlerische Betriebsdirektorin oder K\u00fcnstlerischer Betriebsdirektor", 
+            "K\u00fcnstlerische Betriebsdirektorin bzw. K\u00fcnstlerischer Betriebsdirektor"
         ], 
-        "Comic-Zeichnerin"
+        "K\u00fcnstlerische Betriebsdirektorin"
     ], 
     "Wirtschaftshispanist": [
         [
@@ -36626,6 +36610,15 @@
         ], 
         "Catering-Managerin"
     ], 
+    "Schmucksteinfasser": [
+        [
+            "SchmucksteinfasserIn", 
+            "Schmucksteinfasserin und Schmucksteinfasser", 
+            "Schmucksteinfasserin oder Schmucksteinfasser", 
+            "Schmucksteinfasserin bzw. Schmucksteinfasser"
+        ], 
+        "Schmucksteinfasserin"
+    ], 
     "Ziseleurmeister": [
         [
             "ZiseleurmeisterIn", 
@@ -36679,15 +36672,14 @@
         ], 
         "Ballettrepetitorin"
     ], 
-    "Sportfachmann": [
+    "Forstmeister": [
         [
-            "Sportfachkraft", 
-            "Sportfachleute", 
-            "Sportfachfrau und Sportfachmann", 
-            "Sportfachfrau oder Sportfachmann", 
-            "Sportfachfrau bzw. Sportfachmann"
+            "ForstmeisterIn", 
+            "Forstmeisterin und Forstmeister", 
+            "Forstmeisterin oder Forstmeister", 
+            "Forstmeisterin bzw. Forstmeister"
         ], 
-        "Sportfachfrau"
+        "Forstmeisterin"
     ], 
     "Feuerungs- und Schornsteinbauermeister": [
         [
@@ -36786,14 +36778,14 @@
         ], 
         "Gold-, Silber- und Aluminiumschl\u00e4germeisterin"
     ], 
-    "Portr\u00e4tzeichner": [
+    "Funkelektroniker": [
         [
-            "Portr\u00e4tzeichnerIn", 
-            "Portr\u00e4tzeichnerin und Portr\u00e4tzeichner", 
-            "Portr\u00e4tzeichnerin oder Portr\u00e4tzeichner", 
-            "Portr\u00e4tzeichnerin bzw. Portr\u00e4tzeichner"
+            "FunkelektronikerIn", 
+            "Funkelektronikerin und Funkelektroniker", 
+            "Funkelektronikerin oder Funkelektroniker", 
+            "Funkelektronikerin bzw. Funkelektroniker"
         ], 
-        "Portr\u00e4tzeichnerin"
+        "Funkelektronikerin"
     ], 
     "Croupier": [
         [
@@ -36812,14 +36804,14 @@
         ], 
         "Feinpoliererin"
     ], 
-    "Textilverarbeiter": [
+    "Sicherheitstechniker": [
         [
-            "TextilverarbeiterIn", 
-            "Textilverarbeiterin und Textilverarbeiter", 
-            "Textilverarbeiterin oder Textilverarbeiter", 
-            "Textilverarbeiterin bzw. Textilverarbeiter"
+            "SicherheitstechnikerIn", 
+            "Sicherheitstechnikerin und Sicherheitstechniker", 
+            "Sicherheitstechnikerin oder Sicherheitstechniker", 
+            "Sicherheitstechnikerin bzw. Sicherheitstechniker"
         ], 
-        "Textilverarbeiterin"
+        "Sicherheitstechnikerin"
     ], 
     "Betonfertigteilbauer": [
         [
