@@ -133,11 +133,18 @@
         ], 
         "Rollerin"
     ], 
-    "Ingenieur": [
+    "Pilot": [
         [
-            "Ingenieurinnen und Ingenieure"
+            "Pilotinnen und Piloten"
         ], 
-        "Ingenieurin"
+        "Pilotin"
+    ], 
+    "Korbmacher": [
+        [
+            "KorbmacherInnen", 
+            "Korbmacherinnen und Korbmacher"
+        ], 
+        "Korbmacherin"
     ], 
     "Mitarbeiter": [
         [
@@ -186,12 +193,12 @@
         ], 
         "Physikerin"
     ], 
-    "Korbmacher": [
+    "Krankenschwester": [
         [
-            "KorbmacherInnen", 
-            "Korbmacherinnen und Korbmacher"
+            "Krankenschwestern und Krankenpfleger", 
+            "Krankenpflegepersonal"
         ], 
-        "Korbmacherin"
+        "Krankenpfleger"
     ], 
     "Makler": [
         [
@@ -339,6 +346,12 @@
             "Fr. Staatsanw\u00e4ltin"
         ], 
         "Staatsanw\u00e4ltin"
+    ], 
+    "Direktor": [
+        [
+            "Frau Direktorin"
+        ], 
+        "Direktrice"
     ], 
     "Professor": [
         [
@@ -617,11 +630,11 @@
         ], 
         "Bearbeiterin"
     ], 
-    "Pilot": [
+    "Ingenieur": [
         [
-            "Pilotinnen und Piloten"
+            "Ingenieurinnen und Ingenieure"
         ], 
-        "Pilotin"
+        "Ingenieurin"
     ], 
     "Bibliothekar": [
         [
