@@ -2,32 +2,32 @@
     "Financial Planner": 1,
     "Media-Fachkraft": 1,
     "Fachkraft - Abwassertechnik": 1,
-    "Innanarchitekt": "Innanarchitektin"
-    "Wirkereitechniker": "Wirkereitechnikerin" 
-    "Bauwerkerhaltungstechniker": "Bauwerkerhaltungstechnikerin" 
+    "Innanarchitekt": "Innanarchitektin",
+    "Wirkereitechniker": "Wirkereitechnikerin" ,
+    "Bauwerkerhaltungstechniker": "Bauwerkerhaltungstechnikerin" ,
     "Lehrkraft - Schulen im Gesundheitswesen": 1,
     "Bestattungsfachkraft": 1,
-    "Recruiter": "Recruiterin"
+    "Recruiter": "Recruiterin",
     "Human Resources": 1, 
     "Forschungs- und Entwicklungsing. - Bau": 1,
     "Hoteldirektor": "Hoteldirektrice",
     "Elektroanlagenfachkraft": 1,
     "Recycling-Fachkraft": 1,
     "Feldwebel - Truppendienst": 1, 
-    "Entsorgungstechniker": "Entsorgungstechnikerin"
+    "Entsorgungstechniker": "Entsorgungstechnikerin",
     "Fachkraft - Sozialarbeit": 1, 
-    "Baukonstruktionstechniker": "Baukonstruktionstechnikerin"
+    "Baukonstruktionstechniker": "Baukonstruktionstechnikerin",
     "Gesundheitsf\u00f6rderer, -p\u00e4dagoge": "Gesundheitsf\u00f6rderin, -p\u00e4dagogin",
     "Fachkraft - Agrarservice": 1,
     "Empfangskraft": 1,
-    "Wirtschaftsingenieur - Logistik": "Wirtschaftsingenieurin - Logistik"
+    "Wirtschaftsingenieur - Logistik": "Wirtschaftsingenieurin - Logistik",
     "Lichtspiel-Servicekraft": 1,
     "Kassenaufsicht": 1,
     "Schulungssoftware": 1, 
     "Venture-Capitalist": 1,
     "Glastechniker": "Glastechnikerin",
     "Werbedesigner": "Werbedesignerin",
-    "Information-Architect": "Information-Architectin"
+    "Information-Architect": "Information-Architectin",
     "Marketingfachkraft": 1,
     "B\u00fcrofachkraft": 1,
     "B\u00e4ckereiverk\u00e4ufer": "B\u00e4ckereiverk\u00e4uferin",
@@ -36,7 +36,7 @@
     "Betriebswirt - Schifffahrt":"Betriebswirtin - Schifffahrt",
     "Fachkraft - Wasserversorgungstechnik": 1,
     "Fachkraft - Marketing": 1,
-    "Informationssystemtechniker", 
+    "Informationssystemtechniker":"Informationssystemtechnikerin", 
     "Bachelor of Arts  - BWL-Versicherung": 1,
     "Verwaltungsfachkraft - Evangelische Kirche": 1,
     "Feldwebel": "Feldwebelin",
@@ -45,47 +45,45 @@
     "Diplom-Pharmazeut":"Diplom-Pharmazeutin",
     "Fertigungsdirektor":"Fertigungsdirektrice",
     "CAD-Fachkraft - Bau": 1,
-    "Demichef d'\u00e9tage", ??? 
     "Nachtwache - Pflege": 1,
     "Fachkraft - S\u00fc\u00dfwarentechnik": 1,
     "Rechtsbeistand": 1,
     "Au-pair": 1,
     "Continuity-Person": 1,
     "PR-Fachkraft": 1,
-    "S\u00fc\u00dfwarentechniker": "S\u00fc\u00dfwarentechnikerin"
-    "Korrossionsschutztechniker": "Korrossionsschutztechnikerin" 
-    "E-Recruiter": "E-Recruiterin"
+    "S\u00fc\u00dfwarentechniker": "S\u00fc\u00dfwarentechnikerin",
+    "Korrossionsschutztechniker": "Korrossionsschutztechnikerin" ,
+    "E-Recruiter": "E-Recruiterin",
     "CAD-Fachkraft - Metall": 1,
-    "Portier": "Portierfrau / Portierin"
+    "Portier": "Portierin",
     "CAD-Fachkraft - Elektrotechnik": 1,
     "Aufsichtsperson": 1,
     "Meister im Bestattungswesen":"Meisterin im Bestattungswesen",
     "Fachkraft - S\u00fc\u00dfwarentechnik - Dauerbackwaren": 1,
-    "Chemieverfahrenstechniker": "Chemieverfahrenstechnikerin"
-    "Qualit\u00e4tstechniker": "Qualit\u00e4tstechnikerin"
+    "Chemieverfahrenstechniker": "Chemieverfahrenstechnikerin",
+    "Qualit\u00e4tstechniker": "Qualit\u00e4tstechnikerin",
     "Medical Advisor": 1,
     "M\u00f6belhandelsbetriebswirt":"M\u00f6belhandelsbetriebswirtin",
     "CAD-Fachkraft - Maschinenbau": 1,
     "Fachkraft - Veranstaltungstechnik": 1,
     "Fachkraft - Kreislauf- und Abfallwirtschaft": 1,
-    "Diskjockey": "DJane"
+    "Diskjockey": "DJane",
     "Art-Buyer": 1,
     "Forschungs- und Entwicklungsing. - Elektro": 1,
-    "Textildesigningenieur": "Textildesigningenieurin"
+    "Textildesigningenieur": "Textildesigningenieurin",
     "Fachkraft - \u00fcberbetriebliche Aus- und Weiterbildung": 1,
     "Fachkraft - Stra\u00dfen- und Verkehrstechnik": 1,
     "Fachkraft - Geb\u00e4udetechnik": 1,
-    "Knappe", ?
     "Location-Coordinator": 1,
-    "Fachunteroffizier - Allgemeiner Fachdienst": "Fachunteroffizierin - Allgemeiner Fachdienst" 
-    "Fachunteroffizier - Milit\u00e4rmusikdienst": "Fachunteroffizierin - Milit\u00e4rmusikdienst"
+    "Fachunteroffizier - Allgemeiner Fachdienst": "Fachunteroffizierin - Allgemeiner Fachdienst" ,
+    "Fachunteroffizier - Milit\u00e4rmusikdienst": "Fachunteroffizierin - Milit\u00e4rmusikdienst",
     "CAD-Fachkraft - Holz": 1,
-    "Brautechniker": "Brautechnikerin"
-    "Schiffsjunge": "Schiffsmädchen"
+    "Brautechniker": "Brautechnikerin",
+    "Schiffsjunge": "Schiffsmädchen",
     "Fachkraft - mechatronische Systeme": 1,
     "Pneumatik-Fachkraft": 1,
     "Theologie - Evangelische Theologie": 1,
-    "Blechbearbeitungstechniker": "Blechbearbeitungstechnikerin"
+    "Blechbearbeitungstechniker": "Blechbearbeitungstechnikerin",
     "Bachelor of Arts  - Mittelst\u00e4ndische Wirtschaft": 1,
     "Fachkraft - Holz- und Bautenschutzarbeiten": 1,
     "Fachkraft - Rohr-, Kanal- und Industrieservice": 1,
@@ -95,21 +93,21 @@
     "Fachkraft - S\u00fc\u00dfwarentechnik - Schokolade": 1,
     "Autosattlerei": 1,
     "Lehrkraft - Pharmazieberufe": 1,
-    "Datenverarbeitungstechniker": "Datenverarbeitungstechnikerin"
+    "Datenverarbeitungstechniker": "Datenverarbeitungstechnikerin",
     "Fachkraft - Wasserwirtschaft": 1,
     "Schutz- und Sicherheitskraft": 1,
     "Multimedia-Producer": 1,
-    "Kommunikationstechniker": "Kommunikationstechnikerin"
+    "Kommunikationstechniker": "Kommunikationstechnikerin",
     "PC- und Netzwerkfachkraft": 1,
     "Tiefbau": 1,
     "Lehrkraft - Sprachtherapie": 1,
     "SPS-Fachkraft": 1,
     "Fachkraft - EDV-gest\u00fctzte Unternehmensf\u00fchrung": 1,
-    "\u00d6kotechniker": "\u00d6kotechnikerin" 
+    "\u00d6kotechniker": "\u00d6kotechnikerin" ,
     "Lehrkraft - Desinfektorenschulen": 1,
     "Wachsbildner":"Wachsbildnerin",
     "Fachkraft - Gastgewerbe": 1,
-    "Edelsteindesigner": "Edelsteindesignerin"
+    "Edelsteindesigner": "Edelsteindesignerin",
     "CAD-Fachkraft": 1,
     "Bachelor of Science  - K\u00e4ltesystemtechnik": 1,
     "Duty-Officer": 1,
@@ -129,7 +127,7 @@
     "Comedian": 1,
     "Fachkraft": 1,
     "B\u00fcrokraft": 1,
-    "Dipl.-Betriebswirt - Versicherungswesen":"Dipl.-Betriebswirtin - Versicherungswesen",
+    "Betriebswirt - Versicherungswesen":"Betriebswirtin - Versicherungswesen",
     "Fotomodell": 1,
     "Fachkraft - Moden\u00e4herei": 1,
     "Fachkraft - B\u00fcroorganisation und Textverarbeitung": 1,
@@ -140,9 +138,9 @@
     "Fachkraft - Hygiene\u00fcberwachung": 1,
     "Buchf\u00fchrungsfachkraft": 1,
     "Lehrkraft - Kosmetik": 1,
-    "Maschinenhauer": "Maschinenhauerin" 
+    "Maschinenhauer": "Maschinenhauerin" ,
     "Fachkraft - Personalberatung und -vermittlung": 1,
-    "Friedhofstechniker": "Friedhofstechnikerin"
+    "Friedhofstechniker": "Friedhofstechnikerin",
     "Fachunteroffizier - Geoinformationsdienst": 1,
     "Laborfachkraft": 1,
     "Fachkraft - Logistik": 1, 
@@ -152,7 +150,7 @@
     "Offizier - Milit\u00e4rmusikdienst": 1,
     "Servicekraft - Schutz und Sicherheit": 1,
     "Touristik-Fachkraft": 1,
-    "Strickereitechniker": "Strickereitechnikerin"
+    "Strickereitechniker": "Strickereitechnikerin",
     "Rehafachkraft - Blinde": 1,
     "Servicekraft": 1,
     "Verkaufsaufsicht": 1,
@@ -161,56 +159,56 @@
     "Schiffbau und Meerestechnik - B.Eng.": 1,
     "Werkschutzfachkraft": 1,
     "Chefportier": "Chefportierfrau", 
-    "Gardemanger": "Gardemangerin"
-    "Matrose - Binnenschifffahrt": "Matrosin - Binnenschifffahrt"
-    "Feldwebel - Milit\u00e4rmusikdienst": "Feldwebelin - Milit\u00e4rmusikdienst"
+    "Gardemanger": "Gardemangerin",
+    "Matrose - Binnenschifffahrt": "Matrosin - Binnenschifffahrt",
+    "Feldwebel - Milit\u00e4rmusikdienst": "Feldwebelin - Milit\u00e4rmusikdienst",
     "Fachkraft - Automatenservice": 1,
-    "Fachunteroffizier": "Fachunteroffizierin"
-    "Feinkeramtechniker": "Feinkeramtechnikerin"
+    "Fachunteroffizier": "Fachunteroffizierin",
+    "Feinkeramtechniker": "Feinkeramtechnikerin",
     "Sprechstundenschwester": "Sprechstundenpfleger", 
 	"Krankenschwester": "Krankenpfleger",
     "Fachkraft - Audiotechnik": 1,
     "Fachkraft - Schutz und Sicherheit": 1,
-    "Farbtechniker": "Farbtechnikerin"
+    "Farbtechniker": "Farbtechnikerin",
     "IT-Consultant": 1,
     "Fachkraft im Labor": 1, 
     "Dienstleistungsfachkraft - Postbetrieb": 1,
     "Diakon":"Diakonisse",
     "Lehrkraft - Physiotherapie": 1, 
     "Fachkraft - Betreuung": 1,
-    "Mergers-and-Acquisitions-Specialist": "Mergers-and-Acquisitions-Specialistin" 
+    "Mergers-and-Acquisitions-Specialist": "Mergers-and-Acquisitions-Specialistin" ,
     "Fachkraft - Lederverarbeitung": 1,
     "Food-and-Beverage-Assistant": 1,
     "Schwei\u00dffachkraft - Apparatetechnik": 1,
-    "Katholischer Pfarrer": "Katholische Priesterin"
-    "Farbdesigner": "Farbdesignerin" 
+    "Katholischer Pfarrer": "Katholische Priesterin",
+    "Farbdesigner": "Farbdesignerin" ,
     "Fachkraft - innovative Fahrzeugaufbereitung": 1,
     "Fachkraft - Bauwirtschaft": 1,
     "Forschungs- und Entwicklungsing. - Chemie": 1,
     "Etagenaufsicht": 1,
     "Schulungsfachkraft": 1, 
-    "Offizier": "Offizierin"
+    "Offizier": "Offizierin",
     "Fachkraft - Brief- und Frachtverkehr": 1,
     "Technisch-kaufm\u00e4nnische Fachkraft - Handwerk": 1,
-    "Modedesigningenieur": "Modedesigningenieurin"
+    "Modedesigningenieur": "Modedesigningenieurin",
     "Direktor":"Direktrice",
-    "Feldwebel - Sanit\u00e4tsdienst": "Feldwebelin - Sanit\u00e4tsdienst" 
+    "Feldwebel - Sanit\u00e4tsdienst": "Feldwebelin - Sanit\u00e4tsdienst" ,
     "Servicefachkraft - Dialogmarketing": 1,
     "Jockey": 1,
     "Master of Business Administration": 1,
-    "Verpackungstechniker": "Verpackungstechnikerin"
+    "Verpackungstechniker": "Verpackungstechnikerin",
     "Produktionsfachkraft Chemie": 1,
     "Fachkraft - landwirtschaftlicher Haushalt": 1,
-    "Tagebautechniker": "Tagebautechnikerin"
+    "Tagebautechniker": "Tagebautechnikerin",
     "IT-Professional": 1,
     "Rechtswissenschaft": 1, 
-    "Metallh\u00fcttentechniker":   "Metallh\u00fcttentechnikerin" 
-    "Schienenfahrzeugtechniker": "Schienenfahrzeugtechnikerin"
-    "Produktionstechniker":   "Produktionstechnikerin" 
+    "Metallh\u00fcttentechniker":   "Metallh\u00fcttentechnikerin" ,
+    "Schienenfahrzeugtechniker": "Schienenfahrzeugtechnikerin",
+    "Produktionstechniker":   "Produktionstechnikerin" ,
     "Fachkraft - Bauwerkserhaltung": 1,
-    "Nachtportier": "Nachtportierin"
+    "Nachtportier": "Nachtportierin",
     "Industrial Engineer": 1, 
-    "Kramtechniker":  "Kramtechnikerin"
+    "Kramtechniker":  "Kramtechnikerin",
     "Funeralmaster": 1,
     "Fachkraft - Arbeitssicherheit": 1,
     "Internet-Scout": 1,
@@ -225,14 +223,14 @@
     "Verkaufskraft": 1,
     "Fachkraft - Schiff": 1,
     "Lehrkraft - Tierwirtschaftliche Aus- u. Weiterbildung": 1,
-    "Steuerungstechniker": "Steuerungstechnikerin"
+    "Steuerungstechniker": "Steuerungstechnikerin",
     "Pr\u00e4ventionsfachkraft": 1,
-    "Prozesstechniker": "Prozesstechnikerin"
+    "Prozesstechniker": "Prozesstechnikerin",
     "Fachkraft - Pflegeassistenz": 1,
-    "Regeltechniker": "Regeltechnikerin"
+    "Regeltechniker": "Regeltechnikerin",
     "Fachkraft - Brennereiwesen": 1, 
-    "Fachunteroffizier - Sanit\u00e4tsdienst": "Fachunteroffizierin - Sanit\u00e4tsdienst"
-    "Backtechniker": "Backtechnikerin"
+    "Fachunteroffizier - Sanit\u00e4tsdienst": "Fachunteroffizierin - Sanit\u00e4tsdienst",
+    "Backtechniker": "Backtechnikerin",
     "Keramikerhandwerk": 1, 
     "Strahlenschutzfachkraft": 1,
     "Fachkraft - M\u00f6bel-, K\u00fcchen- und Umzugsservice": 1,
@@ -244,7 +242,7 @@
     "Lehrkraft - Naturwissenschaften und Technik": 1,
     "Bonbon- und Konfektmacher": "Bonbon- und Konfektmacherin",
     "Zahn\u00e4rztliche Helfer": "Zahn\u00e4rztliche Helferin",
-    "Pneumatiktechniker": "Pneumatiktechnikerin"
+    "Pneumatiktechniker": "Pneumatiktechnikerin",
     "Forschungs- und Entwicklungsing. - Textil": 1,
     "Fachkraft - Hafenlogistik": 1,
     "DTP-Fachkraft": 1,
