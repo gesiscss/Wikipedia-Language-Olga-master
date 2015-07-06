@@ -47,6 +47,10 @@
         "1040", 
         "11"
     ], 
+    "Honorarprofessor": [
+        "34400", 
+        "3100"
+    ], 
     "Application-Manager": [
         "219000", 
         "70"
@@ -170,10 +174,6 @@
     "F\u00fchrungsassistent": [
         "537", 
         "149"
-    ], 
-    "Immissionsschutzbeauftragter": [
-        "2910", 
-        "807"
     ], 
     "Richter": [
         "7600000", 
@@ -418,6 +418,10 @@
     "Fischverarbeiterhelfer": [
         "206", 
         "1"
+    ], 
+    "Baltist": [
+        "759", 
+        "17"
     ], 
     "Gruppent\u00e4nzer": [
         "514", 
@@ -774,10 +778,6 @@
     "Bildmischer": [
         "13000", 
         "324"
-    ], 
-    "Automechatroniker": [
-        "1690", 
-        "27"
     ], 
     "Toningenieur": [
         "18000", 
@@ -1338,10 +1338,6 @@
     "Merchandiser": [
         "1220000", 
         "1470"
-    ], 
-    "Industriesystemtechniker": [
-        "257", 
-        "123"
     ], 
     "Altertumswissenschaftler": [
         "1680", 
@@ -2102,6 +2098,10 @@
     "Gestalter f\u00fcr visuelles Marketing": [
         "4520", 
         "3560"
+    ], 
+    "Lokomotivf\u00fchrer": [
+        "44300", 
+        "237"
     ], 
     "Medizinisch-technischer Assistent": [
         "3440", 
@@ -2943,8 +2943,8 @@
         "227000", 
         "10200"
     ], 
-    "Kfz-Servicemechaniker": [
-        "1330", 
+    "Aufzeichner": [
+        "1500", 
         "54"
     ], 
     "Betriebsschlosser": [
@@ -3035,6 +3035,10 @@
         "1890", 
         "832"
     ], 
+    "Teilkoch": [
+        "131", 
+        "53"
+    ], 
     "Werkgehilfe Schmuckwarenindustrie, Taschen- und Armbanduhren": [
         "33", 
         "41"
@@ -3122,10 +3126,6 @@
     "Spezialit\u00e4tenkoch": [
         "788", 
         "37"
-    ], 
-    "Biersieder": [
-        "572", 
-        "10"
     ], 
     "Ausstellungsdesigner": [
         "530", 
@@ -3699,9 +3699,9 @@
         "444000", 
         "496000"
     ], 
-    "Rehabilitationsp\u00e4dagoge": [
-        "465", 
-        "646"
+    "Friedhofsg\u00e4rtner": [
+        "20000", 
+        "675"
     ], 
     "Sohlenstanzer": [
         "7", 
@@ -4243,9 +4243,9 @@
         "22", 
         "1"
     ], 
-    "Finanzdienstleister": [
-        "244000", 
-        "1170"
+    "Landschaftsarchitekt": [
+        "65200", 
+        "18600"
     ], 
     "Getreidefacharbeiter": [
         "7", 
@@ -4511,9 +4511,9 @@
         "69600", 
         "7560"
     ], 
-    "Isoliererhelfer": [
-        "47", 
-        "1"
+    "Papiermacher": [
+        "5270", 
+        "170"
     ], 
     "Bildungs- und Studienberater": [
         "13", 
@@ -4843,10 +4843,6 @@
         "2", 
         "1"
     ], 
-    "Landmaschinenmechaniker": [
-        "19800", 
-        "359"
-    ], 
     "Fertigungsdirektor": [
         "47", 
         "175"
@@ -4874,6 +4870,10 @@
     "Fachpraktiker f\u00fcr Dialogmarketing": [
         0, 
         "3"
+    ], 
+    "Lateinamerikawissenschaftler": [
+        "45", 
+        "26"
     ], 
     "Informations- und Telekommunikationssystem-Elektroniker": [
         "1040", 
@@ -4950,6 +4950,10 @@
     "W\u00e4rmestellengehilfe": [
         "17", 
         "1"
+    ], 
+    "Pilot": [
+        "36300000", 
+        "69900"
     ], 
     "Berufsreiter": [
         "12200", 
@@ -5043,9 +5047,9 @@
         "2", 
         "1"
     ], 
-    "Sinologe": [
-        "4970", 
-        "2030"
+    "Biersieder": [
+        "572", 
+        "10"
     ], 
     "Rahmenglaser": [
         "38", 
@@ -5291,10 +5295,6 @@
         "1960", 
         "241"
     ], 
-    "Saunameister": [
-        "5600", 
-        "524"
-    ], 
     "Feinwerktechniker": [
         "959", 
         "183"
@@ -5387,13 +5387,9 @@
         "15100000", 
         "4960"
     ], 
-    "Animateur": [
-        "1810000", 
-        "7360"
-    ], 
-    "Honorarprofessor": [
-        "34400", 
-        "3100"
+    "Telefonist": [
+        "158000", 
+        "20800"
     ], 
     "Lager- und Transportarbeiter": [
         "4730", 
@@ -5739,9 +5735,9 @@
         "126", 
         "12"
     ], 
-    "Arbeitsvermittler": [
-        "38200", 
-        "8240"
+    "Industriesystemtechniker": [
+        "257", 
+        "123"
     ], 
     "Fachberater": [
         "290000", 
@@ -5886,10 +5882,6 @@
     "Produktentwickler": [
         "24300", 
         "2020"
-    ], 
-    "Hilfspolizist": [
-        "2160", 
-        "226"
     ], 
     "Zeitungs- und Zeitschriftenverleger": [
         "274", 
@@ -6054,6 +6046,10 @@
     "Steppmeister": [
         "9", 
         "4"
+    ], 
+    "Technischer Aufsichtsbeamter": [
+        "492", 
+        "66"
     ], 
     "Akustikschreiner": [
         "30", 
@@ -6479,10 +6475,6 @@
         "2150", 
         "1"
     ], 
-    "G\u00e4rf\u00fchrer": [
-        "24", 
-        "2"
-    ], 
     "Vitalassistent": [
         "20", 
         "33"
@@ -6506,10 +6498,6 @@
     "Werkzeugmachermeister": [
         "2550", 
         "12"
-    ], 
-    "Fachanwalt": [
-        "472000", 
-        "82300"
     ], 
     "CNC-Dreher": [
         "20100", 
@@ -6543,9 +6531,9 @@
         "2970000", 
         "156000"
     ], 
-    "Holzblasinstrumentenbauer": [
-        "434", 
-        "40"
+    "Berufsfeuerwehrmann": [
+        "6140", 
+        "361"
     ], 
     "Reservierungssachbearbeiter": [
         "73", 
@@ -6655,9 +6643,9 @@
         "3", 
         "1"
     ], 
-    "Produktionsleiter": [
-        "77900", 
-        "5450"
+    "Schwangerschaftskonfliktberater": [
+        "57", 
+        "92"
     ], 
     "Elektro- und Schutzgasschwei\u00dfer": [
         "223", 
@@ -6735,6 +6723,10 @@
         "345", 
         "39"
     ], 
+    "Feuerverzinker": [
+        "1050", 
+        "12"
+    ], 
     "Haspelmaschinist": [
         "4", 
         "1"
@@ -6746,6 +6738,10 @@
     "Cutter-Assistent": [
         "197", 
         "58"
+    ], 
+    "Seilermeister": [
+        "1400", 
+        "29"
     ], 
     "Tuftingmaschineneinrichter": [
         "2", 
@@ -6839,9 +6835,9 @@
         "13", 
         "60"
     ], 
-    "Schwangerschaftskonfliktberater": [
-        "57", 
-        "92"
+    "Schiffsf\u00fchrer": [
+        "17300", 
+        "406"
     ], 
     "Tiermedizinischer Fachangestellter": [
         "766", 
@@ -6915,9 +6911,9 @@
         "1040", 
         "48"
     ], 
-    "Technischer Zeichner im Holztechnik": [
-        0, 
-        0
+    "Immissionsschutzbeauftragter": [
+        "2910", 
+        "807"
     ], 
     "Dentalhygieniker": [
         "4170", 
@@ -7031,9 +7027,9 @@
         "13", 
         "4"
     ], 
-    "Mosaikleger": [
-        "23900", 
-        "288"
+    "Herdformer": [
+        "3", 
+        "1"
     ], 
     "Scanner-Operator": [
         "6110", 
@@ -7091,10 +7087,6 @@
         0, 
         0
     ], 
-    "Schiffsf\u00fchrer": [
-        "17300", 
-        "406"
-    ], 
     "Fachverk\u00e4ufer, -berater f\u00fcr Antiquit\u00e4ten": [
         0, 
         0
@@ -7107,9 +7099,9 @@
         "6400", 
         "1120"
     ], 
-    "Teilkoch": [
-        "131", 
-        "53"
+    "Steinsetzer": [
+        "5990", 
+        "48"
     ], 
     "Fachangestellter f\u00fcr Medien- und Informationsdienste im Bibliothek": [
         0, 
@@ -7279,9 +7271,9 @@
         "217", 
         "51"
     ], 
-    "Metallsinterer": [
-        "3", 
-        "1"
+    "Fachangestellter f\u00fcr Medien- und Informationsdienste im Information und Dokumentation": [
+        0, 
+        0
     ], 
     "Gas- und Wasserinstallateurmeister": [
         "2670", 
@@ -7471,9 +7463,9 @@
         "2120", 
         "103"
     ], 
-    "Berufsfeuerwehrmann": [
-        "6140", 
-        "361"
+    "Media Manager": [
+        "4160000", 
+        "6810"
     ], 
     "Damenfriseur": [
         "9980", 
@@ -7486,6 +7478,10 @@
     "Diskjockey": [
         "30200", 
         "299000"
+    ], 
+    "Greenkeeper-Assistent": [
+        "209", 
+        "10"
     ], 
     "Veterin\u00e4rmedizinischtechnischer Lehrassistent": [
         0, 
@@ -7554,10 +7550,6 @@
     "Schnitt-, Entwurfs- und Fertigungsmodelleur": [
         "53", 
         "21"
-    ], 
-    "Papierrohstoffaufbereiter": [
-        "12", 
-        0
     ], 
     "Sonderp\u00e4dagoge": [
         "6860", 
@@ -7847,9 +7839,9 @@
         "499000", 
         "1800"
     ], 
-    "Messwerkzeugmacher": [
-        "6", 
-        "4"
+    "Kommunikationsdesigner": [
+        "24200", 
+        "10800"
     ], 
     "Pneumatiktechniker": [
         "3", 
@@ -8067,9 +8059,9 @@
         "108000", 
         "20400"
     ], 
-    "Polstergarnierer": [
-        "3", 
-        "2"
+    "Altentherapeut": [
+        "1420", 
+        "900"
     ], 
     "Cutter": [
         "9270000", 
@@ -8122,6 +8114,10 @@
     "Orchesterinspektor": [
         "376", 
         "46"
+    ], 
+    "Laborassistent": [
+        "2910", 
+        "2760"
     ], 
     "Bauvermessungstechniker": [
         "2", 
@@ -8287,9 +8283,9 @@
         "33", 
         "3"
     ], 
-    "Lateinamerikawissenschaftler": [
-        "45", 
-        "26"
+    "Automechatroniker": [
+        "1690", 
+        "27"
     ], 
     "Versorgungsanlagenw\u00e4rter": [
         "6", 
@@ -8450,6 +8446,10 @@
     "Farb-, Stil- und Imageberater": [
         "164", 
         "672"
+    ], 
+    "Stickerwerker": [
+        "1", 
+        "1"
     ], 
     "Teilezurichter": [
         "5960", 
@@ -8715,10 +8715,6 @@
         "2680", 
         "108"
     ], 
-    "Baltist": [
-        "759", 
-        "17"
-    ], 
     "Biologiemodellmacher": [
         "670", 
         "73"
@@ -8923,6 +8919,10 @@
         "54800", 
         "14600"
     ], 
+    "Finanzdienstleister": [
+        "244000", 
+        "1170"
+    ], 
     "Pastoralreferent": [
         "28500", 
         "17100"
@@ -8975,9 +8975,9 @@
         "994", 
         "24"
     ], 
-    "Papiermacher": [
-        "5270", 
-        "170"
+    "Isoliererhelfer": [
+        "47", 
+        "1"
     ], 
     "Lagenleger": [
         "156", 
@@ -9151,9 +9151,9 @@
         "24700", 
         "6390"
     ], 
-    "Landschaftsarchitekt": [
-        "65200", 
-        "18600"
+    "Animateur": [
+        "1810000", 
+        "7360"
     ], 
     "Forstmeister": [
         "17200", 
@@ -9246,10 +9246,6 @@
     "Kunstp\u00e4dagoge": [
         "4240", 
         "7290"
-    ], 
-    "Theaterp\u00e4dagoge": [
-        "11000", 
-        "21400"
     ], 
     "Metalls\u00e4ger": [
         "153", 
@@ -9355,9 +9351,9 @@
         "31700", 
         "4340"
     ], 
-    "Feuerverzinker": [
-        "1050", 
-        "12"
+    "Mosaikleger": [
+        "23900", 
+        "288"
     ], 
     "Verpackungsdrucker": [
         "521", 
@@ -9399,9 +9395,9 @@
         0, 
         0
     ], 
-    "Pilot": [
-        "36300000", 
-        "69900"
+    "K\u00fcchendirektor": [
+        "4430", 
+        "158"
     ], 
     "Kinderpflegehelfer": [
         "654", 
@@ -9427,9 +9423,9 @@
         "395", 
         "163"
     ], 
-    "Regisseur": [
-        "1580000", 
-        "177000"
+    "Rehabilitationsp\u00e4dagoge": [
+        "465", 
+        "646"
     ], 
     "CAD-Organisator": [
         "41", 
@@ -9774,6 +9770,10 @@
     "Geologieingenieur": [
         "26", 
         "6"
+    ], 
+    "Holzblasinstrumentenbauer": [
+        "434", 
+        "40"
     ], 
     "Melkermeister": [
         "341", 
@@ -10366,10 +10366,6 @@
     "Tuftingwarennacharbeiter": [
         "2", 
         "1"
-    ], 
-    "Friedhofsg\u00e4rtner": [
-        "20000", 
-        "675"
     ], 
     "Bestattermeister": [
         "2870", 
@@ -11255,10 +11251,6 @@
         "71000", 
         "2010"
     ], 
-    "Industriekeramiker Anlagentechnik": [
-        "250", 
-        "58"
-    ], 
     "Wirtschaftsjapanologe": [
         "61", 
         "52"
@@ -11379,9 +11371,9 @@
         "10100", 
         "39100"
     ], 
-    "Technischer Aufsichtsbeamter": [
-        "492", 
-        "66"
+    "Braumeister": [
+        "107000", 
+        "1280"
     ], 
     "Finanzassistent": [
         "6720", 
@@ -11783,6 +11775,10 @@
         "3130", 
         "382"
     ], 
+    "Strebhauer": [
+        "17", 
+        0
+    ], 
     "Textilverflechterhelfer": [
         "6", 
         "3"
@@ -11971,17 +11967,17 @@
         "120", 
         "1"
     ], 
-    "Laborassistent": [
-        "2910", 
-        "2760"
+    "Oberfl\u00e4chenbehandler": [
+        "128", 
+        "2"
     ], 
     "Fachkrankenpfleger": [
         "10800", 
         "15400"
     ], 
-    "Media Manager": [
-        "4160000", 
-        "6810"
+    "Landmaschinenmechaniker": [
+        "19800", 
+        "359"
     ], 
     "Ingenieurassistent": [
         "362", 
@@ -12467,9 +12463,9 @@
         "9960", 
         "951"
     ], 
-    "Steinsetzer": [
-        "5990", 
-        "48"
+    "Arbeitsvermittler": [
+        "38200", 
+        "8240"
     ], 
     "Weihnachtsmann": [
         "489000", 
@@ -12735,9 +12731,9 @@
         "1910", 
         "54"
     ], 
-    "Handschuhzuschneider": [
-        "12", 
-        "1"
+    "Regisseur": [
+        "1580000", 
+        "177000"
     ], 
     "Facharbeiter f\u00fcr Werkzeugmaschinen im Bohren": [
         0, 
@@ -12866,6 +12862,10 @@
     "Kunstschmied": [
         "10900", 
         "169"
+    ], 
+    "Hilfspolizist": [
+        "2160", 
+        "226"
     ], 
     "Datenverarbeitungsfachmann": [
         "98", 
@@ -13002,6 +13002,10 @@
     "Metallschleiferhelfer": [
         "32", 
         "1"
+    ], 
+    "Kfz-Servicemechaniker": [
+        "1330", 
+        "54"
     ], 
     "Astronom": [
         "347000", 
@@ -13183,6 +13187,10 @@
         "270", 
         "3"
     ], 
+    "Technischer Zeichner im Holztechnik": [
+        0, 
+        0
+    ], 
     "Werkpfleger": [
         "41", 
         "40"
@@ -13358,6 +13366,10 @@
     "Vertriebstechniker": [
         "3060", 
         "282"
+    ], 
+    "Theaterp\u00e4dagoge": [
+        "11000", 
+        "21400"
     ], 
     "Motologe": [
         "571", 
@@ -13815,6 +13827,10 @@
         "1", 
         "1"
     ], 
+    "Fachverk\u00e4ufer im Medizintechnik und medizinische Einrichtungen": [
+        0, 
+        0
+    ], 
     "Medienwirt": [
         "2150", 
         "1590"
@@ -14251,9 +14267,9 @@
         "137", 
         "3"
     ], 
-    "Kommunikationsdesigner": [
-        "24200", 
-        "10800"
+    "Messwerkzeugmacher": [
+        "6", 
+        "4"
     ], 
     "Bauschlosserhelfer": [
         "327", 
@@ -14323,9 +14339,9 @@
         "166", 
         "11"
     ], 
-    "Oberfl\u00e4chenbehandler": [
-        "128", 
-        "2"
+    "Sinologe": [
+        "4970", 
+        "2030"
     ], 
     "IT-Ger\u00e4teentwickler": [
         "4", 
@@ -14394,10 +14410,6 @@
     "IT-Werker": [
         "156", 
         "113"
-    ], 
-    "K\u00fcchendirektor": [
-        "4430", 
-        "158"
     ], 
     "Missionsanw\u00e4rter": [
         "29", 
@@ -14539,9 +14551,9 @@
         "7350", 
         "13"
     ], 
-    "Herdformer": [
-        "3", 
-        "1"
+    "Saunameister": [
+        "5600", 
+        "524"
     ], 
     "Rektor": [
         "2240000", 
@@ -15143,9 +15155,9 @@
         "1640", 
         "3530"
     ], 
-    "Strebhauer": [
-        "17", 
-        0
+    "Industriekeramiker Anlagentechnik": [
+        "250", 
+        "58"
     ], 
     "Physikingenieur": [
         "1510", 
@@ -15171,9 +15183,9 @@
         "10", 
         "1"
     ], 
-    "Aufzeichner": [
-        "1500", 
-        "54"
+    "Fachanwalt": [
+        "472000", 
+        "82300"
     ], 
     "Br\u00fcckenfahrer": [
         "272", 
@@ -15415,10 +15427,6 @@
         "171000", 
         "15700"
     ], 
-    "Braumeister": [
-        "107000", 
-        "1280"
-    ], 
     "Handstricker": [
         "141", 
         "344"
@@ -15639,9 +15647,9 @@
         "7570", 
         "65"
     ], 
-    "Seilermeister": [
-        "1400", 
-        "29"
+    "Papierrohstoffaufbereiter": [
+        "12", 
+        0
     ], 
     "Wirtschaftsphysiker": [
         "404", 
@@ -15699,9 +15707,9 @@
         "1030", 
         "731"
     ], 
-    "Altentherapeut": [
-        "1420", 
-        "900"
+    "Polstergarnierer": [
+        "3", 
+        "2"
     ], 
     "Arabist": [
         "52800", 
@@ -15802,10 +15810,6 @@
     "Wirtschaftsjurist": [
         "15900", 
         "4950"
-    ], 
-    "Fachangestellter f\u00fcr Medien- und Informationsdienste im Information und Dokumentation": [
-        0, 
-        0
     ], 
     "Film- und Fernsehwissenschaftler": [
         "120", 
@@ -15955,9 +15959,9 @@
         "8", 
         "1"
     ], 
-    "Lokomotivf\u00fchrer": [
-        "44300", 
-        "237"
+    "Metallsinterer": [
+        "3", 
+        "1"
     ], 
     "Erziehungsberater": [
         "5310", 
@@ -16018,6 +16022,10 @@
     "Instrumentenpolierer": [
         "3", 
         "1"
+    ], 
+    "Produktionsleiter": [
+        "77900", 
+        "5450"
     ], 
     "Freizeitsportleiter": [
         "1340", 
@@ -16135,10 +16143,6 @@
         "22400", 
         "4530"
     ], 
-    "Greenkeeper-Assistent": [
-        "209", 
-        "10"
-    ], 
     "Automatenbef\u00fcller": [
         "557", 
         "43"
@@ -16235,9 +16239,9 @@
         "19", 
         "1"
     ], 
-    "Stickerwerker": [
-        "1", 
-        "1"
+    "G\u00e4rf\u00fchrer": [
+        "24", 
+        "2"
     ], 
     "Stra\u00dfenbauer": [
         "37300", 
@@ -16415,10 +16419,6 @@
         "31700", 
         "1680"
     ], 
-    "Telefonist": [
-        "158000", 
-        "20800"
-    ], 
     "Arzthelfer": [
         "40200", 
         "108000"
@@ -16455,9 +16455,9 @@
         "4280", 
         "143"
     ], 
-    "Fachverk\u00e4ufer im Medizintechnik und medizinische Einrichtungen": [
-        0, 
-        0
+    "Handschuhzuschneider": [
+        "12", 
+        "1"
     ], 
     "Kreditmanager": [
         "1120", 
