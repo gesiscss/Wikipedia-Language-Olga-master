@@ -1,1 +1,22 @@
-{}
+{
+    "Artistin": [
+        "Artist", 
+        "Artist (Darsteller)"
+    ], 
+    "Cutterin": [
+        "Cutter", 
+        "Cutter (Film)"
+    ], 
+    "Medienkauffrau": [
+        "Medienkaufmann", 
+        "Medienkaufmann Digital und Print"
+    ], 
+    "Patentanw\u00e4ltin": [
+        "Patentanwalt", 
+        "Patentanwalt (Deutschland)"
+    ], 
+    "Moderatorin": [
+        "Moderator", 
+        "Moderator (Beruf)"
+    ]
+}

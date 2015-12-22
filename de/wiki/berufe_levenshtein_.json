@@ -1,7 +1,13 @@
 {
-    "Landmaschinenf\u00fchrer": [
+    "Schaltmeister": [
         [
-            "Maschinenf\u00fchrer", 
+            "Schichtmeister", 
+            0
+        ]
+    ], 
+    "Kanalmaurer": [
+        [
+            "Kanalbauer", 
             1
         ]
     ], 
@@ -280,7 +286,7 @@
     "Betonstein- und Terrazzoherstellermeister": [
         [
             "Betonstein- und Terrazzohersteller", 
-            0
+            3
         ]
     ], 
     "Fachpraktiker f\u00fcr Land- und  Baumaschinentechnik": [
@@ -688,12 +694,12 @@
     "Reifenmacher": [
         [
             "Weinmacher", 
-            4
+            0
         ]
     ], 
-    "Kanalmaurer": [
+    "Lebensmittelchemielaborant": [
         [
-            "Kanalbauer", 
+            "Lebensmittelchemiker", 
             1
         ]
     ], 
@@ -1380,7 +1386,7 @@
     "Verfahrenstechniker": [
         [
             "Chemieverfahrenstechniker", 
-            0
+            3
         ], 
         [
             "Verfahrensmechaniker", 
@@ -1457,6 +1463,12 @@
             1
         ]
     ], 
+    "Biotechnologischer Assistent": [
+        [
+            "Technischer Assistent", 
+            1
+        ]
+    ], 
     "Geb\u00e4udereinigerwerker": [
         [
             "Geb\u00e4udereiniger", 
@@ -1466,12 +1478,6 @@
     "Tagebautechniker": [
         [
             "Glasbautechniker", 
-            0
-        ]
-    ], 
-    "Presserhelfer": [
-        [
-            "Pressereferent", 
             0
         ]
     ], 
@@ -1608,12 +1614,6 @@
     "Musterprogrammierer": [
         [
             "Systemprogrammierer", 
-            1
-        ]
-    ], 
-    "Lebensmittelchemielaborant": [
-        [
-            "Lebensmittelchemiker", 
             1
         ]
     ], 
@@ -1888,7 +1888,7 @@
     "Teigmacher": [
         [
             "Weinmacher", 
-            4
+            0
         ], 
         [
             "Zeugmacher", 
@@ -2287,10 +2287,10 @@
             1
         ]
     ], 
-    "Biotechnologischer Assistent": [
+    "Presserhelfer": [
         [
-            "Technischer Assistent", 
-            1
+            "Pressereferent", 
+            0
         ]
     ], 
     "Zweiradmechanikermeister": [
@@ -2451,10 +2451,18 @@
             3
         ]
     ], 
-    "Meisterassistent": [
+    "Neurophysiologischtechnischer Assistent": [
         [
-            "Reiseb\u00fcroassistent", 
-            0
+            "Physikalisch-technischer Assistent", 
+            1
+        ], 
+        [
+            "Psychologisch-technischer Assistent", 
+            1
+        ], 
+        [
+            "Biologisch-technischer Assistent", 
+            1
         ]
     ], 
     "Baustoffingenieur": [
@@ -2491,18 +2499,10 @@
             4
         ]
     ], 
-    "Neurophysiologischtechnischer Assistent": [
+    "Meisterassistent": [
         [
-            "Physikalisch-technischer Assistent", 
-            1
-        ], 
-        [
-            "Psychologisch-technischer Assistent", 
-            1
-        ], 
-        [
-            "Biologisch-technischer Assistent", 
-            1
+            "Reiseb\u00fcroassistent", 
+            0
         ]
     ], 
     "Bohrger\u00e4tef\u00fchrer": [
@@ -2517,10 +2517,10 @@
             1
         ]
     ], 
-    "Metallfeinbauer": [
+    "Klavierfacharbeiter": [
         [
-            "Metallbauer", 
-            3
+            "Isolierfacharbeiter", 
+            1
         ]
     ], 
     "Maschinenbautechnischer Assistent": [
@@ -2605,10 +2605,10 @@
             1
         ]
     ], 
-    "Klavierfacharbeiter": [
+    "Metallfeinbauer": [
         [
-            "Isolierfacharbeiter", 
-            1
+            "Metallbauer", 
+            3
         ]
     ], 
     "Energiemanager": [
@@ -2617,10 +2617,10 @@
             0
         ]
     ], 
-    "Schaltmeister": [
+    "Landmaschinenf\u00fchrer": [
         [
-            "Schichtmeister", 
-            0
+            "Maschinenf\u00fchrer", 
+            1
         ]
     ], 
     "Sozialpflegeassistent": [

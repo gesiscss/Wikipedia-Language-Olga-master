@@ -1,6 +1,14 @@
 {
-    "Mathematisch-Technische Assistentin": "Mathematisch-Technischer Assistent", 
-    "Videojournalistin": "Videojournalist", 
-    "Filmregisseurin": "Filmregisseur", 
-    "IT-Systemkauffrau": "IT-Systemkaufmann"
+    "IT-System-Kauffrau": {
+        "IT-Systemkauffrau": "IT-Systemkaufmann"
+    }, 
+    "Video-Journalistin": {
+        "Videojournalistin": "Videojournalist"
+    }, 
+    "Mathematisch-technische Assistentin": {
+        "Mathematisch-Technische Assistentin": "Mathematisch-Technischer Assistent"
+    }, 
+    "Film-Regisseurin": {
+        "Filmregisseurin": "Filmregisseur"
+    }
 }

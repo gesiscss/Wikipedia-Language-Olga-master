@@ -1,8 +1,4 @@
 {
-    "Auditor": [
-        "Arbeitsplatz-Auditor", 
-        "Umwelt-Auditor"
-    ], 
     "Sonnenschutztechniker": [
         "Rollladen- und Sonnenschutztechnikermeister"
     ], 
@@ -17,8 +13,8 @@
     "Gie\u00dfer": [
         "Gie\u00dfereihilfsarbeiter", 
         "Technischer Modellbauer im Gie\u00dferei", 
-        "Gie\u00dfereitechniker", 
         "Gie\u00dfereiingenieur", 
+        "Gie\u00dfereitechniker", 
         "Gie\u00dfereifacharbeiter", 
         "Gie\u00dfereimechaniker"
     ], 
@@ -30,17 +26,21 @@
         "IT-System-Elektroniker", 
         "Fachpraktiker f\u00fcr Elektroniker"
     ], 
+    "Werkzeugmacher": [
+        "Werkzeugmacherhelfer", 
+        "Werkzeugmachermeister"
+    ], 
     "Technischer Zeichner": [
         "Technischer Zeichner im Stahl- und Metallbautechnik", 
-        "Technischer Zeichner im Holztechnik", 
         "Technischer Zeichner im Heizungs- und Klima- und Sanit\u00e4rtechnik", 
+        "Technischer Zeichner im Holztechnik", 
         "Technischer Zeichner im Maschinen- und Anlagentechnik", 
         "Technischer Zeichner im Elektrotechnik"
     ], 
     "Metallbau": [
-        "Technischer Zeichner im Stahl- und Metallbautechnik", 
         "Technischer Systemplaner im Stahl- und Metallbautechnik", 
         "Metallbauermeister", 
+        "Technischer Zeichner im Stahl- und Metallbautechnik", 
         "Stahl- und Metallbauingenieur", 
         "Metallbauzeichner", 
         "Metallbaumeister", 
@@ -49,11 +49,11 @@
     "Landwirt": [
         "Landwirtschaftlicher Sachverst\u00e4ndiger", 
         "Landwirtschaftlicher Brennmeister", 
-        "Landwirtschaftslehrer", 
+        "Landwirtschaftswerker", 
         "Landwirtschaftsberater", 
         "Sozialversicherungsfachangestellter im Landwirtschaftliche Sozialversicherung", 
         "Landwirtschaftlich-technischer Laborant", 
-        "Landwirtschaftswerker"
+        "Landwirtschaftslehrer"
     ], 
     "Schneidwerkzeugmechaniker": [
         "Schneidwerkzeugmechanikermeister"
@@ -70,20 +70,20 @@
     "Facharbeiter": [
         "Facharbeiter f\u00fcr Nachrichtentechnik im studiotechnischen Anlagen", 
         "Facharbeiter f\u00fcr Umformtechnik", 
-        "Facharbeiter f\u00fcr Werkzeugmaschinen im Schleifen", 
-        "Facharbeiter f\u00fcr automatisierte Anlagen", 
         "Facharbeiter f\u00fcr Werkzeugmaschinen", 
+        "Facharbeiter f\u00fcr Werkzeugmaschinen im Schleifen", 
         "Facharbeiter f\u00fcr Fertigungsmittel im Feilenhauer", 
         "Facharbeiter f\u00fcr Werkzeugmaschinen im Drehen", 
         "Facharbeiter f\u00fcr Fertigungsmittel im Schneidewerkzeuge", 
+        "Facharbeiter f\u00fcr Rohrleitungselemente", 
         "Facharbeiter f\u00fcr Werkzeugmaschinen im Fr\u00e4sen", 
-        "Facharbeiter f\u00fcr automatisierte Produktionssysteme", 
+        "Facharbeiter f\u00fcr automatisierte Anlagen", 
         "Facharbeiter f\u00fcr Dampferzeugerbau", 
         "Facharbeiter f\u00fcr Werkzeugmaschinen im Bohren", 
-        "Facharbeiter f\u00fcr Anlagentechnik", 
-        "Facharbeiter f\u00fcr Rohrleitungselemente", 
+        "Facharbeiter f\u00fcr automatisierte Produktionssysteme", 
+        "Facharbeiter f\u00fcr Werkzeugmaschinen im Hobeln", 
         "Facharbeiter f\u00fcr Anlagentechnik im Kulturwaren", 
-        "Facharbeiter f\u00fcr Werkzeugmaschinen im Hobeln"
+        "Facharbeiter f\u00fcr Anlagentechnik"
     ], 
     "Zimmerer": [
         "Zimmerermeister", 
@@ -95,22 +95,22 @@
         "B\u00fcroinformationselektronikermeister"
     ], 
     "B\u00e4cker": [
+        "B\u00e4ckerhelfer", 
         "Fachverk\u00e4ufer im Nahrungsmittelhandwerk (B\u00e4ckerei und Konditorei)", 
         "B\u00e4ckermeister", 
         "B\u00e4ckerwerker", 
         "Fachpraktiker f\u00fcr B\u00e4cker", 
         "B\u00e4ckereiverk\u00e4ufer", 
         "B\u00e4ckereianlagenf\u00fchrer", 
-        "B\u00e4ckereimaschinenf\u00fchrer", 
-        "B\u00e4ckerhelfer"
+        "B\u00e4ckereimaschinenf\u00fchrer"
     ], 
     "Fallmanager": [
         "Besch\u00e4ftigungsorientierter Berater und Fallmanager"
     ], 
     "Fachangestellter f\u00fcr Medien- und Informationsdienste": [
         "Fachangestellter f\u00fcr Medien- und Informationsdienste im Bildagentur", 
-        "Fachangestellter f\u00fcr Medien- und Informationsdienste im Bibliothek", 
         "Fachangestellter f\u00fcr Medien- und Informationsdienste im Archiv", 
+        "Fachangestellter f\u00fcr Medien- und Informationsdienste im Bibliothek", 
         "Fachangestellter f\u00fcr Medien- und Informationsdienste im Medizinische Dokumentation", 
         "Fachangestellter f\u00fcr Medien- und Informationsdienste im Information und Dokumentation"
     ], 
@@ -126,8 +126,9 @@
     "Schwei\u00dfer": [
         "WIG-Schwei\u00dfer"
     ], 
-    "Feilenhauer": [
-        "Facharbeiter f\u00fcr Fertigungsmittel im Feilenhauer"
+    "Raumausstatter": [
+        "Raumausstatterwerker", 
+        "Raumausstattermeister"
     ], 
     "Architekt": [
         "Architekturmaler"
@@ -136,11 +137,11 @@
         "Brunnenbauermeister"
     ], 
     "Ingenieur": [
-        "Ingenieurinformatiker", 
         "REFA-Ingenieur", 
+        "Ingenieurinformatiker", 
         "Ingenieurassistent", 
-        "Pharmazie-Ingenieur", 
-        "Design-Ingenieur"
+        "Design-Ingenieur", 
+        "Pharmazie-Ingenieur"
     ], 
     "Glasmacher": [
         "Glasmacher im Chemisch-technischer Hohlglasmacher"
@@ -154,8 +155,8 @@
     "Illustrator": [
         "Medizinischer Illustrator"
     ], 
-    "Stra\u00dfenbauer": [
-        "Stra\u00dfenbauermeister"
+    "Kfz-Mechatroniker": [
+        "Fachpraktiker f\u00fcr Kfz-Mechatroniker"
     ], 
     "Keramiker": [
         "Keramikermeister"
@@ -165,9 +166,9 @@
     ], 
     "Angestellter": [
         "Angestellter im Bundesanstalt f\u00fcr Arbeit", 
-        "Technischer Angestellter im Elektro und Elektronik", 
         "Technischer Angestellter", 
-        "Operationstechnischer Angestellter"
+        "Operationstechnischer Angestellter", 
+        "Technischer Angestellter im Elektro und Elektronik"
     ], 
     "Metallschleifer": [
         "Metallschleiferhelfer", 
@@ -190,14 +191,14 @@
         "CVJM-Sekret\u00e4r"
     ], 
     "Fachkaufmann": [
-        "Technischer Fachkaufmann im Sanit\u00e4r, Heizung und Klima", 
-        "Technischer Fachkaufmann im Textil", 
-        "Technischer Fachkaufmann im Werkzeuge und Maschinen", 
+        "Technischer Fachkaufmann im Beschlagtechnik", 
         "Technischer Fachkaufmann", 
-        "Technischer Fachkaufmann im Beschlagtechnik"
+        "Technischer Fachkaufmann im Werkzeuge und Maschinen", 
+        "Technischer Fachkaufmann im Textil", 
+        "Technischer Fachkaufmann im Sanit\u00e4r, Heizung und Klima"
     ], 
-    "Kfz-Mechatroniker": [
-        "Fachpraktiker f\u00fcr Kfz-Mechatroniker"
+    "Stra\u00dfenbauer": [
+        "Stra\u00dfenbauermeister"
     ], 
     "Metallbauer": [
         "Metallbauermeister"
@@ -217,8 +218,8 @@
     "Zahntechniker": [
         "Zahntechnikermeister"
     ], 
-    "Former": [
-        "Former- und Kernmacherhelfer"
+    "Heizungsbauer": [
+        "Installateur- und Heizungsbauermeister"
     ], 
     "Fachverk\u00e4ufer im Lebensmittelhandwerk": [
         "Fachverk\u00e4ufer im Lebensmittelhandwerk (Konditorei)"
@@ -229,16 +230,12 @@
     "Vulkaniseur": [
         "Vulkaniseurhelfer"
     ], 
-    "Edelsteinschleifer": [
-        "Edelsteinschleifermeister", 
-        "Edelsteinschleifer- und Edelsteingraveurmeister"
-    ], 
     "Hochbaufacharbeiter": [
         "Fachpraktiker f\u00fcr Hochbaufacharbeiter"
     ], 
     "Abteilungsleiter": [
-        "Technischer Abteilungsleiter", 
-        "Abteilungsleiter-Assistent"
+        "Abteilungsleiter-Assistent", 
+        "Technischer Abteilungsleiter"
     ], 
     "Vorstand": [
         "Vorstandsassistent"
@@ -258,8 +255,8 @@
         "Berufstrainer"
     ], 
     "Polsterer": [
-        "Polstererhelfer", 
-        "Polsterer und Dekorateur"
+        "Polsterer und Dekorateur", 
+        "Polstererhelfer"
     ], 
     "Glaser": [
         "Glasermeister", 
@@ -293,8 +290,8 @@
         "Technischer Fachwirt im Elektro", 
         "Automobil-Fachwirt"
     ], 
-    "Modist": [
-        "Modistenmeister"
+    "Weink\u00fcfer": [
+        "Weink\u00fcfermeister"
     ], 
     "Stra\u00dfenw\u00e4rter": [
         "Stra\u00dfenw\u00e4rtermeister"
@@ -326,8 +323,8 @@
     "Asphaltierer": [
         "Asphaltierervorarbeiter"
     ], 
-    "Heizungsbauer": [
-        "Installateur- und Heizungsbauermeister"
+    "Former": [
+        "Former- und Kernmacherhelfer"
     ], 
     "\u00dcbersetzer": [
         "Technik-\u00dcbersetzer"
@@ -351,13 +348,14 @@
     "Geigenbauer": [
         "Geigenbauermeister"
     ], 
-    "Metallblasinstrumentenmacher": [
-        "Metallblasinstrumentenmachermeister"
+    "Auditor": [
+        "Umwelt-Auditor", 
+        "Arbeitsplatz-Auditor"
     ], 
     "Sattler": [
-        "Sattler- und Bandagistenhelfer", 
         "Sattlermeister", 
-        "Sattler- und Feint\u00e4schnermeister"
+        "Sattler- und Feint\u00e4schnermeister", 
+        "Sattler- und Bandagistenhelfer"
     ], 
     "Wachszieher": [
         "Wachsziehermeister"
@@ -392,9 +390,8 @@
     "Holzspielzeugmacher": [
         "Drechsler- und Holzspielzeugmachermeister"
     ], 
-    "Therapeut": [
-        "Bobath-Therapeut", 
-        "Vojta-Therapeut"
+    "Metallblasinstrumentenmacher": [
+        "Metallblasinstrumentenmachermeister"
     ], 
     "B\u00fcroleiter": [
         "Handwerk - B\u00fcroleiter"
@@ -414,8 +411,8 @@
     ], 
     "Technischer Systemplaner": [
         "Technischer Systemplaner im Stahl- und Metallbautechnik", 
-        "Technischer Systemplaner im Versorgungs- und Ausr\u00fcstungstechnik", 
-        "Technischer Systemplaner im Elektrotechnische Systeme"
+        "Technischer Systemplaner im Elektrotechnische Systeme", 
+        "Technischer Systemplaner im Versorgungs- und Ausr\u00fcstungstechnik"
     ], 
     "Konditor": [
         "Fachverk\u00e4ufer im Lebensmittelhandwerk (Konditorei)", 
@@ -424,13 +421,17 @@
         "Fachverk\u00e4ufer im Nahrungsmittelhandwerk (B\u00e4ckerei und Konditorei)", 
         "Konditorhelfer"
     ], 
+    "Therapeut": [
+        "Bobath-Therapeut", 
+        "Vojta-Therapeut"
+    ], 
     "Kernmacher": [
         "Former- und Kernmacherhelfer"
     ], 
     "Psychologe": [
         "Forensischer Psychologe", 
-        "P\u00e4dagogischer Psychologe", 
-        "Klinischer Psychologe"
+        "Klinischer Psychologe", 
+        "P\u00e4dagogischer Psychologe"
     ], 
     "Messebau": [
         "Messebauer"
@@ -453,9 +454,9 @@
         "Syndikus-Anwalt"
     ], 
     "Textilreiniger": [
+        "Textilreinigermeister", 
         "Textilreinigerwerker", 
-        "Fachpraktiker f\u00fcr Textilreiniger", 
-        "Textilreinigermeister"
+        "Fachpraktiker f\u00fcr Textilreiniger"
     ], 
     "Maurer": [
         "Maurer- und Betonbauermeister", 
@@ -473,12 +474,6 @@
         "Klempner- und Installateurmeister", 
         "Installateur- und Heizungsbauermeister", 
         "Klempner- und Installateurhelfer"
-    ], 
-    "Techniker": [
-        "Audio-Techniker", 
-        "REFA-Techniker", 
-        "Fensterbautechniker - Techniker - Holztechnik", 
-        "Techniker im Fahrlehrer f\u00fcr Kraftfahrzeuge und Triebwagen"
     ], 
     "Zahnarzt": [
         "Zahnarztsekret\u00e4r"
@@ -504,11 +499,12 @@
         "Fachpraktiker f\u00fcr Maler und Lackierer"
     ], 
     "Lehrer": [
-        "Lehrer im Schule f\u00fcr Arbeitserziehung", 
-        "Tai-Chi-Chuan- und Qigong-Lehrer"
+        "Tai-Chi-Chuan- und Qigong-Lehrer", 
+        "Lehrer im Schule f\u00fcr Arbeitserziehung"
     ], 
-    "Rechtsanwalt": [
-        "Rechtsanwalts- und Notargehilfe"
+    "Edelsteinschleifer": [
+        "Edelsteinschleifer- und Edelsteingraveurmeister", 
+        "Edelsteinschleifermeister"
     ], 
     "Sachverst\u00e4ndiger": [
         "Landwirtschaftlicher Sachverst\u00e4ndiger", 
@@ -522,8 +518,8 @@
     "H\u00f6rger\u00e4teakustiker": [
         "H\u00f6rger\u00e4teakustikermeister"
     ], 
-    "Notar": [
-        "Rechtsanwalts- und Notargehilfe"
+    "Zupfinstrumentenmacher": [
+        "Zupfinstrumentenmachermeister"
     ], 
     "Handschuhmacher": [
         "Handschuhmacherhelfer"
@@ -542,9 +538,9 @@
         "Friseurmeister"
     ], 
     "Buchbinder": [
+        "Fachpraktiker f\u00fcr Buchbinder", 
         "Buchbinderhelfer", 
-        "Buchbindermeister", 
-        "Fachpraktiker f\u00fcr Buchbinder"
+        "Buchbindermeister"
     ], 
     "Wirtschaftsassistent": [
         "Europa-Wirtschaftsassistent"
@@ -558,16 +554,17 @@
     "Estrichleger": [
         "Estrichlegermeister"
     ], 
-    "Raumausstatter": [
-        "Raumausstattermeister", 
-        "Raumausstatterwerker"
+    "Feilenhauer": [
+        "Facharbeiter f\u00fcr Fertigungsmittel im Feilenhauer"
     ], 
     "Fischwirt": [
         "Fischwirtschaftsmeister"
     ], 
-    "Werkzeugmacher": [
-        "Werkzeugmacherhelfer", 
-        "Werkzeugmachermeister"
+    "Techniker": [
+        "Audio-Techniker", 
+        "Fensterbautechniker - Techniker - Holztechnik", 
+        "REFA-Techniker", 
+        "Techniker im Fahrlehrer f\u00fcr Kraftfahrzeuge und Triebwagen"
     ], 
     "Uhrmacher": [
         "Uhrmachermeister", 
@@ -591,17 +588,17 @@
     ], 
     "Porzellanmaler": [
         "Porzellanmalermeister", 
-        "Glas- und Porzellanmaler", 
-        "Glas- und Porzellanmalermeister"
+        "Glas- und Porzellanmalermeister", 
+        "Glas- und Porzellanmaler"
     ], 
     "Betriebswirt": [
         "Betriebswirtschaftlicher Assistent", 
-        "Industrie-Betriebswirt", 
         "Betriebswirtschaftlicher Assistent im Gesundheitswesen", 
         "Technischer Betriebswirt", 
         "Technischer Betriebswirt im Handwerk", 
         "Informatik-Betriebswirt", 
         "Betriebswirt - Schifffahrt", 
+        "Industrie-Betriebswirt", 
         "Betriebswirt - Versicherungswesen", 
         "Praktischer Betriebswirt"
     ], 
@@ -631,8 +628,8 @@
         "Zweiradmechanikerwerker"
     ], 
     "Stuckateur": [
-        "Stuckateurmeister", 
-        "Stuckateurhelfer"
+        "Stuckateurhelfer", 
+        "Stuckateurmeister"
     ], 
     "Facharbeiter f\u00fcr Fertigungsmittel": [
         "Facharbeiter f\u00fcr Fertigungsmittel im Feilenhauer", 
@@ -674,8 +671,8 @@
         "Galvaniseurmeister", 
         "Galvaniseur- und Metallschleifermeister"
     ], 
-    "Zupfinstrumentenmacher": [
-        "Zupfinstrumentenmachermeister"
+    "Notar": [
+        "Rechtsanwalts- und Notargehilfe"
     ], 
     "Tiefbaufacharbeiter": [
         "Fachpraktiker f\u00fcr Tiefbaufacharbeiter"
@@ -684,11 +681,11 @@
         "Metallbildnermeister"
     ], 
     "Fleischer": [
-        "Fleischerhelfer", 
         "Fleischerfachwerker", 
         "Fachverk\u00e4ufer im Nahrungsmittelhandwerk (Fleischerei)", 
         "Fleischereitechniker", 
         "Fleischerwerker", 
+        "Fleischerhelfer", 
         "Fleischermeister", 
         "Fachpraktiker f\u00fcr Fleischer"
     ], 
@@ -697,8 +694,8 @@
         "Technischer Modellbauer im Anschauung", 
         "Technischer Modellbauer im Gie\u00dferei"
     ], 
-    "Weink\u00fcfer": [
-        "Weink\u00fcfermeister"
+    "Modist": [
+        "Modistenmeister"
     ], 
     "Steinbildhauer": [
         "Steinmetz- und Steinbildhauermeister"
@@ -717,12 +714,12 @@
     ], 
     "Verwaltungsfachangestellter": [
         "Verwaltungsfachangestellter im Kirchenverwaltung -evangelische Kirche", 
-        "Verwaltungsfachangestellter im Kommunalverwaltung", 
-        "Verwaltungsfachangestellter im HWK und IHK", 
-        "Verwaltungsfachangestellter im Bundesverkehrsverwaltung", 
-        "Verwaltungsfachangestellter im Landesverwaltung", 
         "Verwaltungsfachangestellter im Bundesverwaltung", 
-        "Verwaltungsfachangestellter im Kirchenverwaltung -katholische Kirche"
+        "Verwaltungsfachangestellter im Bundesverkehrsverwaltung", 
+        "Verwaltungsfachangestellter im Kommunalverwaltung", 
+        "Verwaltungsfachangestellter im Landesverwaltung", 
+        "Verwaltungsfachangestellter im Kirchenverwaltung -katholische Kirche", 
+        "Verwaltungsfachangestellter im HWK und IHK"
     ], 
     "Mitarbeiter": [
         "Fahrbahnservice-Mitarbeiter"
@@ -762,8 +759,8 @@
     "Model": [
         "Technischer Modellbauer im Karosserie und Produktion", 
         "Modellverwalter", 
-        "Technischer Modellbauer im Anschauung", 
         "Modellbauermeister", 
+        "Technischer Modellbauer im Anschauung", 
         "Modellkontrolleur", 
         "Technischer Modellbauer im Gie\u00dferei", 
         "Modelltischlerhelfer", 
@@ -787,8 +784,8 @@
         "Flugger\u00e4tmechanikerhelfer"
     ], 
     "Sozialversicherungsfachangestellter": [
-        "Sozialversicherungsfachangestellter im Allgemeine Krankenversicherung", 
         "Sozialversicherungsfachangestellter im Knappschaftliche Sozialversicherung", 
+        "Sozialversicherungsfachangestellter im Allgemeine Krankenversicherung", 
         "Sozialversicherungsfachangestellter im Landwirtschaftliche Sozialversicherung", 
         "Sozialversicherungsfachangestellter im Unfallversicherung", 
         "Sozialversicherungsfachangestellter im Rentenversicherung"
@@ -805,8 +802,11 @@
         "Medientechniker"
     ], 
     "Pferdewirt": [
-        "Fachpraktiker f\u00fcr Pferdewirt", 
-        "Pferdewirtschafter"
+        "Pferdewirtschafter", 
+        "Fachpraktiker f\u00fcr Pferdewirt"
+    ], 
+    "Rechtsanwalt": [
+        "Rechtsanwalts- und Notargehilfe"
     ], 
     "Kartograf": [
         "Kartografieingenieur"
