@@ -1,0 +1,3172 @@
+{
+    "Schaltmeister": [
+        [
+            "Schichtmeister", 
+            0
+        ]
+    ], 
+    "Kanalmaurer": [
+        [
+            "Kanalbauer", 
+            1
+        ]
+    ], 
+    "Seevermessungstechniker": [
+        [
+            "Vermessungstechniker", 
+            1
+        ]
+    ], 
+    "B\u00fchnenarbeiter": [
+        [
+            "H\u00f6henarbeiter", 
+            0
+        ]
+    ], 
+    "Planungstechniker": [
+        [
+            "Zerspanungstechniker", 
+            0
+        ]
+    ], 
+    "Kaschierer": [
+        [
+            "Kassierer", 
+            1
+        ]
+    ], 
+    "Metallformer": [
+        [
+            "Metallverformer", 
+            99
+        ]
+    ], 
+    "Operationstechnischer Angestellter": [
+        [
+            "Operationstechnischer Assistent", 
+            1
+        ]
+    ], 
+    "Automechatroniker": [
+        [
+            "Automobil-Mechatroniker", 
+            99
+        ]
+    ], 
+    "Glastechniker": [
+        [
+            "Glasbautechniker", 
+            0
+        ], 
+        [
+            "Haustechniker", 
+            1
+        ]
+    ], 
+    "Kettengoldschmied": [
+        [
+            "Kettenschmied", 
+            99
+        ]
+    ], 
+    "Karosserie- und Fahrzeugbauer": [
+        [
+            "Karosserie- und Fahrzeugbaumechaniker", 
+            1
+        ]
+    ], 
+    "Mathematisch-technischer Assistent": [
+        [
+            "Physikalisch-technischer Assistent", 
+            1
+        ], 
+        [
+            "Medizinisch-technischer Assistent", 
+            1
+        ], 
+        [
+            "Pharmazeutisch-technischer Assistent", 
+            1
+        ], 
+        [
+            "Chemisch-Technischer Assistent", 
+            0
+        ], 
+        [
+            "Mathematisch-Technischer Assistent", 
+            99
+        ], 
+        [
+            "Landwirtschaftlich-technischer Assistent", 
+            1
+        ]
+    ], 
+    "St\u00f6rfallbeauftragter": [
+        [
+            "Abfallbeauftragter", 
+            1
+        ]
+    ], 
+    "Steinbehauer": [
+        [
+            "Steinhauer", 
+            99
+        ], 
+        [
+            "Steinbildhauer", 
+            1
+        ]
+    ], 
+    "Klauenpfleger": [
+        [
+            "Krankenpfleger", 
+            1
+        ]
+    ], 
+    "Farb- und Oberfl\u00e4chengestalter": [
+        [
+            "Garten- und Gr\u00fcnfl\u00e4chengestalter", 
+            0
+        ]
+    ], 
+    "Einrichtungsfachberater": [
+        [
+            "Einrichtungsberater", 
+            99
+        ]
+    ], 
+    "Ger\u00e4teelektroniker": [
+        [
+            "Flugger\u00e4telektroniker", 
+            1
+        ], 
+        [
+            "Energieelektroniker", 
+            1
+        ]
+    ], 
+    "N\u00e4hmaschinenmechaniker": [
+        [
+            "B\u00fcromaschinenmechaniker", 
+            1
+        ], 
+        [
+            "Landmaschinenmechaniker", 
+            1
+        ]
+    ], 
+    "Fertigungstechnischer Assistent": [
+        [
+            "Informationstechnischer Assistent", 
+            0
+        ], 
+        [
+            "Operationstechnischer Assistent", 
+            1
+        ], 
+        [
+            "Konstruktions- und Fertigungstechnischer Assistent", 
+            0
+        ], 
+        [
+            "Datentechnischer Assistent", 
+            1
+        ], 
+        [
+            "Gestaltungstechnischer Assistent", 
+            1
+        ]
+    ], 
+    "Lichtsetzer": [
+        [
+            "Lichtputzer", 
+            0
+        ]
+    ], 
+    "Abfallberater": [
+        [
+            "Abfallbeauftragter", 
+            1
+        ]
+    ], 
+    "Medienassistent": [
+        [
+            "Regieassistent", 
+            1
+        ]
+    ], 
+    "Biowissenschaftler": [
+        [
+            "Forstwissenschaftler", 
+            0
+        ], 
+        [
+            "Wissenschaftler", 
+            0
+        ]
+    ], 
+    "Textildesigningenieur": [
+        [
+            "Textilingenieur", 
+            0
+        ]
+    ], 
+    "Medizinisch-technischer Radiologieassistent": [
+        [
+            "Medizinisch-technischer Assistent", 
+            1
+        ]
+    ], 
+    "Zupfinstrumentenfacharbeiter": [
+        [
+            "Zupfinstrumentenmacher", 
+            1
+        ]
+    ], 
+    "Gl\u00fcher": [
+        [
+            "Glaser", 
+            1
+        ]
+    ], 
+    "Technischer Betriebswirt": [
+        [
+            "Gepr\u00fcfter Technischer Betriebswirt", 
+            99
+        ]
+    ], 
+    "Datenverarbeitungsfachmann": [
+        [
+            "Datenverarbeitungskaufmann", 
+            1
+        ]
+    ], 
+    "Medizinisch-technischer Laboratoriumsassistent": [
+        [
+            "Medizinisch-technischer Assistent", 
+            1
+        ]
+    ], 
+    "Weinpr\u00fcfer": [
+        [
+            "Weink\u00fcfer", 
+            1
+        ]
+    ], 
+    "Elektroinstallateurmeister": [
+        [
+            "Elektroinstallateur", 
+            1
+        ]
+    ], 
+    "Gesundheitsmanager": [
+        [
+            "Gesundheitshandwerk", 
+            0
+        ]
+    ], 
+    "Wirtschaftspfleger": [
+        [
+            "Wirtschaftspr\u00fcfer", 
+            1
+        ]
+    ], 
+    "Kaminbauer": [
+        [
+            "Kleinbauer", 
+            0
+        ]
+    ], 
+    "Betonstein- und Terrazzoherstellermeister": [
+        [
+            "Betonstein- und Terrazzohersteller", 
+            3
+        ]
+    ], 
+    "Fachpraktiker f\u00fcr Land- und  Baumaschinentechnik": [
+        [
+            "Mechaniker f\u00fcr Land- und Baumaschinentechnik", 
+            0
+        ]
+    ], 
+    "Brandschutzglaser": [
+        [
+            "Brandschutzwart", 
+            0
+        ], 
+        [
+            "Brandschutzgutachter", 
+            0
+        ]
+    ], 
+    "Metallschleiferhelfer": [
+        [
+            "Metallschleifer", 
+            1
+        ]
+    ], 
+    "Vorbereiter": [
+        [
+            "Vorarbeiter", 
+            1
+        ]
+    ], 
+    "Wagenschmied": [
+        [
+            "Waffenschmied", 
+            0
+        ], 
+        [
+            "Nagelschmied", 
+            0
+        ]
+    ], 
+    "Baggerf\u00fchrer": [
+        [
+            "Bergf\u00fchrer", 
+            0
+        ], 
+        [
+            "Bauger\u00e4tef\u00fchrer", 
+            1
+        ]
+    ], 
+    "Holzblasinstrumentenfacharbeiter": [
+        [
+            "Holzblasinstrumentenmacher", 
+            1
+        ]
+    ], 
+    "Elektroinstallateurhelfer": [
+        [
+            "Elektroinstallateur", 
+            1
+        ]
+    ], 
+    "Fachverk\u00e4ufer im Lebensmittelhandwerk (Konditorei)": [
+        [
+            "Fachverk\u00e4ufer im Lebensmittelhandwerk", 
+            1
+        ], 
+        [
+            "Fachverk\u00e4ufer im Lebensmittelhandwerk (Fleischerei)", 
+            1
+        ], 
+        [
+            "Fachverk\u00e4ufer im Lebensmittelhandwerk (B\u00e4ckerei)", 
+            1
+        ]
+    ], 
+    "Medizinisch-technischer Lehrassistent": [
+        [
+            "Medizinisch-technischer Assistent", 
+            1
+        ], 
+        [
+            "Medizinisch-technische Dienste", 
+            0
+        ]
+    ], 
+    "Landwirtschaftlich-technischer Laborant": [
+        [
+            "Landwirtschaftlich-technischer Assistent", 
+            1
+        ]
+    ], 
+    "Studiomeister": [
+        [
+            "Staumeister", 
+            0
+        ]
+    ], 
+    "Audiodesigner": [
+        [
+            "Audiodesign", 
+            100
+        ]
+    ], 
+    "Logistikmeister": [
+        [
+            "Gepr\u00fcfter Logistikmeister", 
+            99
+        ]
+    ], 
+    "Ausbildungsleiter": [
+        [
+            "Ausbildungsberater", 
+            1
+        ], 
+        [
+            "Abteilungsleiter", 
+            0
+        ]
+    ], 
+    "Galvanotechniker": [
+        [
+            "Nanotechniker", 
+            0
+        ]
+    ], 
+    "Nachrichtentechniker": [
+        [
+            "Nachrichtenger\u00e4temechaniker", 
+            1
+        ], 
+        [
+            "Nachrichtensprecher", 
+            0
+        ]
+    ], 
+    "Geologiefacharbeiter": [
+        [
+            "Isolierfacharbeiter", 
+            1
+        ]
+    ], 
+    "Modegestalter": [
+        [
+            "Mediengestalter", 
+            1
+        ]
+    ], 
+    "Elektromontierer": [
+        [
+            "Elektromonteur", 
+            1
+        ]
+    ], 
+    "Au\u00dfenhandelskaufmann": [
+        [
+            "Gro\u00dfhandelskaufmann", 
+            3
+        ]
+    ], 
+    "Werkpfleger": [
+        [
+            "Tierpfleger", 
+            1
+        ]
+    ], 
+    "Kommunikationstechnischer Assistent": [
+        [
+            "Informationstechnischer Assistent", 
+            99
+        ], 
+        [
+            "Operationstechnischer Assistent", 
+            1
+        ]
+    ], 
+    "Geb\u00e4udereinigermeister": [
+        [
+            "Geb\u00e4udereiniger", 
+            1
+        ]
+    ], 
+    "Tanztherapeut": [
+        [
+            "Therapeut", 
+            0
+        ]
+    ], 
+    "Glasapparatebauermeister": [
+        [
+            "Glasapparatebauer", 
+            1
+        ]
+    ], 
+    "Technischer Projektleiter": [
+        [
+            "Technischer Produktdesigner", 
+            1
+        ]
+    ], 
+    "Festwirt": [
+        [
+            "Gastwirt", 
+            1
+        ], 
+        [
+            "Forstwirt", 
+            1
+        ]
+    ], 
+    "Handmaschinensticker": [
+        [
+            "Landmaschinentechniker", 
+            0
+        ]
+    ], 
+    "Bekleidungstechnischer Assistent": [
+        [
+            "Gestaltungstechnischer Assistent", 
+            1
+        ]
+    ], 
+    "Edelmetallpolierer": [
+        [
+            "Edelmetallpr\u00fcfer", 
+            1
+        ]
+    ], 
+    "Metallblasinstrumentenmachermeister": [
+        [
+            "Metallblasinstrumentenmacher", 
+            1
+        ]
+    ], 
+    "Fachverk\u00e4ufer im Nahrungsmittelhandwerk (Fleischerei)": [
+        [
+            "Fachverk\u00e4ufer im Lebensmittelhandwerk (Fleischerei)", 
+            1
+        ], 
+        [
+            "Fachverk\u00e4ufer im Lebensmittelhandwerk (B\u00e4ckerei)", 
+            1
+        ]
+    ], 
+    "Ausstellungstischler": [
+        [
+            "Ausstellungsmacher", 
+            0
+        ]
+    ], 
+    "Webereitechniker": [
+        [
+            "Wettertechniker", 
+            0
+        ]
+    ], 
+    "Spulenwickler": [
+        [
+            "Spieleentwickler", 
+            0
+        ]
+    ], 
+    "Arbeitswissenschaftler": [
+        [
+            "Forstwissenschaftler", 
+            0
+        ]
+    ], 
+    "Fachangestellter": [
+        [
+            "Fachangestellter f\u00fcr B\u00fcrokommunikation", 
+            1
+        ], 
+        [
+            "Fachangestellter f\u00fcr B\u00e4derbetriebe", 
+            1
+        ], 
+        [
+            "Fachangestellter f\u00fcr Medien- und Informationsdienste", 
+            1
+        ], 
+        [
+            "Fachangestellter f\u00fcr Arbeitsmarktdienstleistungen", 
+            1
+        ], 
+        [
+            "Medizinischer Fachangestellter", 
+            1
+        ], 
+        [
+            "Tiermedizinischer Fachangestellter", 
+            1
+        ], 
+        [
+            "Zahnmedizinischer Fachangestellter", 
+            1
+        ], 
+        [
+            "Fachangestellter f\u00fcr Markt- und Sozialforschung", 
+            1
+        ]
+    ], 
+    "Stempelmacher": [
+        [
+            "Segelmacher", 
+            1
+        ]
+    ], 
+    "Wirtschafter": [
+        [
+            "Wirtschaftspr\u00fcfer", 
+            1
+        ]
+    ], 
+    "DV-Berater": [
+        [
+            "IT-Berater", 
+            1
+        ]
+    ], 
+    "Elektroger\u00e4temechaniker": [
+        [
+            "Elektromechaniker", 
+            1
+        ]
+    ], 
+    "Molkereifacharbeiter": [
+        [
+            "Isolierfacharbeiter", 
+            1
+        ]
+    ], 
+    "Knoter": [
+        [
+            "K\u00fcster", 
+            1
+        ]
+    ], 
+    "Werkzeugbautechniker": [
+        [
+            "Werkzeugmechaniker", 
+            1
+        ]
+    ], 
+    "Editionswissenschaftler": [
+        [
+            "Kommunikationswissenschaftler", 
+            3
+        ]
+    ], 
+    "Wartungsmechaniker": [
+        [
+            "Fertigungsmechaniker", 
+            1
+        ]
+    ], 
+    "Postfacharbeiter": [
+        [
+            "Forstfacharbeiter", 
+            1
+        ]
+    ], 
+    "Strohdachdecker": [
+        [
+            "Strohdecker", 
+            99
+        ]
+    ], 
+    "Flugzeugelektroniker": [
+        [
+            "Flugger\u00e4telektroniker", 
+            1
+        ]
+    ], 
+    "Tiefbauvorarbeiter": [
+        [
+            "Tiefbaufacharbeiter", 
+            1
+        ]
+    ], 
+    "Wasserbauwerker": [
+        [
+            "Wasserbauer", 
+            1
+        ]
+    ], 
+    "Fischermeister": [
+        [
+            "Zwischenmeister", 
+            0
+        ]
+    ], 
+    "Feinwerkmechanikermeister": [
+        [
+            "Feinwerkmechaniker", 
+            1
+        ]
+    ], 
+    "Reifenmacher": [
+        [
+            "Weinmacher", 
+            0
+        ]
+    ], 
+    "Lebensmittelchemielaborant": [
+        [
+            "Lebensmittelchemiker", 
+            1
+        ]
+    ], 
+    "Edelsteinschleifermeister": [
+        [
+            "Edelsteinschleifer", 
+            1
+        ]
+    ], 
+    "Backtechniker": [
+        [
+            "Bautechniker", 
+            1
+        ]
+    ], 
+    "Bereiter": [
+        [
+            "Bergmeister", 
+            0
+        ]
+    ], 
+    "Bergbaufacharbeiter": [
+        [
+            "Ausbaufacharbeiter", 
+            1
+        ], 
+        [
+            "Tiefbaufacharbeiter", 
+            1
+        ], 
+        [
+            "Bauhoffacharbeiter", 
+            0
+        ]
+    ], 
+    "Sicherheitskontrolleur": [
+        [
+            "Sicherheitsrolle", 
+            0
+        ]
+    ], 
+    "Zeltmacher": [
+        [
+            "Zeugmacher", 
+            0
+        ]
+    ], 
+    "Gartenbauwerker": [
+        [
+            "Gartenbaufachwerker", 
+            99
+        ]
+    ], 
+    "Bauwerksmechaniker": [
+        [
+            "Naturwerksteinmechaniker", 
+            1
+        ], 
+        [
+            "Bauwerksmechaniker f\u00fcr Abbruch und Betontrenntechnik", 
+            1
+        ]
+    ], 
+    "Fremdsprachenlehrer": [
+        [
+            "Fremdsprachensekret\u00e4r", 
+            1
+        ], 
+        [
+            "Fremdsprachensetzer", 
+            0
+        ]
+    ], 
+    "Polymerchemiker": [
+        [
+            "Polymechaniker", 
+            0
+        ]
+    ], 
+    "Flugger\u00e4tmechanikerhelfer": [
+        [
+            "Flugger\u00e4tmechaniker", 
+            1
+        ]
+    ], 
+    "Suchtpsychologe": [
+        [
+            "Sprachpsychologe", 
+            0
+        ]
+    ], 
+    "Ausstellungstechniker": [
+        [
+            "Ausstellungsmacher", 
+            0
+        ]
+    ], 
+    "Kunstsachverst\u00e4ndiger": [
+        [
+            "Sachverst\u00e4ndiger", 
+            1
+        ], 
+        [
+            "Kreditsachverst\u00e4ndiger", 
+            0
+        ], 
+        [
+            "Amtssachverst\u00e4ndiger", 
+            0
+        ]
+    ], 
+    "Haus- und Familienpflegehelfer": [
+        [
+            "Haus- und Familienpfleger", 
+            1
+        ]
+    ], 
+    "Steinschleifer": [
+        [
+            "Edelsteinschleifer", 
+            1
+        ]
+    ], 
+    "Berufsfeuerwehrmann": [
+        [
+            "Werkfeuerwehrmann", 
+            1
+        ]
+    ], 
+    "Stickermeister": [
+        [
+            "St\u00fcckmeister", 
+            0
+        ], 
+        [
+            "S\u00e4ckelmeister", 
+            0
+        ]
+    ], 
+    "REFA-Techniker": [
+        [
+            "EDV-Techniker", 
+            0
+        ], 
+        [
+            "EB-Techniker", 
+            0
+        ]
+    ], 
+    "Ramp-Agent": [
+        [
+            "Ramp Agent", 
+            99
+        ]
+    ], 
+    "Maschinenhauer": [
+        [
+            "Maschinenf\u00fchrer", 
+            1
+        ]
+    ], 
+    "Informationssystemtechniker": [
+        [
+            "Informationstechniker", 
+            4
+        ]
+    ], 
+    "Elektroniktechniker": [
+        [
+            "Elektromechaniker", 
+            1
+        ]
+    ], 
+    "Kinderpflegehelfer": [
+        [
+            "Kinderpfleger", 
+            1
+        ]
+    ], 
+    "Tabakfacharbeiter": [
+        [
+            "Tiefbaufacharbeiter", 
+            1
+        ]
+    ], 
+    "Dekorationenmaler": [
+        [
+            "Dekorationsmalerei", 
+            100
+        ]
+    ], 
+    "Facharbeiter f\u00fcr Umformtechnik": [
+        [
+            "Facharbeiter f\u00fcr Schreibtechnik", 
+            0
+        ]
+    ], 
+    "Feinwerktechniker": [
+        [
+            "Feinwerkmechaniker", 
+            1
+        ]
+    ], 
+    "Wirtschaftsleiter": [
+        [
+            "Wirtschaftsingenieur", 
+            3
+        ]
+    ], 
+    "Aufzugmonteur": [
+        [
+            "Aufzugsmonteur", 
+            1
+        ]
+    ], 
+    "Beizer": [
+        [
+            "Heizer", 
+            1
+        ], 
+        [
+            "Meier", 
+            0
+        ]
+    ], 
+    "Maschinenbauzeichner": [
+        [
+            "Maschinenbautechniker", 
+            0
+        ]
+    ], 
+    "H\u00f6rger\u00e4teakustikermeister": [
+        [
+            "H\u00f6rger\u00e4teakustiker", 
+            1
+        ]
+    ], 
+    "Landmaschinenmechanikerhelfer": [
+        [
+            "Landmaschinentechniker", 
+            0
+        ], 
+        [
+            "Landmaschinenmechaniker", 
+            1
+        ]
+    ], 
+    "Sporttauchlehrer": [
+        [
+            "Sportlehrer", 
+            1
+        ]
+    ], 
+    "Werkf\u00fchrer": [
+        [
+            "Bergf\u00fchrer", 
+            0
+        ]
+    ], 
+    "Konstruktionszeichner": [
+        [
+            "Konstruktionsmechaniker", 
+            1
+        ]
+    ], 
+    "Edelsteingraveurmeister": [
+        [
+            "Edelsteingraveur", 
+            1
+        ]
+    ], 
+    "Elektroanlageninstallateur": [
+        [
+            "Elektroinstallateur", 
+            1
+        ], 
+        [
+            "Elektroanlagenmonteur", 
+            1
+        ]
+    ], 
+    "B\u00fcromaschinenmechanikermeister": [
+        [
+            "B\u00fcromaschinenmechaniker", 
+            1
+        ]
+    ], 
+    "Verwaltungsbetriebswirt": [
+        [
+            "Verwaltungsbetriebswirt (HVSV)", 
+            99
+        ]
+    ], 
+    "Gichter": [
+        [
+            "Richter", 
+            1
+        ], 
+        [
+            "Dichter", 
+            0
+        ], 
+        [
+            "W\u00e4chter", 
+            1
+        ]
+    ], 
+    "Internettechnologe": [
+        [
+            "Industrietechnologe", 
+            1
+        ]
+    ], 
+    "Schilder- und Lichtreklameherstellermeister": [
+        [
+            "Schilder- und Lichtreklamehersteller", 
+            1
+        ]
+    ], 
+    "Brautechniker": [
+        [
+            "Bautechniker", 
+            1
+        ], 
+        [
+            "Haustechniker", 
+            1
+        ]
+    ], 
+    "Referent f\u00fcr Gesundheitstourismus": [
+        [
+            "Assistent f\u00fcr Gesundheitstourismus", 
+            0
+        ]
+    ], 
+    "Blechbearbeitungstechniker": [
+        [
+            "Holzbearbeitungsmechaniker", 
+            1
+        ]
+    ], 
+    "Klavier- und Cembalobauermeister": [
+        [
+            "Klavier- und Cembalobauer", 
+            1
+        ]
+    ], 
+    "Merchandiser": [
+        [
+            "Mechaniker", 
+            1
+        ]
+    ], 
+    "Zupfinstrumentenmachermeister": [
+        [
+            "Zupfinstrumentenmacher", 
+            1
+        ]
+    ], 
+    "Bohrarbeiter": [
+        [
+            "Vorarbeiter", 
+            1
+        ]
+    ], 
+    "Video-Journalist": [
+        [
+            "Videojournalist", 
+            99
+        ]
+    ], 
+    "Zahnlagerist": [
+        [
+            "Fachlagerist", 
+            1
+        ]
+    ], 
+    "Wildheger": [
+        [
+            "Wildh\u00fcter", 
+            99
+        ]
+    ], 
+    "Kraftwerksmeister": [
+        [
+            "Kraftverkehrsmeister", 
+            0
+        ]
+    ], 
+    "Elektrotechnischer Assistent": [
+        [
+            "Agrartechnischer Assistent", 
+            0
+        ], 
+        [
+            "Operationstechnischer Assistent", 
+            1
+        ], 
+        [
+            "Denkmaltechnischer Assistent", 
+            1
+        ], 
+        [
+            "Technischer Assistent", 
+            1
+        ], 
+        [
+            "Datentechnischer Assistent", 
+            1
+        ]
+    ], 
+    "Stollenhauer": [
+        [
+            "Steinhauer", 
+            0
+        ]
+    ], 
+    "Krankenversicherungsfachmann": [
+        [
+            "Versicherungsfachmann", 
+            1
+        ]
+    ], 
+    "Textilreinigerwerker": [
+        [
+            "Textilreiniger", 
+            1
+        ]
+    ], 
+    "Versicherungsangestellter": [
+        [
+            "Versicherungsvertreter", 
+            1
+        ]
+    ], 
+    "Lebensmitteltechniker": [
+        [
+            "Lebensmitteltechnologe", 
+            0
+        ], 
+        [
+            "Lebensmittelchemiker", 
+            1
+        ]
+    ], 
+    "Beleuchtungsmonteur": [
+        [
+            "Beleuchtungsmeister", 
+            1
+        ]
+    ], 
+    "Sozialmedizinischer Assistent": [
+        [
+            "Flugmedizinischer Assistent", 
+            0
+        ]
+    ], 
+    "Baumaschinenmechaniker": [
+        [
+            "Landmaschinentechniker", 
+            0
+        ], 
+        [
+            "B\u00fcromaschinenmechaniker", 
+            1
+        ], 
+        [
+            "Landmaschinenmechaniker", 
+            1
+        ]
+    ], 
+    "Feinkosttechniker": [
+        [
+            "Forsttechniker", 
+            0
+        ]
+    ], 
+    "Film-Regisseur": [
+        [
+            "Filmregisseur", 
+            99
+        ]
+    ], 
+    "Filmberichterstatter": [
+        [
+            "Berichterstatter", 
+            0
+        ]
+    ], 
+    "Feinger\u00e4teelektroniker": [
+        [
+            "Flugger\u00e4telektroniker", 
+            1
+        ]
+    ], 
+    "Klubleiter": [
+        [
+            "Flugleiter", 
+            0
+        ]
+    ], 
+    "Fachverk\u00e4ufer": [
+        [
+            "Fachverk\u00e4ufer im Lebensmittelhandwerk", 
+            1
+        ], 
+        [
+            "Fachverk\u00e4ufer im Lebensmittelhandwerk (Fleischerei)", 
+            1
+        ], 
+        [
+            "Fachverk\u00e4ufer im Lebensmittelhandwerk (B\u00e4ckerei)", 
+            1
+        ]
+    ], 
+    "Pr\u00e4parationstechnischer Assistent": [
+        [
+            "Informationstechnischer Assistent", 
+            0
+        ], 
+        [
+            "Agrartechnischer Assistent", 
+            0
+        ], 
+        [
+            "Pharmazeutisch-technischer Assistent", 
+            1
+        ], 
+        [
+            "Operationstechnischer Assistent", 
+            1
+        ], 
+        [
+            "Datentechnischer Assistent", 
+            1
+        ]
+    ], 
+    "Medientechniker": [
+        [
+            "Medientechnik", 
+            100
+        ]
+    ], 
+    "Europa-Wirtschaftsassistent": [
+        [
+            "Wirtschaftsassistent", 
+            1
+        ]
+    ], 
+    "Fachangestellter f\u00fcr Medien- und Informationsdienste im Archiv": [
+        [
+            "Fachangestellter f\u00fcr Medien- und Informationsdienste", 
+            1
+        ]
+    ], 
+    "Nordist": [
+        [
+            "Modist", 
+            1
+        ]
+    ], 
+    "Technischer Leiter": [
+        [
+            "Technischer Zeichner", 
+            1
+        ]
+    ], 
+    "Baufacharbeiter": [
+        [
+            "Hochbaufacharbeiter", 
+            1
+        ], 
+        [
+            "Facharbeiter", 
+            1
+        ], 
+        [
+            "Ausbaufacharbeiter", 
+            1
+        ], 
+        [
+            "Tiefbaufacharbeiter", 
+            1
+        ], 
+        [
+            "Bauhoffacharbeiter", 
+            0
+        ]
+    ], 
+    "Hochbauingenieur": [
+        [
+            "Schiffbauingenieur", 
+            1
+        ]
+    ], 
+    "Geoinformatiker": [
+        [
+            "Bioinformatiker", 
+            3
+        ]
+    ], 
+    "Industriesystemtechniker": [
+        [
+            "Industriemechaniker", 
+            1
+        ]
+    ], 
+    "Fachberater": [
+        [
+            "Technischer Fachberater Feuerwehr", 
+            0
+        ], 
+        [
+            "Fachberater f\u00fcr Finanzdienstleistungen", 
+            1
+        ], 
+        [
+            "Fachberater im Au\u00dfendienst (IHK)", 
+            0
+        ]
+    ], 
+    "Passierer": [
+        [
+            "Kassierer", 
+            1
+        ], 
+        [
+            "Passeker", 
+            0
+        ], 
+        [
+            "Hausierer", 
+            0
+        ]
+    ], 
+    "Wirtschaftsarabist": [
+        [
+            "Wirtschaftsjurist", 
+            1
+        ]
+    ], 
+    "Fleischermeister": [
+        [
+            "Fleischverarbeiter", 
+            0
+        ]
+    ], 
+    "Karosserie- und Fahrzeugbauermeister": [
+        [
+            "Karosserie- und Fahrzeugbaumechaniker", 
+            1
+        ]
+    ], 
+    "Fachangestellter f\u00fcr Medien- und Informationsdienste im Bildagentur": [
+        [
+            "Fachangestellter f\u00fcr Medien- und Informationsdienste", 
+            1
+        ]
+    ], 
+    "Kognitionswissenschaftler": [
+        [
+            "Kommunikationswissenschaftler", 
+            3
+        ]
+    ], 
+    "Sprechwissenschaftler": [
+        [
+            "Sprachwissenschaftler", 
+            3
+        ]
+    ], 
+    "Bezirksleiter": [
+        [
+            "Bezirksamtsleiter", 
+            99
+        ]
+    ], 
+    "Produktdesigner": [
+        [
+            "Technischer Produktdesigner", 
+            1
+        ]
+    ], 
+    "Verfahrenstechniker": [
+        [
+            "Chemieverfahrenstechniker", 
+            3
+        ], 
+        [
+            "Verfahrensmechaniker", 
+            1
+        ]
+    ], 
+    "Teerer": [
+        [
+            "Lehrer", 
+            1
+        ]
+    ], 
+    "Technischer Sachverst\u00e4ndiger": [
+        [
+            "Medizinischer Sachverst\u00e4ndiger", 
+            0
+        ], 
+        [
+            "Medizinischer Sachverst\u00e4ndiger cpu", 
+            0
+        ]
+    ], 
+    "B\u00fcroinformationselektronikermeister": [
+        [
+            "B\u00fcroinformationselektroniker", 
+            1
+        ]
+    ], 
+    "Bearbeiter": [
+        [
+            "Barbier", 
+            0
+        ]
+    ], 
+    "Krankenversicherungskaufmann": [
+        [
+            "Versicherungskaufmann", 
+            3
+        ]
+    ], 
+    "Schwei\u00dflehrer": [
+        [
+            "Schwei\u00dfer", 
+            1
+        ]
+    ], 
+    "Warenmakler": [
+        [
+            "Kartenmaler", 
+            0
+        ]
+    ], 
+    "Handzuginstrumentenmachermeister": [
+        [
+            "Handzuginstrumentenmacher", 
+            1
+        ]
+    ], 
+    "Metallblasinstrumentenbauer": [
+        [
+            "Metallblasinstrumentenmacher", 
+            1
+        ]
+    ], 
+    "Erdarbeiter": [
+        [
+            "Vorarbeiter", 
+            1
+        ]
+    ], 
+    "Betonstahlbieger": [
+        [
+            "Betonstahlbieger und -flechter", 
+            1
+        ]
+    ], 
+    "Biotechnologischer Assistent": [
+        [
+            "Technischer Assistent", 
+            1
+        ]
+    ], 
+    "Geb\u00e4udereinigerwerker": [
+        [
+            "Geb\u00e4udereiniger", 
+            1
+        ]
+    ], 
+    "Tagebautechniker": [
+        [
+            "Glasbautechniker", 
+            0
+        ]
+    ], 
+    "Handelskaufmann": [
+        [
+            "Gro\u00dfhandelskaufmann", 
+            3
+        ]
+    ], 
+    "Kanalmeister": [
+        [
+            "Saunameister", 
+            1
+        ]
+    ], 
+    "Landmaschinenmechanikermeister": [
+        [
+            "Landmaschinentechniker", 
+            0
+        ], 
+        [
+            "Landmaschinenmechaniker", 
+            1
+        ]
+    ], 
+    "Klavier- und Harmoniumbauer": [
+        [
+            "Orgel- und Harmoniumbauer", 
+            1
+        ]
+    ], 
+    "Holzblasinstrumentenmachermeister": [
+        [
+            "Holzblasinstrumentenmacher", 
+            1
+        ]
+    ], 
+    "Strickermeister": [
+        [
+            "St\u00fcckmeister", 
+            0
+        ]
+    ], 
+    "Rechtsschutzbeauftragter": [
+        [
+            "Datenschutzbeauftragter", 
+            1
+        ], 
+        [
+            "Geheimschutzbeauftragter", 
+            0
+        ], 
+        [
+            "Laserschutzbeauftragter", 
+            0
+        ]
+    ], 
+    "Facharbeiter f\u00fcr Fertigungsmittel im Feilenhauer": [
+        [
+            "Facharbeiter f\u00fcr Fertigungsmittel", 
+            1
+        ]
+    ], 
+    "Bildtechniker": [
+        [
+            "Ziviltechniker", 
+            0
+        ], 
+        [
+            "Biotechniker", 
+            0
+        ]
+    ], 
+    "Sprengbeauftragter": [
+        [
+            "Drogenbeauftragter", 
+            0
+        ]
+    ], 
+    "B\u00e4ckermeister": [
+        [
+            "Bergmeister", 
+            0
+        ], 
+        [
+            "S\u00e4ckelmeister", 
+            0
+        ]
+    ], 
+    "Studiosprecher": [
+        [
+            "Stadionsprecher", 
+            0
+        ]
+    ], 
+    "Foto- und medientechnischer Assistent": [
+        [
+            "Gestaltungs- und medientechnischer Assistent", 
+            99
+        ]
+    ], 
+    "Pharmazie-Ingenieur": [
+        [
+            "Pharmazieingenieur", 
+            99
+        ]
+    ], 
+    "Zweiradmechatroniker": [
+        [
+            "Zweiradmechaniker", 
+            1
+        ]
+    ], 
+    "Telemedizinischer Assistent": [
+        [
+            "Flugmedizinischer Assistent", 
+            0
+        ]
+    ], 
+    "Werkzeugmacherhelfer": [
+        [
+            "Werkzeugmacher", 
+            1
+        ]
+    ], 
+    "Speisefetthersteller": [
+        [
+            "Speiseeishersteller", 
+            1
+        ]
+    ], 
+    "Familienpfleger": [
+        [
+            "Haus- und Familienpfleger", 
+            1
+        ]
+    ], 
+    "Musterprogrammierer": [
+        [
+            "Systemprogrammierer", 
+            1
+        ]
+    ], 
+    "Metallblasinstrumentenfacharbeiter": [
+        [
+            "Metallblasinstrumentenmacher", 
+            1
+        ]
+    ], 
+    "W\u00e4rme-, K\u00e4lte- und Schallschutzisolierermeister": [
+        [
+            "W\u00e4rme-, K\u00e4lte- und Schallschutzisolierer", 
+            1
+        ]
+    ], 
+    "Tiefbohringenieur": [
+        [
+            "Tiefbauingenieur", 
+            1
+        ]
+    ], 
+    "Kalkulator": [
+        [
+            "Calculator", 
+            99
+        ]
+    ], 
+    "Uniformschneider": [
+        [
+            "Formschneider", 
+            0
+        ]
+    ], 
+    "Metall- und Glockengie\u00dfermeister": [
+        [
+            "Metall- und Glockengie\u00dfer", 
+            1
+        ]
+    ], 
+    "B\u00fcgler": [
+        [
+            "Butler", 
+            1
+        ], 
+        [
+            "B\u00fcdner", 
+            0
+        ], 
+        [
+            "M\u00fcller", 
+            1
+        ]
+    ], 
+    "Schneidwerkzeugmechanikermeister": [
+        [
+            "Schneidwerkzeugmechaniker", 
+            1
+        ]
+    ], 
+    "Maschinenformer": [
+        [
+            "Maschinenf\u00fchrer", 
+            1
+        ]
+    ], 
+    "Eisenbahnbetriebsreglerhelfer": [
+        [
+            "Eisenbahnbetriebsleiter", 
+            0
+        ]
+    ], 
+    "Medizinisch-kaufm\u00e4nnischer Assistent": [
+        [
+            "Medizinisch-technischer Assistent", 
+            1
+        ]
+    ], 
+    "Zimmererpolier": [
+        [
+            "Zimmerpolier", 
+            99
+        ]
+    ], 
+    "Arbeitsmedizinischer Assistent": [
+        [
+            "Flugmedizinischer Assistent", 
+            0
+        ]
+    ], 
+    "Singschullehrer": [
+        [
+            "Schullehrer", 
+            0
+        ]
+    ], 
+    "Berufsfahrer": [
+        [
+            "Berufskraftfahrer", 
+            1
+        ]
+    ], 
+    "Wissenschaftsorganisator": [
+        [
+            "Wissenschaftsjournalist", 
+            0
+        ]
+    ], 
+    "Thermometermachermeister": [
+        [
+            "Thermometermacher", 
+            1
+        ]
+    ], 
+    "Bodenchemiker": [
+        [
+            "Biochemiker", 
+            3
+        ]
+    ], 
+    "Postverkehrskaufmann": [
+        [
+            "Luftverkehrskaufmann", 
+            1
+        ]
+    ], 
+    "Wasserbaufacharbeiter": [
+        [
+            "Ausbaufacharbeiter", 
+            1
+        ]
+    ], 
+    "Wasserbaumeister": [
+        [
+            "Wassermeister", 
+            1
+        ], 
+        [
+            "Wasserbauer", 
+            1
+        ]
+    ], 
+    "NC-Anlagentechniker": [
+        [
+            "Anlagenmechaniker", 
+            1
+        ]
+    ], 
+    "Bildger\u00e4teelektroniker": [
+        [
+            "Flugger\u00e4telektroniker", 
+            1
+        ]
+    ], 
+    "Fischverarbeiter": [
+        [
+            "Fleischverarbeiter", 
+            0
+        ]
+    ], 
+    "Abwassermeister": [
+        [
+            "Wassermeister", 
+            1
+        ]
+    ], 
+    "Borddienstleiter": [
+        [
+            "Fahrdienstleiter", 
+            0
+        ]
+    ], 
+    "Vitalassistent": [
+        [
+            "Sozialassistent", 
+            1
+        ], 
+        [
+            "Dentalassistent", 
+            0
+        ], 
+        [
+            "Di\u00e4tassistent", 
+            1
+        ]
+    ], 
+    "Raschler": [
+        [
+            "Tischler", 
+            1
+        ]
+    ], 
+    "Printer": [
+        [
+            "Pfister", 
+            0
+        ]
+    ], 
+    "Polstern\u00e4her": [
+        [
+            "Polsterer", 
+            3
+        ]
+    ], 
+    "Segelfluglehrer": [
+        [
+            "Segellehrer", 
+            1
+        ]
+    ], 
+    "Posthelfer": [
+        [
+            "Posthalter", 
+            0
+        ]
+    ], 
+    "Gesundheitsp\u00e4dagoge": [
+        [
+            "Kindheitsp\u00e4dagoge", 
+            1
+        ]
+    ], 
+    "Strebhauer": [
+        [
+            "Stra\u00dfenbauer", 
+            1
+        ]
+    ], 
+    "Kommunikationstechniker": [
+        [
+            "Kremationstechniker", 
+            0
+        ], 
+        [
+            "Kommunikationselektroniker", 
+            1
+        ]
+    ], 
+    "Bananenreifemeister": [
+        [
+            "Bananenreifer", 
+            0
+        ]
+    ], 
+    "Aufzeichner": [
+        [
+            "Bauzeichner", 
+            1
+        ]
+    ], 
+    "Br\u00fcckenfahrer": [
+        [
+            "Br\u00fcckenherr", 
+            0
+        ]
+    ], 
+    "WIG-Schwei\u00dfer": [
+        [
+            "Schwei\u00dfer", 
+            1
+        ]
+    ], 
+    "Rauher": [
+        [
+            "Maurer", 
+            1
+        ], 
+        [
+            "Tauner", 
+            0
+        ]
+    ], 
+    "Teigmacher": [
+        [
+            "Weinmacher", 
+            0
+        ], 
+        [
+            "Zeugmacher", 
+            0
+        ], 
+        [
+            "Wegmacher", 
+            0
+        ]
+    ], 
+    "Di\u00e4tlehrassistent": [
+        [
+            "Di\u00e4tassistent", 
+            1
+        ]
+    ], 
+    "Schwei\u00dfwerker": [
+        [
+            "Schwei\u00dfer", 
+            1
+        ]
+    ], 
+    "Schuhfacharbeiter": [
+        [
+            "Hochbaufacharbeiter", 
+            1
+        ]
+    ], 
+    "Tiefbohrfacharbeiter": [
+        [
+            "Tiefbaufacharbeiter", 
+            1
+        ]
+    ], 
+    "Handelslehrer": [
+        [
+            "Diplom-Handelslehrer", 
+            99
+        ]
+    ], 
+    "Bauvermessungstechniker": [
+        [
+            "Vermessungstechniker", 
+            1
+        ]
+    ], 
+    "Fechtlehrer": [
+        [
+            "Fachlehrer", 
+            1
+        ]
+    ], 
+    "Korkmacher": [
+        [
+            "Kernmacher", 
+            1
+        ], 
+        [
+            "Korbmacher", 
+            1
+        ]
+    ], 
+    "Erziehungsberater": [
+        [
+            "Einrichtungsberater", 
+            0
+        ]
+    ], 
+    "Pneumatiktechniker": [
+        [
+            "Informatiktechniker", 
+            0
+        ]
+    ], 
+    "Sattlermeister": [
+        [
+            "Futtermeister", 
+            1
+        ]
+    ], 
+    "Elektrosignalmechaniker": [
+        [
+            "Elektromechaniker", 
+            1
+        ]
+    ], 
+    "Lebensmitteltechnischer Assistent": [
+        [
+            "Denkmaltechnischer Assistent", 
+            1
+        ]
+    ], 
+    "Maschinen- und Anlagenmonteur": [
+        [
+            "Maschinen- und Anlagenf\u00fchrer", 
+            1
+        ]
+    ], 
+    "Saalmeister": [
+        [
+            "Staumeister", 
+            0
+        ], 
+        [
+            "Saunameister", 
+            1
+        ], 
+        [
+            "Stallmeister", 
+            1
+        ], 
+        [
+            "Zahlmeister", 
+            1
+        ]
+    ], 
+    "Farbtechniker": [
+        [
+            "Forsttechniker", 
+            0
+        ]
+    ], 
+    "Bergbautechniker": [
+        [
+            "Bautechniker", 
+            1
+        ]
+    ], 
+    "Torfarbeiter": [
+        [
+            "Vorarbeiter", 
+            1
+        ]
+    ], 
+    "Ziehwerkzeugmacher": [
+        [
+            "Werkzeugmacher", 
+            1
+        ]
+    ], 
+    "B\u00e4ckerwerker": [
+        [
+            "Beckenwerker", 
+            0
+        ]
+    ], 
+    "Sportassistent": [
+        [
+            "Arztassistent", 
+            0
+        ], 
+        [
+            "Fotoassistent", 
+            0
+        ]
+    ], 
+    "Gastechniker": [
+        [
+            "Bautechniker", 
+            1
+        ], 
+        [
+            "Glasbautechniker", 
+            0
+        ], 
+        [
+            "Haustechniker", 
+            1
+        ]
+    ], 
+    "Orgel- und Harmoniumbauermeister": [
+        [
+            "Orgel- und Harmoniumbauer", 
+            1
+        ]
+    ], 
+    "Baukonstruktionstechniker": [
+        [
+            "Konstruktionsmechaniker", 
+            1
+        ]
+    ], 
+    "Katastertechniker": [
+        [
+            "Wettertechniker", 
+            0
+        ]
+    ], 
+    "Projektassistent": [
+        [
+            "Projektassistenz", 
+            100
+        ]
+    ], 
+    "Meliorationstechniker": [
+        [
+            "Informationstechniker", 
+            4
+        ]
+    ], 
+    "Pflegesachverst\u00e4ndiger": [
+        [
+            "Bienensachverst\u00e4ndiger", 
+            0
+        ], 
+        [
+            "Orgelsachverst\u00e4ndiger", 
+            0
+        ]
+    ], 
+    "Metallscharfschleifer": [
+        [
+            "Metallschleifer", 
+            1
+        ]
+    ], 
+    "IT-Systemadministrator": [
+        [
+            "Systemadministrator", 
+            4
+        ]
+    ], 
+    "Veterin\u00e4rmedizinisch-technischer Assistent": [
+        [
+            "Medizinisch-technischer Assistent", 
+            1
+        ]
+    ], 
+    "Textiltechniker": [
+        [
+            "Textilchemiker", 
+            0
+        ]
+    ], 
+    "Tiefdrucker": [
+        [
+            "Siebdrucker", 
+            3
+        ]
+    ], 
+    "Scherenschneider": [
+        [
+            "Schriftschneider", 
+            0
+        ], 
+        [
+            "Scherenschleifer", 
+            0
+        ], 
+        [
+            "Schalenschneider", 
+            0
+        ]
+    ], 
+    "Lasertechnischer Assistent": [
+        [
+            "Agrartechnischer Assistent", 
+            0
+        ], 
+        [
+            "Operationstechnischer Assistent", 
+            1
+        ], 
+        [
+            "An\u00e4sthesietechnischer Assistent", 
+            1
+        ], 
+        [
+            "Denkmaltechnischer Assistent", 
+            1
+        ], 
+        [
+            "Technischer Assistent", 
+            1
+        ], 
+        [
+            "Datentechnischer Assistent", 
+            1
+        ]
+    ], 
+    "Energieanlagenelektroniker": [
+        [
+            "Energieelektroniker", 
+            1
+        ]
+    ], 
+    "Finanzbearbeiter": [
+        [
+            "Finanzberater", 
+            1
+        ]
+    ], 
+    "Wirtschaftsromanist": [
+        [
+            "Wirtschaftsjurist", 
+            1
+        ]
+    ], 
+    "Glaserhelfer": [
+        [
+            "Glasveredler", 
+            1
+        ]
+    ], 
+    "Instanteur": [
+        [
+            "Installateur", 
+            1
+        ]
+    ], 
+    "Messebauer": [
+        [
+            "Messebau", 
+            100
+        ]
+    ], 
+    "NC-Bohrwerkdreher": [
+        [
+            "Bohrwerkdreher", 
+            1
+        ]
+    ], 
+    "Glasermeister": [
+        [
+            "Wassermeister", 
+            1
+        ]
+    ], 
+    "Elektrotechnikermeister": [
+        [
+            "Elektromechanikermeister", 
+            1
+        ]
+    ], 
+    "Gerichtshelfer": [
+        [
+            "Gerichtshalter", 
+            0
+        ]
+    ], 
+    "Verkehrskaufmann": [
+        [
+            "Luftverkehrskaufmann", 
+            1
+        ]
+    ], 
+    "Maschinenbaumechaniker": [
+        [
+            "Maschinenbautechniker", 
+            0
+        ]
+    ], 
+    "Medienberater": [
+        [
+            "Mediaberater", 
+            99
+        ]
+    ], 
+    "Landwirtschaftslehrer": [
+        [
+            "Landwirtschaftlicher Beruf", 
+            0
+        ]
+    ], 
+    "Sielarbeiter": [
+        [
+            "Sozialarbeiter", 
+            3
+        ]
+    ], 
+    "Verwaltungsangestellter": [
+        [
+            "Verwaltungsfachangestellter", 
+            1
+        ]
+    ], 
+    "Fachangestellter f\u00fcr Medien- und Informationsdienste im Bibliothek": [
+        [
+            "Fachangestellter f\u00fcr Medien- und Informationsdienste", 
+            1
+        ]
+    ], 
+    "L\u00f6ter": [
+        [
+            "Muter", 
+            0
+        ]
+    ], 
+    "Wirtschaftsrussist": [
+        [
+            "Wirtschaftsassistent", 
+            1
+        ], 
+        [
+            "Wirtschaftsjurist", 
+            1
+        ]
+    ], 
+    "Presserhelfer": [
+        [
+            "Pressereferent", 
+            0
+        ]
+    ], 
+    "Zweiradmechanikermeister": [
+        [
+            "Zweiradmechaniker", 
+            1
+        ]
+    ], 
+    "Isolierer": [
+        [
+            "Industrie-Isolierer", 
+            1
+        ]
+    ], 
+    "Jugendberater": [
+        [
+            "Jugendbeauftragter", 
+            0
+        ]
+    ], 
+    "Buchwissenschaftler": [
+        [
+            "Sprachwissenschaftler", 
+            3
+        ], 
+        [
+            "Wissenschaftler", 
+            0
+        ]
+    ], 
+    "Konstruktionstechniker": [
+        [
+            "Konstruktionsmechaniker", 
+            1
+        ]
+    ], 
+    "Montagemechaniker": [
+        [
+            "Anlagenmechaniker", 
+            1
+        ]
+    ], 
+    "Schornsteinbauer": [
+        [
+            "Schornsteinfeger", 
+            1
+        ], 
+        [
+            "Feuerungs- und Schornsteinbauer", 
+            1
+        ]
+    ], 
+    "Industrie-Arch\u00e4ologe": [
+        [
+            "Industrietechnologe", 
+            1
+        ]
+    ], 
+    "Bandleiter": [
+        [
+            "Bandrei\u00dfer", 
+            0
+        ]
+    ], 
+    "Werbedesigner": [
+        [
+            "Webdesigner", 
+            1
+        ]
+    ], 
+    "Chemisch-technischer Assistent": [
+        [
+            "Physikalisch-technischer Assistent", 
+            1
+        ], 
+        [
+            "Medizinisch-technischer Assistent", 
+            1
+        ], 
+        [
+            "Pharmazeutisch-technischer Assistent", 
+            1
+        ], 
+        [
+            "Psychologisch-technischer Assistent", 
+            1
+        ], 
+        [
+            "Biologisch-technischer Assistent", 
+            1
+        ], 
+        [
+            "Chemisch-Technischer Assistent", 
+            99
+        ], 
+        [
+            "Mathematisch-Technischer Assistent", 
+            0
+        ], 
+        [
+            "Chirurgisch-Technischer Assistent", 
+            0
+        ]
+    ], 
+    "Brau- und Getr\u00e4nketechnologe": [
+        [
+            "Brau- und Getr\u00e4nketechniker", 
+            0
+        ]
+    ], 
+    "Beton- und Stahlbetonbauermeister": [
+        [
+            "Beton- und Stahlbetonbauer", 
+            1
+        ]
+    ], 
+    "Gleisbaufacharbeiter": [
+        [
+            "Ausbaufacharbeiter", 
+            1
+        ], 
+        [
+            "Tiefbaufacharbeiter", 
+            1
+        ]
+    ], 
+    "Schornsteinfegermeister": [
+        [
+            "Schornsteinfeger", 
+            1
+        ]
+    ], 
+    "IT-Projektleiter": [
+        [
+            "Projektleiter", 
+            1
+        ]
+    ], 
+    "Schalenschmied": [
+        [
+            "Schellenschmied", 
+            0
+        ]
+    ], 
+    "Sozialberater": [
+        [
+            "Sozialarbeiter", 
+            3
+        ]
+    ], 
+    "Meisterassistent": [
+        [
+            "Reiseb\u00fcroassistent", 
+            0
+        ]
+    ], 
+    "Baustoffingenieur": [
+        [
+            "Bauingenieur", 
+            3
+        ]
+    ], 
+    "Maler- und Lackierermeister": [
+        [
+            "Maler und Lackierer", 
+            1
+        ]
+    ], 
+    "Ledertechniker": [
+        [
+            "Wettertechniker", 
+            0
+        ]
+    ], 
+    "Handschuhmacherhelfer": [
+        [
+            "Handschuhmacher", 
+            1
+        ]
+    ], 
+    "IT-System-Elektroniker": [
+        [
+            "Systemelektroniker", 
+            1
+        ], 
+        [
+            "IT-Systemelektroniker", 
+            4
+        ]
+    ], 
+    "Neurophysiologischtechnischer Assistent": [
+        [
+            "Physikalisch-technischer Assistent", 
+            1
+        ], 
+        [
+            "Psychologisch-technischer Assistent", 
+            1
+        ], 
+        [
+            "Biologisch-technischer Assistent", 
+            1
+        ]
+    ], 
+    "Bohrger\u00e4tef\u00fchrer": [
+        [
+            "Bauger\u00e4tef\u00fchrer", 
+            1
+        ]
+    ], 
+    "Brauer- und M\u00e4lzermeister": [
+        [
+            "Brauer und M\u00e4lzer", 
+            1
+        ]
+    ], 
+    "Klavierfacharbeiter": [
+        [
+            "Isolierfacharbeiter", 
+            1
+        ]
+    ], 
+    "Maschinenbautechnischer Assistent": [
+        [
+            "Datentechnischer Assistent", 
+            1
+        ]
+    ], 
+    "Bergvermessungstechniker": [
+        [
+            "Vermessungstechniker", 
+            1
+        ]
+    ], 
+    "Versorgungstechniker": [
+        [
+            "Vermessungstechniker", 
+            1
+        ]
+    ], 
+    "Fahrzeuglackierermeister": [
+        [
+            "Fahrzeuglackierer", 
+            1
+        ]
+    ], 
+    "Schindeldachdecker": [
+        [
+            "Schindelmacher", 
+            0
+        ]
+    ], 
+    "Versicherungsvertragsverwalter": [
+        [
+            "Versicherungsvertreter", 
+            1
+        ]
+    ], 
+    "Medienwirt": [
+        [
+            "Medienfachwirt", 
+            99
+        ], 
+        [
+            "Buch- und Medienwirtschaft - Buch- und Musikalienhandel", 
+            0
+        ]
+    ], 
+    "Spielzeuggestalter": [
+        [
+            "Spielzeughersteller", 
+            1
+        ]
+    ], 
+    "Milchverarbeiter": [
+        [
+            "Fleischverarbeiter", 
+            0
+        ]
+    ], 
+    "Hauswirtschaftsassistent": [
+        [
+            "Wirtschaftsassistent", 
+            1
+        ]
+    ], 
+    "IT-System-Kaufmann": [
+        [
+            "IT-Systemkaufmann", 
+            99
+        ]
+    ], 
+    "Marketingbetriebswirt": [
+        [
+            "Medienbetriebswirt", 
+            0
+        ]
+    ], 
+    "Ausbildungslehrer": [
+        [
+            "Ausbildungsberater", 
+            1
+        ]
+    ], 
+    "Metallfeinbauer": [
+        [
+            "Metallbauer", 
+            3
+        ]
+    ], 
+    "Energiemanager": [
+        [
+            "Energiemakler", 
+            0
+        ]
+    ], 
+    "Landmaschinenf\u00fchrer": [
+        [
+            "Maschinenf\u00fchrer", 
+            1
+        ]
+    ], 
+    "Sozialpflegeassistent": [
+        [
+            "Sozialassistent", 
+            1
+        ]
+    ], 
+    "Solartechniker": [
+        [
+            "Holztechniker", 
+            1
+        ]
+    ], 
+    "Raumausstatterwerker": [
+        [
+            "Raumausstatter", 
+            1
+        ]
+    ], 
+    "Druckformhersteller": [
+        [
+            "Druckvorlagenhersteller", 
+            3
+        ]
+    ], 
+    "Baumaschinenf\u00fchrer": [
+        [
+            "Maschinenf\u00fchrer", 
+            1
+        ]
+    ], 
+    "Fl\u00e4chenschleifer": [
+        [
+            "Scherenschleifer", 
+            0
+        ]
+    ], 
+    "Industriekeramiker Mechanik": [
+        [
+            "Industriekeramiker Modelltechnik", 
+            1
+        ], 
+        [
+            "Industriekeramiker Anlagentechnik", 
+            1
+        ]
+    ], 
+    "Wagnermeister": [
+        [
+            "Wassermeister", 
+            1
+        ]
+    ], 
+    "B\u00fcchsenmachermeister": [
+        [
+            "B\u00fcchsenmeister", 
+            99
+        ]
+    ], 
+    "Geologielaborant": [
+        [
+            "Biologielaborant", 
+            1
+        ]
+    ], 
+    "Walzerhelfer": [
+        [
+            "Wahlhelfer", 
+            0
+        ]
+    ], 
+    "Glasinstrumentenmacher": [
+        [
+            "Handzuginstrumentenmacher", 
+            1
+        ], 
+        [
+            "Metallblasinstrumentenmacher", 
+            1
+        ], 
+        [
+            "Zupfinstrumentenmacher", 
+            1
+        ], 
+        [
+            "Holzblasinstrumentenmacher", 
+            1
+        ]
+    ], 
+    "Wasserwirtschaftsingenieur": [
+        [
+            "Wirtschaftsingenieur", 
+            3
+        ]
+    ], 
+    "CNC-Anlagentechniker": [
+        [
+            "Anlagenmechaniker", 
+            1
+        ]
+    ], 
+    "Elektrozeichner": [
+        [
+            "Elektromechaniker", 
+            1
+        ]
+    ], 
+    "IT-Trainer": [
+        [
+            "Trainer", 
+            1
+        ]
+    ], 
+    "Feuerungs- und Schornsteinbauermeister": [
+        [
+            "Feuerungs- und Schornsteinbauer", 
+            1
+        ]
+    ], 
+    "Kunststoff-Formgeber": [
+        [
+            "Kunststoffformgeber", 
+            99
+        ]
+    ], 
+    "Viehpfleger": [
+        [
+            "Tierpfleger", 
+            1
+        ]
+    ], 
+    "Funkmechaniker": [
+        [
+            "Feinwerkmechaniker", 
+            1
+        ]
+    ], 
+    "Schichtleiter": [
+        [
+            "Schichtmeister", 
+            0
+        ]
+    ], 
+    "Fachpraktiker f\u00fcr Kreislauf- und  Abfallwirtschaft": [
+        [
+            "Fachkraft f\u00fcr Kreislauf- und Abfallwirtschaft", 
+            4
+        ]
+    ], 
+    "Elektrowickler": [
+        [
+            "Elektroniker", 
+            1
+        ]
+    ], 
+    "Produktioner": [
+        [
+            "Produktionshelfer", 
+            1
+        ], 
+        [
+            "Produktionsfahrer", 
+            0
+        ]
+    ], 
+    "Landbautechniker": [
+        [
+            "Glasbautechniker", 
+            0
+        ]
+    ], 
+    "Raumtechniker": [
+        [
+            "Bautechniker", 
+            1
+        ], 
+        [
+            "Haustechniker", 
+            1
+        ]
+    ], 
+    "Facharbeiter f\u00fcr Anlagentechnik": [
+        [
+            "Facharbeiter f\u00fcr Nachrichtentechnik", 
+            1
+        ], 
+        [
+            "Facharbeiter f\u00fcr Schreibtechnik", 
+            0
+        ]
+    ], 
+    "Sportpsychologe": [
+        [
+            "Sprachpsychologe", 
+            0
+        ]
+    ], 
+    "Bekleidungsfertigungstechniker": [
+        [
+            "Betonfertigungstechniker", 
+            0
+        ]
+    ], 
+    "Kunstwissenschaftler": [
+        [
+            "Forstwissenschaftler", 
+            0
+        ]
+    ], 
+    "Flugsicherungstechniker": [
+        [
+            "Flugsicherungsingenieur", 
+            0
+        ]
+    ], 
+    "Messwerkzeugmacher": [
+        [
+            "Werkzeugmacher", 
+            1
+        ]
+    ], 
+    "H\u00f6rger\u00e4teakustikmeister": [
+        [
+            "H\u00f6rger\u00e4teakustiker", 
+            1
+        ]
+    ], 
+    "Ofenbaumeister": [
+        [
+            "Oberlandbaumeister", 
+            0
+        ], 
+        [
+            "Hofbaumeister", 
+            0
+        ]
+    ], 
+    "Metallh\u00fcttentechniker": [
+        [
+            "Metalltechniker", 
+            0
+        ]
+    ], 
+    "K\u00fcrschnermeister": [
+        [
+            "K\u00fcchenmeister", 
+            1
+        ]
+    ], 
+    "Metallbaumeister": [
+        [
+            "Metallbauer", 
+            3
+        ]
+    ], 
+    "Landwirtschaftlicher Brennmeister": [
+        [
+            "Landwirtschaftlicher Beruf", 
+            0
+        ]
+    ], 
+    "Bohrtechniker": [
+        [
+            "Forsttechniker", 
+            0
+        ], 
+        [
+            "Biotechniker", 
+            0
+        ]
+    ], 
+    "Holzfertigteilbauer": [
+        [
+            "Betonfertigteilbauer", 
+            1
+        ]
+    ], 
+    "Filmgesch\u00e4ftsf\u00fchrer": [
+        [
+            "Filmgesch\u00e4ftsf\u00fchrung", 
+            100
+        ], 
+        [
+            "Gesch\u00e4ftsf\u00fchrer", 
+            3
+        ]
+    ], 
+    "\u00d6kotechniker": [
+        [
+            "Zootechniker", 
+            1
+        ], 
+        [
+            "Tontechniker", 
+            1
+        ], 
+        [
+            "Biotechniker", 
+            0
+        ]
+    ], 
+    "Metallschneider": [
+        [
+            "Metallschleifer", 
+            1
+        ], 
+        [
+            "Ma\u00dfschneider", 
+            1
+        ]
+    ], 
+    "Tierlehrer": [
+        [
+            "Oberlehrer", 
+            0
+        ]
+    ], 
+    "Stra\u00dfenbauhelfer": [
+        [
+            "Stra\u00dfenbauer", 
+            1
+        ]
+    ], 
+    "Ausbildungsmeister": [
+        [
+            "Ausbildungsberater", 
+            1
+        ]
+    ], 
+    "Elektromaschinenmonteur": [
+        [
+            "Elektroanlagenmonteur", 
+            1
+        ]
+    ], 
+    "Feuerfestfacharbeiter": [
+        [
+            "Forstfacharbeiter", 
+            1
+        ]
+    ], 
+    "CNC-Schleifer": [
+        [
+            "Schleifer", 
+            1
+        ]
+    ], 
+    "Textiltechnischer Assistent": [
+        [
+            "Operationstechnischer Assistent", 
+            1
+        ], 
+        [
+            "Denkmaltechnischer Assistent", 
+            1
+        ], 
+        [
+            "Technischer Assistent", 
+            1
+        ], 
+        [
+            "Datentechnischer Assistent", 
+            1
+        ], 
+        [
+            "Gestaltungstechnischer Assistent", 
+            1
+        ]
+    ], 
+    "Fachpraktiker f\u00fcr B\u00fcrokommunikation": [
+        [
+            "Fachangestellter f\u00fcr B\u00fcrokommunikation", 
+            1
+        ]
+    ], 
+    "Fachassistent": [
+        [
+            "Zahnmedizinischer Fachassistent", 
+            1
+        ]
+    ], 
+    "Feinkeramtechniker": [
+        [
+            "Feinwerkmechaniker", 
+            1
+        ]
+    ], 
+    "Maschinentechniker": [
+        [
+            "Maschinenbautechniker", 
+            99
+        ], 
+        [
+            "Landmaschinentechniker", 
+            0
+        ]
+    ], 
+    "Porzellangestalter": [
+        [
+            "Porzellanmaler", 
+            1
+        ]
+    ], 
+    "Vertriebswirt": [
+        [
+            "Betriebswirt", 
+            1
+        ]
+    ], 
+    "Schachtarbeiter": [
+        [
+            "Sachbearbeiter", 
+            1
+        ], 
+        [
+            "Facharbeiter", 
+            1
+        ]
+    ], 
+    "Verbandsgesch\u00e4ftsf\u00fchrer": [
+        [
+            "Bundesgesch\u00e4ftsf\u00fchrer", 
+            0
+        ]
+    ], 
+    "Elektrotechnikingenieur": [
+        [
+            "Elektroingenieur", 
+            1
+        ]
+    ], 
+    "Eurokaufmann": [
+        [
+            "B\u00fcrokaufmann", 
+            1
+        ]
+    ], 
+    "Systemwissenschaftler": [
+        [
+            "Forstwissenschaftler", 
+            0
+        ]
+    ], 
+    "Waldbaulehrer": [
+        [
+            "Waldbauer", 
+            0
+        ]
+    ], 
+    "Pflegedienstleiter": [
+        [
+            "Pflegedienstleitung", 
+            100
+        ]
+    ], 
+    "Zweiradmechanikerwerker": [
+        [
+            "Zweiradmechaniker", 
+            1
+        ]
+    ], 
+    "Prozesstechniker": [
+        [
+            "Pyrotechniker", 
+            1
+        ]
+    ], 
+    "Glasapparatebl\u00e4ser": [
+        [
+            "Glasapparatebauer", 
+            1
+        ]
+    ], 
+    "Werbevorlagenhersteller": [
+        [
+            "Dekorvorlagenhersteller", 
+            1
+        ], 
+        [
+            "Druckvorlagenhersteller", 
+            3
+        ]
+    ], 
+    "Hochbautechniker": [
+        [
+            "Haustechniker", 
+            1
+        ], 
+        [
+            "Hochbauzeichner", 
+            0
+        ]
+    ], 
+    "Strahlenschutztechniker": [
+        [
+            "Sonnenschutztechniker", 
+            0
+        ]
+    ], 
+    "Maler- und Lackiererhelfer": [
+        [
+            "Maler und Lackierer", 
+            1
+        ]
+    ], 
+    "Bausachverst\u00e4ndiger": [
+        [
+            "Sachverst\u00e4ndiger", 
+            1
+        ], 
+        [
+            "Bienensachverst\u00e4ndiger", 
+            0
+        ], 
+        [
+            "Amtssachverst\u00e4ndiger", 
+            0
+        ]
+    ], 
+    "Produktionstechniker": [
+        [
+            "Produktionsmechaniker EFZ", 
+            0
+        ], 
+        [
+            "Produktionstechnologe", 
+            1
+        ]
+    ], 
+    "Wirtschaftstechniker": [
+        [
+            "Wirtschaftstreuh\u00e4nder", 
+            0
+        ]
+    ], 
+    "EDV-Sachbearbeiter": [
+        [
+            "Sachbearbeiter", 
+            1
+        ]
+    ], 
+    "Zapfer": [
+        [
+            "T\u00f6pfer", 
+            3
+        ]
+    ], 
+    "M\u00fchlenbautechniker": [
+        [
+            "Maschinenbautechniker", 
+            0
+        ]
+    ], 
+    "Technisch-kaufm\u00e4nnischer Assistent": [
+        [
+            "Pharmazeutisch-kaufm\u00e4nnischer Assistent", 
+            0
+        ]
+    ], 
+    "Restaurantleiter": [
+        [
+            "Restaurantmeister", 
+            1
+        ]
+    ]
+}

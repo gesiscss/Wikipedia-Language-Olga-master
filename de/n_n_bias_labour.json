@@ -1,0 +1,317 @@
+[
+    {
+        "name": "Elektrofachkraft", 
+        "M\u00e4nner": 74.4001269812476, 
+        "Overall": 220505.0, 
+        "KldB": "2630", 
+        "KldB5": "26302", 
+        "Berufsgruppe": "Berufe in der Elektrotechnik (o.S.)", 
+        "Frauen": 25.599873018752408
+    }, 
+    {
+        "name": "Fachkraft f\u00fcr Wasserversorgungstechnik", 
+        "M\u00e4nner": 96.44364292155095, 
+        "Overall": 27725.0, 
+        "KldB": "3431", 
+        "KldB5": "34312", 
+        "Berufsgruppe": "Berufe Wasserversorgung,Abwassertechnik", 
+        "Frauen": 3.5563570784490532
+    }, 
+    {
+        "name": "Jockey", 
+        "M\u00e4nner": 91.50339476236664, 
+        "Overall": 5155.0, 
+        "KldB": "9424", 
+        "KldB5": "94243", 
+        "Berufsgruppe": "Athleten, Berufssportler", 
+        "Frauen": 8.496605237633366
+    }, 
+    {
+        "name": "Fachkraft f\u00fcr M\u00f6bel-, K\u00fcchen- und Umzugsservice", 
+        "M\u00e4nner": 96.09853966123497, 
+        "Overall": 143049.0, 
+        "KldB": "2234", 
+        "KldB5": "22342", 
+        "Berufsgruppe": "Berufe im Holz-, M\u00f6bel-, Innenausbau", 
+        "Frauen": 3.9014603387650384
+    }, 
+    {
+        "name": "Fachkraft f\u00fcr Wasserwirtschaft", 
+        "M\u00e4nner": 70.24035420619862, 
+        "Overall": 3162.0, 
+        "KldB": "3114", 
+        "KldB5": "31142", 
+        "Berufsgruppe": "Berufe in der Wasserwirtschaft", 
+        "Frauen": 29.75964579380139
+    }, 
+    {
+        "name": "Fachkraft f\u00fcr Metalltechnik", 
+        "M\u00e4nner": 81.55065723971921, 
+        "Overall": 396735.0, 
+        "KldB": "2420", 
+        "KldB5": "24202", 
+        "Berufsgruppe": "Berufe in der Metallbearbeitung (o.S.)", 
+        "Frauen": 18.449342760280793
+    }, 
+    {
+        "name": "Fachkraft f\u00fcr Schutz und Sicherheit", 
+        "M\u00e4nner": 68.91289688247139, 
+        "Overall": 212059.0, 
+        "KldB": "5311", 
+        "KldB5": "53112", 
+        "Berufsgruppe": "Berufe im Objekt-,Werte-, Personenschutz", 
+        "Frauen": 31.087103117528613
+    }, 
+    {
+        "name": "Fachkraft im Gastgewerbe", 
+        "M\u00e4nner": 34.73516946446317, 
+        "Overall": 391439.0, 
+        "KldB": "6330", 
+        "KldB5": "63302", 
+        "Berufsgruppe": "Berufe im Gastronomieservice (o.S.)", 
+        "Frauen": 65.26483053553683
+    }, 
+    {
+        "name": "Fachkraft f\u00fcr Lebensmitteltechnik", 
+        "M\u00e4nner": 61.3332489438124, 
+        "Overall": 126398.0, 
+        "KldB": "2920", 
+        "KldB5": "29202", 
+        "Berufsgruppe": "Berufe i.d. Lebensmittelherstellung (oS)", 
+        "Frauen": 38.6667510561876
+    }, 
+    {
+        "name": "Fachkraft f\u00fcr Kreislauf- und Abfallwirtschaft", 
+        "M\u00e4nner": 91.93020719738277, 
+        "Overall": 11004.0, 
+        "KldB": "3433", 
+        "KldB5": "34332", 
+        "Berufsgruppe": "Berufe in der Abfallwirtschaft", 
+        "Frauen": 8.069792802617231
+    }, 
+    {
+        "name": "Fachkraft f\u00fcr Veranstaltungstechnik", 
+        "M\u00e4nner": 87.40948638787539, 
+        "Overall": 17815.0, 
+        "KldB": "9451", 
+        "KldB5": "94512", 
+        "Berufsgruppe": "Berufe Veranstaltungs- und B\u00fchnentechnik", 
+        "Frauen": 12.590513612124614
+    }, 
+    {
+        "name": "Kassenaufsicht", 
+        "M\u00e4nner": 48.85548413850301, 
+        "Overall": 96460.0, 
+        "KldB": "6219", 
+        "KldB5": "62193", 
+        "Berufsgruppe": "Aufsicht und F\u00fchrung - Verkauf", 
+        "Frauen": 51.14451586149699
+    }, 
+    {
+        "name": "Fachkraft f\u00fcr Arbeitssicherheit", 
+        "M\u00e4nner": 86.82891309827205, 
+        "Overall": 35707.0, 
+        "KldB": "5312", 
+        "KldB5": "53123", 
+        "Berufsgruppe": "Berufe Arbeitssicherh. Sicherheitstech.", 
+        "Frauen": 13.171086901727952
+    }, 
+    {
+        "name": "Fachkraft f\u00fcr Kurier-, Express- und Postdienstleistungen", 
+        "M\u00e4nner": 52.105960779363286, 
+        "Overall": 205963.0, 
+        "KldB": "5132", 
+        "KldB5": "51322", 
+        "Berufsgruppe": "Berufe f\u00fcr Post- und Zustelldienste", 
+        "Frauen": 47.894039220636714
+    }, 
+    {
+        "name": "Bestattungsfachkraft", 
+        "M\u00e4nner": 73.74058380414313, 
+        "Overall": 8496.0, 
+        "KldB": "8240", 
+        "KldB5": "82402", 
+        "Berufsgruppe": "Berufe im Bestattungswesen", 
+        "Frauen": 26.259416195856875
+    }, 
+    {
+        "name": "Fachkraft f\u00fcr Holz- und Bautenschutzarbeiten", 
+        "M\u00e4nner": 98.77750611246944, 
+        "Overall": 1636.0, 
+        "KldB": "3324", 
+        "KldB5": "33242", 
+        "Berufsgruppe": "Berufe im Holz- und Bautenschutz", 
+        "Frauen": 1.2224938875305624
+    }, 
+    {
+        "name": "Fachkraft f\u00fcr Agrarservice", 
+        "M\u00e4nner": 78.42341002114878, 
+        "Overall": 124357.0, 
+        "KldB": "1110", 
+        "KldB5": "11102", 
+        "Berufsgruppe": "Berufe in der Landwirtschaft (o.S.)", 
+        "Frauen": 21.57658997885121
+    }, 
+    {
+        "name": "Fachkraft f\u00fcr Hafenlogistik", 
+        "M\u00e4nner": 85.64236321727526, 
+        "Overall": 16486.0, 
+        "KldB": "5133", 
+        "KldB5": "51332", 
+        "Berufsgruppe": "Berufe im G\u00fcter- und Warenumschlag", 
+        "Frauen": 14.357636782724736
+    }, 
+    {
+        "name": "Fachkraft f\u00fcr Lederverarbeitung", 
+        "M\u00e4nner": 65.5268022181146, 
+        "Overall": 1082.0, 
+        "KldB": "2831", 
+        "KldB5": "28312", 
+        "Berufsgruppe": "Berufe in der Lederherstellung", 
+        "Frauen": 34.473197781885396
+    }, 
+    {
+        "name": "Fachkraft f\u00fcr Lagerwirtschaft", 
+        "M\u00e4nner": 75.0231689058667, 
+        "Overall": 1265705.0, 
+        "KldB": "5131", 
+        "KldB5": "51312", 
+        "Berufsgruppe": "Berufe in der Lagerwirtschaft", 
+        "Frauen": 24.97683109413331
+    }, 
+    {
+        "name": "Fachkraft f\u00fcr Rohr-, Kanal- und Industrieservice", 
+        "M\u00e4nner": 96.44364292155095, 
+        "Overall": 27725.0, 
+        "KldB": "3431", 
+        "KldB5": "34312", 
+        "Berufsgruppe": "Berufe Wasserversorgung,Abwassertechnik", 
+        "Frauen": 3.5563570784490532
+    }, 
+    {
+        "name": "Au-pair", 
+        "M\u00e4nner": 8.982151194698602, 
+        "Overall": 732486.0, 
+        "KldB": "8311", 
+        "KldB5": "83111", 
+        "Berufsgruppe": "Berufe i.d. Kinderbetreuung, -erziehung", 
+        "Frauen": 91.0178488053014
+    }, 
+    {
+        "name": "Produktionsfachkraft Chemie", 
+        "M\u00e4nner": 73.21616460777055, 
+        "Overall": 179627.0, 
+        "KldB": "4131", 
+        "KldB5": "41312", 
+        "Berufsgruppe": "Berufe in der Chemie- und Pharmatechnik", 
+        "Frauen": 26.783835392229452
+    }, 
+    {
+        "name": "Servicefachkraft f\u00fcr Dialogmarketing", 
+        "M\u00e4nner": 39.958212924145606, 
+        "Overall": 147414.0, 
+        "KldB": "9212", 
+        "KldB5": "92122", 
+        "Berufsgruppe": "Berufe im Dialogmarketing", 
+        "Frauen": 60.041787075854394
+    }, 
+    {
+        "name": "Elektrofachkraft f\u00fcr festgelegte T\u00e4tigkeiten", 
+        "M\u00e4nner": 98.53873577219449, 
+        "Overall": 224121.0, 
+        "KldB": "2621", 
+        "KldB5": "26212", 
+        "Berufsgruppe": "Berufe in der Bauelektrik", 
+        "Frauen": 1.4612642278055157
+    }, 
+    {
+        "name": "Fachkraft f\u00fcr Stra\u00dfen- und Verkehrstechnik", 
+        "M\u00e4nner": 77.75886524822695, 
+        "Overall": 3525.0, 
+        "KldB": "3113", 
+        "KldB5": "31132", 
+        "Berufsgruppe": "Berufe Bauplanung Verkehrswege, -anlagen", 
+        "Frauen": 22.24113475177305
+    }, 
+    {
+        "name": "Fachkraft im Fahrbetrieb", 
+        "M\u00e4nner": 88.36909368038457, 
+        "Overall": 119406.0, 
+        "KldB": "5213", 
+        "KldB5": "52132", 
+        "Berufsgruppe": "Bus-, Stra\u00dfenbahnfahrer/innen", 
+        "Frauen": 11.63090631961543
+    }, 
+    {
+        "name": "Aufsichtsperson", 
+        "M\u00e4nner": 23.006676684274936, 
+        "Overall": 129106.0, 
+        "KldB": "7321", 
+        "KldB5": "73214", 
+        "Berufsgruppe": "Berufe Sozialverwaltung, versicherung", 
+        "Frauen": 76.99332331572506
+    }, 
+    {
+        "name": "Rechtsbeistand", 
+        "M\u00e4nner": 42.06721812355615, 
+        "Overall": 26838.0, 
+        "KldB": "7318", 
+        "KldB5": "73183", 
+        "Berufsgruppe": "Rechtsberatung,-sprechung,-ordnung (ssT)", 
+        "Frauen": 57.93278187644385
+    }, 
+    {
+        "name": "Fachkraft f\u00fcr Abwassertechnik", 
+        "M\u00e4nner": 96.44364292155095, 
+        "Overall": 27725.0, 
+        "KldB": "3431", 
+        "KldB5": "34312", 
+        "Berufsgruppe": "Berufe Wasserversorgung,Abwassertechnik", 
+        "Frauen": 3.5563570784490532
+    }, 
+    {
+        "name": "CNC-Fachkraft", 
+        "M\u00e4nner": 97.26229717644053, 
+        "Overall": 195675.0, 
+        "KldB": "2423", 
+        "KldB5": "24233", 
+        "Berufsgruppe": "Berufe i.d. spanenden Metallbearbeitung", 
+        "Frauen": 2.7377028235594736
+    }, 
+    {
+        "name": "Elektroger\u00e4tefachkraft", 
+        "M\u00e4nner": 88.56183944466449, 
+        "Overall": 191884.0, 
+        "KldB": "2631", 
+        "KldB5": "26312", 
+        "Berufsgruppe": "Berufe Informations,Telekommunikationst.", 
+        "Frauen": 11.438160555335514
+    }, 
+    {
+        "name": "B\u00fcrokraft", 
+        "M\u00e4nner": 20.555641608369413, 
+        "Overall": 1969075.0, 
+        "KldB": "7140", 
+        "KldB5": "71402", 
+        "Berufsgruppe": "B\u00fcro- und Sekretariatskr\u00e4fte (o.S.)", 
+        "Frauen": 79.44435839163059
+    }, 
+    {
+        "name": "Fachkraft f\u00fcr S\u00fc\u00dfwarentechnik", 
+        "M\u00e4nner": 42.30612411318601, 
+        "Overall": 12263.0, 
+        "KldB": "2926", 
+        "KldB5": "29262", 
+        "Berufsgruppe": "Berufe in der S\u00fc\u00dfwarenherstellung", 
+        "Frauen": 57.69387588681399
+    }, 
+    {
+        "name": "Fachkraft f\u00fcr Automatenservice", 
+        "M\u00e4nner": 68.89583333333333, 
+        "Overall": 4800.0, 
+        "KldB": "6114", 
+        "KldB5": "61142", 
+        "Berufsgruppe": "Kaufleute im Automatenservice", 
+        "Frauen": 31.104166666666668
+    }
+]

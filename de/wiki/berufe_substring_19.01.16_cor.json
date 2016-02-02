@@ -1,0 +1,67 @@
+{
+    "Syndikus": [
+        "Syndikus-Anwalt",
+		1
+    ], 
+    "Profi": [
+        "Corporate Profiler"
+    ], 
+    "Illustrator": [
+        "Medizinischer Illustrator",
+		3
+    ], 
+    "Lieger": [
+        "Liegervize"
+    ], 
+    "Abteilungsleiter": [
+        "Abteilungsleiter-Assistent", 
+        "Technischer Abteilungsleiter",
+		3
+    ], 
+    "Greenkeeper": [
+        "Greenkeeper-Assistent",
+		3
+    ], 
+    "Rechtsbeistand": [
+        "Rechtsbeistandsgehilfe"
+    ], 
+    "Sonnenschutztechniker": [
+        "Rollladen- und Sonnenschutztechnikermeister",
+		1
+    ],  
+    "Beruf": [
+        "Berufsfeuerwehrmann", 
+        "Berufsreitlehrer", 
+        "Berufsreiter", 
+        "Berufsfahrer", 
+        "Berufskollegiat", 
+        "Berufshubschrauberf\u00fchrer", 
+        "Berufstrainer"
+    ], 
+    "Feilenhauer": [
+        "Facharbeiter f\u00fcr Fertigungsmittel im Feilenhauer"
+    ], 
+    "Anwalt": [
+        "Syndikus-Anwalt"
+    ], 
+    "Auditor": [
+        "Umwelt-Auditor", 
+        "Arbeitsplatz-Auditor",
+		3
+    ], 
+    "Asphaltierer": [
+        "Asphaltierervorarbeiter"
+    ], 
+    "Vorstand": [
+        "Vorstandsassistent"
+    ], 
+    "Werkschutz": [
+        "Werkschutzleiter",
+		1
+    ], 
+    "Therapeut": [
+        "Bobath-Therapeut", 
+        "Vojta-Therapeut",
+		3
+    ]
+}

@@ -13,7 +13,7 @@
     "Hoteldirektor": "Hoteldirektrice",
     "Elektroanlagenfachkraft": 1,
     "Recycling-Fachkraft": 1,
-    "Feldwebel - Truppendienst": 1, 
+    "Feldwebel im Truppendienst": "Feldwebelin im Truppendienst", 
     "Entsorgungstechniker": "Entsorgungstechnikerin",
     "Fachkraft - Sozialarbeit": 1, 
     "Baukonstruktionstechniker": "Baukonstruktionstechnikerin",
@@ -99,7 +99,6 @@
     "Multimedia-Producer": 1,
     "Kommunikationstechniker": "Kommunikationstechnikerin",
     "PC- und Netzwerkfachkraft": 1,
-    "Tiefbau": 1,
     "Lehrkraft - Sprachtherapie": 1,
     "SPS-Fachkraft": 1,
     "Fachkraft - EDV-gest\u00fctzte Unternehmensf\u00fchrung": 1,
@@ -149,7 +148,6 @@
     "Fachkraft im Geld-, Wert- u. Sicherheitstransport": 1,
     "Offizier - Milit\u00e4rmusikdienst": 1,
     "Servicekraft - Schutz und Sicherheit": 1,
-    "Touristik-Fachkraft": 1,
     "Strickereitechniker": "Strickereitechnikerin",
     "Rehafachkraft - Blinde": 1,
     "Servicekraft": 1,
@@ -265,6 +263,6 @@
     "Fachkraft f\u00fcr Automatisierungstechnik-Elektro": 1,
     "Fachkraft f\u00fcr Absatzwirtschaft": 1,
     "Elektrofachkraft f\u00fcr festgelegte T\u00e4tigkeiten": 1, 
-    "Fachkraft f\u00fcr Solartechnik - Solarteur/in":  1,
+    "Fachkraft f\u00fcr Solartechnik":  1,
     "Lehrkraft f\u00fcr besondere Aufgaben - Hochschulen": 1
 }

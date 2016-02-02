@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Haush\u00e4lter", 
+        "M\u00e4nner": 6.308090492806471, 
+        "Overall": 190866.0, 
+        "KldB": "8321", 
+        "KldB5": "83212", 
+        "Berufsgruppe": "Berufe in der Hauswirtschaft", 
+        "Frauen": 93.69190950719353
+    }, 
+    {
+        "name": "Gleichstellungsbeauftragter", 
+        "M\u00e4nner": 67.9570747217806, 
+        "Overall": 12580.0, 
+        "KldB": "7123", 
+        "KldB5": "71234", 
+        "Berufsgruppe": "Betriebsinterne Wahl\u00e4mter", 
+        "Frauen": 32.04292527821939
+    }, 
+    {
+        "name": "Entbindungspfleger", 
+        "M\u00e4nner": 0.15686274509803866, 
+        "Overall": 10200.0, 
+        "KldB": "8135", 
+        "KldB5": "81353", 
+        "Berufsgruppe": "Berufe Geburtshilfe, Entbindungspflege", 
+        "Frauen": 99.84313725490196
+    }, 
+    {
+        "name": "Pflegediensthelfer", 
+        "M\u00e4nner": 15.040327822173808, 
+        "Overall": 807755.0, 
+        "KldB": "8130", 
+        "KldB5": "81301", 
+        "Berufsgruppe": "Berufe Gesundheits-, Krankenpflege (o.S)", 
+        "Frauen": 84.95967217782619
+    }, 
+    {
+        "name": "Beschlie\u00dfer", 
+        "M\u00e4nner": 6.308090492806471, 
+        "Overall": 190866.0, 
+        "KldB": "8321", 
+        "KldB5": "83212", 
+        "Berufsgruppe": "Berufe in der Hauswirtschaft", 
+        "Frauen": 93.69190950719353
+    }, 
+    {
+        "name": "Belegentbindungspfleger", 
+        "M\u00e4nner": 0.15686274509803866, 
+        "Overall": 10200.0, 
+        "KldB": "8135", 
+        "KldB5": "81353", 
+        "Berufsgruppe": "Berufe Geburtshilfe, Entbindungspflege", 
+        "Frauen": 99.84313725490196
+    }
+]

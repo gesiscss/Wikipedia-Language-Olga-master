@@ -1,0 +1,263 @@
+ {
+ "Maler und Lackierer":
+ [
+        [
+            "Maler/in und Lackierer/in", 
+            "Maler/innen und Lackierer/innen" 
+        ], 
+        "Malerin und Lackiererin"
+		],
+
+"Kaufmann für Tourismus und Freizeit": [
+        [
+            "Touristik-Fachkraft", 
+			"Kaufmann/-frau für Tourismus und Freizeit",
+            "Kaufleute für Tourismus und Freizeit "
+        ], 
+        "Kauffrau für Tourismus und Freizeit"
+    ],
+"Fachberater f\u00fcr Finanzdienstleistungen": [
+        [
+            "Fachberaterin f\u00fcr Finanzdienstleistungen und Fachberater f\u00fcr Finanzdienstleistungen", 
+            "Fachberaterin f\u00fcr Finanzdienstleistungen oder Fachberater f\u00fcr Finanzdienstleistungen", 
+            "Fachberaterin f\u00fcr Finanzdienstleistungen bzw. Fachberater f\u00fcr Finanzdienstleistungen"
+        ], 
+        "Fachberaterin f\u00fcr Finanzdienstleistungen"
+    ],
+	
+	    "Pflegediensthelfer": [
+        [
+            "Schwestern-/Pflegediensthelfer/in", 
+            "Schwesternhelferin und Pflegediensthelfer", 
+            "Schwesternhelferin oder Pflegediensthelfer", 
+            "Schwesternhelferin bzw. Pflegediensthelfer"
+        ], 
+        "Schwesternhelferin"
+	], 
+	"Sprechstundenpfleger": [
+        [
+            "Sprechstundenschwester und Sprechstundenpfleger", 
+            "Sprechstundenschwester oder Sprechstundenpfleger", 
+            "Sprechstundenschwester bzw. Sprechstundenpfleger"
+        ], 
+        "Sprechstundenschwester"
+    ],
+	    "Hilfspolizist": [
+    [
+            "HilfspolizistIn", 
+            "Hilfspolizistin und Hilfspolizist", 
+            "Hilfspolizistin oder Hilfspolizist", 
+            "Hilfspolizistin bzw. Hilfspolizist"
+        ], 
+		"Politesse",
+        "Hilfspolizistin",
+		"Polizeihostess"
+		
+    ],
+	"Belegentbindungspfleger": [
+        [
+            "Beleghebamme und Belegentbindungspfleger", 
+            "Beleghebamme oder Belegentbindungspfleger", 
+            "Beleghebamme bzw. Belegentbindungspfleger"
+        ], 
+        "Beleghebamme"
+    ],
+	"Bundeskanzler": [
+        [	
+			"BundeskanzlerIn",
+            "Bundeskanzlerin und Bundeskanzler", 
+            "Bundeskanzlerin oder Bundeskanzler", 
+            "Bundeskanzlerin bzw. Bundeskanzler"
+        ], 
+        "Bundeskanzlerin"
+    ],
+		"Hauslehrer": [
+        [	
+			"HauslehrerIn",
+            "Hauslehrerin und Hauslehrer", 
+            "Hauslehrerin oder Hauslehrer", 
+            "Hauslehrerin bzw. Hauslehrer"
+        ], 
+        "Hauslehrerin"
+    ],	
+		
+	"Haush\u00e4lter":[
+        [	
+			"Haush\u00e4lterIn",
+            "Haush\u00e4lterin und Haush\u00e4lter", 
+            "Haush\u00e4lterin oder Haush\u00e4lter", 
+            "Haush\u00e4lterin bzw. Haush\u00e4lter"
+        ], 
+        "Haush\u00e4lterin"
+    ],
+	"Prostituierter":[
+		[	
+			"ProstituierteR",
+            "Prostituierte und Prostituierter", 
+            "Prostituierte oder Prostituierter", 
+            "Prostituierte bzw. Prostituierter"
+        ], 
+        "Prostituierte"
+    ],
+	"Knecht":[
+	[	
+            "Magd und Knecht", 
+            "Magd oder Knecht", 
+            "Magd bzw. Knecht"
+        ], 
+        "Magd"
+    ],
+		"Raumpfleger":[
+	[		
+			"Reinigungskraft",
+            "Raumpflegerin und Raumpfleger", 
+            "Raumpflegerin oder Raumpfleger", 
+            "Raumpflegerin bzw. Raumpfleger"
+        ], 
+        "Raumpflegerin"
+    ],
+	    "K\u00fcnstler": [
+        [
+            "K\u00fcnstlerin und K\u00fcnstler", 
+            "K\u00fcnstlerin oder K\u00fcnstler", 
+            "K\u00fcnstlerin bzw. K\u00fcnstler"
+        ], 
+        "K\u00fcnstlerin"
+	],
+	"Kupferstecher":[
+        [
+            "Kupferstecherin und Kupferstecher", 
+            "Kupferstecherin oder Kupferstecher", 
+            "Kupferstecherin bzw. Kupferstecher"
+        ], 
+        "Kupferstecherin"
+	],
+	"Abt":[
+	[
+            "\u00c4btissin und Abt", 
+            "\u00c4btissin oder Abt", 
+            "\u00c4btissin bzw. Abt"
+        ], 
+	"\u00c4btissin"
+	],
+	"Ordensbruder":[
+	[ 		"Ordensschwester und Ordensbruder",
+			"Ordensschwestern und Ordensbrüder",
+			"Ordensschwester oder Ordensbruder", 
+			"Ordensschwester bzw. Ordensbruder"
+		],
+	"Ordensschwester",
+	"Ordensfrau"
+	],
+	   
+	"Prior":[
+	[
+			"Priorin und Prior",
+			"Priorin oder Prior", 
+			"Priorin bzw. Prior"
+		],
+	"Priorin"
+	],
+	
+	"M\u00f6nch":[
+	[	
+			"Nonne und M\u00f6nch",
+			"Nonne oder M\u00f6nch", 
+			"Nonne bzw. M\u00f6nch"
+	
+	],
+	"Nonne"
+	],
+	"Galerist":[
+		[	
+			"Galeristin und Galerist",
+			"Galeristin oder Galerist", 
+			"Galeristin bzw. Galerist"
+	
+	],
+	"Galeristin"
+	],
+	"Kunstkritiker":[
+			[	
+			"KunstkritikerIn",
+			"Kunstkritikerin und Kunstkritiker",
+			"Kunstkritikerin oder Kunstkritiker", 
+			"Kunstkritikerin bzw. Kunstkritiker"
+	
+	],
+	"Kunstkritikerin"
+	],
+	"Dramatiker":[
+	[	
+			"DramatikerIn",
+			"Dramatikerin und Dramatiker",
+			"Dramatikerin oder Dramatiker", 
+			"Dramatikerin bzw. Dramatiker"
+	
+	],
+	"Dramatikerin"
+	],
+	
+	"Dichter":[
+	[	
+			"DichterIn",
+			"Dichterin und Dichter",
+			"Dichterin oder Dichter", 
+			"Dichterin bzw. Dichter"
+	
+	],
+	"Dichter"
+	],
+	"Humorist":[
+	[	
+			"HumoristIn",
+			"Humoristin und Humorist",
+			"Humoristin oder Humorist", 
+			"Humoristin bzw. Humorist"
+	
+	],
+	"Humoristin"
+	],
+	
+	"K\u00fcnstlerischer Leiter":[
+	[	
+			"K\u00fcnstlerische/r Leiter/in",
+			"K\u00fcnstlerische Leiterinnen und Leiter"
+	
+	],
+	"K\u00fcnstlerische Leiterin"
+	],
+	"Lichtgestalter":[
+	[	
+			"LichtgestalterIn",
+			"Lichtgestalterin und Lichtgestalter",
+			"Lichtgestalterin oder Lichtgestalter", 
+			"Lichtgestalterin bzw. Lichtgestalter"
+	
+	],
+	"Lichtgestalterin"
+	],
+	"Literat":[
+	[	
+			"LiteratIn",
+			"Literatin und Literat",
+			"Literatin oder Literat", 
+			"Literatin bzw. Literat"
+	
+	],
+	"Literatin"
+	],
+	"Schriftsteller":[
+		[	
+			"SchriftstellerIn",
+			"Schriftstellerin und Schriftsteller",
+			"Schriftstellerin oder Schriftsteller", 
+			"Schriftstellerin bzw. Schriftsteller"
+	
+		],
+	"Schriftstellerin"
+	]
+
+
+	
+ }

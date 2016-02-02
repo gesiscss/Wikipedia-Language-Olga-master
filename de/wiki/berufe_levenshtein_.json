@@ -123,12 +123,6 @@
             1
         ]
     ], 
-    "Fachberater im Finanzdienstleistungen": [
-        [
-            "Fachberater f\u00fcr Finanzdienstleistungen", 
-            0
-        ]
-    ], 
     "Farb- und Oberfl\u00e4chengestalter": [
         [
             "Garten- und Gr\u00fcnfl\u00e4chengestalter", 
@@ -241,10 +235,10 @@
             0
         ]
     ], 
-    "Wirtschaftstechniker": [
+    "Datenverarbeitungsfachmann": [
         [
-            "Wirtschaftstreuh\u00e4nder", 
-            0
+            "Datenverarbeitungskaufmann", 
+            1
         ]
     ], 
     "Medizinisch-technischer Laboratoriumsassistent": [
@@ -445,12 +439,6 @@
         [
             "Gro\u00dfhandelskaufmann", 
             3
-        ]
-    ], 
-    "Schwesternhelfer": [
-        [
-            "Schwesternhelferin", 
-            4
         ]
     ], 
     "Werkpfleger": [
@@ -1314,7 +1302,7 @@
         ], 
         [
             "Fachberater f\u00fcr Finanzdienstleistungen", 
-            0
+            1
         ], 
         [
             "Fachberater im Au\u00dfendienst (IHK)", 
@@ -1493,9 +1481,13 @@
             1
         ]
     ], 
-    "Datenverarbeitungsfachmann": [
+    "Landmaschinenmechanikermeister": [
         [
-            "Datenverarbeitungskaufmann", 
+            "Landmaschinentechniker", 
+            0
+        ], 
+        [
+            "Landmaschinenmechaniker", 
             1
         ]
     ], 
@@ -2349,16 +2341,6 @@
             1
         ]
     ], 
-    "Landmaschinenmechanikermeister": [
-        [
-            "Landmaschinentechniker", 
-            0
-        ], 
-        [
-            "Landmaschinenmechaniker", 
-            1
-        ]
-    ], 
     "Bandleiter": [
         [
             "Bandrei\u00dfer", 
@@ -2451,18 +2433,10 @@
             3
         ]
     ], 
-    "Neurophysiologischtechnischer Assistent": [
+    "Meisterassistent": [
         [
-            "Physikalisch-technischer Assistent", 
-            1
-        ], 
-        [
-            "Psychologisch-technischer Assistent", 
-            1
-        ], 
-        [
-            "Biologisch-technischer Assistent", 
-            1
+            "Reiseb\u00fcroassistent", 
+            0
         ]
     ], 
     "Baustoffingenieur": [
@@ -2474,7 +2448,7 @@
     "Maler- und Lackierermeister": [
         [
             "Maler und Lackierer", 
-            4
+            1
         ]
     ], 
     "Ledertechniker": [
@@ -2499,10 +2473,18 @@
             4
         ]
     ], 
-    "Meisterassistent": [
+    "Neurophysiologischtechnischer Assistent": [
         [
-            "Reiseb\u00fcroassistent", 
-            0
+            "Physikalisch-technischer Assistent", 
+            1
+        ], 
+        [
+            "Psychologisch-technischer Assistent", 
+            1
+        ], 
+        [
+            "Biologisch-technischer Assistent", 
+            1
         ]
     ], 
     "Bohrger\u00e4tef\u00fchrer": [
@@ -3124,7 +3106,7 @@
     "Maler- und Lackiererhelfer": [
         [
             "Maler und Lackierer", 
-            4
+            1
         ]
     ], 
     "Bausachverst\u00e4ndiger": [
@@ -3149,6 +3131,12 @@
         [
             "Produktionstechnologe", 
             1
+        ]
+    ], 
+    "Wirtschaftstechniker": [
+        [
+            "Wirtschaftstreuh\u00e4nder", 
+            0
         ]
     ], 
     "EDV-Sachbearbeiter": [

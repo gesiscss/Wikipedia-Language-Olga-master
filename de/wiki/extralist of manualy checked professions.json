@@ -1,17 +1,26 @@
 [
-    "Versicherungsberater",  
+    "Versicherungsberater", 
+	"Qualit\u00e4tsbeauftragter",	
+	"Ethnologe",
     "Medizinphysiker", 
     "Schriftdolmetscher", 
-    "Medizinischer Dokumentationsassistent", 
     "Fremdsprachenassistent", 
     "Yogalehrer", 
     "Fu\u00dfballtrainer", 
     "Kraftfahrer",
+	"Rettungshelfer",
     "Listbroker", 
     "Online-Redakteur",
     "Entwicklungshelfer",
+	"Medizinischer Dokumentationsassistent", 
+	"Technischer Redakteur",
+	"Bew\u00e4hrungshelfer",
     "Treuh\u00e4nder",
     "Sprachmittler",
     "Hundef\u00fchrer",
-    "Ballettmeister"
+    "Ballettmeister",
+	"Betriebsf\u00fchrer",
+	"Notfallsanit\u00e4ter"
+	
+	
 ]

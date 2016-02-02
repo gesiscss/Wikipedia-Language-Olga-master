@@ -78,9 +78,9 @@
         "Facharbeiter f\u00fcr Rohrleitungselemente", 
         "Facharbeiter f\u00fcr Werkzeugmaschinen im Fr\u00e4sen", 
         "Facharbeiter f\u00fcr automatisierte Anlagen", 
+        "Facharbeiter f\u00fcr automatisierte Produktionssysteme", 
         "Facharbeiter f\u00fcr Dampferzeugerbau", 
         "Facharbeiter f\u00fcr Werkzeugmaschinen im Bohren", 
-        "Facharbeiter f\u00fcr automatisierte Produktionssysteme", 
         "Facharbeiter f\u00fcr Werkzeugmaschinen im Hobeln", 
         "Facharbeiter f\u00fcr Anlagentechnik im Kulturwaren", 
         "Facharbeiter f\u00fcr Anlagentechnik"
@@ -108,10 +108,10 @@
         "Besch\u00e4ftigungsorientierter Berater und Fallmanager"
     ], 
     "Fachangestellter f\u00fcr Medien- und Informationsdienste": [
+        "Fachangestellter f\u00fcr Medien- und Informationsdienste im Medizinische Dokumentation", 
         "Fachangestellter f\u00fcr Medien- und Informationsdienste im Bildagentur", 
         "Fachangestellter f\u00fcr Medien- und Informationsdienste im Archiv", 
         "Fachangestellter f\u00fcr Medien- und Informationsdienste im Bibliothek", 
-        "Fachangestellter f\u00fcr Medien- und Informationsdienste im Medizinische Dokumentation", 
         "Fachangestellter f\u00fcr Medien- und Informationsdienste im Information und Dokumentation"
     ], 
     "Geb\u00e4udereiniger": [
@@ -140,8 +140,8 @@
         "REFA-Ingenieur", 
         "Ingenieurinformatiker", 
         "Ingenieurassistent", 
-        "Design-Ingenieur", 
-        "Pharmazie-Ingenieur"
+        "Pharmazie-Ingenieur", 
+        "Design-Ingenieur"
     ], 
     "Glasmacher": [
         "Glasmacher im Chemisch-technischer Hohlglasmacher"
@@ -191,11 +191,11 @@
         "CVJM-Sekret\u00e4r"
     ], 
     "Fachkaufmann": [
+        "Technischer Fachkaufmann im Sanit\u00e4r, Heizung und Klima", 
         "Technischer Fachkaufmann im Beschlagtechnik", 
         "Technischer Fachkaufmann", 
         "Technischer Fachkaufmann im Werkzeuge und Maschinen", 
-        "Technischer Fachkaufmann im Textil", 
-        "Technischer Fachkaufmann im Sanit\u00e4r, Heizung und Klima"
+        "Technischer Fachkaufmann im Textil"
     ], 
     "Stra\u00dfenbauer": [
         "Stra\u00dfenbauermeister"
@@ -246,10 +246,10 @@
         "Mechanikerhelfer"
     ], 
     "Beruf": [
+        "Berufsfeuerwehrmann", 
         "Berufsreitlehrer", 
         "Berufsreiter", 
         "Berufsfahrer", 
-        "Berufsfeuerwehrmann", 
         "Berufskollegiat", 
         "Berufshubschrauberf\u00fchrer", 
         "Berufstrainer"
@@ -290,8 +290,8 @@
         "Technischer Fachwirt im Elektro", 
         "Automobil-Fachwirt"
     ], 
-    "Weink\u00fcfer": [
-        "Weink\u00fcfermeister"
+    "Modist": [
+        "Modistenmeister"
     ], 
     "Stra\u00dfenw\u00e4rter": [
         "Stra\u00dfenw\u00e4rtermeister"
@@ -307,9 +307,6 @@
     "W\u00e4rme-, K\u00e4lte- und Schallschutzisolierer": [
         "W\u00e4rme-, K\u00e4lte- und Schallschutzisolierermeister"
     ], 
-    "Greenkeeper": [
-        "Greenkeeper-Assistent"
-    ], 
     "Schalungsbauer": [
         "Ger\u00fcst- und Schalungsbauer"
     ], 
@@ -320,8 +317,8 @@
     "Bohrwerkdreher": [
         "NC-Bohrwerkdreher"
     ], 
-    "Asphaltierer": [
-        "Asphaltierervorarbeiter"
+    "Greenkeeper": [
+        "Greenkeeper-Assistent"
     ], 
     "Former": [
         "Former- und Kernmacherhelfer"
@@ -329,12 +326,15 @@
     "\u00dcbersetzer": [
         "Technik-\u00dcbersetzer"
     ], 
+    "Asphaltierer": [
+        "Asphaltierervorarbeiter"
+    ], 
     "Pflasterer": [
         "Pflastererhelfer"
     ], 
     "Schmied": [
-        "Schmiedepresser", 
-        "Schmiedehelfer"
+        "Schmiedehelfer", 
+        "Schmiedepresser"
     ], 
     "Schilder- und Lichtreklamehersteller": [
         "Schilder- und Lichtreklameherstellermeister"
@@ -353,9 +353,9 @@
         "Arbeitsplatz-Auditor"
     ], 
     "Sattler": [
-        "Sattlermeister", 
         "Sattler- und Feint\u00e4schnermeister", 
-        "Sattler- und Bandagistenhelfer"
+        "Sattler- und Bandagistenhelfer", 
+        "Sattlermeister"
     ], 
     "Wachszieher": [
         "Wachsziehermeister"
@@ -394,7 +394,8 @@
         "Metallblasinstrumentenmachermeister"
     ], 
     "B\u00fcroleiter": [
-        "Handwerk - B\u00fcroleiter"
+        "Handwerk - B\u00fcroleiter", 
+        "Handwerk im B\u00fcroleiter"
     ], 
     "Tierwirt": [
         "Tierwirtschaftsmeister"
@@ -430,8 +431,8 @@
     ], 
     "Psychologe": [
         "Forensischer Psychologe", 
-        "Klinischer Psychologe", 
-        "P\u00e4dagogischer Psychologe"
+        "P\u00e4dagogischer Psychologe", 
+        "Klinischer Psychologe"
     ], 
     "Messebau": [
         "Messebauer"
@@ -454,9 +455,9 @@
         "Syndikus-Anwalt"
     ], 
     "Textilreiniger": [
-        "Textilreinigermeister", 
         "Textilreinigerwerker", 
-        "Fachpraktiker f\u00fcr Textilreiniger"
+        "Fachpraktiker f\u00fcr Textilreiniger", 
+        "Textilreinigermeister"
     ], 
     "Maurer": [
         "Maurer- und Betonbauermeister", 
@@ -563,6 +564,7 @@
     "Techniker": [
         "Audio-Techniker", 
         "Fensterbautechniker - Techniker - Holztechnik", 
+        "Fensterbautechniker im Techniker im Holztechnik", 
         "REFA-Techniker", 
         "Techniker im Fahrlehrer f\u00fcr Kraftfahrzeuge und Triebwagen"
     ], 
@@ -593,11 +595,13 @@
     ], 
     "Betriebswirt": [
         "Betriebswirtschaftlicher Assistent", 
+        "Betriebswirt im Schifffahrt", 
         "Betriebswirtschaftlicher Assistent im Gesundheitswesen", 
         "Technischer Betriebswirt", 
         "Technischer Betriebswirt im Handwerk", 
         "Informatik-Betriebswirt", 
         "Betriebswirt - Schifffahrt", 
+        "Betriebswirt im Versicherungswesen", 
         "Industrie-Betriebswirt", 
         "Betriebswirt - Versicherungswesen", 
         "Praktischer Betriebswirt"
@@ -645,6 +649,7 @@
         "Vergoldermeister"
     ], 
     "Matrose": [
+        "Matrose im Binnenschifffahrt", 
         "Matrose - Binnenschifffahrt"
     ], 
     "Tierpfleger": [
@@ -694,8 +699,8 @@
         "Technischer Modellbauer im Anschauung", 
         "Technischer Modellbauer im Gie\u00dferei"
     ], 
-    "Modist": [
-        "Modistenmeister"
+    "Weink\u00fcfer": [
+        "Weink\u00fcfermeister"
     ], 
     "Steinbildhauer": [
         "Steinmetz- und Steinbildhauermeister"
@@ -714,10 +719,10 @@
     ], 
     "Verwaltungsfachangestellter": [
         "Verwaltungsfachangestellter im Kirchenverwaltung -evangelische Kirche", 
-        "Verwaltungsfachangestellter im Bundesverwaltung", 
         "Verwaltungsfachangestellter im Bundesverkehrsverwaltung", 
         "Verwaltungsfachangestellter im Kommunalverwaltung", 
         "Verwaltungsfachangestellter im Landesverwaltung", 
+        "Verwaltungsfachangestellter im Bundesverwaltung", 
         "Verwaltungsfachangestellter im Kirchenverwaltung -katholische Kirche", 
         "Verwaltungsfachangestellter im HWK und IHK"
     ], 
@@ -742,6 +747,7 @@
         "Polstern\u00e4her"
     ], 
     "Wirtschaftsingenieur": [
+        "Wirtschaftsingenieur im Logistik", 
         "Wirtschaftsingenieur - Logistik"
     ], 
     "Handzuginstrumentenmacher": [
