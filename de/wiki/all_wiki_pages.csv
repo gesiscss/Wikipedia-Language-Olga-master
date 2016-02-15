@@ -1,0 +1,886 @@
+	Ambigious	Bias	Name	Oppositgender	WikiName
+0	0	male	Mikrotechnologe	Mikrotechnologin	Mikrotechnologe
+1	0	male	Metallformer	Metallformerin	Metallverformer
+2	0	male	Honorarprofessor	Honorarprofessorin	Honorarprofessor
+3	0	male	Komparse	Komparsin	Komparse
+4	0	male	Missionar	Missionarin	Missionar
+5	0	male	Historiker	Historikerin	Historiker
+6	0	male	Fremdenführer	Fremdenführerin	Fremdenführer
+7	0	male	Richter	Richterin	Richter
+8	0	male	Bestatter	Bestatterin	Bestatter
+9	0	male	Philosoph	Philosophin	Philosoph
+10	0	male	Kartograf	Kartografin	Kartograf
+11	0	male	Physikalisch-technischer Assistent	Physikalisch-technische Assistentin	Physikalisch-technischer Assistent
+12	0	male	Galerist	Galeristin	Galerist
+13	0	male	Weinküfer	Weinküferin	Weinküfer
+14	0	male	Sport- und Fitnesskaufmann	Sport- und Fitnesskauffrau	Sport- und Fitnesskaufmann
+15	0	male	Diätkoch	Diätköchin	Diätkoch
+16	0	male	Pädagoge	Pädagogin	Pädagoge
+17	0	male	Schriftgießer	Schriftgießerin	Schriftgießer
+18	0	male	Systemelektroniker	Systemelektronikerin	Systemelektroniker
+19	0	male	Automatenfachmann	Automatenfachfrau	Automatenfachmann
+20	0	male	Astrophysiker	Astrophysikerin	Astrophysiker
+21	0	male	Büroleiter	Büroleiterin	Büroleiter
+22	0	male	Zootechniker	Zootechnikerin	Zootechniker
+23	0	male	Erzieher	Erzieherin	Erzieher
+24	0	male	Biologielaborant	Biologielaborantin	Biologielaborant
+25	0	male	Friseur	Friseurin	Friseur
+26	0	male	Redenschreiber	Redenschreiberin	Redenschreiber
+27	0	male	Reporter	Reporterin	Reporter
+28	0	male	Installateur	Installateurin	Installateur
+29	1	neutral	Host	Hostess	Host
+30	0	neutral	Hostess	Host	Hostess
+31	0	male	Estrichleger	Estrichlegerin	Estrichleger
+32	0	male	Spezialtiefbauer	Spezialtiefbauerin	Spezialtiefbauer
+33	0	male	Tontechniker	Tontechnikerin	Tontechniker
+34	0	male	Feldwebel	Feldwebelin	Feldwebel
+35	0	male	Pharmazeutisch-kaufmännischer Angestellter	Pharmazeutisch-kaufmännische Angestellte	Pharmazeutisch-kaufmännischer Angestellter
+36	0	male	Steuerbevollmächtigter	Steuerbevollmächtigte	Steuerbevollmächtigter
+37	0	male	Gesundheits- und Krankenpflegehelfer	Gesundheits- und Krankenpflegehelferin	Gesundheits- und Krankenpflegehelfer
+38	0	male	Schornsteinfeger	Schornsteinfegerin	Schornsteinfeger
+39	0	male	Abt	Äbtissin	Abt
+40	0	male	Matrose	Matrosin	Matrose
+41	0	male	Kaufmann für Verkehrsservice	Kauffrau für Verkehrsservice	Kaufmann für Verkehrsservice
+42	0	male	Toningenieur	Toningenieurin	Toningenieur
+43	0	male	Anlagenmechaniker	Anlagenmechanikerin	Anlagenmechaniker
+44	0	male	Strohdachdecker	Strohdachdeckerin	Strohdecker
+45	0	male	Fahrlehrer	Fahrlehrerin	Fahrlehrer
+46	0	male	Orientalist	Orientalistin	Orientalist
+47	0	male	Baumeister	Baumeisterin	Baumeister
+48	0	male	Bautechniker	Bautechnikerin	Bautechniker
+49	0	male	Handwerksmeister	Handwerksmeisterin	Handwerksmeister
+50	0	male	Korrepetitor	Korrepetitorin	Korrepetitor
+51	0	male	Zahnmedizinischer Prophylaxeassistent	Zahnmedizinische Prophylaxeassistentin	Zahnmedizinischer Prophylaxeassistent
+52	0	male	Ethnologe	Ethnologin	Ethnologe
+53	0	male	Hotelfachmann	Hotelfachfrau	Hotelfachmann
+54	0	male	Polizeivollzugsbeamter	Polizeivollzugsbeamtin	Polizeivollzugsbeamter
+55	0	male	Reiseleiter	Reiseleiterin	Reiseleiter
+56	0	male	Änderungsschneider	Änderungsschneiderin	Änderungsschneider
+57	0	male	Meister	Meisterin	Meister
+58	0	male	Ramp-Agent	Ramp-Agentin	Ramp Agent
+59	0	male	Schweißer	Schweißerin	Schweißer
+60	0	male	Immissionsschutzbeauftragter	Immissionsschutzbeauftragte	Immissionsschutzbeauftragter
+61	0	male	Rettungssanitäter	Rettungssanitäterin	Rettungssanitäter
+62	0	male	Bodensteward	Bodenstewardess	Bodensteward
+63	0	male	Unternehmensberater	Unternehmensberaterin	Unternehmensberater
+64	0	male	Verwaltungsbetriebswirt	Verwaltungsbetriebswirtin	Verwaltungsbetriebswirt (HVSV)
+65	0	male	Edelsteinfasser	Edelsteinfasserin	Edelsteinfasser
+66	0	male	Musikfachhändler	Musikfachhändlerin	Musikfachhändler
+67	0	male	Medienberater	Medienberaterin	Mediaberater
+68	0	male	Kaffeeröster	Kaffeerösterin	Kaffeeröster
+69	0	male	Logistikmeister	Logistikmeisterin	Geprüfter Logistikmeister
+70	0	male	Artist	Artistin	Artist (Darsteller)
+71	0	neutral	Medientechniker	Medientechnikerin	Medientechnik
+72	0	male	Visagist	Visagistin	Visagist
+73	0	male	Lebensmittelkontrolleur	Lebensmittelkontrolleurin	Lebensmittelkontrolleur
+74	0	male	Assistenzarzt	Assistenzärztin	Assistenzarzt
+75	0	male	Sprachmittler	Sprachmittlerin	Sprachmittler
+76	0	male	Patentanwalt	Patentanwältin	Patentanwalt (Deutschland)
+77	0	male	Kupferstecher	Kupferstecherin	Kupferstecher
+78	0	male	Maler und Lackierer	Malerin und Lackiererin	Maler und Lackierer
+79	0	male	Edelsteinschleifer	Edelsteinschleiferin	Edelsteinschleifer
+80	0	male	Elektroingenieur	Elektroingenieurin	Elektroingenieur
+81	0	male	Raumausstatter	Raumausstatterin	Raumausstatter
+82	0	male	Uhrmacher	Uhrmacherin	Uhrmacher
+83	0	male	Betriebssanitäter	Betriebssanitäterin	Betriebssanitäter
+84	0	male	Schuhfertiger	Schuhfertigerin	Schuhfertiger
+85	0	male	Fachpraktiker	Fachpraktikerin	Fachpraktiker
+86	0	male	Automobilkaufmann	Automobilkauffrau	Automobilkaufmann
+87	0	male	Schausteller	Schaustellerin	Schausteller
+88	1	male	Präsident	Präsidentin	Präsident
+89	0	male	Werkpolier	Werkpolierin	Werkpolier
+90	0	male	Bühnenmeister	Bühnenmeisterin	Bühnenmeister
+91	0	male	Handzuginstrumentenmacher	Handzuginstrumentenmacherin	Handzuginstrumentenmacher
+92	0	male	Journalist	Journalistin	Journalist
+93	0	male	Foto- und medientechnischer Assistent	Foto- und medientechnische Assistentin	Gestaltungs- und medientechnischer Assistent
+94	0	male	Rechtsanwalt	Rechtsanwältin	Rechtsanwalt
+95	0	male	Syndikus-Anwalt	Syndikus-Anwältin	Syndikus
+96	0	male	Medizinisch-technischer Assistent	Medizinisch-technische Assistentin	Medizinisch-technischer Assistent
+97	0	male	Fachangestellter für Medien- und Informationsdienste	Fachangestellte für Medien- und Informationsdienste	Fachangestellter für Medien- und Informationsdienste
+98	0	male	Film- und Videolaborant	Film- und Videolaborantin	Film- und Videolaborant
+99	0	male	Klebfachingenieur	Klebfachingenieurin	Klebfachingenieur
+100	0	male	Physiker	Physikerin	Physiker
+101	0	male	Tanzlehrer	Tanzlehrerin	Tanzlehrer
+102	0	male	Inspektor	Inspektorin	Inspektor
+103	0	male	Feuerungs- und Schornsteinbauer	Feuerungs- und Schornsteinbauerin	Feuerungs- und Schornsteinbauer
+104	0	male	Kanalsteurer	Kanalsteurerin	Kanalsteurer
+105	0	male	Pharmazeutisch-technischer Assistent	Pharmazeutisch-technische Assistentin	Pharmazeutisch-technischer Assistent
+106	0	male	Datenverarbeitungskaufmann	Datenverarbeitungskauffrau	Datenverarbeitungskaufmann
+107	0	male	Bootsführer	Bootsführerin	Bootsführer
+108	0	male	Anwendungsprogrammierer	Anwendungsprogrammiererin	Anwendungsprogrammierer
+109	0	male	Butler	Butlerin	Butler
+110	0	male	Medienkaufmann	Medienkauffrau	Medienkaufmann Digital und Print
+111	0	male	Straßenwärter	Straßenwärterin	Straßenwärter
+112	0	male	Werbetexter	Werbetexterin	Werbetexter
+113	0	male	Arrangeur	Arrangeurin	Arrangeur
+114	0	male	Masseur und medizinischer Bademeister	Masseurin und medizinische Bademeisterin	Masseur und medizinischer Bademeister
+115	0	male	Biologe	Biologin	Biologe
+116	0	neutral	Dressman	Mannequin	Model
+117	1	neutral	Mannequin	Dressman	Mannequin
+118	0	male	Schauspieler	Schauspielerin	Schauspieler
+119	0	male	Fotomedienlaborant	Fotomedienlaborantin	Fotomedienlaborant
+120	0	male	Elektromechanikermeister	Elektromechanikermeisterin	Elektromechanikermeister
+121	0	male	Zuschneider	Zuschneiderin	Zuschneider
+122	0	male	Kameramann	Kamerafrau	Kameramann
+123	0	male	Hotelkaufmann	Hotelkauffrau	Hotelkaufmann
+124	0	male	Trockenbaumonteur	Trockenbaumonteurin	Trockenbaumonteur
+125	0	male	Segellehrer	Segellehrerin	Segellehrer
+126	0	male	Industrieelektroniker	Industrieelektronikerin	Industrieelektroniker
+127	0	male	Chemikant	Chemikantin	Chemikant
+128	0	male	Chemisch-technischer Assistent	Chemisch-technische Assistentin	Chemisch-Technischer Assistent
+129	0	male	Psychologisch-technischer Assistent	Psychologisch-technische Assistentin	Psychologisch-technischer Assistent
+130	0	male	Thermometermacher	Thermometermacherin	Thermometermacher
+131	0	male	Dachdecker	Dachdeckerin	Dachdecker
+132	0	male	Kaufmannsgehilfe	Kaufmannsgehilfin	Kaufmannsgehilfe
+133	0	male	Bibliothekar	Bibliothekarin	Bibliothekar
+134	0	male	Webdesigner	Webdesignerin	Webdesigner
+135	0	male	Yogalehrer	Yogalehrerin	Yogalehrer
+136	0	male	Euro-Fremdsprachenkorrespondent	Euro-Fremdsprachenkorrespondentin	Euro-Fremdsprachenkorrespondent
+137	0	male	Mathematisch-technischer Softwareentwickler	Mathematisch-technische Softwareentwicklerin	Mathematisch-technischer Softwareentwickler
+138	0	male	Facharbeiter für Nachrichtentechnik	Facharbeiterin für Nachrichtentechnik	Facharbeiter für Nachrichtentechnik
+139	0	male	Fachberater für Finanzdienstleistungen	Fachberaterin für Finanzdienstleistungen	Fachberater für Finanzdienstleistungen
+140	0	male	Konstrukteur	Konstrukteurin	Konstrukteur
+141	0	male	Hoteldiener	Hoteldienerin	Hoteldiener
+142	0	male	Finanzberater	Finanzberaterin	Finanzberater
+143	1	male	Manager	Managerin	Manager
+144	0	male	Küchenmeister	Küchenmeisterin	Küchenmeister
+145	0	male	Justizfachwirt	Justizfachwirtin	Justizfachwirt
+146	0	male	Gärtner	Gärtnerin	Gärtner
+147	0	male	Fotomedienfachmann	Fotomedienfachfrau	Fotomedienfachmann
+148	0	male	Werkgehilfe Schmuckwarenindustrie, Taschen- und Armbanduhren	Werkgehilfin Schmuckwarenindustrie, Taschen- und Armbanduhren	Werkgehilfe Schmuckwarenindustrie, Taschen- und Armbanduhren
+149	0	male	Schnellzeichner	Schnellzeichnerin	Schnellzeichner
+150	0	male	Informatiker	Informatikerin	Informatiker
+151	0	male	Notenstecher	Notenstecherin	Notenstecher
+152	0	male	Rettungsschwimmer	Rettungsschwimmerin	Rettungsschwimmer
+153	0	male	Kriminologe	Kriminologin	Kriminologe
+154	0	male	Rettungsassistent	Rettungsassistentin	Rettungsassistent
+155	0	male	Kernmacher	Kernmacherin	Kernmacher
+156	0	male	Stanz- und Umformmechaniker	Stanz- und Umformmechanikerin	Stanz- und Umformmechaniker
+157	0	male	Elektroinstallateur	Elektroinstallateurin	Elektroinstallateur
+158	0	male	Naturwerksteinmechaniker	Naturwerksteinmechanikerin	Naturwerksteinmechaniker
+159	0	male	Edelmetallprüfer	Edelmetallprüferin	Edelmetallprüfer
+160	0	male	Handelsfachwirt	Handelsfachwirtin	Handelsfachwirt
+161	0	male	Schiffsbetriebsoffizier	Schiffsbetriebsoffizierin	Schiffsbetriebsoffizier
+162	0	male	Metallblasinstrumentenmacher	Metallblasinstrumentenmacherin	Metallblasinstrumentenmacher
+163	0	male	Tiefbauingenieur	Tiefbauingenieurin	Tiefbauingenieur
+164	0	male	Büchsenmachermeister	Büchsenmachermeisterin	Büchsenmeister
+165	0	male	Fotolaborant	Fotolaborantin	Fotolaborant
+166	0	male	Elektromonteur	Elektromonteurin	Elektromonteur
+167	0	male	Patentanwaltsfachangestellter	Patentanwaltsfachangestellte	Patentanwaltsfachangestellter
+168	0	male	Industriekeramiker Verfahrenstechnik	Industriekeramikerin Verfahrenstechnik	Industriekeramiker Verfahrenstechnik
+169	0	male	Graveur	Graveurin	Graveur
+170	0	male	Kunststoff-Formgeber	Kunststoff-Formgeberin	Kunststoffformgeber
+171	0	male	Zimmerer	Zimmerin	Zimmerer
+172	0	male	Erntehelfer	Erntehelferin	Erntehelfer
+173	0	male	Lagerhalter	Lagerhalterin	Lagerhalter
+174	0	male	Textilreiniger	Textilreinigerin	Textilreiniger
+175	0	male	Musikverleger	Musikverlegerin	Musikverleger
+176	0	male	Musiker	Musikerin	Musiker
+177	0	male	Sachverständiger	Sachverständige	Sachverständiger
+178	0	male	Dramatiker	Dramatikerin	Dramatiker
+179	0	male	Theologe	Theologin	Theologe
+180	0	male	Geomatiker	Geomatikerin	Geomatiker
+181	0	neutral	Filmgeschäftsführer	Filmgeschäftsführerin	Filmgeschäftsführung
+182	0	male	Berufskraftfahrer	Berufskraftfahrerin	Berufskraftfahrer
+183	0	male	Bürokaufmann	Bürokauffrau	Bürokaufmann
+184	0	male	Offizier	Offizierin	Offizier
+185	0	male	Reprograf	Reprografin	Reprograf
+186	0	male	Regieassistent	Regieassistentin	Regieassistent
+187	0	male	Kassierer	Kassiererin	Kassierer
+188	0	male	Zweiradmechaniker	Zweiradmechanikerin	Zweiradmechaniker
+189	0	male	Zahnmedizinischer Verwaltungsassistent	Zahnmedizinische Verwaltungsassistentin	Zahnmedizinischer Verwaltungsassistent
+190	0	male	Asphaltbauer	Asphaltbauerin	Asphaltbauer
+191	0	male	Fachinformatiker	Fachinformatikerin	Fachinformatiker
+192	0	male	Aufbereitungsmechaniker	Aufbereitungsmechanikerin	Aufbereitungsmechaniker
+193	0	male	Beleuchter	Beleuchterin	Beleuchter
+194	0	male	Schneidwerkzeugmechaniker	Schneidwerkzeugmechanikerin	Schneidwerkzeugmechaniker
+195	0	male	Rechtsanwalts- und Notarfachangestellter	Rechtsanwalts- und Notarfachangestellte	Rechtsanwalts- und Notarfachangestellter
+196	0	neutral	Projektassistent	Projektassistentin	Projektassistenz
+197	0	male	Gastwirt	Gastwirtin	Gastwirt
+198	0	male	Chefpilot	Chefpilotin	Chefpilot
+199	0	male	Ingenieur	Ingenieurin	Ingenieur
+200	0	male	Beleuchtungsmeister	Beleuchtungsmeisterin	Beleuchtungsmeister
+201	0	male	Dramaturg	Dramaturgin	Dramaturg
+202	0	male	Landschaftsarchitekt	Landschaftsarchitektin	Landschaftsarchitekt
+203	0	male	Automateneinrichter	Automateneinrichterin	Automateneinrichter
+204	0	male	Medizinischer Dokumentar	Medizinische Dokumentarin	Medizinischer Dokumentar
+205	0	male	Maskenbildner	Maskenbildnerin	Maskenbildner
+206	0	male	Versicherungsberater	Versicherungsberaterin	Versicherungsberater
+207	0	male	Kastellan	Kastellanin	Kastellan
+208	0	male	Technischer Betriebswirt	Technische Betriebswirtin	Geprüfter Technischer Betriebswirt
+209	0	male	Fachwirt	Fachwirtin	Fachwirt
+210	0	male	Klassenlehrer	Klassenlehrerin	Klassenlehrer
+211	0	male	Industriekeramiker Modelltechnik	Industriekeramikerin Modelltechnik	Industriekeramiker Modelltechnik
+212	0	male	Medientechnologe Druckverarbeitung	Medientechnologin Druckverarbeitung	Medientechnologe Druckverarbeitung
+213	0	male	Steuermann	Steuerfrau	Steuermann
+214	0	male	Ensembleleiter	Ensembleleiterin	Ensembleleiter
+215	0	male	Sattler	Sattlerin	Sattler
+216	0	male	Pelzveredler	Pelzveredlerin	Pelzveredler
+217	0	male	Fachangestellter für Arbeitsmarktdienstleistungen	Fachangestellte für Arbeitsmarktdienstleistungen	Fachangestellter für Arbeitsmarktdienstleistungen
+218	0	male	Biologisch-technischer Assistent	Biologisch-technische Assistentin	Biologisch-technischer Assistent
+219	0	male	Industrie-Isolierer	Industrie-Isoliererin	Industrie-Isolierer
+220	0	male	Kellermeister	Kellermeisterin	Kellermeister
+221	0	male	Kommunikationstechnischer Assistent	Kommunikationstechnische Assistentin	Informationstechnischer Assistent
+222	0	male	Informationselektroniker	Informationselektronikerin	Informationselektroniker
+223	0	male	Sachbearbeiter	Sachbearbeiterin	Sachbearbeiter
+224	0	male	Zupfinstrumentenmacher	Zupfinstrumentenmacherin	Zupfinstrumentenmacher
+225	0	male	Operationstechnischer Assistent	Operationstechnische Assistentin	Operationstechnischer Assistent
+226	0	male	Servicekaufmann im Luftverkehr	Servicekauffrau im Luftverkehr	Servicekaufmann im Luftverkehr
+227	0	male	Goldschläger	Goldschlägerin	Goldschläger
+228	0	male	Sparkassenkaufmann	Sparkassenkauffrau	Sparkassenkaufmann
+229	0	male	Schiffbauingenieur	Schiffbauingenieurin	Schiffbauingenieur
+230	0	male	Facharbeiter für Fertigungsmittel	Facharbeiterin für Fertigungsmittel	Facharbeiter für Fertigungsmittel
+231	0	male	Nachrichtengerätemechaniker	Nachrichtengerätemechanikerin	Nachrichtengerätemechaniker
+232	0	male	Kaufmann	Kauffrau	Kaufmann
+233	0	male	Account-Manager	Account-Managerin	Account-Manager
+234	0	male	Pilot	Pilotin	Pilot
+235	1	neutral	Bundeskanzler	Bundeskanzlerin	Bundeskanzler
+236	0	neutral	Bundeskanzlerin	Bundeskanzler	Bundeskanzlerin
+237	0	male	Präparator	Präparatorin	Präparator
+238	0	male	Fleischer	Fleischerin	Fleischer
+239	0	male	Haus- und Familienpfleger	Haus- und Familienpflegerin	Haus- und Familienpfleger
+240	0	male	Filmkopienfertiger	Filmkopienfertigerin	Filmkopienfertiger
+241	0	male	Biersieder	Biersiederin	Biersieder
+242	0	male	Polster- und Dekorationsnäher	Polster- und Dekorationsnäherin	Polster- und Dekorationsnäher
+243	0	male	Restaurantmeister	Restaurantmeisterin	Restaurantmeister
+244	0	male	Touristikassistent	Touristikassistentin	Touristikassistent
+245	0	male	Fondsmanager	Fondsmanagerin	Fondsmanager
+246	0	male	Qualitätsbeauftragter	Qualitätsbeauftragte	Qualitätsbeauftragter
+247	0	male	Facharzt	Fachärztin	Facharzt
+248	0	male	Ausbilder	Ausbilderin	Ausbilder
+249	0	male	Gürtler	Gürtlerin	Gürtler
+250	0	male	Fahrradmonteur	Fahrradmonteurin	Fahrradmonteur
+251	0	male	Brunnenbauer	Brunnenbauerin	Brunnenbauer
+252	0	male	Kopierfräser	Kopierfräserin	Kopierfräser
+253	0	male	Industrietechnologe	Industrietechnologin	Industrietechnologe
+254	0	male	Keramiker	Keramikerin	Keramiker
+255	0	male	Korbmacher	Korbmacherin	Korbmacher
+256	0	male	Kommunikationswirt	Kommunikationswirtin	Kommunikationswirt
+257	0	male	Schleifer	Schleiferin	Schleifer
+258	0	male	Kfz-Mechatroniker	Kfz-Mechatronikerin	Kfz-Mechatroniker
+259	0	male	Heizer	Heizerin	Heizer
+260	0	male	Telefonist	Telefonistin	Telefonist
+261	0	male	Ingenieurpädagoge	Ingenieurpädagogin	Ingenieurpädagoge
+262	0	male	Immobilienmakler	Immobilienmaklerin	Immobilienmakler
+263	0	male	Berg- und Maschinenmann	Berg- und Maschinenfrau	Berg- und Maschinenmann
+264	0	male	Wildheger	Wildhegerin	Wildhüter
+265	0	male	Holzmechaniker	Holzmechanikerin	Holzmechaniker
+266	0	male	Verleger	Verlegerin	Verleger
+267	0	male	Kutscher	Kutscherin	Kutscher
+268	0	male	Fremdsprachensekretär	Fremdsprachensekretärin	Fremdsprachensekretär
+269	0	male	Drogist	Drogistin	Drogist
+270	0	male	Dekorvorlagenhersteller	Dekorvorlagenherstellerin	Dekorvorlagenhersteller
+271	0	male	Messerschmied	Messerschmiedin	Messerschmied
+272	0	male	Müller	Müllerin	Müller
+273	0	male	Holz- und Bautenschützer	Holz- und Bautenschützerin	Holz- und Bautenschützer
+274	0	male	Bürovorsteher	Bürovorsteherin	Bürovorsteher
+275	0	male	Anästhesietechnischer Assistent	Anästhesietechnische Assistentin	Anästhesietechnischer Assistent
+276	0	male	Purser	Purserette	Purser
+277	0	male	Landarbeiter	Landarbeiterin	Landarbeiter
+278	0	male	Stuntman	Stuntwoman	Stuntman
+279	0	male	Sozialassistent	Sozialassistentin	Sozialassistent
+280	0	male	Fachlehrer	Fachlehrerin	Fachlehrer
+281	0	male	Notar	Notarin	Notar
+282	0	male	Modenäher	Modenäherin	Modenäher
+283	0	male	Chemielaborant	Chemielaborantin	Chemielaborant
+284	0	male	Apothekerassistent	Apothekerassistentin	Apothekerassistent
+285	0	male	Soldat	Soldatin	Soldat
+286	0	male	Ewerführer	Ewerführerin	Ewerführer
+287	0	male	Futtermeister	Futtermeisterin	Futtermeister
+288	0	male	Kürschner	Kürschnerin	Kürschner
+289	0	male	Stuckateur	Stuckateurin	Stuckateur
+290	1	male	Helfer	Helferin	Helfer
+291	0	male	Lichtgestalter	Lichtgestalterin	Lichtgestalter
+292	0	male	Trainer	Trainerin	Trainer
+293	0	male	Reaktorfahrer	Reaktorfahrerin	Reaktorfahrer
+294	0	male	Weinhandelsküfer	Weinhandelsküferin	Weinhandelsküfer
+295	0	male	Papiertechnologe	Papiertechnologin	Papiertechnologe
+296	0	neutral	Diakon	Diakonin	Diakon
+297	0	neutral	Diakonin	Diakon	Diakonin
+298	0	male	Medizinphysiker	Medizinphysikerin	Medizinphysiker
+299	0	male	Chemigraf	Chemigrafin	Chemigraf
+300	0	male	Arbeitserzieher	Arbeitserzieherin	Arbeitserzieher
+301	0	male	Fahrbahnmarkierer	Fahrbahnmarkiererin	Fahrbahnmarkierer
+302	0	male	Bauwerksabdichter	Bauwerksabdichterin	Bauwerksabdichter
+303	0	male	Werkzeugmechaniker	Werkzeugmechanikerin	Werkzeugmechaniker
+304	0	male	Dichter	Dichterin	Dichter
+305	0	male	Pharmakant	Pharmakantin	Pharmakant
+306	0	male	Technischer Zeichner	Technische Zeichnerin	Technischer Zeichner
+307	0	male	Testpilot	Testpilotin	Testpilot
+308	0	male	Pharmareferent	Pharmareferentin	Pharmareferent
+309	0	male	Architekt	Architektin	Architekt
+310	0	male	Bauchredner	Bauchrednerin	Bauchredner
+311	0	male	Registrator	Registratorin	Registrator
+312	0	male	Astronom	Astronomin	Astronom
+313	0	male	Wassermeister	Wassermeisterin	Wassermeister
+314	0	male	Hochbaufacharbeiter	Hochbaufacharbeiterin	Hochbaufacharbeiter
+315	0	male	Schriftdolmetscher	Schriftdolmetscherin	Schriftdolmetscher
+316	0	male	Physiotherapeut	Physiotherapeutin	Physiotherapeut
+317	0	male	Glasapparatebauer	Glasapparatebauerin	Glasapparatebauer
+318	0	male	Klavierbauer	Klavierbauerin	Klavierbauer
+319	0	male	Zauberer	Zauberin	Zauberer
+320	0	male	Pflasterer	Pflasterin	Pflasterer
+321	0	male	Energieberater	Energieberaterin	Energieberater
+322	0	male	Fachlagerist	Fachlageristin	Fachlagerist
+323	0	male	Goldschmied	Goldschmiedin	Goldschmied
+324	0	male	Betonstahlbieger und -flechter	Betonstahlbiegerin und -flechterin	Betonstahlbieger und -flechter
+325	0	male	Zoologe	Zoologin	Zoologe
+326	0	male	Funker	Funkerin	Funker
+327	0	male	Tierwirt	Tierwirtin	Tierwirt
+328	0	male	Heilgehilfe	Heilgehilfin	Heilgehilfe
+329	0	male	Bäcker	Bäckerin	Bäcker
+330	0	male	Vorarbeiter	Vorarbeiterin	Vorarbeiter
+331	0	male	Figurenkeramformer	Figurenkeramformerin	Figurenkeramformer
+332	0	male	Geologe	Geologin	Geologe
+333	0	male	Lotse	Lotsin	Lotse
+334	0	male	Sozialversicherungsfachangestellter	Sozialversicherungsfachangestellte	Sozialversicherungsfachangestellter
+335	0	male	Tiermedizinischer Fachangestellter	Tiermedizinische Fachangestellte	Tiermedizinischer Fachangestellter
+336	0	male	Bootsmann	Bootsfrau	Bootsmann
+337	0	male	Dentalhygieniker	Dentalhygienikerin	Dentalhygieniker
+338	0	male	Kupferschmied	Kupferschmiedin	Kupferschmied
+339	0	male	Lehrbeauftragter	Lehrbeauftragte	Lehrbeauftragter
+340	0	male	Kostümbildner	Kostümbildnerin	Kostümbildner
+341	0	neutral	Messebauer	Messebauerin	Messebau
+342	0	male	Metallbildner	Metallbildnerin	Metallbildner
+343	0	male	Werkstoffprüfer	Werkstoffprüferin	Werkstoffprüfer
+344	0	male	Kinder- und Jugendlichenpsychotherapeut	Kinder- und Jugendlichenpsychotherapeutin	Kinder- und Jugendlichenpsychotherapeut
+345	0	male	Physiklaborant	Physiklaborantin	Physiklaborant
+346	0	neutral	Knecht	Magd	Knecht
+347	0	neutral	Magd	Knecht	Magd
+348	0	male	Tischler	Tischlerin	Tischler
+349	0	male	Brauer und Mälzer	Brauerin und Mälzerin	Brauer und Mälzer
+350	0	male	Elektroanlagenmonteur	Elektroanlagenmonteurin	Elektroanlagenmonteur
+351	0	male	Gelbgießer	Gelbgießerin	Gelbgießer
+352	0	male	Humorist	Humoristin	Humorist
+353	0	male	Fotogravurzeichner	Fotogravurzeichnerin	Fotogravurzeichner
+354	0	male	Facharbeiter	Facharbeiterin	Facharbeiter
+355	0	male	Büroinformationselektroniker	Büroinformationselektronikerin	Büroinformationselektroniker
+356	0	male	Psychologischer Psychotherapeut	Psychologische Psychotherapeutin	Psychologischer Psychotherapeut
+357	0	male	Lacklaborant	Lacklaborantin	Lacklaborant
+358	0	male	Wasserbauer	Wasserbauerin	Wasserbauer
+359	0	male	Zahlmeister	Zahlmeisterin	Zahlmeister
+360	0	male	Einkäufer	Einkäuferin	Einkäufer
+361	0	male	Schiffsmechaniker	Schiffsmechanikerin	Schiffsmechaniker
+362	0	male	Medizinischer Dokumentationsassistent	Medizinische Dokumentationsassistentin	Medizinischer Dokumentationsassistent
+363	0	female	Gleichstellungsbeauftragte	Gleichstellungsbeauftragter	Gleichstellungsbeauftragte
+364	0	male	Fertigungsmechaniker	Fertigungsmechanikerin	Fertigungsmechaniker
+365	0	male	Haustechniker	Haustechnikerin	Haustechniker
+366	0	male	Fachangestellter für Bürokommunikation	Fachangestellte für Bürokommunikation	Fachangestellter für Bürokommunikation
+367	0	male	Förster	Försterin	Förster
+368	0	male	Übersetzer	Übersetzerin	Übersetzer
+369	0	male	Stenotypist	Stenotypistin	Stenotypist
+370	0	male	Buchhändler	Buchhändlerin	Buchhändler
+371	0	male	Forstwirt	Forstwirtin	Forstwirt
+372	0	male	Schiffsmakler	Schiffsmaklerin	Schiffsmakler
+373	0	male	Detektiv	Detektivin	Detektiv
+374	0	male	Maschinenbauingenieur	Maschinenbauingenieurin	Maschinenbauingenieur
+375	0	male	Holztechniker	Holztechnikerin	Holztechniker
+376	0	male	Steinbehauer	Steinbehauerin	Steinhauer
+377	0	male	Pharmazeutischer Assistent	Pharmazeutische Assistentin	Pharmazeutischer Assistent
+378	0	male	Schuhmacher	Schuhmacherin	Schuhmacher
+379	0	male	Packmitteltechnologe	Packmitteltechnologin	Packmitteltechnologe
+380	0	male	Klavierstimmer	Klavierstimmerin	Klavierstimmer
+381	0	male	Rabbiner	Rabbinerin	Rabbiner
+382	0	male	Revolverdreher	Revolverdreherin	Revolverdreher
+383	0	male	Klavier- und Cembalobauer	Klavier- und Cembalobauerin	Klavier- und Cembalobauer
+384	0	male	Elektromechaniker	Elektromechanikerin	Elektromechaniker
+385	0	male	Kommunikationselektroniker	Kommunikationselektronikerin	Kommunikationselektroniker
+386	0	male	Synchronsprecher	Synchronsprecherin	Synchronsprecher
+387	0	male	Cutter	Cutterin	Cutter (Film)
+388	0	male	Finanzmakler	Finanzmaklerin	Finanzmakler
+389	0	male	Datenschutzbeauftragter	Datenschutzbeauftragte	Datenschutzbeauftragter
+390	0	male	Revierjäger	Revierjägerin	Revierjäger
+391	0	male	Fremdsprachenassistent	Fremdsprachenassistentin	Fremdsprachenassistent
+392	0	male	Hausmeister	Hausmeisterin	Hausmeister
+393	0	male	Färber	Färberin	Färber
+394	0	male	Wärme-, Kälte- und Schallschutzisolierer	Wärme-, Kälte- und Schallschutzisoliererin	Wärme-, Kälte- und Schallschutzisolierer
+395	0	male	Verpackungsmittelmechaniker	Verpackungsmittelmechanikerin	Verpackungsmittelmechaniker
+396	0	male	Wirtschaftsassistent	Wirtschaftsassistentin	Wirtschaftsassistent
+397	0	male	Moderator	Moderatorin	Moderator (Beruf)
+398	0	male	Sportfachmann	Sportfachfrau	Sportfachmann
+399	0	male	Maschinen- und Anlagenführer	Maschinen- und Anlagenführerin	Maschinen- und Anlagenführer
+400	0	male	Fahrzeuginnenausstatter	Fahrzeuginnenausstatterin	Fahrzeuginnenausstatter
+401	0	male	Jäger	Jägerin	Jäger
+402	0	male	Automechatroniker	Automechatronikerin	Automobil-Mechatroniker
+403	0	male	Illusionist	Illusionistin	Illusionist
+404	0	male	Kettengoldschmied	Kettengoldschmiedin	Kettenschmied
+405	0	male	Skipper	Skipperin	Skipper
+406	0	male	Kraftwerker	Kraftwerkerin	Kraftwerker
+407	0	male	Altenpfleger	Altenpflegerin	Altenpfleger
+408	0	male	Personalreferent	Personalreferentin	Personalreferent
+409	0	male	Angestellter	Angestellte	Angestellter
+410	0	male	Fraud-Analyst	Fraud-Analystin	Fraud-Analyst
+411	0	male	Einrichtungsfachberater	Einrichtungsfachberaterin	Einrichtungsberater
+412	0	male	Versicherungsfachmann	Versicherungsfachfrau	Versicherungsfachmann
+413	0	male	Teilezurichter	Teilezurichterin	Teilezurichter
+414	0	male	Privatdozent	Privatdozentin	Privatdozent
+415	0	male	Landwirtschaftlich-technischer Assistent	Landwirtschaftlich-technische Assistentin	Landwirtschaftlich-technischer Assistent
+416	0	male	Energieelektroniker	Energieelektronikerin	Energieelektroniker
+417	0	male	Systeminformatiker	Systeminformatikerin	Systeminformatiker
+418	0	male	Drechsler	Drechslerin	Drechsler
+419	0	male	Fachangestellter für Markt- und Sozialforschung	Fachangestellte für Markt- und Sozialforschung	Fachangestellter für Markt- und Sozialforschung
+420	0	male	Chemiker	Chemikerin	Chemiker
+421	0	male	Veranstaltungskaufmann	Veranstaltungskauffrau	Veranstaltungskaufmann
+422	0	male	Funkelektroniker	Funkelektronikerin	Funkelektroniker
+423	0	male	Justizwachtmeister	Justizwachtmeisterin	Justizwachtmeister
+424	0	male	Biologiemodellmacher	Biologiemodellmacherin	Biologiemodellmacher
+425	0	male	Ausbildungsberater	Ausbildungsberaterin	Ausbildungsberater
+426	0	male	Medientechnologe Siebdruck	Medientechnologin Siebdruck	Medientechnologe Siebdruck
+427	0	neutral	Audiodesigner	Audiodesignerin	Audiodesign
+428	0	male	Fußballtrainer	Fußballtrainerin	Fußballtrainer
+429	0	male	Maurer	Maurerin	Maurer
+430	1	male	Referent	Referentin	Referent
+431	0	male	Drahtwarenmacher	Drahtwarenmacherin	Drahtwarenmacher
+432	0	male	Heilpraktiker	Heilpraktikerin	Heilpraktiker
+433	0	male	Rechtspfleger	Rechtspflegerin	Rechtspfleger
+434	0	male	Pastoralreferent	Pastoralreferentin	Pastoralreferent
+435	0	male	Teamleiter	Teamleiterin	Teamleiter
+436	0	male	Betriebsingenieur	Betriebsingenieurin	Betriebsingenieur
+437	0	male	Tierarzt	Tierärztin	Tierarzt
+438	0	male	Immobilienkaufmann	Immobilienkauffrau	Immobilienkaufmann
+439	0	male	Animateur	Animateurin	Animateur
+440	0	male	Feintäschner	Feintäschnerin	Feintäschner
+441	0	male	Schneider	Schneiderin	Schneider
+442	0	male	Saaldiener	Saaldienerin	Saaldiener
+443	0	male	Federmacher	Federmacherin	Federmacher
+444	0	male	Schlafwagenschaffner	Schlafwagenschaffnerin	Schlafwagenschaffner
+445	0	male	Medizinischer Fachangestellter	Medizinische Fachangestellte	Medizinischer Fachangestellter
+446	0	male	Rohrleitungsbauer	Rohrleitungsbauerin	Rohrleitungsbauer
+447	0	male	Tierheilpraktiker	Tierheilpraktikerin	Tierheilpraktiker
+448	0	male	Kraftfahrer	Kraftfahrerin	Kraftfahrer
+449	0	male	Ausbaufacharbeiter	Ausbaufacharbeiterin	Ausbaufacharbeiter
+450	0	male	Bohrwerkdreher	Bohrwerkdreherin	Bohrwerkdreher
+451	0	neutral	Dekorationenmaler	Dekorationenmalerin	Dekorationsmalerei
+452	0	male	Bühnenmaler	Bühnenmalerin	Bühnenmaler
+453	0	male	Regisseur	Regisseurin	Regisseur
+454	0	male	Schiffsingenieur	Schiffsingenieurin	Schiffsingenieur
+455	0	male	Systemprogrammierer	Systemprogrammiererin	Systemprogrammierer
+456	0	male	Fachapotheker	Fachapothekerin	Fachapotheker
+457	0	male	Flachglasmechaniker	Flachglasmechanikerin	Flachglasmechaniker
+458	0	male	Rettungshelfer	Rettungshelferin	Rettungshelfer
+459	0	male	Video-Journalist	Video-Journalistin	Videojournalist
+460	0	female	Hebamme	Entbindungspfleger	Hebamme
+461	0	male	Fassadenmonteur	Fassadenmonteurin	Fassadenmonteur
+462	0	male	Orthopädietechnik-Mechaniker	Orthopädietechnik-Mechanikerin	Orthopädietechnik-Mechaniker
+463	0	male	Seegüterkontrolleur	Seegüterkontrolleurin	Seegüterkontrolleur
+464	0	male	Schmied	Schmiedin	Schmied
+465	0	male	Verlagskaufmann	Verlagskauffrau	Verlagskaufmann
+466	0	male	Fachverkäufer im Lebensmittelhandwerk (Fleischerei)	Fachverkäuferin im Lebensmittelhandwerk (Fleischerei)	Fachverkäufer im Lebensmittelhandwerk (Fleischerei)
+467	0	male	Gehilfe	Gehilfin	Gehilfe
+468	0	male	Film-Regisseur	Film-Regisseurin	Filmregisseur
+469	0	male	Orchesterwart	Orchesterwartin	Orchesterwart
+470	0	neutral	Mönch	Nonne	Mönchtum
+471	0	neutral	Nonne	Mönch	Nonne
+472	0	male	Scherer	Schererin	Scherer
+473	0	male	Listbroker	Listbrokerin	Listbroker
+474	0	male	Kurator	Kuratorin	Kurator
+475	0	male	Fachtierarzt	Fachtierärztin	Fachtierarzt
+476	0	male	Lehrrettungsassistent	Lehrrettungsassistentin	Lehrrettungsassistent
+477	0	male	Flexograf	Flexografin	Flexograf
+478	0	male	Gardemanger	Gardemangerin	Gardemanger
+479	0	male	Hörgeräteakustiker	Hörgeräteakustikerin	Hörgeräteakustiker
+480	0	male	Handschuhmacher	Handschuhmacherin	Handschuhmacher
+481	0	male	Bezirksleiter	Bezirksleiterin	Bezirksamtsleiter
+482	0	male	Imker	Imkerin	Imker
+483	0	male	Stallmeister	Stallmeisterin	Stallmeister
+484	0	male	Werkzeugmacher	Werkzeugmacherin	Werkzeugmacher
+485	0	male	Dompteur	Dompteuse	Dompteur
+486	0	male	Porzellanmaler	Porzellanmalerin	Porzellanmaler
+487	0	male	Patentingenieur	Patentingenieurin	Patentingenieur
+488	0	male	Online-Redakteur	Online-Redakteurin	Online-Redakteur
+489	0	male	Edelsteingraveur	Edelsteingraveurin	Edelsteingraveur
+490	0	male	Steuerfachangestellter	Steuerfachangestellte	Steuerfachangestellter
+491	0	male	Nachtportier	Nachtportierin	Nachtportier
+492	0	male	Chefarzt	Chefärztin	Chefarzt
+493	0	male	Tiefbaufacharbeiter	Tiefbaufacharbeiterin	Tiefbaufacharbeiter
+494	0	male	Steinbildhauer	Steinbildhauerin	Steinbildhauer
+495	0	male	Sozialmanager	Sozialmanagerin	Sozialmanager
+496	0	male	Fluggerätmechaniker	Fluggerätmechanikerin	Fluggerätmechaniker
+497	0	male	Büromaschinenmechaniker	Büromaschinenmechanikerin	Büromaschinenmechaniker
+498	0	male	Baugeräteführer	Baugeräteführerin	Baugeräteführer
+499	0	male	Holzfäller	Holzfällerin	Holzfäller
+500	0	male	Entwicklungshelfer	Entwicklungshelferin	Entwicklungshelfer
+501	0	male	Soziologe	Soziologin	Soziologe
+502	0	male	Technischer Konfektionär	Technische Konfektionärin	Technischer Konfektionär
+503	0	male	Kapitän	Kapitänin	Kapitän
+504	0	male	Dolmetscher	Dolmetscherin	Dolmetscher
+505	0	male	Denkmaltechnischer Assistent	Denkmaltechnische Assistentin	Denkmaltechnischer Assistent
+506	0	male	Liedermacher	Liedermacherin	Liedermacher
+507	0	male	Gewässerschutzbeauftragter	Gewässerschutzbeauftragte	Gewässerschutzbeauftragter
+508	0	male	Zimmererpolier	Zimmererpolierin	Zimmerpolier
+509	0	male	Metallschleifer	Metallschleiferin	Metallschleifer
+510	0	male	Leichtflugzeugbauer	Leichtflugzeugbauerin	Leichtflugzeugbauer
+511	1	male	Lektor	Lektorin	Lektor
+512	0	male	Sekretär	Sekretärin	Sekretär
+513	0	male	Abfallbeauftragter	Abfallbeauftragte	Abfallbeauftragter
+514	0	male	Fotograf	Fotografin	Fotograf
+515	0	male	Glaser	Glaserin	Glaser
+516	0	male	Orgel- und Harmoniumbauer	Orgel- und Harmoniumbauerin	Orgel- und Harmoniumbauer
+517	0	male	Restaurator	Restauratorin	Restaurator
+518	0	male	Betriebsinformatiker	Betriebsinformatikerin	Betriebsinformatiker
+519	0	male	Landwirt	Landwirtin	Landwirt
+520	0	male	Schilder- und Lichtreklamehersteller	Schilder- und Lichtreklameherstellerin	Schilder- und Lichtreklamehersteller
+521	0	male	Klempner	Klempnerin	Klempner
+522	0	male	Isolierfacharbeiter	Isolierfacharbeiterin	Isolierfacharbeiter
+523	0	male	Küchenchef	Küchenchefin	Küchenchef
+524	0	male	Tonassistent	Tonassistentin	Tonassistent
+525	0	male	Glasmacher	Glasmacherin	Glasmacher
+526	0	male	Kindheitspädagoge	Kindheitspädagogin	Kindheitspädagoge
+527	0	male	Steinmetz	Steinmetzin	Steinmetz
+528	0	male	Schleusenwärter	Schleusenwärterin	Schleusenwärter
+529	0	male	Industriemeister	Industriemeisterin	Industriemeister
+530	0	male	Maschinenführer	Maschinenführerin	Maschinenführer
+531	0	male	Rollladen- und Sonnenschutztechnikermeister	Rollladen- und Sonnenschutztechnikermeisterin	Sonnenschutztechniker
+532	0	male	Technischer Systemplaner	Technische Systemplanerin	Technischer Systemplaner
+533	0	male	Polier	Polierin	Polier
+534	0	male	Diätassistent	Diätassistentin	Diätassistent
+535	0	male	Amtsanwalt	Amtsanwältin	Amtsanwalt
+536	0	male	Poissonnier	Poissonnierin	Poissonnier
+537	0	male	Bildredakteur	Bildredakteurin	Bildredakteur
+538	0	male	Fallmanager	Fallmanagerin	Fallmanager
+539	0	male	Gerüstbauer	Gerüstbauerin	Gerüstbauer
+540	0	male	Maschinenzusammensetzer	Maschinenzusammensetzerin	Maschinenzusammensetzer
+541	0	male	Desinfektor	Desinfektorin	Desinfektor
+542	0	male	Laborant	Laborantin	Laborant
+543	1	male	Fachmann	Fachfrau	Fachmann
+544	0	male	Buchbinder	Buchbinderin	Buchbinder
+545	0	male	Baustoffprüfer	Baustoffprüferin	Baustoffprüfer
+546	0	male	Techniker	Technikerin	Techniker
+547	0	male	Luftsicherheitsbeauftragter	Luftsicherheitsbeauftragte	Luftsicherheitsbeauftragter
+548	0	male	Betriebswirt	Betriebswirtin	Betriebswirt
+549	0	male	Kinderpfleger	Kinderpflegerin	Kinderpfleger
+550	0	male	Rauchwarenzurichter	Rauchwarenzurichterin	Rauchwarenzurichter
+551	0	male	Werkfeuerwehrmann	Werkfeuerwehrfrau	Werkfeuerwehrmann
+552	0	male	Pantomime	Pantomimin	Pantomime
+553	0	male	Galvaniseur	Galvaniseurin	Galvaniseur
+554	0	male	Reiseverkehrskaufmann	Reiseverkehrskauffrau	Reiseverkehrskaufmann
+555	0	male	Krankenpfleger	Krankenschwester	Krankenpfleger
+556	0	male	Mediengestalter	Mediengestalterin	Mediengestalter
+557	0	male	Wissenschaftlicher Mitarbeiter	Wissenschaftliche Mitarbeiterin	Wissenschaftlicher Mitarbeiter
+558	0	male	Brückenwärter	Brückenwärterin	Brückenwärter
+559	0	male	Kunstkritiker	Kunstkritikerin	Kunstkritiker
+560	0	male	Braumeister	Braumeisterin	Braumeister
+561	0	male	Versicherungsvertreter	Versicherungsvertreterin	Versicherungsvertreter
+562	0	male	Holzspielzeugmacher	Holzspielzeugmacherin	Holzspielzeugmacher
+563	0	male	Prozessleitelektroniker	Prozessleitelektronikerin	Prozessleitelektroniker
+564	0	male	Hauslehrer	Hauslehrerin	Hauslehrer
+565	0	male	Karosserie- und Fahrzeugbaumechaniker	Karosserie- und Fahrzeugbaumechanikerin	Karosserie- und Fahrzeugbaumechaniker
+566	0	male	Informatikkaufmann	Informatikkauffrau	Informatikkaufmann
+567	0	male	Schwimmmeister	Schwimmmeisterin	Schwimmmeister
+568	0	male	Pressesprecher	Pressesprecherin	Pressesprecher
+569	0	neutral	Bote	Botin	Bote
+570	1	neutral	Botin	Bote	Botin
+571	0	male	Justizfachangestellter	Justizfachangestellte	Justizfachangestellter
+572	0	male	Gruppenleiter	Gruppenleiterin	Gruppenleiter
+573	0	male	Zahntechniker	Zahntechnikerin	Zahntechniker
+574	0	neutral	Ordensbruder	Ordensschwester	Ordensbruder
+575	0	neutral	Ordensschwester	Ordensbruder	Ordensschwester
+576	0	male	Fachverkäufer im Lebensmittelhandwerk (Bäckerei)	Fachverkäuferin im Lebensmittelhandwerk (Bäckerei)	Fachverkäufer im Lebensmittelhandwerk (Bäckerei)
+577	0	male	Handelsvertreter	Handelsvertreterin	Handelsvertreter
+578	0	male	Mitarbeiter	Mitarbeiterin	Mitarbeiter
+579	0	male	Strahlenschutzbeauftragter	Strahlenschutzbeauftragte	Strahlenschutzbeauftragter
+580	0	male	Wachleiter	Wachleiterin	Wachleiter
+581	0	male	Geograph	Geographin	Geograph
+582	0	male	Kanalbauer	Kanalbauerin	Kanalbauer
+583	0	male	Geigenbauer	Geigenbauerin	Geigenbauer
+584	0	male	Produktprüfer Textil	Produktprüferin Textil	Produktprüfer Textil
+585	0	male	Expedient	Expedientin	Expedient
+586	0	male	Spielzeughersteller	Spielzeugherstellerin	Spielzeughersteller
+587	0	male	Bootsbauer	Bootsbauerin	Bootsbauer
+588	0	male	Landmaschinenmechaniker	Landmaschinenmechanikerin	Landmaschinenmechaniker
+589	0	male	Dozent	Dozentin	Dozent
+590	0	male	Umweltschutztechnischer Assistent	Umweltschutztechnische Assistentin	Umweltschutztechnischer Assistent
+591	0	male	Technischer Assistent	Technische Assistentin	Technischer Assistent
+592	0	male	Sommelier	Sommelière	Sommelier
+593	0	neutral	Apotheker	Apothekerin	Apotheker
+594	1	neutral	Apothekerin	Apotheker	Apothekerin
+595	0	male	Koch	Köchin	Koch
+596	0	male	Technischer Redakteur	Technische Redakteurin	Technischer Redakteur
+597	0	male	Justiziar	Justiziarin	Justiziar
+598	0	male	Flugdienstberater	Flugdienstberaterin	Flugdienstberater
+599	0	male	Fischwirt	Fischwirtin	Fischwirt
+600	0	male	Katechet	Katechetin	Katechet
+601	0	male	Archivar	Archivarin	Archivar
+602	0	male	Schiffszimmerer	Schiffszimmerin	Schiffszimmerer
+603	0	male	Kellner	Kellnerin	Kellner
+604	0	male	Vergolder	Vergolderin	Vergolder
+605	0	male	Maschinentechniker	Maschinentechnikerin	Maschinenbautechniker
+606	0	male	Textilgestalter im Handwerk	Textilgestalterin im Handwerk	Textilgestalter im Handwerk
+607	0	male	Pressefotograf	Pressefotografin	Pressefotograf
+608	0	male	Gefahrgutbeauftragter	Gefahrgutbeauftragte	Gefahrgutbeauftragter
+609	0	neutral	Pflegedienstleiter	Pflegedienstleiterin	Pflegedienstleitung
+610	0	male	Segelmacher	Segelmacherin	Segelmacher
+611	0	male	Schriftsetzer	Schriftsetzerin	Schriftsetzer
+612	0	male	Arbeitsvermittler	Arbeitsvermittlerin	Arbeitsvermittler
+613	0	male	Hotelmeister	Hotelmeisterin	Hotelmeister
+614	0	male	Technischer Produktdesigner	Technische Produktdesignerin	Technischer Produktdesigner
+615	0	female	Beleghebamme	Belegentbindungspfleger	Beleghebamme
+616	0	male	Zusteller	Zustellerin	Zusteller
+617	0	male	Grafiker	Grafikerin	Grafiker
+618	0	male	Mathematisch-technischer Assistent	Mathematisch-technische Assistentin	Mathematisch-Technischer Assistent
+619	0	male	Clown	Clownin	Clown
+620	0	male	Büchsenmacher	Büchsenmacherin	Büchsenmacher
+621	0	male	Bauzeichner	Bauzeichnerin	Bauzeichner
+622	0	male	Portier	Portierin	Portier
+623	0	male	Berechnungsingenieur	Berechnungsingenieurin	Berechnungsingenieur
+624	0	male	Treuhänder	Treuhänderin	Treuhänder
+625	0	male	Korrektor	Korrektorin	Korrektor
+626	1	male	Sänger	Sängerin	Sänger
+627	0	male	Bewährungshelfer	Bewährungshelferin	Bewährungshelfer
+628	0	male	Süßwarentechnologe	Süßwarentechnologin	Süßwarentechnologe
+629	0	male	Förderlehrer	Förderlehrerin	Förderlehrer
+630	0	male	Datentypist	Datentypistin	Datentypist
+631	0	male	Souffleur	Souffleuse	Souffleur
+632	0	male	Kunstschmied	Kunstschmiedin	Kunstschmied
+633	0	male	Schalungsbauer	Schalungsbauerin	Schalungsbauer
+634	0	male	Holzblasinstrumentenmacher	Holzblasinstrumentenmacherin	Holzblasinstrumentenmacher
+635	0	male	Former	Formerin	Former
+636	0	male	Staatsanwalt	Staatsanwältin	Staatsanwalt
+637	0	male	Restaurantfachmann	Restaurantfachfrau	Restaurantfachmann
+638	0	male	Professor	Professorin	Professor
+639	0	male	Prior	Priorin	Prior
+640	0	male	Schifffahrtskaufmann	Schifffahrtskauffrau	Schifffahrtskaufmann
+641	0	male	Elektroniker	Elektronikerin	Elektroniker
+642	0	male	Zahnmedizinischer Fachassistent	Zahnmedizinische Fachassistentin	Zahnmedizinischer Fachassistent
+643	0	male	Flechtwerkgestalter	Flechtwerkgestalterin	Flechtwerkgestalter
+644	0	male	Weber	Weberin	Weber
+645	0	male	Flugbegleiter	Flugbegleiterin	Flugbegleiter
+646	0	male	Lehrer	Lehrerin	Lehrer
+647	0	male	Tierpfleger	Tierpflegerin	Tierpfleger
+648	0	male	Gebäudereiniger	Gebäudereinigerin	Gebäudereiniger
+649	0	male	Verkehrsplaner	Verkehrsplanerin	Verkehrsplaner
+650	0	male	Industrieelektriker	Industrieelektrikerin	Industrieelektriker
+651	0	male	Komiker	Komikerin	Komiker
+652	0	male	Rotisseur	Rotisseurin	Rotisseur
+653	0	male	Conférencier	Conférencieuse	Conférencier
+654	0	male	Rentenberater	Rentenberaterin	Rentenberater
+655	0	male	Steuerberater	Steuerberaterin	Steuerberater
+656	0	male	Personaldisponent	Personaldisponentin	Personaldisponent
+657	0	male	Schirmmacher	Schirmmacherin	Schirmmacher
+658	0	male	Mechatroniker	Mechatronikerin	Mechatroniker
+659	0	male	Komponist	Komponistin	Komponist
+660	0	neutral	Hilfspolizist	Politesse	Hilfspolizei
+661	0	neutral	Politesse	Hilfspolizist	Politesse
+662	0	male	Film- und Videoeditor	Film- und Videoeditorin	Film- und Videoeditor
+663	0	male	Gerichtsvollzieher	Gerichtsvollzieherin	Gerichtsvollzieher
+664	0	male	Pferdewirt	Pferdewirtin	Pferdewirt
+665	0	male	Gartenbauwerker	Gartenbauwerkerin	Gartenbaufachwerker
+666	0	male	Mühlenbauer	Mühlenbauerin	Mühlenbauer
+667	0	male	Konstruktionsmechaniker	Konstruktionsmechanikerin	Konstruktionsmechaniker
+668	0	male	Chefredakteur	Chefredakteurin	Chefredakteur
+669	0	male	Bankkaufmann	Bankkauffrau	Bankkaufmann
+670	0	male	Nautischer Offiziersassistent	Nautische Offiziersassistentin	Nautischer Offiziersassistent
+671	0	male	Dokumentar	Dokumentarin	Dokumentar
+672	0	male	Gerätezusammensetzer	Gerätezusammensetzerin	Gerätezusammensetzer
+673	0	male	Qualitätsfachmann	Qualitätsfachfrau	Qualitätsfachmann
+674	0	male	Volkswirt	Volkswirtin	Volkswirt
+675	0	male	Industriemechaniker	Industriemechanikerin	Industriemechaniker
+676	0	male	Makler	Maklerin	Makler
+677	0	male	Medienwirt	Medienwirtin	Medienfachwirt
+678	0	male	Fachkaufmann	Fachkauffrau	Fachkaufmann
+679	0	male	Fachzahnarzt	Fachzahnärztin	Fachzahnarzt
+680	0	male	Chemielaborjungwerker	Chemielaborjungwerkerin	Chemielaborjungwerker
+681	0	male	Fördermaschinist	Fördermaschinistin	Fördermaschinist
+682	0	male	Schuh- und Lederwarenstepper	Schuh- und Lederwarenstepperin	Schuh- und Lederwarenstepper
+683	0	male	Verwaltungsfachangestellter	Verwaltungsfachangestellte	Verwaltungsfachangestellter
+684	0	male	Servicefahrer	Servicefahrerin	Servicefahrer
+685	0	male	Luftverkehrskaufmann	Luftverkehrskauffrau	Luftverkehrskaufmann
+686	0	male	Pyrotechniker	Pyrotechnikerin	Pyrotechniker
+687	0	female	Beschließerin	Beschließer	Beschließerin
+688	0	male	Konservator	Konservatorin	Konservator
+689	0	male	Hafenarbeiter	Hafenarbeiterin	Hafenarbeiter
+690	1	neutral	Direktor	Direktrice	Direktor
+691	1	neutral	Direktrice	Direktor	Direktrice
+692	0	male	Werkschutzleiter	Werkschutzleiterin	Werkschutz
+693	0	male	Glasschneider	Glasschneiderin	Glasschneider
+694	0	male	Wirtschaftsprüfer	Wirtschaftsprüferin	Wirtschaftsprüfer
+695	0	male	Vizepräsident	Vizepräsidentin	Vizepräsident
+696	0	male	Tätowierer	Tätowiererin	Tätowierer
+697	0	male	Fachangestellter für Bäderbetriebe	Fachangestellte für Bäderbetriebe	Fachangestellter für Bäderbetriebe
+698	0	male	Filmvorführer	Filmvorführerin	Filmvorführer
+699	0	male	Altenpflegehelfer	Altenpflegehelferin	Altenpflegehelfer
+700	0	male	Fachleiter	Fachleiterin	Fachleiter
+701	0	male	Kabeljungwerker	Kabeljungwerkerin	Kabeljungwerker
+702	0	male	Tapezierer	Tapeziererin	Tapezierer
+703	0	male	Tourismuskaufmann	Tourismuskauffrau	Tourismuskaufmann
+704	1	male	Entwickler	Entwicklerin	Entwickler
+705	0	male	Fernmeldehandwerker	Fernmeldehandwerkerin	Fernmeldehandwerker
+706	0	male	Fahrzeuglackierer	Fahrzeuglackiererin	Fahrzeuglackierer
+707	0	male	Stationsarzt	Stationsärztin	Stationsarzt
+708	0	male	Gleisbauer	Gleisbauerin	Gleisbauer
+709	0	male	Fluglotse	Fluglotsin	Fluglotse
+710	0	male	Kopfschlächter	Kopfschlächterin	Kopfschlächter
+711	0	male	Feinoptiker	Feinoptikerin	Feinoptiker
+712	0	male	Gesundheits- und Krankenpfleger	Gesundheits- und Krankenpflegerin	Gesundheits- und Krankenpfleger
+713	0	male	Metall- und Glockengießer	Metall- und Glockengießerin	Metall- und Glockengießer
+714	0	male	Literat	Literatin	Literat
+715	0	male	Redakteur	Redakteurin	Redakteur
+716	0	male	Orgelbauer	Orgelbauerin	Orgelbauer
+717	0	male	Saunameister	Saunameisterin	Saunameister
+718	0	male	Rektor	Rektorin	Rektor
+719	0	male	Fluggerätelektroniker	Fluggerätelektronikerin	Fluggerätelektroniker
+720	0	male	Vollziehungsbeamter	Vollziehungsbeamtin	Vollziehungsbeamter
+721	0	male	Zerspanungsmechaniker	Zerspanungsmechanikerin	Zerspanungsmechaniker
+722	0	male	Bauwerksmechaniker für Abbruch und Betontrenntechnik	Bauwerksmechanikerin für Abbruch und Betontrenntechnik	Bauwerksmechaniker für Abbruch und Betontrenntechnik
+723	0	male	Sportlehrer	Sportlehrerin	Sportlehrer
+724	0	male	Wächter	Wächterin	Wächter
+725	0	male	Industriekeramiker Dekorationstechnik	Industriekeramikerin Dekorationstechnik	Industriekeramiker Dekorationstechnik
+726	0	male	Flugingenieur	Flugingenieurin	Flugingenieur
+727	0	male	Hafenschiffer	Hafenschifferin	Hafenschiffer
+728	0	male	Modeschneider	Modeschneiderin	Modeschneider
+729	0	male	Diamantschleifer	Diamantschleiferin	Diamantschleifer
+730	0	male	Intendant	Intendantin	Intendant
+731	0	male	Dirigent	Dirigentin	Dirigent
+732	0	male	Kalkulator	Kalkulatorin	Calculator
+733	0	male	Industriekaufmann	Industriekauffrau	Industriekaufmann
+734	0	male	Orthoptist	Orthoptistin	Orthoptist
+735	0	male	Künstler	Künstlerin	Künstler
+736	0	male	Investmentfondskaufmann	Investmentfondskauffrau	Investmentfondskaufmann
+737	0	male	Täschner	Täschnerin	Täschner
+738	0	male	Lebensmittelchemiker	Lebensmittelchemikerin	Lebensmittelchemiker
+739	0	male	Mechaniker	Mechanikerin	Mechaniker
+740	0	male	Veterinäringenieur	Veterinäringenieurin	Veterinäringenieur
+741	0	male	Formstecher	Formstecherin	Formstecher
+742	0	male	Mathematiker	Mathematikerin	Mathematiker
+743	0	male	Psychoanalytiker	Psychoanalytikerin	Psychoanalytiker
+744	0	male	Forstfacharbeiter	Forstfacharbeiterin	Forstfacharbeiter
+745	0	male	Postjungbote	Postjungbotin	Postjungbote
+746	0	male	Datentechnischer Assistent	Datentechnische Assistentin	Datentechnischer Assistent
+747	0	male	Vertriebsingenieur	Vertriebsingenieurin	Vertriebsingenieur
+748	0	male	Industriekeramiker Anlagentechnik	Industriekeramikerin Anlagentechnik	Industriekeramiker Anlagentechnik
+749	0	male	Physikingenieur	Physikingenieurin	Physikingenieur
+750	0	male	Textillaborant	Textillaborantin	Textillaborant
+751	0	male	Apothekenfacharbeiter	Apothekenfacharbeiterin	Apothekenfacharbeiter
+752	0	male	Bodenleger	Bodenlegerin	Bodenleger
+753	0	male	Wachszieher	Wachszieherin	Wachszieher
+754	0	male	Hundeführer	Hundeführerin	Hundeführer
+755	0	male	Designer	Designerin	Designer
+756	0	male	Produktionstechnologe	Produktionstechnologin	Produktionstechnologe
+757	0	male	Handelslehrer	Handelslehrerin	Diplom-Handelslehrer
+758	0	male	Anlagenelektriker	Anlagenelektrikerin	Anlagenelektriker
+759	0	male	Drehbuchautor	Drehbuchautorin	Drehbuchautor
+760	0	male	Pharmazeut	Pharmazeutin	Pharmazeut
+761	0	male	Küper	Küperin	Küper
+762	0	male	Verkaufsgärtner	Verkaufsgärtnerin	Verkaufsgärtner
+763	0	male	Fachverkäufer im Lebensmittelhandwerk	Fachverkäuferin im Lebensmittelhandwerk	Fachverkäufer im Lebensmittelhandwerk
+764	0	male	Rechtsanwaltsfachangestellter	Rechtsanwaltsfachangestellte	Rechtsanwaltsfachangestellter
+765	0	male	Schriftsteller	Schriftstellerin	Schriftsteller
+766	0	female	Schwesternhelferin	Pflegediensthelfer	Schwesternhelferin
+767	0	male	Prorektor	Prorektorin	Prorektor
+768	0	male	Sicherheitsbeauftragter	Sicherheitsbeauftragte	Sicherheitsbeauftragter
+769	0	male	Projektleiter	Projektleiterin	Projektleiter
+770	0	male	Technischer Fachwirt	Technische Fachwirtin	Technischer Fachwirt
+771	0	male	Werbeleiter	Werbeleiterin	Werbeleiter
+772	0	male	Zahnarzt	Zahnärztin	Zahnarzt
+773	0	male	Vorpolierer Schmuck- und Kleingeräteherstellung	Vorpoliererin Schmuck- und Kleingeräteherstellung	Vorpolierer Schmuck- und Kleingeräteherstellung
+774	0	male	Kunsthistoriker	Kunsthistorikerin	Kunsthistoriker
+775	0	male	Religionslehrer	Religionslehrerin	Religionslehrer
+776	0	male	Wirtschaftsfachwirt	Wirtschaftsfachwirtin	Wirtschaftsfachwirt
+777	0	male	Literaturagent	Literaturagentin	Literaturagent
+778	0	male	Beton- und Stahlbetonbauer	Beton- und Stahlbetonbauerin	Beton- und Stahlbetonbauer
+779	0	male	Speiseeishersteller	Speiseeisherstellerin	Speiseeishersteller
+780	0	male	Stoffprüfer	Stoffprüferin	Stoffprüfer
+781	0	male	Datenbankadministrator	Datenbankadministratorin	Datenbankadministrator
+782	0	male	Tunnelwärter	Tunnelwärterin	Tunnelwärter
+783	0	male	Ofenbauer	Ofenbauerin	Ofenbauer
+784	0	male	Produktgestalter Textil	Produktgestalterin Textil	Produktgestalter Textil
+785	0	male	Zinngießer	Zinngießerin	Zinngießer
+786	0	male	Augenoptiker	Augenoptikerin	Augenoptiker
+787	0	male	Wirtschaftsjurist	Wirtschaftsjuristin	Wirtschaftsjurist
+788	0	male	Künstlerischer Leiter	Künstlerische Leiterin	Künstlerischer Leiter
+789	0	male	Juwelier	Juwelierin	Juwelier
+790	0	neutral	Taxifahrer	Taxifahrerin	Taxi
+791	1	neutral	Taxifahrerin	Taxifahrer	Taxifahrerin
+792	0	male	Produktveredler Textil	Produktveredlerin Textil	Produktveredler Textil
+793	0	male	Notfallsanitäter	Notfallsanitäterin	Notfallsanitäter
+794	0	male	Verfahrensmechaniker	Verfahrensmechanikerin	Verfahrensmechaniker
+795	0	male	Personaldienstleistungskaufmann	Personaldienstleistungskauffrau	Personaldienstleistungskaufmann
+796	0	male	Pfarrer	Pfarrerin	Pfarrer
+797	0	male	Schauwerbegestalter	Schauwerbegestalterin	Schauwerbegestalter
+798	0	male	Vermessungstechniker	Vermessungstechnikerin	Vermessungstechniker
+799	0	male	Umweltgutachter	Umweltgutachterin	Umweltgutachter
+800	0	male	Gestaltungstechnischer Assistent	Gestaltungstechnische Assistentin	Gestaltungstechnischer Assistent
+801	0	male	Pharmazie-Ingenieur	Pharmazie-Ingenieurin	Pharmazieingenieur
+802	0	male	Fluglehrer	Fluglehrerin	Fluglehrer
+803	0	male	Ballettmeister	Ballettmeisterin	Ballettmeister
+804	0	male	Maßschneider	Maßschneiderin	Maßschneider
+805	0	female	Haushälterin	Haushälter	Haushälterin
+806	0	male	IT-System-Kaufmann	IT-System-Kauffrau	IT-Systemkaufmann
+807	0	male	Modist	Modistin	Modist
+808	0	male	Feinwerkmechaniker	Feinwerkmechanikerin	Feinwerkmechaniker
+809	0	male	Straßenbauer	Straßenbauerin	Straßenbauer
+810	0	male	Musikalienhändler	Musikalienhändlerin	Musikalienhändler
+811	0	male	Netzelektriker	Netzelektrikerin	Netzelektriker
+812	0	male	Küster	Küsterin	Küster
+813	0	male	Gemeindereferent	Gemeindereferentin	Gemeindereferent
+814	0	male	Medientechnologe Druck	Medientechnologin Druck	Medientechnologe Druck
+815	0	male	Pförtner	Pförtnerin	Pförtner
+816	0	male	Produktionshelfer	Produktionshelferin	Produktionshelfer
+817	0	male	Platzwart	Platzwartin	Platzwart
+818	0	male	Requisiteur	Requisiteurin	Requisiteur
+819	0	male	Glasbläser	Glasbläserin	Glasbläser
+820	0	male	Arzt	Ärztin	Arzt
+821	0	male	Einsatzleiter	Einsatzleiterin	Einsatzleiter
+822	0	male	Straßenreiniger	Straßenreinigerin	Straßenreiniger
+823	0	male	Psychologe	Psychologin	Psychologe
+824	0	male	Jurist	Juristin	Jurist
+825	0	male	Kesselwärter	Kesselwärterin	Kesselwärter
+826	0	male	Softwareentwickler	Softwareentwicklerin	Softwareentwickler
+827	0	male	Tonmeister	Tonmeisterin	Tonmeister
+828	0	male	Aufzugsmonteur	Aufzugsmonteurin	Aufzugsmonteur
+829	0	male	Winzer	Winzerin	Winzer
+830	0	male	IT-Berater	IT-Beraterin	IT-Berater
+831	0	male	Diener	Dienerin	Diener
+832	0	male	Zahnmedizinischer Fachangestellter	Zahnmedizinische Fachangestellte	Zahnmedizinischer Fachangestellter
+833	0	male	Leuchtröhrenglasbläser	Leuchtröhrenglasbläserin	Leuchtröhrenglasbläser
+834	0	male	Glasveredler	Glasveredlerin	Glasveredler
+835	0	male	Buchhalter	Buchhalterin	Buchhalter
+836	0	male	Betriebsführer	Betriebsführerin	Betriebsführer
+837	0	male	Ballettrepetitor	Ballettrepetitorin	Ballettrepetitor
+838	0	male	Technischer Modellbauer	Technische Modellbauerin	Technischer Modellbauer
+839	0	male	Croupier	Croupière	Croupier
+840	0	male	Feinpolierer	Feinpoliererin	Feinpolierer
+841	0	male	Betonfertigteilbauer	Betonfertigteilbauerin	Betonfertigteilbauer
+842	0	male	Social-Media-Manager	Social-Media-Managerin	Social-Media-Manager
+843	0	male	Verkäufer	Verkäuferin	Verkäufer
+844	0	male	Callcenteragent	Callcenteragentin	Callcenteragent
+845	0	male	Disponent	Disponentin	Disponent
+846	0	male	Bergbautechnologe	Bergbautechnologin	Bergbautechnologe
+847	0	male	Holzbearbeitungsmechaniker	Holzbearbeitungsmechanikerin	Holzbearbeitungsmechaniker
+848	0	male	Kaufmann für Tourismus und Freizeit	Kauffrau für Tourismus und Freizeit	Kaufmann für Tourismus und Freizeit
+849	0	neutral	Fachkraft für Abwassertechnik		Fachkraft für Abwassertechnik
+850	0	neutral	Fachkraft für Agrarservice		Fachkraft für Agrarservice
+851	0	neutral	Kassenaufsicht		Kassenaufsicht
+852	0	neutral	Fachkraft für Wasserversorgungstechnik		Fachkraft für Wasserversorgungstechnik
+853	0	neutral	Fachkraft für Süßwarentechnik		Fachkraft für Süßwarentechnik
+854	0	neutral	Au-pair		Au-pair
+855	0	neutral	Fachkraft für Metalltechnik		Fachkraft für Metalltechnik
+856	0	neutral	Aufsichtsperson		Aufsichtsperson
+857	0	neutral	Rechtsbeistand		Rechtsbeistand
+858	0	neutral	Fachkraft für Veranstaltungstechnik		Fachkraft für Veranstaltungstechnik
+859	0	neutral	Fachkraft für Kreislauf- und Abfallwirtschaft		Fachkraft für Kreislauf- und Abfallwirtschaft
+860	0	neutral	Fachkraft für Straßen- und Verkehrstechnik		Fachkraft für Straßen- und Verkehrstechnik
+861	0	neutral	Fachkraft für Holz- und Bautenschutzarbeiten		Fachkraft für Holz- und Bautenschutzarbeiten
+862	0	neutral	Fachkraft für Rohr-, Kanal- und Industrieservice		Fachkraft für Rohr-, Kanal- und Industrieservice
+863	0	neutral	Fachkraft für Lebensmitteltechnik		Fachkraft für Lebensmitteltechnik
+864	0	neutral	Fachkraft für Wasserwirtschaft		Fachkraft für Wasserwirtschaft
+865	0	neutral	Fachkraft im Gastgewerbe		Fachkraft im Gastgewerbe
+866	0	neutral	Fachkraft für Kurier-, Express- und Postdienstleistungen		Fachkraft für Kurier-, Express- und Postdienstleistungen
+867	0	neutral	CNC-Fachkraft		CNC-Fachkraft
+868	0	neutral	Elektrogerätefachkraft		Elektrogerätefachkraft
+869	0	neutral	Fachkraft		Fachkraft
+870	0	neutral	Bürokraft		Bürokraft
+871	0	neutral	Fachkraft für Lederverarbeitung		Fachkraft für Lederverarbeitung
+872	0	neutral	Fachkraft für Automatenservice		Fachkraft für Automatenservice
+873	0	neutral	Fachkraft für Schutz und Sicherheit		Fachkraft für Schutz und Sicherheit
+874	0	neutral	Elektrofachkraft		Elektrofachkraft
+875	0	neutral	Servicefachkraft für Dialogmarketing		Servicefachkraft für Dialogmarketing
+876	0	neutral	Jockey		Jockey
+877	0	neutral	Produktionsfachkraft Chemie		Produktionsfachkraft Chemie
+878	0	neutral	Fachkraft für Arbeitssicherheit		Fachkraft für Arbeitssicherheit
+879	0	neutral	Fachkraft im Fahrbetrieb		Fachkraft im Fahrbetrieb
+880	0	neutral	Bestattungsfachkraft		Bestattungsfachkraft
+881	0	neutral	Fachkraft für Möbel-, Küchen- und Umzugsservice		Fachkraft für Möbel-, Küchen- und Umzugsservice
+882	0	neutral	Fachkraft für Lagerwirtschaft		Fachkraft für Lagerwirtschaft
+883	0	neutral	Elektrofachkraft für festgelegte Tätigkeiten		Elektrofachkraft für festgelegte Tätigkeiten
+884	0	neutral	Fachkraft für Hafenlogistik		Fachkraft für Hafenlogistik
