@@ -1,0 +1,833 @@
+	Berufsgruppe	Frauen	KldB	KldB5	Männer	Overall	name	f_name
+0	Obj.Pers.Brandschutz,Arbeitssicherh(ssT)	37.7005047672	5318	53182	62.2994952328	8915.0	Hilfspolizist	Politesse
+1	Musik-,Gesangs-, Dirigententätigk. (ssT)	35.5086372361	9418	94183	64.4913627639	521.0	Audiodesigner	Audiodesignerin
+2	Aufsicht,Führung-TheaterFilm,Fernsehprod	40.1872883044	9449	94494	59.8127116956	5019.0	Filmgeschäftsführer	Filmgeschäftsführerin
+3	Führung - Allgemeinbildende Schulen	62.9975429975	8419	84194	37.0024570025	2035.0	Direktor	Direktrice
+4	Berufe für Post- und Zustelldienste	47.8940392206	5132	51321	52.1059607794	205963.0	Bote	Botin
+5	Autoren/Autorinnen, Schriftsteller/innen	47.7832512315	9243	92434	52.2167487685	812.0	Dichter	Dichterin
+6	Angehörige gesetzgebender Körperschaften	18.1568088033	7121	71214	81.8431911967	2908.0	Bundeskanzler	Bundeskanzlerin
+7	Berufe in der Gemeindearbeit	58.6139959235	8332	83323	41.3860040765	10303.0	Diakon	Diakonin
+8	Berufe Informations,Telekommunikationst.	11.4381605553	2631	26313	88.5618394447	191884.0	Medientechniker	Medientechnikerin
+9	Berufe Informations,Telekommunikationst.	11.4381605553	2631	26313	88.5618394447	191884.0	Projektassistent	Projektassistentin
+10	Angehörige geistl. Orden, Mutterhäuser	62.5711035267	8333	83332	37.4288964733	879.0	Mönch	Nonne
+11	Berufe im Veranstaltungsservice,-manag.	58.3260838046	6340	63401	41.6739161954	27588.0	Host	Hostess
+12	Berufe i.d. Bühnen- und Kostümbildnerei	70.9736680955	9461	94612	29.0263319045	3266.0	Dekorationenmaler	Dekorationenmalerin
+13	Berufe in der Landwirtschaft (o.S.)	21.5765899789	1110	11101	78.4234100211	124357.0	Knecht	Magd
+14	Apotheker, Pharmazeuten	83.8102088662	8180	81804	16.1897911338	37536.0	Apotheker	Apothekerin
+15	Berufe in der Bautischlerei	2.72014753343	3333	33332	97.2798524666	23859.0	Messebauer	Messebauerin
+16	Aufsicht,Führung-Krankenpfl.,Rettungsd.	78.3566481054	8139	81394	21.6433518946	36815.0	Pflegedienstleiter	Pflegedienstleiterin
+17	Angehörige geistl. Orden, Mutterhäuser	62.5711035267	8333	83332	37.4288964733	879.0	Ordensbruder	Ordensschwester
+18	Berufskraftfahrer(Personentransport/PKW)	13.9629239126	5211	52112	86.0370760874	74927.0	Taxifahrer	Taxifahrerin
+19	Mannequins, Dressmen, sonstige Models	88.7755102041	9423	94232	11.2244897959	98.0	Dressman	Mannequin
+20	Berufe in der Elektrotechnik (o.S.)	25.5998730188	2630	26302	74.4001269812	220505.0	Elektrofachkraft	
+21	Berufe Wasserversorgung,Abwassertechnik	3.55635707845	3431	34312	96.4436429216	27725.0	Fachkraft für Wasserversorgungstechnik	
+22	Athleten, Berufssportler	8.49660523763	9424	94243	91.5033947624	5155.0	Jockey	
+23	Berufe im Holz-, Möbel-, Innenausbau	3.90146033877	2234	22342	96.0985396612	143049.0	Fachkraft für Möbel-, Küchen- und Umzugsservice	
+24	Berufe in der Wasserwirtschaft	29.7596457938	3114	31142	70.2403542062	3162.0	Fachkraft für Wasserwirtschaft	
+25	Berufe in der Metallbearbeitung (o.S.)	18.4493427603	2420	24202	81.5506572397	396735.0	Fachkraft für Metalltechnik	
+26	Berufe im Objekt-,Werte-, Personenschutz	31.0871031175	5311	53112	68.9128968825	212059.0	Fachkraft für Schutz und Sicherheit	
+27	Berufe im Gastronomieservice (o.S.)	65.2648305355	6330	63302	34.7351694645	391439.0	Fachkraft im Gastgewerbe	
+28	Berufe i.d. Lebensmittelherstellung (oS)	38.6667510562	2920	29202	61.3332489438	126398.0	Fachkraft für Lebensmitteltechnik	
+29	Berufe in der Abfallwirtschaft	8.06979280262	3433	34332	91.9302071974	11004.0	Fachkraft für Kreislauf- und Abfallwirtschaft	
+30	Berufe Veranstaltungs- und Bühnentechnik	12.5905136121	9451	94512	87.4094863879	17815.0	Fachkraft für Veranstaltungstechnik	
+31	Aufsicht und Führung - Verkauf	51.1445158615	6219	62193	48.8554841385	96460.0	Kassenaufsicht	
+32	Berufe Arbeitssicherh. Sicherheitstech.	13.1710869017	5312	53123	86.8289130983	35707.0	Fachkraft für Arbeitssicherheit	
+33	Berufe für Post- und Zustelldienste	47.8940392206	5132	51322	52.1059607794	205963.0	Fachkraft für Kurier-, Express- und Postdienstleistungen	
+34	Berufe im Bestattungswesen	26.2594161959	8240	82402	73.7405838041	8496.0	Bestattungsfachkraft	
+35	Berufe im Holz- und Bautenschutz	1.22249388753	3324	33242	98.7775061125	1636.0	Fachkraft für Holz- und Bautenschutzarbeiten	
+36	Berufe in der Landwirtschaft (o.S.)	21.5765899789	1110	11102	78.4234100211	124357.0	Fachkraft für Agrarservice	
+37	Berufe im Güter- und Warenumschlag	14.3576367827	5133	51332	85.6423632173	16486.0	Fachkraft für Hafenlogistik	
+38	Berufe in der Lederherstellung	34.4731977819	2831	28312	65.5268022181	1082.0	Fachkraft für Lederverarbeitung	
+39	Berufe in der Lagerwirtschaft	24.9768310941	5131	51312	75.0231689059	1265705.0	Fachkraft für Lagerwirtschaft	
+40	Berufe Wasserversorgung,Abwassertechnik	3.55635707845	3431	34312	96.4436429216	27725.0	Fachkraft für Rohr-, Kanal- und Industrieservice	
+41	Berufe i.d. Kinderbetreuung, -erziehung	91.0178488053	8311	83111	8.9821511947	732486.0	Au-pair	
+42	Berufe in der Chemie- und Pharmatechnik	26.7838353922	4131	41312	73.2161646078	179627.0	Produktionsfachkraft Chemie	
+43	Berufe im Dialogmarketing	60.0417870759	9212	92122	39.9582129241	147414.0	Servicefachkraft für Dialogmarketing	
+44	Berufe in der Bauelektrik	1.46126422781	2621	26212	98.5387357722	224121.0	Elektrofachkraft für festgelegte Tätigkeiten	
+45	Berufe Bauplanung Verkehrswege, -anlagen	22.2411347518	3113	31132	77.7588652482	3525.0	Fachkraft für Straßen- und Verkehrstechnik	
+46	Bus-, Straßenbahnfahrer/innen	11.6309063196	5213	52132	88.3690936804	119406.0	Fachkraft im Fahrbetrieb	
+47	Berufe Sozialverwaltung, versicherung	76.9933233157	7321	73214	23.0066766843	129106.0	Aufsichtsperson	
+48	Rechtsberatung,-sprechung,-ordnung (ssT)	57.9327818764	7318	73183	42.0672181236	26838.0	Rechtsbeistand	
+49	Berufe Wasserversorgung,Abwassertechnik	3.55635707845	3431	34312	96.4436429216	27725.0	Fachkraft für Abwassertechnik	
+50	Berufe i.d. spanenden Metallbearbeitung	2.73770282356	2423	24233	97.2622971764	195675.0	CNC-Fachkraft	
+51	Berufe Informations,Telekommunikationst.	11.4381605553	2631	26312	88.5618394447	191884.0	Elektrogerätefachkraft	
+52	Büro- und Sekretariatskräfte (o.S.)	79.4443583916	7140	71402	20.5556416084	1969075.0	Bürokraft	
+53	Berufe in der Süßwarenherstellung	57.6938758868	2926	29262	42.3061241132	12263.0	Fachkraft für Süßwarentechnik	
+54	Kaufleute im Automatenservice	31.1041666667	6114	61142	68.8958333333	4800.0	Fachkraft für Automatenservice	
+55	Berufe in der Hauswirtschaft	93.6919095072	8321	83212	6.30809049281	190866.0	Haushälter	Haushälterin
+56	Betriebsinterne Wahlämter	32.0429252782	7123	71234	67.9570747218	12580.0	Gleichstellungsbeauftragter	Gleichstellungsbeauftragte
+57	Berufe Geburtshilfe, Entbindungspflege	99.8431372549	8135	81353	0.156862745098	10200.0	Entbindungspfleger	Hebamme
+58	Berufe Gesundheits-, Krankenpflege (o.S)	84.9596721778	8130	81301	15.0403278222	807755.0	Pflegediensthelfer	Schwesternhelferin
+59	Berufe in der Hauswirtschaft	93.6919095072	8321	83212	6.30809049281	190866.0	Beschließer	Beschließerin
+60	Berufe Geburtshilfe, Entbindungspflege	99.8431372549	8135	81353	0.156862745098	10200.0	Belegentbindungspfleger	Beleghebamme
+61	Berufe Polsterei, Fahrzeuginnenausstat.	44.4552466135	2824	28242	55.5447533865	15429.0	Fahrzeuginnenausstatter	Fahrzeuginnenausstatterin
+62	Berufe in der Jagdwirtschaft, Wildhege	9.27835051546	1173	11732	90.7216494845	388.0	Jäger	Jägerin
+63	Berufe für Post- und Zustelldienste	47.8940392206	5132	51321	52.1059607794	205963.0	Zusteller	Zustellerin
+64	Berufe in der Jagdwirtschaft, Wildhege	9.27835051546	1173	11732	90.7216494845	388.0	Revierjäger	Revierjägerin
+65	Rechtsberatung,-sprechung,-ordnung (ssT)	57.9327818764	7318	73184	42.0672181236	26838.0	Justiziar	Justiziarin
+66	Berufe in der Mikrosystemtechnik	28.2151300236	2632	26322	71.7848699764	8460.0	Mikrotechnologe	Mikrotechnologin
+67	Berufe nichtärztl. Therapie,Heilk.(ssT)	70.7986541526	8178	81782	29.2013458474	5647.0	Saunameister	Saunameisterin
+68	Berufe in der Elektrotechnik (o.S.)	25.5998730188	2630	26304	74.4001269812	220505.0	Elektroniker	Elektronikerin
+69	BerufeSchauspielTanz,Bewegungskunst(ssT)	41.5165165165	9428	94283	58.4834834835	1332.0	Komparse	Komparsin
+70	Berufe in der Werkzeugtechnik	3.10172465159	2452	24522	96.8982753484	90627.0	Schneidwerkzeugmechaniker	Schneidwerkzeugmechanikerin
+71	Berufe Grafik-Kommunikations-,Fotodesign	48.9152458611	2322	23222	51.0847541389	40470.0	Designer	Designerin
+72	Berufe in der Metallumformung	10.2560891616	2412	24122	89.7439108384	31942.0	Kabeljungwerker	Kabeljungwerkerin
+73	Zauberer/innen, Illusionisten/innen	19.2592592593	9432	94323	80.7407407407	135.0	Illusionist	Illusionistin
+74	Berufe in der Politologie	46.213592233	9131	91314	53.786407767	3090.0	Referent	Referentin
+75	Aufsicht und Führung - Gastronomie	46.9442078365	6339	63394	53.0557921635	18784.0	Gastwirt	Gastwirtin
+76	Nautische Schiffsoffiziere und Kapitäne	4.49203447375	5241	52413	95.5079655262	3829.0	Skipper	Skipperin
+77	Piloten und Verkehrsflugzeugführer	6.46539170954	5231	52314	93.5346082905	10301.0	Chefpilot	Chefpilotin
+78	Berufe i.d. Energie-, Kraftwerkstechnik	6.16331126919	2623	26233	93.8366887308	36409.0	Kraftwerker	Kraftwerkerin
+79	Berufe in der Altenpflege (o.S.)	85.0894719246	8210	82102	14.9105280754	502504.0	Altenpfleger	Altenpflegerin
+80	Berufe in der Softwareentwicklung	12.3967931919	4341	43412	87.6032068081	141948.0	Mathematisch-technischer Assistent	Mathematisch-technische Assistentin
+81	Berufe in der Luft- und Raumfahrttechnik	7.47075732134	2523	25234	92.5292426787	35137.0	Ingenieur	Ingenieurin
+82	Aufsicht-Veranstaltungs-Kamera-,Tontech.	19.2571659265	9459	94593	80.7428340735	2477.0	Beleuchtungsmeister	Beleuchtungsmeisterin
+83	Berufe Theater-,Film-,Fernsehproduk.(oS)	51.4743851067	9440	94404	48.5256148933	7359.0	Dramaturg	Dramaturgin
+84	Zahnmedizinische Fachangestellte	99.4084063138	8111	81112	0.591593686223	193545.0	Zahnmedizinischer Fachangestellter	Zahnmedizinische Fachangestellte
+85	Berufe in der Softwareentwicklung	12.3967931919	4341	43414	87.6032068081	141948.0	Softwareentwickler	Softwareentwicklerin
+86	Berufe in der Personaldienstleistung	66.3964145433	7152	71524	33.6035854567	99290.0	Personalreferent	Personalreferentin
+87	Berufe Garten-,Landschafts,Sportplatzbau	13.8494826824	1214	12144	86.1505173176	65627.0	Landschaftsarchitekt	Landschaftsarchitektin
+88	Berufe in Geschichtswissenschaften	49.6703296703	9122	91224	50.3296703297	910.0	Historiker	Historikerin
+89	Musik-,Gesangs-, Dirigententätigk. (ssT)	35.5086372361	9418	94184	64.4913627639	521.0	Korrepetitor	Korrepetitorin
+90	Reiseleiter/innen, Fremdenführer/innen	58.0346820809	6314	63143	41.9653179191	1730.0	Fremdenführer	Fremdenführerin
+91	Reiseleiter/innen, Fremdenführer/innen	58.0346820809	6314	63142	41.9653179191	1730.0	Reiseleiter	Reiseleiterin
+92	Zahnärzte/innen, Kieferorthopäden/innen	66.0346097202	8147	81474	33.9653902798	16296.0	Fachzahnarzt	Fachzahnärztin
+93	Richter/innen	38.4615384615	7315	73154	61.5384615385	39.0	Richter	Richterin
+94	Tech.ServicekräfteWartung,Instandhaltung	4.12407074143	2513	25132	95.8759292586	212266.0	Automateneinrichter	Automateneinrichterin
+95	Berufe in der Regie	50.9119332986	9441	94414	49.0880667014	1919.0	Regisseur	Regisseurin
+96	Versicherungskaufleute	53.568518232	7213	72132	46.431481768	193890.0	Versicherungsfachmann	Versicherungsfachfrau
+97	Redakteure/innen, Journalisten/innen	50.5608415413	9241	92414	49.4391584587	71678.0	Kunstkritiker	Kunstkritikerin
+98	Autoren/Autorinnen, Schriftsteller/innen	47.7832512315	9243	92434	52.2167487685	812.0	Schriftsteller	Schriftstellerin
+99	Berufe im Bestattungswesen	26.2594161959	8240	82402	73.7405838041	8496.0	Bestatter	Bestatterin
+100	Berufe i.d. medizinischen Dokumentation	85.1895119418	7334	73342	14.8104880582	7704.0	Medizinischer Dokumentar	Medizinische Dokumentarin
+101	Sänger/innen	48.1166205576	9412	94124	51.8833794424	4699.0	Sänger	Sängerin
+102	Berufe i.d. Sozialarbeit,Sozialpädagogik	74.9556154125	8312	83124	25.0443845875	278813.0	Bewährungshelfer	Bewährungshelferin
+103	Berufe Museums- und Ausstellungstechnik	45.4646222058	9471	94714	54.5353777942	5413.0	Konservator	Konservatorin
+104	Berufe i.d. spanlosen Metallbearbeitung	12.937104197	2421	24212	87.062895803	25423.0	Federmacher	Federmacherin
+105	Berufe Gesundheits-, Krankenpflege (o.S)	84.9596721778	8130	81301	15.0403278222	807755.0	Gesundheits- und Krankenpflegehelfer	Gesundheits- und Krankenpflegehelferin
+106	Berufe in der Maskenbildnerei	90.6659674882	8234	82342	9.3340325118	1907.0	Maskenbildner	Maskenbildnerin
+107	Versicherungskaufleute	53.568518232	7213	72134	46.431481768	193890.0	Versicherungsberater	Versicherungsberaterin
+108	Berufe im Facility-Management	27.9733089101	6132	61323	72.0266910899	7643.0	Kastellan	Kastellanin
+109	Berufe in der Milchproduktherstellung	19.3915241058	2925	29252	80.6084758942	10288.0	Speiseeishersteller	Speiseeisherstellerin
+110	Berufe in der Süßwarenherstellung	57.6938758868	2926	29262	42.3061241132	12263.0	Süßwarentechnologe	Süßwarentechnologin
+111	Berufe physikalisch-techn. Laboratorium	32.4723846654	4141	41412	67.5276153346	6156.0	Physikalisch-technischer Assistent	Physikalisch-technische Assistentin
+112	Berufe i. d. Hochschullehre, -forschung	42.812488391	8430	84304	57.187511609	188431.0	Privatdozent	Privatdozentin
+113	Büro- und Sekretariatskräfte (o.S.)	79.4443583916	7140	71401	20.5556416084	1969075.0	Datentypist	Datentypistin
+114	Berufe in der Werkstofftechnik	19.3917391602	4142	41422	80.6082608398	14599.0	Edelmetallprüfer	Edelmetallprüferin
+115	Berufe i.d. elektrischen Betriebstechnik	4.9236883504	2625	26252	95.0763116496	108699.0	Netzelektriker	Netzelektrikerin
+116	Berufe Informations,Telekommunikationst.	11.4381605553	2631	26312	88.5618394447	191884.0	Systeminformatiker	Systeminformatikerin
+117	Berufe im Kunst- und Antiquitätenhandel	70.4447632712	6252	62522	29.5552367288	697.0	Galerist	Galeristin
+118	Berufe kunsthandwerkl. Metallgestaltung	14.0532544379	9351	93512	85.9467455621	676.0	Kunstschmied	Kunstschmiedin
+119	Berufe im Bereich Glücks- und Wettspiel	18.8318693173	9434	94342	81.1681306827	6489.0	Schausteller	Schaustellerin
+120	Bankkaufleute	59.7982510844	7211	72113	40.2017489156	501911.0	Fachwirt	Fachwirtin
+121	Aufsicht und Führung - Gastronomie	46.9442078365	6339	63393	53.0557921635	18784.0	Restaurantmeister	Restaurantmeisterin
+122	Weinküfer/innen	12.1335504886	2912	29122	87.8664495114	1228.0	Weinküfer	Weinküferin
+123	Berufe Drechslerei, Spielzeugherstellung	60.4	9333	93332	39.6	750.0	Drechsler	Drechslerin
+124	Aufsicht - Hochbau	1.0979692033	3219	32193	98.9020307967	22405.0	Werkpolier	Werkpolierin
+125	Berufe in Theologie,Gemeindearbeit (ssT)	67.8608515057	8338	83384	32.1391484943	15408.0	Missionar	Missionarin
+126	Büro- und Sekretariatskräfte (o.S.)	79.4443583916	7140	71402	20.5556416084	1969075.0	Fachangestellter für Bürokommunikation	Fachangestellte für Bürokommunikation
+127	Führer Erdbewegungs-,verwandte Maschinen	0.2800140007	5252	52522	99.7199859993	48569.0	Baugeräteführer	Baugeräteführerin
+128	Sport-, Fitnesskaufleute, Sportmanager	45.0848688391	6312	63122	54.9151311609	11017.0	Sport- und Fitnesskaufmann	Sport- und Fitnesskauffrau
+129	Köche/Köchinnen (s.s.T.)	56.8326947637	2938	29382	43.1673052363	1566.0	Diätkoch	Diätköchin
+130	Berufe in der Erziehungswissenschaft	74.5593544277	9133	91334	25.4406455723	37672.0	Pädagoge	Pädagogin
+131	Industriekeramik (Modelltechnik)	16.735966736	2142	21422	83.264033264	962.0	Industriekeramiker Modelltechnik	Industriekeramikerin Modelltechnik
+132	Berufe Buchbinderei, Druckweiterverarb.	36.6999465145	2342	23422	63.3000534855	11218.0	Medientechnologe Druckverarbeitung	Medientechnologin Druckverarbeitung
+133	Berufe handwerkl.Metall-,Glockengießerei	4.20514511873	2414	24142	95.7948548813	6064.0	Former	Formerin
+134	Berufe im chemisch-techn. Laboratorium	59.1680426246	4132	41322	40.8319573754	72071.0	Chemielaborjungwerker	Chemielaborjungwerkerin
+135	Rechtsberatung, -sprechung und -ordnung	75.0484007466	731	73144	24.9515992534	172518.0	Staatsanwalt	Staatsanwältin
+136	Berufe im Gastronomieservice (o.S.)	65.2648305355	6330	63302	34.7351694645	391439.0	Restaurantfachmann	Restaurantfachfrau
+137	Nautische Schiffsoffiziere und Kapitäne	4.49203447375	5241	52413	95.5079655262	3829.0	Steuermann	Steuerfrau
+138	Berufe in der Physik (s.s.T.)	13.6886395512	4148	41484	86.3113604488	7130.0	Astronom	Astronomin
+139	Berufe im Veranstaltungsservice,-manag.	58.3260838046	6340	63402	41.6739161954	27588.0	Veranstaltungskaufmann	Veranstaltungskauffrau
+140	Berufe in Moderation, Unterhaltung (oS)	48.0295566502	9430	94303	51.9704433498	406.0	Conférencier	Conférencieuse
+141	Obj.Pers.Brandschutz,Arbeitssicherh(ssT)	37.7005047672	5318	53182	62.2994952328	8915.0	Hundeführer	Hundeführerin
+142	Berufe Sattlerei, Herst. Lederutensilien	48.3291210334	2832	28322	51.6708789666	3561.0	Sattler	Sattlerin
+143	Berufe im Justizvollzugsdienst	33.389261745	5324	53241	66.610738255	2384.0	Justizwachtmeister	Justizwachtmeisterin
+144	Berufe in der Pelzbe- und -verarbeitung	65.6862745098	2834	28342	34.3137254902	306.0	Pelzveredler	Pelzveredlerin
+145	Musik-,Gesangs-, Dirigententätigk. (ssT)	35.5086372361	9418	94184	64.4913627639	521.0	Ballettrepetitor	Ballettrepetitorin
+146	Berufe Sozialverwaltung, versicherung	76.9933233157	7321	73212	23.0066766843	129106.0	Fachangestellter für Arbeitsmarktdienstleistungen	Fachangestellte für Arbeitsmarktdienstleistungen
+147	Berufe handwerkl.Metall-,Glockengießerei	4.20514511873	2414	24142	95.7948548813	6064.0	Schriftgießer	Schriftgießerin
+148	Steno-, Phonotypisten/-typistinnen	96.8458793206	7143	71432	3.1541206794	60524.0	Stenotypist	Stenotypistin
+149	Berufe im Modellbau	10.0019805902	2723	27232	89.9980194098	10098.0	Biologiemodellmacher	Biologiemodellmacherin
+150	Trainer/innen - Fitness und Gymnastik	57.8800147221	8455	84553	42.1199852779	13585.0	Yogalehrer	Yogalehrerin
+151	Berufe im biologisch-techn. Laboratorium	73.2942168505	4121	41212	26.7057831495	28462.0	Biologisch-technischer Assistent	Biologisch-technische Assistentin
+152	Berufe Informations,Telekommunikationst.	11.4381605553	2631	26312	88.5618394447	191884.0	Systemelektroniker	Systemelektronikerin
+153	Berufe in der Isolierung	1.2101210121	3331	33312	98.7898789879	11817.0	Industrie-Isolierer	Industrie-Isoliererin
+154	Berufe Drechslerei, Spielzeugherstellung	60.4	9333	93332	39.6	750.0	Holzspielzeugmacher	Holzspielzeugmacherin
+155	Berufe in der Automatisierungstechnik	6.35842667361	2612	26122	93.6415733264	38390.0	Prozessleitelektroniker	Prozessleitelektronikerin
+156	Aufsicht,Führung - Getränkeherstellung	4.35766836446	2919	29193	95.6423316355	1767.0	Kellermeister	Kellermeisterin
+157	Berufe in der Physik (s.s.T.)	13.6886395512	4148	41484	86.3113604488	7130.0	Astrophysiker	Astrophysikerin
+158	Aufsicht - Büro und Sekretariat	70.9926383282	7149	71493	29.0073616718	16844.0	Büroleiter	Büroleiterin
+159	Berufe in der Nutztierhaltung	43.2111947848	1121	11212	56.7888052152	17794.0	Zootechniker	Zootechnikerin
+160	Berufe i.d. Kinderbetreuung, -erziehung	91.0178488053	8311	83112	8.9821511947	732486.0	Erzieher	Erzieherin
+161	Berufe im biologisch-techn. Laboratorium	73.2942168505	4121	41212	26.7057831495	28462.0	Biologielaborant	Biologielaborantin
+162	Berufe in der Informatik (o.S.)	16.2154269235	4310	43103	83.7845730765	164362.0	Informatiker	Informatikerin
+163	FlechtwerkgestalterBürsten-,Pinselmacher	59.0717299578	2235	22352	40.9282700422	1659.0	Flechtwerkgestalter	Flechtwerkgestalterin
+164	Aufsicht,Führung-Unternehmensorg,strateg	25.9924816691	7139	71393	74.0075183309	451696.0	Gruppenleiter	Gruppenleiterin
+165	Berufe Datenbankentwickl., -administr.	23.924239907	4335	43353	76.075760093	6019.0	Datenbankadministrator	Datenbankadministratorin
+166	Berufe handwerkl.Metall-,Glockengießerei	4.20514511873	2414	24142	95.7948548813	6064.0	Kernmacher	Kernmacherin
+167	Trainer/innen - Ballsportarten	7.80452224654	8454	84543	92.1954777535	1371.0	Fußballtrainer	Fußballtrainerin
+168	Autoren/Autorinnen, Schriftsteller/innen	47.7832512315	9243	92434	52.2167487685	812.0	Redenschreiber	Redenschreiberin
+169	Berufe im Kanal- und Tunnelbau	0.544182430682	3225	32252	99.4558175693	3859.0	Kanalbauer	Kanalbauerin
+170	Berufe in der Textilherstellung	34.0723731095	2812	28122	65.9276268905	12629.0	Weber	Weberin
+171	Berufe Naturstein-,Mineralaufbereitung	4.23446184942	2121	21212	95.7655381506	9895.0	Naturwerksteinmechaniker	Naturwerksteinmechanikerin
+172	Berufe im Maurerhandwerk	0.209680237638	3212	32122	99.7903197624	97291.0	Maurer	Maurerin
+173	Redakteure/innen, Journalisten/innen	50.5608415413	9241	92414	49.4391584587	71678.0	Reporter	Reporterin
+174	Zahnmedizinische Fachangestellte	99.4084063138	8111	81113	0.591593686223	193545.0	Zahnmedizinischer Prophylaxeassistent	Zahnmedizinische Prophylaxeassistentin
+175	Berufe Informations,Telekommunikationst.	11.4381605553	2631	26312	88.5618394447	191884.0	Informationselektroniker	Informationselektronikerin
+176	Berufe kaufm.,techn.Betriebswirtsch.(oS)	62.1600224791	7130	71302	37.8399775209	935981.0	Sachbearbeiter	Sachbearbeiterin
+177	Berufe i.d. spanlosen Metallbearbeitung	12.937104197	2421	24212	87.062895803	25423.0	Drahtwarenmacher	Drahtwarenmacherin
+178	Berufe im Verkauf (ohne Produktspezial.)	74.4604823678	6210	62102	25.5395176322	964658.0	Verkäufer	Verkäuferin
+179	Berufe im Verkauf von Fleischwaren	92.3912445691	6232	62322	7.6087554309	72732.0	Fachverkäufer im Lebensmittelhandwerk (Fleischerei)	Fachverkäuferin im Lebensmittelhandwerk (Fleischerei)
+180	Lehrkräfte in der Sekundarstufe	70.4238331399	8412	84124	29.5761668601	142155.0	Lehrer	Lehrerin
+181	Berufe in der industriellen Glasbläserei	26.8707482993	2133	21332	73.1292517007	294.0	Leuchtröhrenglasbläser	Leuchtröhrenglasbläserin
+182	Berufe in der Tierpflege (o.S.)	46.9706787624	1150	11502	53.0293212376	12346.0	Tierpfleger	Tierpflegerin
+183	Berufe im Streich-, Zupfinstrumentenbau	29.8076923077	9361	93612	70.1923076923	416.0	Zupfinstrumentenmacher	Zupfinstrumentenmacherin
+184	Berufe operations-/med.-techn. Assistenz	77.7285201604	8133	81332	22.2714798396	9474.0	Operationstechnischer Assistent	Operationstechnische Assistentin
+185	Technische Konfektionäre, Segelmacher	54.8604292327	2823	28232	45.1395707673	7129.0	Segelmacher	Segelmacherin
+186	Servicefachkräfte im Luftverkehr	78.2033652524	5142	51422	21.7966347476	39997.0	Servicekaufmann im Luftverkehr	Servicekauffrau im Luftverkehr
+187	Berufe in der Heilkunde und Homöopathie	76.6557645135	8175	81752	23.3442354865	2446.0	Heilpraktiker	Heilpraktikerin
+188	Kunsthandw.Schmuckherst.,Edelsteinbearb.	60.9995903318	9352	93522	39.0004096682	4882.0	Goldschläger	Goldschlägerin
+189	Berufe Estrich- und Terrazzoverlegung	0.557103064067	3312	33122	99.4428969359	4308.0	Estrichleger	Estrichlegerin
+190	Komiker/innen, Kabarettisten/innen	54.5454545455	9431	94313	45.4545454545	33.0	Komiker	Komikerin
+191	Berufe im Tiefbau (o.S.)	2.56153858974	3220	32202	97.4384614103	60003.0	Spezialtiefbauer	Spezialtiefbauerin
+192	Grill-, Braten- u. Fischköche/-köchinnen	37.0960187354	2932	29322	62.9039812646	2135.0	Rotisseur	Rotisseurin
+193	Berufe i.d. elektrischen Betriebstechnik	4.9236883504	2625	26252	95.0763116496	108699.0	Industrieelektriker	Industrieelektrikerin
+194	Assistenz Rechtsanwaltskanzlei,Notariat	94.3062952197	7311	73112	5.69370478029	94262.0	Patentanwaltsfachangestellter	Patentanwaltsfachangestellte
+195	Berufe in der Bild- und Tontechnik	26.5236833389	9453	94533	73.4763166611	12076.0	Tontechniker	Tontechnikerin
+196	Berufe i.d. elektrischen Betriebstechnik	4.9236883504	2625	26252	95.0763116496	108699.0	Industrieelektroniker	Industrieelektronikerin
+197	Verkauf drogerie-,apothekenübliche Waren	96.3538976351	6241	62412	3.64610236486	89054.0	Pharmazeutisch-kaufmännischer Angestellter	Pharmazeutisch-kaufmännische Angestellte
+198	Dirigenten/Dirigentinnen	27.8372591006	9413	94134	72.1627408994	934.0	Ensembleleiter	Ensembleleiterin
+199	Bankkaufleute	59.7982510844	7211	72112	40.2017489156	501911.0	Sparkassenkaufmann	Sparkassenkauffrau
+200	Berufe in der Schiffbautechnik	6.19822907741	2524	25244	93.8017709226	3501.0	Schiffbauingenieur	Schiffbauingenieurin
+201	Berufe in der Steuerberatung	76.2525479477	7230	72304	23.7474520523	172688.0	Steuerbevollmächtigter	Steuerbevollmächtigte
+202	Aufsicht,Führung-Unternehmensorg,strateg	25.9924816691	7139	71394	74.0075183309	451696.0	Teamleiter	Teamleiterin
+203	Berufe in der Werkzeugtechnik	3.10172465159	2452	24522	96.8982753484	90627.0	Facharbeiter für Fertigungsmittel	Facharbeiterin für Fertigungsmittel
+204	Berufe technisch. Schiffsverkehrsbetrieb	3.8146208153	5113	51132	96.1853791847	8782.0	Matrose	Matrosin
+205	Berufe Informations,Telekommunikationst.	11.4381605553	2631	26312	88.5618394447	191884.0	Nachrichtengerätemechaniker	Nachrichtengerätemechanikerin
+206	Schornsteinfeger/innen	8.08986148295	4221	42212	91.9101385171	8591.0	Schornsteinfeger	Schornsteinfegerin
+207	Angehörige geistl. Orden, Mutterhäuser	62.5711035267	8333	83333	37.4288964733	879.0	Abt	Äbtissin
+208	Berufe im Kundenmanagement	43.2484932485	9213	92133	56.7515067515	95238.0	Account-Manager	Account-Managerin
+209	Berufe im Beton- und Stahlbetonbau	0.723795907426	3211	32112	99.2762040926	33573.0	Schalungsbauer	Schalungsbauerin
+210	Servicefachkräfte Straßen-,Schienenverk.	54.3373493976	5141	51412	45.6626506024	14110.0	Kaufmann für Verkehrsservice	Kauffrau für Verkehrsservice
+211	Berufe in der Steuerberatung	76.2525479477	7230	72304	23.7474520523	172688.0	Steuerberater	Steuerberaterin
+212	Berufe in der Bild- und Tontechnik	26.5236833389	9453	94534	73.4763166611	12076.0	Toningenieur	Toningenieurin
+213	Berufe Anlagen-, Behälter-, Apparatebau	3.29425467804	3434	34342	96.705745322	39493.0	Anlagenmechaniker	Anlagenmechanikerin
+214	Berufe im Objekt-,Werte-, Personenschutz	31.0871031175	5311	53112	68.9128968825	212059.0	Pförtner	Pförtnerin
+215	Berufe tech. Produktionsplan.,-steuerung	15.718731148	2730	27304	84.281268852	230413.0	Betriebsingenieur	Betriebsingenieurin
+216	Tierärzte/-ärztinnen (o.S.)	72.8797953964	8150	81504	27.1202046036	9775.0	Tierarzt	Tierärztin
+217	Berufe in der Justizverwaltung	93.3804860355	7325	73253	6.61951396445	16542.0	Justizfachwirt	Justizfachwirtin
+218	Technische Konfektionäre, Segelmacher	54.8604292327	2823	28232	45.1395707673	7129.0	Schirmmacher	Schirmmacherin
+219	Berufe in der Mechatronik	6.22845803015	2611	26112	93.7715419698	57446.0	Mechatroniker	Mechatronikerin
+220	Berufe in der biologischen Präparation	51.5706806283	4122	41222	48.4293193717	1146.0	Präparator	Präparatorin
+221	Berufe in der Fleischverarbeitung	13.9570504204	2923	29232	86.0429495796	63982.0	Fleischer	Fleischerin
+222	Komponisten/Komponistinnen	31.8181818182	9414	94144	68.1818181818	22.0	Komponist	Komponistin
+223	Berufe Informations,Telekommunikationst.	11.4381605553	2631	26312	88.5618394447	191884.0	Industrietechnologe	Industrietechnologin
+224	Berufe in der Lagerwirtschaft	24.9768310941	5131	51311	75.0231689059	1265705.0	Hafenarbeiter	Hafenarbeiterin
+225	Berufe i.d. schleifenden Metallbearbeit.	6.28800778399	2422	24222	93.711992216	32888.0	Schleifer	Schleiferin
+226	Maschinen- und Anlagenführer/innen	12.501779731	2512	25122	87.498220269	210706.0	Heizer	Heizerin
+227	Animateur/innen, Gästebetreuer/innen	67.550274223	6313	63132	32.449725777	8752.0	Animateur	Animateurin
+228	Berufe in der Textilveredlung	20.9806780897	2814	28142	79.0193219103	5486.0	Scherer	Schererin
+229	Berufe i.d. öffentlichen Verwaltung (oS)	74.1246797609	7320	73202	25.8753202391	471913.0	Verwaltungsfachangestellter	Verwaltungsfachangestellte
+230	Berufe Bauplanung u. -überwachung (o.S.)	22.5084770306	3110	31103	77.4915229694	82871.0	Bautechniker	Bautechnikerin
+231	Berufe i.d. Bekleidungsherstellung	84.4050647718	2822	28222	15.5949352282	34197.0	Schneider	Schneiderin
+232	Berufe in der Bild- und Tontechnik	26.5236833389	9453	94532	73.4763166611	12076.0	Film- und Videoeditor	Film- und Videoeditorin
+233	Aufsicht,Führung-Produktionsplan,steuer.	7.61356849122	2739	27393	92.3864315088	145661.0	Handwerksmeister	Handwerksmeisterin
+234	Berufe im Gerichtsvollzug	27.2030651341	5323	53233	72.7969348659	1305.0	Gerichtsvollzieher	Gerichtsvollzieherin
+235	IT-Netzwerkt.,-Koord.,-Admin.,-Org.(ssT)	16.5119285462	4338	43384	83.4880714538	8509.0	Fraud-Analyst	Fraud-Analystin
+236	Berufe in der Fototechnik	57.881773399	2331	23312	42.118226601	4060.0	Filmkopienfertiger	Filmkopienfertigerin
+237	Berufe in der Anthropologie, Ethnologie	64.6258503401	9126	91264	35.3741496599	147.0	Ethnologe	Ethnologin
+238	Brauer/innen und Mälzer/innen	3.84404173531	2911	29112	96.1559582647	5463.0	Biersieder	Biersiederin
+239	Berufe im Hotelservice	79.2351889413	6322	63222	20.7648110587	141499.0	Hotelfachmann	Hotelfachfrau
+240	Berufe Sozialverwaltung, versicherung	76.9933233157	7321	73212	23.0066766843	129106.0	Sozialversicherungsfachangestellter	Sozialversicherungsfachangestellte
+241	Berufe im Polizeivollzugsdienst	52.8379772962	5321	53213	47.1620227038	1938.0	Polizeivollzugsbeamter	Polizeivollzugsbeamtin
+242	Technische Konfektionäre, Segelmacher	54.8604292327	2823	28232	45.1395707673	7129.0	Polster- und Dekorationsnäher	Polster- und Dekorationsnäherin
+243	Berufe in der Pferdewirtschaft (o.S.)	60.9494015234	1130	11302	39.0505984766	7352.0	Pferdewirt	Pferdewirtin
+244	Dolmetscher/innen und Übersetzer/innen	69.8481848185	7142	71423	30.1518151815	7575.0	Sprachmittler	Sprachmittlerin
+245	Berufe in der Kartografie	47.4680548982	3122	31224	52.5319451018	2113.0	Kartograf	Kartografin
+246	Berufe in der Textilgestaltung	84.0716305372	2811	28112	15.9283694628	2122.0	Produktgestalter Textil	Produktgestalterin Textil
+247	Berufe in der Werkzeugtechnik	3.10172465159	2452	24522	96.8982753484	90627.0	Büchsenmacher	Büchsenmacherin
+248	Medizinische Fachangestellte (o.S.)	99.0361286221	8110	81102	0.963871377867	377540.0	Medizinischer Fachangestellter	Medizinische Fachangestellte
+249	Berufe i.d. Bekleidungsherstellung	84.4050647718	2822	28222	15.5949352282	34197.0	Änderungsschneider	Änderungsschneiderin
+250	Berufe im Metallbau	2.2858399983	2441	24412	97.7141600017	281822.0	Konstruktionsmechaniker	Konstruktionsmechanikerin
+251	Anlageberater u. sonst. Finanzdienstl.	44.3380220021	7212	72124	55.6619779979	36542.0	Fondsmanager	Fondsmanagerin
+252	Führung - Werbung und Marketing	39.301264773	9219	92194	60.698735227	9646.0	Werbeleiter	Werbeleiterin
+253	Berufe Immobilienvermarktung,-verwaltung	57.0449103969	6131	61312	42.9550896031	55132.0	Immobilienkaufmann	Immobilienkauffrau
+254	Berufe in Moderation, Unterhaltung (ssT)	30.9090909091	9438	94383	69.0909090909	385.0	Bauchredner	Bauchrednerin
+255	Berufe technische Qualitätssicherung	27.7924731183	2731	27313	72.2075268817	186000.0	Qualitätsbeauftragter	Qualitätsbeauftragte
+256	Fachärzte/innen in der Inneren Medizin	54.1590254126	8142	81424	45.8409745874	15268.0	Facharzt	Fachärztin
+257	Tiermedizin und Tierheilkunde	73.8573730179	815	81532	26.1426269821	11793.0	Tierheilpraktiker	Tierheilpraktikerin
+258	Bankkaufleute	59.7982510844	7211	72112	40.2017489156	501911.0	Bankkaufmann	Bankkauffrau
+259	Berufe betriebl. Ausbildung, Berufspäd.	33.7182984156	8422	84223	66.2817015844	34462.0	Ausbilder	Ausbilderin
+260	Berufe im Tiefbau (o.S.)	2.56153858974	3220	32204	97.4384614103	60003.0	Tiefbauingenieur	Tiefbauingenieurin
+261	Berufe in der Forstwirtschaft	5.09963399756	1171	11712	94.9003660024	24590.0	Forstfacharbeiter	Forstfacharbeiterin
+262	Berufe in der Lagerwirtschaft	24.9768310941	5131	51311	75.0231689059	1265705.0	Kraftfahrer	Kraftfahrerin
+263	Berufe Estrich- und Terrazzoverlegung	0.557103064067	3312	33122	99.4428969359	4308.0	Ausbaufacharbeiter	Ausbaufacharbeiterin
+264	Berufe im Klavier- und Cembalobau	16.3310961969	9364	93642	83.6689038031	894.0	Klavierbauer	Klavierbauerin
+265	Museumsberufe (o.S.)	67.3256247669	9470	94704	32.6743752331	2681.0	Kurator	Kuratorin
+266	Berufe im Vertrieb (außer IKT)	34.1969853683	6112	61123	65.8030146317	462146.0	Handelsvertreter	Handelsvertreterin
+267	Berufe kunsthandwerkl. Metallgestaltung	14.0532544379	9351	93512	85.9467455621	676.0	Gürtler	Gürtlerin
+268	Berufe im Hotelservice	79.2351889413	6322	63222	20.7648110587	141499.0	Portier	Portierin
+269	Berufe Back-, Konditoreiwarenherstell.	29.4110759864	2922	29222	70.5889240136	76869.0	Bäcker	Bäckerin
+270	Berufe Dokumentations,Informationsdienst	62.5742942051	7333	73334	37.4257057949	10768.0	Dokumentar	Dokumentarin
+271	Berufe in Theologie,Gemeindearbeit (ssT)	67.8608515057	8338	83382	32.1391484943	15408.0	Küster	Küsterin
+272	Kunststoff-,Kautschukherstellung (o.S.)	26.7465962203	2210	22102	73.2534037797	221445.0	Schweißer	Schweißerin
+273	Maschinen-, Gerätezusammensetzer/innen	21.0325537037	2511	25112	78.9674462963	171962.0	Maschinenzusammensetzer	Maschinenzusammensetzerin
+274	Berufe im Brunnenbau	0.531914893617	3224	32242	99.4680851064	2256.0	Brunnenbauer	Brunnenbauerin
+275	Gewässer-Immissionsschutz,Abfallbeauftr.	26.1261261261	4232	42324	73.8738738739	555.0	Immissionsschutzbeauftragter	Immissionsschutzbeauftragte
+276	Piloten und Verkehrsflugzeugführer	6.46539170954	5231	52313	93.5346082905	10301.0	Pilot	Pilotin
+277	Berufe i.d. spanenden Metallbearbeitung	2.73770282356	2423	24232	97.2622971764	195675.0	Kopierfräser	Kopierfräserin
+278	Berufe tech. Forschung, Entwicklung (oS)	12.2531548471	2710	27104	87.7468451529	213798.0	Berechnungsingenieur	Berechnungsingenieurin
+279	Medizinisch-techn.Berufe im Laboratorium	90.9643696925	8121	81214	9.03563030748	66769.0	Arzt	Ärztin
+280	Berufe i.d. Bekleidungsherstellung	84.4050647718	2822	28222	15.5949352282	34197.0	Modist	Modistin
+281	Berufe kunsthandwerkl. Keramikgestaltung	25.7394587791	9341	93412	74.2605412209	3178.0	Keramiker	Keramikerin
+282	Berufe i.d. Bühnen- und Kostümbildnerei	70.9736680955	9461	94612	29.0263319045	3266.0	Bühnenmaler	Bühnenmalerin
+283	Aufsicht und Führung - Landwirtschaft	16.2258392675	1119	11194	83.7741607325	3932.0	Inspektor	Inspektorin
+284	Berufe in Werbung und Marketing	54.6682417799	9211	92113	45.3317582201	152370.0	Kommunikationswirt	Kommunikationswirtin
+285	Berufe technisch. Schiffsverkehrsbetrieb	3.8146208153	5113	51134	96.1853791847	8782.0	Schiffsingenieur	Schiffsingenieurin
+286	Berufe in Wirtschaftswissenschaften (oS)	45.1293759513	9140	91404	54.8706240487	7884.0	Volkswirt	Volkswirtin
+287	Anlageberater u. sonst. Finanzdienstl.	44.3380220021	7212	72122	55.6619779979	36542.0	Investmentfondskaufmann	Investmentfondskauffrau
+288	Berufe Digital-, Printmediengestaltung	50.1462693284	2321	23212	49.8537306716	62214.0	Fotogravurzeichner	Fotogravurzeichnerin
+289	Verlags- und Medienkaufleute (s.s.T.)	60.5296610169	9238	92384	39.4703389831	9440.0	Literaturagent	Literaturagentin
+290	Medizin.-techn. Berufe Veterinärmedizin	87.6854599407	8124	81243	12.3145400593	674.0	Veterinäringenieur	Veterinäringenieurin
+291	Berufe in der Wachszieherei	71.2530712531	9335	93352	28.7469287469	814.0	Wachszieher	Wachszieherin
+292	Berufe in der Kraftfahrzeugtechnik	3.97341840672	2521	25212	96.0265815933	347308.0	Kfz-Mechatroniker	Kfz-Mechatronikerin
+293	Handelsmakler/innen u. Auktionator/innen	39.2475851551	6113	61133	60.7524148449	1967.0	Makler	Maklerin
+294	Berufe i. d. Hochschullehre, -forschung	42.812488391	8430	84304	57.187511609	188431.0	Honorarprofessor	Honorarprofessorin
+295	Servicefachkräfte im Luftverkehr	78.2033652524	5142	51422	21.7966347476	39997.0	Bodensteward	Bodenstewardess
+296	Berufe in der Unternehmensberatung	26.911058483	7132	71324	73.088941517	60804.0	Unternehmensberater	Unternehmensberaterin
+297	Berufe in der Gemeindearbeit	58.6139959235	8332	83323	41.3860040765	10303.0	Gemeindereferent	Gemeindereferentin
+298	Berufe im Berg- und Tagebau	7.26492128967	2111	21112	92.7350787103	23758.0	Fördermaschinist	Fördermaschinistin
+299	Lehrkräfte für berufsbildende Fächer	63.6176386302	8421	84214	36.3823613698	55832.0	Ingenieurpädagoge	Ingenieurpädagogin
+300	Berufe in der Schuhherstellung	37.8797535585	2833	28332	62.1202464415	9414.0	Schuh- und Lederwarenstepper	Schuh- und Lederwarenstepperin
+301	Führung - Redaktion und Journalismus	31.7397555715	9249	92494	68.2602444285	2782.0	Chefredakteur	Chefredakteurin
+302	Kunsthandw.Schmuckherst.,Edelsteinbearb.	60.9995903318	9352	93522	39.0004096682	4882.0	Edelsteinfasser	Edelsteinfasserin
+303	Berufe im Musikfachhandel	33.5901386749	6253	62532	66.4098613251	649.0	Musikfachhändler	Musikfachhändlerin
+304	Berufe in der Glasveredelung	22.984008166	2134	21342	77.015991834	11756.0	Flachglasmechaniker	Flachglasmechanikerin
+305	Fahrzeugführer im Straßenverkehr(s.s.T.)	10.9479201806	5218	52182	89.0520798194	115611.0	Servicefahrer	Servicefahrerin
+306	Berufe in der klinischen Psychologie	77.9567882775	8162	81624	22.0432117225	26752.0	Psychologe	Psychologin
+307	Berufe im Streich-, Zupfinstrumentenbau	29.8076923077	9361	93612	70.1923076923	416.0	Geigenbauer	Geigenbauerin
+308	Schauspieler/innen	44.0665569574	9421	94214	55.9334430426	5469.0	Synchronsprecher	Synchronsprecherin
+309	Berufe Immobilienvermarktung,-verwaltung	57.0449103969	6131	61313	42.9550896031	55132.0	Immobilienmakler	Immobilienmaklerin
+310	Luftverkehrskaufleute	35.0604490501	5164	51642	64.9395509499	2316.0	Luftverkehrskaufmann	Luftverkehrskauffrau
+311	Maschinen- und Anlagenführer/innen	12.501779731	2512	25122	87.498220269	210706.0	Kesselwärter	Kesselwärterin
+312	Berufe im Berg- und Tagebau	7.26492128967	2111	21112	92.7350787103	23758.0	Berg- und Maschinenmann	Berg- und Maschinenfrau
+313	Berufe in der Isolierung	1.2101210121	3331	33312	98.7898789879	11817.0	Wärme-, Kälte- und Schallschutzisolierer	Wärme-, Kälte- und Schallschutzisoliererin
+314	Berufe i.d.Lebensmittelherstellung (ssT)	39.4550784618	2928	29282	60.5449215382	5799.0	Kaffeeröster	Kaffeerösterin
+315	Redakteure/innen, Journalisten/innen	50.5608415413	9241	92412	49.4391584587	71678.0	Video-Journalist	Video-Journalistin
+316	Berufe Veranstalt.-Kamera-,Tontech.(ssT)	5.76271186441	9458	94582	94.2372881356	295.0	Pyrotechniker	Pyrotechnikerin
+317	Berufe Sattlerei, Herst. Lederutensilien	48.3291210334	2832	28322	51.6708789666	3561.0	Feintäschner	Feintäschnerin
+318	Hochbau	1.2849391531	321	32152	98.7150608469	423522.0	Fassadenmonteur	Fassadenmonteurin
+319	Wasserstraßen- und Brückenwärter/innen	7.47126436782	5124	51242	92.5287356322	522.0	Brückenwärter	Brückenwärterin
+320	Berufe i.d. spanenden Metallbearbeitung	2.73770282356	2423	24232	97.2622971764	195675.0	Bohrwerkdreher	Bohrwerkdreherin
+321	Berufe im Produkt- und Industriedesign	34.9566605839	9310	93102	65.0433394161	8768.0	Gestaltungstechnischer Assistent	Gestaltungstechnische Assistentin
+322	Produktion v. Fertigprodukten aus Holz	6.89245395128	2233	22332	93.1075460487	5049.0	Holzmechaniker	Holzmechanikerin
+323	Servicefachkräfte im Luftverkehr	78.2033652524	5142	51422	21.7966347476	39997.0	Flugbegleiter	Flugbegleiterin
+324	Berufe im Vertrieb (außer IKT)	34.1969853683	6112	61123	65.8030146317	462146.0	Verleger	Verlegerin
+325	Fremdsprachensekretäre,-korrespondenten	89.5453170683	7141	71412	10.4546829317	9919.0	Fremdsprachensekretär	Fremdsprachensekretärin
+326	Berufe in Philosophie, Religion, Ethik	54.4837441944	9121	91214	45.5162558056	2799.0	Philosoph	Philosophin
+327	Verkauf drogerie-,apothekenübliche Waren	96.3538976351	6241	62412	3.64610236486	89054.0	Drogist	Drogistin
+328	Berufe im Güter- und Warenumschlag	14.3576367827	5133	51332	85.6423632173	16486.0	Seegüterkontrolleur	Seegüterkontrolleurin
+329	Berufe im Metallbau	2.2858399983	2441	24412	97.7141600017	281822.0	Schmied	Schmiedin
+330	Berufe Digital-, Printmediengestaltung	50.1462693284	2321	23212	49.8537306716	62214.0	Dekorvorlagenhersteller	Dekorvorlagenherstellerin
+331	Berufe in der Werkzeugtechnik	3.10172465159	2452	24522	96.8982753484	90627.0	Messerschmied	Messerschmiedin
+332	Berufe in der Personaldienstleistung	66.3964145433	7152	71524	33.6035854567	99290.0	Ausbildungsberater	Ausbildungsberaterin
+333	Kaufleute im Automatenservice	31.1041666667	6114	61142	68.8958333333	4800.0	Automatenfachmann	Automatenfachfrau
+334	Berufe i.d. Bekleidungsherstellung	84.4050647718	2822	28222	15.5949352282	34197.0	Modenäher	Modenäherin
+335	Berufe in der Mathematik (o.S.)	34.0704906704	4110	41104	65.9295093296	2894.0	Mathematiker	Mathematikerin
+336	Tourismuskaufleute	82.1267850182	6311	63112	17.8732149818	56442.0	Tourismuskaufmann	Tourismuskauffrau
+337	Berufe im Veranstaltungsservice,-manag.	58.3260838046	6340	63401	41.6739161954	27588.0	Saaldiener	Saaldienerin
+338	Berufe in der Steuerberatung	76.2525479477	7230	72302	23.7474520523	172688.0	Gehilfe	Gehilfin
+339	Berufe in der Theologie	30.0088759784	8331	83314	69.9911240216	12393.0	Pastoralreferent	Pastoralreferentin
+340	Berufe in der Regie	50.9119332986	9441	94414	49.0880667014	1919.0	Film-Regisseur	Film-Regisseurin
+341	Berufe nicht ärztliche Psychotherapie	78.1458251666	8163	81634	21.8541748334	5102.0	Psychoanalytiker	Psychoanalytikerin
+342	Berufe Veranstaltungs- und Bühnentechnik	12.5905136121	9451	94512	87.4094863879	17815.0	Orchesterwart	Orchesterwartin
+343	Fahrlehrer/innen	13.4048438238	8451	84513	86.5951561762	14823.0	Fahrlehrer	Fahrlehrerin
+344	Berufe in Wirtschaftsprüfung	38.28113879	7224	72244	61.71886121	28100.0	Wirtschaftsprüfer	Wirtschaftsprüferin
+345	Berufe in der Arabistik, Orientalistik	53.3333333333	9115	91154	46.6666666667	15.0	Orientalist	Orientalistin
+346	Führung - Hochschullehre und -forschung	29.7738693467	8439	84394	70.2261306533	796.0	Vizepräsident	Vizepräsidentin
+347	Berufe Bauplanung u. -überwachung (o.S.)	22.5084770306	3110	31104	77.4915229694	82871.0	Baumeister	Baumeisterin
+348	Tourismuskaufleute	82.1267850182	6311	63112	17.8732149818	56442.0	Reiseverkehrskaufmann	Reiseverkehrskauffrau
+349	Verlags- und Medienkaufleute (s.s.T.)	60.5296610169	9238	92384	39.4703389831	9440.0	Listbroker	Listbrokerin
+350	Berufe im Holz- und Bautenschutz	1.22249388753	3324	33242	98.7775061125	1636.0	Holz- und Bautenschützer	Holz- und Bautenschützerin
+351	Assistenz Rechtsanwaltskanzlei,Notariat	94.3062952197	7311	73113	5.69370478029	94262.0	Bürovorsteher	Bürovorsteherin
+352	Berufe operations-/med.-techn. Assistenz	77.7285201604	8133	81332	22.2714798396	9474.0	Anästhesietechnischer Assistent	Anästhesietechnische Assistentin
+353	Berufe in der Kosmetik	96.4716412286	8232	82322	3.52835877143	21228.0	Visagist	Visagistin
+354	Berufe in der Lebensmittelkontrolle	35.3913466213	5333	53333	64.6086533787	4114.0	Lebensmittelkontrolleur	Lebensmittelkontrolleurin
+355	Servicefachkräfte im Luftverkehr	78.2033652524	5142	51422	21.7966347476	39997.0	Purser	Purserette
+356	Tierärzte/-ärztinnen (o.S.)	72.8797953964	8150	81504	27.1202046036	9775.0	Fachtierarzt	Fachtierärztin
+357	Berufe in der Landwirtschaft (o.S.)	21.5765899789	1110	11101	78.4234100211	124357.0	Landarbeiter	Landarbeiterin
+358	Fachärzte Neurol.,Psychiatr.,Psychother.	63.8102442187	8146	81464	36.1897557813	9254.0	Assistenzarzt	Assistenzärztin
+359	BerufeSchauspielTanz,Bewegungskunst(ssT)	41.5165165165	9428	94283	58.4834834835	1332.0	Stuntman	Stuntwoman
+360	Berufe in der Kraftfahrzeugtechnik	3.97341840672	2521	25212	96.0265815933	347308.0	Karosserie- und Fahrzeugbaumechaniker	Karosserie- und Fahrzeugbaumechanikerin
+361	Rechtsanwälte/-anwältinnen	46.2251399884	7313	73134	53.7748600116	31074.0	Patentanwalt	Patentanwältin
+362	Weinküfer/innen	12.1335504886	2912	29122	87.8664495114	1228.0	Weinhandelsküfer	Weinhandelsküferin
+363	Berufe in der Haus- und Familienpflege	81.0310203384	8314	83142	18.9689796616	46808.0	Sozialassistent	Sozialassistentin
+364	Lehrkräfte für berufsbildende Fächer	63.6176386302	8421	84214	36.3823613698	55832.0	Fachlehrer	Fachlehrerin
+365	Berufe für Maler- und Lackiererarbeiten	5.53319493285	3321	33212	94.4668050672	141618.0	Tapezierer	Tapeziererin
+366	Berufe in der Werkstofftechnik	19.3917391602	4142	41422	80.6082608398	14599.0	Werkstoffprüfer	Werkstoffprüferin
+367	Lehrkräfte für berufsbildende Fächer	63.6176386302	8421	84213	36.3823613698	55832.0	Lehrrettungsassistent	Lehrrettungsassistentin
+368	Berufe tech. Forschung, Entwicklung (oS)	12.2531548471	2710	27103	87.7468451529	213798.0	Entwickler	Entwicklerin
+369	Berufe technische Mediengestaltung (ssT)	44.0740740741	2328	23282	55.9259259259	270.0	Flexograf	Flexografin
+370	Vor-, Kalt- und Süßspeisenköche/innen	55.289532294	2931	29312	44.710467706	1796.0	Gardemanger	Gardemangerin
+371	Kunstmaler/innen, Zeichner/innen	48.7741935484	9332	93323	51.2258064516	775.0	Kupferstecher	Kupferstecherin
+372	Berufe in der Religionspädagogik	77.6637554585	8442	84424	22.3362445415	4580.0	Religionslehrer	Religionslehrerin
+373	Berufe für Maler- und Lackiererarbeiten	5.53319493285	3321	33212	94.4668050672	141618.0	Maler und Lackierer	Malerin und Lackiererin
+374	Anlageberater u. sonst. Finanzdienstl.	44.3380220021	7212	72123	55.6619779979	36542.0	Finanzberater	Finanzberaterin
+375	Berufe in der Elektrotechnik (o.S.)	25.5998730188	2630	26304	74.4001269812	220505.0	Elektroingenieur	Elektroingenieurin
+376	Berufe in der Hörgeräteakustik	66.1900571931	8253	82532	33.8099428069	9092.0	Hörgeräteakustiker	Hörgeräteakustikerin
+377	Notare/Notarinnen	48.031496063	7312	73124	51.968503937	2794.0	Notar	Notarin
+378	Berufe Sattlerei, Herst. Lederutensilien	48.3291210334	2832	28322	51.6708789666	3561.0	Handschuhmacher	Handschuhmacherin
+379	Berufe Überwachung Luftverkehrsbetrieb	30.8085212408	5153	51533	69.1914787592	8027.0	Fluglotse	Fluglotsin
+380	Berufe in der Imkerei	28.5714285714	1123	11232	71.4285714286	126.0	Imker	Imkerin
+381	Berufe in der Fahrzeuglackierung	6.22029488291	2221	22212	93.7797051171	28825.0	Fahrzeuglackierer	Fahrzeuglackiererin
+382	Ärzte/Ärztinnen (s.s.T.)	57.2999620781	8148	81484	42.7000379219	10548.0	Stationsarzt	Stationsärztin
+383	Berufe im Friseurgewerbe	91.9347511287	8231	82312	8.06524887135	140876.0	Friseur	Friseurin
+384	Berufe in der Forstwirtschaft	5.09963399756	1171	11711	94.9003660024	24590.0	Holzfäller	Holzfällerin
+385	Berufe in der Tierpflege (s.s.T.)	67.2918572736	1158	11582	32.7081427264	2186.0	Stallmeister	Stallmeisterin
+386	Berufe im Gleisbau	0.642715886618	3223	32232	99.3572841134	6068.0	Gleisbauer	Gleisbauerin
+387	Berufe handwerkl.Metall-,Glockengießerei	4.20514511873	2414	24142	95.7948548813	6064.0	Zinngießer	Zinngießerin
+388	Gewässer-Immissionsschutz,Abfallbeauftr.	26.1261261261	4232	42324	73.8738738739	555.0	Gewässerschutzbeauftragter	Gewässerschutzbeauftragte
+389	Berufe in der Glasveredelung	22.984008166	2134	21342	77.015991834	11756.0	Glasschneider	Glasschneiderin
+390	Berufe in der Raumausstattung	40.0455860437	9323	93232	59.9544139563	11407.0	Raumausstatter	Raumausstatterin
+391	Berufe in der Werkzeugtechnik	3.10172465159	2452	24522	96.8982753484	90627.0	Werkzeugmacher	Werkzeugmacherin
+392	Verlags- und Medienkaufleute (o.S.)	65.0971858153	9230	92302	34.9028141847	20219.0	Medienkaufmann	Medienkauffrau
+393	Berufe im Uhrmacherhandwerk	31.7169069463	2453	24532	68.2830930537	3052.0	Uhrmacher	Uhrmacherin
+394	Berufe in der Physik (o.S.)	16.2575709276	4140	41404	83.7424290724	9411.0	Physiker	Physikerin
+395	Berufe im Buchhandel	83.0677624958	6251	62512	16.9322375042	11924.0	Buchhändler	Buchhändlerin
+396	Berufe in der Schuhherstellung	37.8797535585	2833	28332	62.1202464415	9414.0	Schuhfertiger	Schuhfertigerin
+397	Berufe im chemisch-techn. Laboratorium	59.1680426246	4132	41322	40.8319573754	72071.0	Chemielaborant	Chemielaborantin
+398	Berufe pharmazeutisch-techn. Assistenz	96.8602491956	8182	81822	3.13975080443	70547.0	Apothekerassistent	Apothekerassistentin
+399	Berufe in der Fleischverarbeitung	13.9570504204	2923	29232	86.0429495796	63982.0	Kopfschlächter	Kopfschlächterin
+400	BerufeSchauspielTanz,Bewegungskunst(ssT)	41.5165165165	9428	94283	58.4834834835	1332.0	Dompteur	Dompteuse
+401	Schiffsführer Binnen-,Hafenverkehr	5.69221386461	5242	52422	94.3077861354	4919.0	Ewerführer	Ewerführerin
+402	Aufsicht,Führung-TheaterFilm,Fernsehprod	40.1872883044	9449	94494	59.8127116956	5019.0	Künstlerischer Leiter	Künstlerische Leiterin
+403	Berufe in der Badeaufsicht	39.2836746349	5314	53142	60.7163253651	12257.0	Fachangestellter für Bäderbetriebe	Fachangestellte für Bäderbetriebe
+404	Berufe tech.Forschung, Entwicklung (ssT)	19.2801844836	2718	27184	80.7198155164	12142.0	Patentingenieur	Patentingenieurin
+405	Berufe in der Tierwirtschaft (s.s.T.)	31.1584553928	1128	11283	68.8415446072	751.0	Futtermeister	Futtermeisterin
+406	Berufe in der Pelzbe- und -verarbeitung	65.6862745098	2834	28342	34.3137254902	306.0	Kürschner	Kürschnerin
+407	Berufe in der Augenoptik	76.7466540888	8252	82522	23.2533459112	33922.0	Augenoptiker	Augenoptikerin
+408	Berufe in der Altenpflege (o.S.)	85.0894719246	8210	82101	14.9105280754	502504.0	Altenpflegehelfer	Altenpflegehelferin
+409	Autoren/Autorinnen, Schriftsteller/innen	47.7832512315	9243	92434	52.2167487685	812.0	Literat	Literatin
+410	Berufe für Stuckateurarbeiten	0.919488674591	3322	33222	99.0805113254	17836.0	Stuckateur	Stuckateurin
+411	Tätowierer/innen und Piercer/innen	41.125	8233	82332	58.875	800.0	Tätowierer	Tätowiererin
+412	Berufe im Verkauf (KFZ, Zweirad,Zubehör)	21.0800227373	6227	62272	78.9199772627	79165.0	Automobilkaufmann	Automobilkauffrau
+413	Berufe Gesundheits-, Krankenpflege (o.S)	84.9596721778	8130	81302	15.0403278222	807755.0	Gesundheits- und Krankenpfleger	Gesundheits- und Krankenpflegerin
+414	Servicefachkräfte Straßen-,Schienenverk.	54.3373493976	5141	51412	45.6626506024	14110.0	Schlafwagenschaffner	Schlafwagenschaffnerin
+415	Berufe in der Steuerberatung	76.2525479477	7230	72302	23.7474520523	172688.0	Steuerfachangestellter	Steuerfachangestellte
+416	Berufe im Hotelservice	79.2351889413	6322	63222	20.7648110587	141499.0	Nachtportier	Nachtportierin
+417	Berufe handwerkl.Metall-,Glockengießerei	4.20514511873	2414	24142	95.7948548813	6064.0	Metall- und Glockengießer	Metall- und Glockengießerin
+418	Berufe i.d. Konstruktion u. im Gerätebau	12.2194707453	2722	27223	87.7805292547	102975.0	Konstrukteur	Konstrukteurin
+419	Führung - Human- und Zahnmedizin	24.865650882	8149	81494	75.134349118	31634.0	Chefarzt	Chefärztin
+420	Lehrkräfte allgemeinbild. Schulen (ssT)	75.0819356083	8418	84184	24.9180643917	10374.0	Hauslehrer	Hauslehrerin
+421	Berufe im Tiefbau (o.S.)	2.56153858974	3220	32202	97.4384614103	60003.0	Tiefbaufacharbeiter	Tiefbaufacharbeiterin
+422	Berufe in der Zimmerei	1.21315420092	3332	33322	98.7868457991	49870.0	Schiffszimmerer	Schiffszimmerin
+423	Berufe in der Bildhauerei	38.6581469649	9331	93312	61.3418530351	313.0	Steinbildhauer	Steinbildhauerin
+424	Kunsthandw.Schmuckherst.,Edelsteinbearb.	60.9995903318	9352	93522	39.0004096682	4882.0	Diamantschleifer	Diamantschleiferin
+425	Berufe im Orgel- und Harmoniumbau	9.93690851735	9365	93652	90.0630914826	634.0	Orgel- und Harmoniumbauer	Orgel- und Harmoniumbauerin
+426	Führung - Hochschullehre und -forschung	29.7738693467	8439	84394	70.2261306533	796.0	Präsident	Präsidentin
+427	Berufe landwirtsch.-techn. Laboratorium	70.0948003447	1113	11132	29.9051996553	3481.0	Landwirtschaftlich-technischer Assistent	Landwirtschaftlich-technische Assistentin
+428	Berufe im Rohrleitungsbau	0.269944765148	3432	34322	99.7300552349	24079.0	Rohrleitungsbauer	Rohrleitungsbauerin
+429	Berufe im Vertrieb (außer IKT)	34.1969853683	6112	61123	65.8030146317	462146.0	Mitarbeiter	Mitarbeiterin
+430	BerufeSchauspielTanz,Bewegungskunst(ssT)	41.5165165165	9428	94283	58.4834834835	1332.0	Artist	Artistin
+431	Berufe Veranstaltungs- und Bühnentechnik	12.5905136121	9451	94513	87.4094863879	17815.0	Lichtgestalter	Lichtgestalterin
+432	Wasserstraßen- und Brückenwärter/innen	7.47126436782	5124	51242	92.5287356322	522.0	Schleusenwärter	Schleusenwärterin
+433	Berufe in der Fototechnik	57.881773399	2331	23312	42.118226601	4060.0	Fotolaborant	Fotolaborantin
+434	Berufe in der Bauelektrik	1.46126422781	2621	26212	98.5387357722	224121.0	Elektromonteur	Elektromonteurin
+435	Aufsicht-Veranstaltungs-Kamera-,Tontech.	19.2571659265	9459	94593	80.7428340735	2477.0	Bühnenmeister	Bühnenmeisterin
+436	Berufe im Musikinstrumentenbau (s.s.T.)	33.0882352941	9368	93682	66.9117647059	136.0	Handzuginstrumentenmacher	Handzuginstrumentenmacherin
+437	Berufe im Gerichtsvollzug	27.2030651341	5323	53232	72.7969348659	1305.0	Vollziehungsbeamter	Vollziehungsbeamtin
+438	Redakteure/innen, Journalisten/innen	50.5608415413	9241	92414	49.4391584587	71678.0	Journalist	Journalistin
+439	Berufe i.d. spanenden Metallbearbeitung	2.73770282356	2423	24232	97.2622971764	195675.0	Zerspanungsmechaniker	Zerspanungsmechanikerin
+440	Rechtsanwälte/-anwältinnen	46.2251399884	7313	73134	53.7748600116	31074.0	Rechtsanwalt	Rechtsanwältin
+441	Verwalt. Berufe Sozial-,Gesundheitswesen	86.944437789	7322	73223	13.055562211	83474.0	Sozialmanager	Sozialmanagerin
+442	Berufe i.d. Energie-, Kraftwerkstechnik	6.16331126919	2623	26233	93.8366887308	36409.0	Reaktorfahrer	Reaktorfahrerin
+443	Berufe in der Luft- und Raumfahrttechnik	7.47075732134	2523	25232	92.5292426787	35137.0	Fluggerätmechaniker	Fluggerätmechanikerin
+444	Lehrkräfte in der Sekundarstufe	70.4238331399	8412	84124	29.5761668601	142155.0	Klassenlehrer	Klassenlehrerin
+445	Berufe kaufm.,techn.Betriebswirtsch.(oS)	62.1600224791	7130	71303	37.8399775209	935981.0	Wirtschaftsfachwirt	Wirtschaftsfachwirtin
+446	Berufe im Rettungsdienst	21.3708058503	8134	81342	78.6291941497	52305.0	Rettungssanitäter	Rettungssanitäterin
+447	Berufe in der Papierherstellung	5.19575856444	2311	23112	94.8042414356	12260.0	Papiertechnologe	Papiertechnologin
+448	Berufe Informations,Telekommunikationst.	11.4381605553	2631	26312	88.5618394447	191884.0	Büromaschinenmechaniker	Büromaschinenmechanikerin
+449	Berufe in der Textilherstellung	34.0723731095	2812	28122	65.9276268905	12629.0	Textilgestalter im Handwerk	Textilgestalterin im Handwerk
+450	Berufe in der Physik (s.s.T.)	13.6886395512	4148	41484	86.3113604488	7130.0	Medizinphysiker	Medizinphysikerin
+451	Berufe im Objekt-,Werte-, Personenschutz	31.0871031175	5311	53112	68.9128968825	212059.0	Wächter	Wächterin
+452	Berufe technische Mediengestaltung (ssT)	44.0740740741	2328	23282	55.9259259259	270.0	Chemigraf	Chemigrafin
+453	Berufe Informations,Telekommunikationst.	11.4381605553	2631	26312	88.5618394447	191884.0	Funkelektroniker	Funkelektronikerin
+454	Berufe in der Landwirtschaft (s.s.T.)	34.1637010676	1118	11184	65.8362989324	3091.0	Entwicklungshelfer	Entwicklungshelferin
+455	Berufe Heilerziehungspflege, Sonderpäd.	68.3097468018	8313	83134	31.6902531982	169235.0	Arbeitserzieher	Arbeitserzieherin
+456	Straßen- und Tunnelwärter/innen	2.21180663155	5121	51212	97.7881933685	25816.0	Fahrbahnmarkierer	Fahrbahnmarkiererin
+457	Berufe i.d. Bekleidungsherstellung	84.4050647718	2822	28222	15.5949352282	34197.0	Modeschneider	Modeschneiderin
+458	Berufe in der Werkzeugtechnik	3.10172465159	2452	24522	96.8982753484	90627.0	Werkzeugmechaniker	Werkzeugmechanikerin
+459	Berufe in der Soziologie	60.7961399276	9132	91324	39.2038600724	2487.0	Soziologe	Soziologin
+460	Technische Konfektionäre, Segelmacher	54.8604292327	2823	28232	45.1395707673	7129.0	Technischer Konfektionär	Technische Konfektionärin
+461	Berufe in der Chemie- und Pharmatechnik	26.7838353922	4131	41312	73.2161646078	179627.0	Pharmakant	Pharmakantin
+462	Berufe in Wirtschaftsprüfung	38.28113879	7224	72244	61.71886121	28100.0	Treuhänder	Treuhänderin
+463	Dirigenten/Dirigentinnen	27.8372591006	9413	94134	72.1627408994	934.0	Dirigent	Dirigentin
+464	Technische Zeichner/innen	55.2902652383	2721	27212	44.7097347617	106885.0	Technischer Zeichner	Technische Zeichnerin
+465	Berufe kaufm.,techn.Betriebswirtsch.(oS)	62.1600224791	7130	71302	37.8399775209	935981.0	Industriekaufmann	Industriekauffrau
+466	Orthoptisten/Orthoptistinnen	95.4093343535	8113	81132	4.59066564652	1307.0	Orthoptist	Orthoptistin
+467	Dolmetscher/innen und Übersetzer/innen	69.8481848185	7142	71424	30.1518151815	7575.0	Dolmetscher	Dolmetscherin
+468	Rechtsanwälte/-anwältinnen	46.2251399884	7313	73134	53.7748600116	31074.0	Syndikus-Anwalt	Syndikus-Anwältin
+469	Berufe Grafik-Kommunikations-,Fotodesign	48.9152458611	2322	23223	51.0847541389	40470.0	Grafiker	Grafikerin
+470	Berufe Bauwerkserhaltung und -erneuerung	13.1957960296	3115	31152	86.8042039704	2569.0	Denkmaltechnischer Assistent	Denkmaltechnische Assistentin
+471	Sänger/innen	48.1166205576	9412	94124	51.8833794424	4699.0	Liedermacher	Liedermacherin
+472	Piloten und Verkehrsflugzeugführer	6.46539170954	5231	52313	93.5346082905	10301.0	Testpilot	Testpilotin
+473	Berufe kunsthand.GlasKeram,Porzellanmal.	75.4844144903	9342	93422	24.5155855097	1187.0	Industriekeramiker Dekorationstechnik	Industriekeramikerin Dekorationstechnik
+474	Medizin-tech. Berufe Funktionsdiagnostik	78.6312445856	8122	81222	21.3687554144	3463.0	Medizinisch-technischer Assistent	Medizinisch-technische Assistentin
+475	Berufe in der Pharmazie (s.s.T.)	57.8807706289	8188	81883	42.1192293711	27510.0	Pharmareferent	Pharmareferentin
+476	Berufe Dokumentations,Informationsdienst	62.5742942051	7333	73332	37.4257057949	10768.0	Fachangestellter für Medien- und Informationsdienste	Fachangestellte für Medien- und Informationsdienste
+477	Berufe in der Gebäudereinigung	61.5522574535	5411	54112	38.4477425465	99249.0	Gebäudereiniger	Gebäudereinigerin
+478	Berufe in der Fototechnik	57.881773399	2331	23312	42.118226601	4060.0	Film- und Videolaborant	Film- und Videolaborantin
+479	Berufe in der Architektur	46.4820056611	3111	31114	53.5179943389	59352.0	Architekt	Architektin
+480	Kunststoff,Kautschukherst.,-verarb.(ssT)	20.1141507577	2218	22184	79.8858492423	5081.0	Klebfachingenieur	Klebfachingenieurin
+481	Berufe in der Chemie (s.s.T.)	45.3470549595	4138	41384	54.6529450405	4567.0	Lebensmittelchemiker	Lebensmittelchemikerin
+482	Berufe im Archivwesen	67.26062468	7331	73312	32.73937532	9765.0	Registrator	Registratorin
+483	Tänzer/innen, Choreografen/innen	53.1545741325	9422	94224	46.8454258675	2536.0	Ballettmeister	Ballettmeisterin
+484	Aufsicht - Ver- und Entsorgung	2.55758807588	3439	34393	97.4424119241	5904.0	Wassermeister	Wassermeisterin
+485	Berufe Maschinenbau-, Betriebstechn.(oS)	13.3411949814	2510	25102	86.6588050186	611407.0	Mechaniker	Mechanikerin
+486	Berufe i.d. schleifenden Metallbearbeit.	6.28800778399	2422	24222	93.711992216	32888.0	Metallschleifer	Metallschleiferin
+487	Berufe in der Luft- und Raumfahrttechnik	7.47075732134	2523	25232	92.5292426787	35137.0	Leichtflugzeugbauer	Leichtflugzeugbauerin
+488	Berufe in der Religionspädagogik	77.6637554585	8442	84424	22.3362445415	4580.0	Katechet	Katechetin
+489	Tourismuskaufleute	82.1267850182	6311	63112	17.8732149818	56442.0	Touristikassistent	Touristikassistentin
+490	Lektoren/innen	72.8127671701	9242	92424	27.1872328299	3509.0	Lektor	Lektorin
+491	Verwalt. Berufe Sozial-,Gesundheitswesen	86.944437789	7322	73222	13.055562211	83474.0	Sekretär	Sekretärin
+492	Tanzlehrer/innen	67.9136690647	8453	84533	32.0863309353	2085.0	Tanzlehrer	Tanzlehrerin
+493	FlechtwerkgestalterBürsten-,Pinselmacher	59.0717299578	2235	22352	40.9282700422	1659.0	Korbmacher	Korbmacherin
+494	Gewässer-Immissionsschutz,Abfallbeauftr.	26.1261261261	4232	42324	73.8738738739	555.0	Abfallbeauftragter	Abfallbeauftragte
+495	Kunsthandw.Schmuckherst.,Edelsteinbearb.	60.9995903318	9352	93522	39.0004096682	4882.0	Goldschmied	Goldschmiedin
+496	Hochbau	1.2849391531	321	32132	98.7150608469	423522.0	Feuerungs- und Schornsteinbauer	Feuerungs- und Schornsteinbauerin
+497	Berufe Digital-, Printmediengestaltung	50.1462693284	2321	23212	49.8537306716	62214.0	Formstecher	Formstecherin
+498	Berufe im Einkauf	49.0421123053	6111	61113	50.9578876947	115097.0	Einkäufer	Einkäuferin
+499	Berufe technisch. Schiffsverkehrsbetrieb	3.8146208153	5113	51132	96.1853791847	8782.0	Nautischer Offiziersassistent	Nautische Offiziersassistentin
+500	Schiffsführer Binnen-,Hafenverkehr	5.69221386461	5242	52423	94.3077861354	4919.0	Kanalsteurer	Kanalsteurerin
+501	Berufe pharmazeutisch-techn. Assistenz	96.8602491956	8182	81822	3.13975080443	70547.0	Pharmazeutisch-technischer Assistent	Pharmazeutisch-technische Assistentin
+502	Berufe in der Wirtschaftsinformatik	25.5314765985	4311	43112	74.4685234015	24272.0	Datenverarbeitungskaufmann	Datenverarbeitungskauffrau
+503	Berufe in der Fotografie	64.1671278362	2332	23322	35.8328721638	7228.0	Fotograf	Fotografin
+504	Berufe im Hochbau (o.S.)	2.24141793831	3210	32102	97.7585820617	200855.0	Hochbaufacharbeiter	Hochbaufacharbeiterin
+505	Berufe in der Hauswirtschaft	93.6919095072	8321	83212	6.30809049281	190866.0	Diener	Dienerin
+506	Berufe in der Programmierung	13.505193109	4342	43423	86.494806891	32158.0	Anwendungsprogrammierer	Anwendungsprogrammiererin
+507	Dolmetscher/innen und Übersetzer/innen	69.8481848185	7142	71423	30.1518151815	7575.0	Schriftdolmetscher	Schriftdolmetscherin
+508	Berufe Informations,Telekommunikationst.	11.4381605553	2631	26312	88.5618394447	191884.0	Fernmeldehandwerker	Fernmeldehandwerkerin
+509	Berufe in der Physiotherapie	77.4982405505	8171	81713	22.5017594495	140669.0	Physiotherapeut	Physiotherapeutin
+510	Berufe in der Glaserei	3.06442138242	3334	33342	96.9355786176	10214.0	Glaser	Glaserin
+511	Berufe Maschinenbau,Betriebstechn.(ssT)	3.68870499164	2518	25182	96.3112950084	22718.0	Mühlenbauer	Mühlenbauerin
+512	Berufe in der Hauswirtschaft	93.6919095072	8321	83212	6.30809049281	190866.0	Butler	Butlerin
+513	Berufe im Glasapparatebau	21.9696969697	2132	21322	78.0303030303	396.0	Glasapparatebauer	Glasapparatebauerin
+514	Redakteure/innen, Journalisten/innen	50.5608415413	9241	92413	49.4391584587	71678.0	Redakteur	Redakteurin
+515	Straßen- und Tunnelwärter/innen	2.21180663155	5121	51212	97.7881933685	25816.0	Straßenwärter	Straßenwärterin
+516	Berufe in der Kameratechnik	16.156507852	9452	94522	83.843492148	3757.0	Filmvorführer	Filmvorführerin
+517	Berufe in Werbung und Marketing	54.6682417799	9211	92113	45.3317582201	152370.0	Werbetexter	Werbetexterin
+518	Berufe in der Vermessungstechnik	27.0417875979	3121	31212	72.9582124021	32043.0	Vermessungstechniker	Vermessungstechnikerin
+519	Führung - Hochschullehre und -forschung	29.7738693467	8439	84394	70.2261306533	796.0	Prorektor	Prorektorin
+520	Berufe im Metallbau	2.2858399983	2441	24413	97.7141600017	281822.0	Restaurator	Restauratorin
+521	Sportlehrer/innen (o.S.)	44.6119065561	8450	84503	55.3880934439	15924.0	Sportlehrer	Sportlehrerin
+522	Berufe Informations,Telekommunikationst.	11.4381605553	2631	26312	88.5618394447	191884.0	Datentechnischer Assistent	Datentechnische Assistentin
+523	Berufe in der Bauwerksabdichtung	0.942760942761	3323	33232	99.0572390572	2970.0	Bauwerksabdichter	Bauwerksabdichterin
+524	Komponisten/Komponistinnen	31.8181818182	9414	94144	68.1818181818	22.0	Arrangeur	Arrangeurin
+525	Berufe Maschinenbau-, Betriebstechn.(oS)	13.3411949814	2510	25102	86.6588050186	611407.0	Industriemechaniker	Industriemechanikerin
+526	Berufe in der Wirtschaftsinformatik	25.5314765985	4311	43113	74.4685234015	24272.0	Betriebsinformatiker	Betriebsinformatikerin
+527	Berufe in der Physiotherapie	77.4982405505	8171	81712	22.5017594495	140669.0	Masseur und medizinischer Bademeister	Masseurin und medizinische Bademeisterin
+528	Berufe im Vertrieb (außer IKT)	34.1969853683	6112	61124	65.8030146317	462146.0	Vertriebsingenieur	Vertriebsingenieurin
+529	Industriekeramik (Verfahren,Anlagentech)	25.5032397408	2141	21412	74.4967602592	11575.0	Industriekeramiker Anlagentechnik	Industriekeramikerin Anlagentechnik
+530	Berufe i. d. Hochschullehre, -forschung	42.812488391	8430	84304	57.187511609	188431.0	Professor	Professorin
+531	Berufe in der Biologie (Humanbiologie)	64.447695684	4127	41274	35.552304316	1367.0	Biologe	Biologin
+532	Pflasterer/innen, Steinsetzer/innen	0.528109028961	3221	32212	99.471890971	5870.0	Pflasterer	Pflasterin
+533	Berufe kunsthand.GlasKeram,Porzellanmal.	75.4844144903	9342	93422	24.5155855097	1187.0	Porzellanmaler	Porzellanmalerin
+534	Aufsicht,Führung-Objekt-,Brandschutz	14.3865948534	5319	53193	85.6134051466	8355.0	Schwimmmeister	Schwimmmeisterin
+535	Berufe Schilder-,Lichtreklameherstellung	34.2415730337	9354	93542	65.7584269663	3560.0	Schilder- und Lichtreklamehersteller	Schilder- und Lichtreklameherstellerin
+536	Berufe Umweltschutzverwaltung, -beratung	41.0920869968	4231	42313	58.9079130032	10805.0	Energieberater	Energieberaterin
+537	Berufe in der Lagerwirtschaft	24.9768310941	5131	51312	75.0231689059	1265705.0	Fachlagerist	Fachlageristin
+538	Aufsicht, Führung - Speisenzubereitung	18.02864773	2939	29394	81.97135227	20595.0	Küchenchef	Küchenchefin
+539	Verkauf drogerie-,apothekenübliche Waren	96.3538976351	6241	62412	3.64610236486	89054.0	Apothekenfacharbeiter	Apothekenfacharbeiterin
+540	Schauspieler/innen	44.0665569574	9421	94214	55.9334430426	5469.0	Schauspieler	Schauspielerin
+541	Berufe in der Bild- und Tontechnik	26.5236833389	9453	94532	73.4763166611	12076.0	Tonassistent	Tonassistentin
+542	Berufe in der Fototechnik	57.881773399	2331	23312	42.118226601	4060.0	Fotomedienlaborant	Fotomedienlaborantin
+543	Berufe in der Erziehungswissenschaft	74.5593544277	9133	91334	25.4406455723	37672.0	Kindheitspädagoge	Kindheitspädagogin
+544	Berufe in der Fahrzeuglackierung	6.22029488291	2221	22212	93.7797051171	28825.0	Vorarbeiter	Vorarbeiterin
+545	Berufe im Beton- und Stahlbetonbau	0.723795907426	3211	32112	99.2762040926	33573.0	Betonstahlbieger und -flechter	Betonstahlbiegerin und -flechterin
+546	Aufsicht - Elektrotechnik	1.19304480264	2639	26393	98.8069551974	15758.0	Elektromechanikermeister	Elektromechanikermeisterin
+547	Berufe i.d. Bekleidungsherstellung	84.4050647718	2822	28222	15.5949352282	34197.0	Zuschneider	Zuschneiderin
+548	Berufe in der Feinoptik	42.1704511943	2136	21362	57.8295488057	3391.0	Feinoptiker	Feinoptikerin
+549	Berufe in der Biologie (Zoologie)	46.332046332	4125	41254	53.667953668	259.0	Zoologe	Zoologin
+550	Angehörige geistl. Orden, Mutterhäuser	62.5711035267	8333	83333	37.4288964733	879.0	Prior	Priorin
+551	Berufe in der Kameratechnik	16.156507852	9452	94523	83.843492148	3757.0	Kameramann	Kamerafrau
+552	Aufsicht,Führung-Produktionsplan,steuer.	7.61356849122	2739	27393	92.3864315088	145661.0	Industriemeister	Industriemeisterin
+553	Führung - Verlags- und Medienwirtschaft	32.6357466063	9239	92394	67.3642533937	1768.0	Musikverleger	Musikverlegerin
+554	Berufe im Rettungsdienst	21.3708058503	8134	81342	78.6291941497	52305.0	Betriebssanitäter	Betriebssanitäterin
+555	Hotelkaufleute	71.6330078909	6321	63212	28.3669921091	7477.0	Hotelkaufmann	Hotelkauffrau
+556	Berufe für Post- und Zustelldienste	47.8940392206	5132	51322	52.1059607794	205963.0	Postjungbote	Postjungbotin
+557	Autoren/Autorinnen, Schriftsteller/innen	47.7832512315	9243	92434	52.2167487685	812.0	Drehbuchautor	Drehbuchautorin
+558	Brauer/innen und Mälzer/innen	3.84404173531	2911	29112	96.1559582647	5463.0	Brauer und Mälzer	Brauerin und Mälzerin
+559	Maschinen- und Anlagenführer/innen	12.501779731	2512	25122	87.498220269	210706.0	Maschinenführer	Maschinenführerin
+560	Berufe im Verkauf (Garten, Heimwerk.)	40.2721885991	6226	62262	59.7278114009	63118.0	Verkaufsgärtner	Verkaufsgärtnerin
+561	Berufe im Aus- und Trockenbau (o.S.)	1.37884208602	3330	33302	98.621157914	38293.0	Trockenbaumonteur	Trockenbaumonteurin
+562	Berufe in der Nutztierhaltung	43.2111947848	1121	11212	56.7888052152	17794.0	Tierwirt	Tierwirtin
+563	Berufe im Kultur- und Wasserbau	6.43323607058	3226	32262	93.5667639294	7197.0	Wasserbauer	Wasserbauerin
+564	Assistenz Rechtsanwaltskanzlei,Notariat	94.3062952197	7311	73112	5.69370478029	94262.0	Rechtsanwaltsfachangestellter	Rechtsanwaltsfachangestellte
+565	Berufe Gesundheits-, Krankenpflege (o.S)	84.9596721778	8130	81301	15.0403278222	807755.0	Heilgehilfe	Heilgehilfin
+566	Berufe Theater-,Film-, Fernsehprod.(ssT)	60.3174603175	9448	94482	39.6825396825	945.0	Souffleur	Souffleuse
+567	Technische Zeichner/innen	55.2902652383	2721	27212	44.7097347617	106885.0	Technischer Systemplaner	Technische Systemplanerin
+568	Sportlehrer/innen (s.s.T.)	47.4358974359	8458	84583	52.5641025641	3198.0	Segellehrer	Segellehrerin
+569	Berufe i.d. Diät- und Ernährungstherapie	96.07009406	8176	81762	3.92990593996	7761.0	Diätassistent	Diätassistentin
+570	Berufe Estrich- und Terrazzoverlegung	0.557103064067	3312	33122	99.4428969359	4308.0	Bodenleger	Bodenlegerin
+571	Berufe Gesundheits-, Krankenpflege (o.S)	84.9596721778	8130	81302	15.0403278222	807755.0	Krankenpfleger	Krankenschwester
+572	Schifffahrtskaufleute	42.1270978691	5165	51652	57.8729021309	5303.0	Schifffahrtskaufmann	Schifffahrtskauffrau
+573	Berufe in der Justizverwaltung	93.3804860355	7325	73253	6.61951396445	16542.0	Amtsanwalt	Amtsanwältin
+574	Aufsicht,Führung-Unternehmensorg,strateg	25.9924816691	7139	71393	74.0075183309	451696.0	Projektleiter	Projektleiterin
+575	Aufsicht - Hochbau	1.0979692033	3219	32193	98.9020307967	22405.0	Polier	Polierin
+576	Berufe kaufm.,techn.Betriebswirtsch.(oS)	62.1600224791	7130	71303	37.8399775209	935981.0	Technischer Fachwirt	Technische Fachwirtin
+577	Redakteure/innen, Journalisten/innen	50.5608415413	9241	92413	49.4391584587	71678.0	Bildredakteur	Bildredakteurin
+578	Industriekeramik (Modelltechnik)	16.735966736	2142	21422	83.264033264	962.0	Figurenkeramformer	Figurenkeramformerin
+579	Zahnärzte/innen, Kieferorthopäden/innen	66.0346097202	8147	81474	33.9653902798	16296.0	Zahnarzt	Zahnärztin
+580	Berufe in der Bildhauerei	38.6581469649	9331	93312	61.3418530351	313.0	Steinmetz	Steinmetzin
+581	Berufe im Gerüstbau	0.170745589072	3216	32162	99.8292544109	12299.0	Gerüstbauer	Gerüstbauerin
+582	Berufe in der Buchhaltung	79.0444149597	7221	72213	20.9555850403	285647.0	Buchhalter	Buchhalterin
+583	Berufe in der Geologie	30.4119850187	4212	42124	69.5880149813	5340.0	Geologe	Geologin
+584	Berufe Desinfektion,Schädlingsbekämpfung	13.1873479319	5334	53342	86.8126520681	2055.0	Desinfektor	Desinfektorin
+585	Berufe im Modellbau	10.0019805902	2723	27232	89.9980194098	10098.0	Technischer Modellbauer	Technische Modellbauerin
+586	Redakteure/innen, Journalisten/innen	50.5608415413	9241	92413	49.4391584587	71678.0	Online-Redakteur	Online-Redakteurin
+587	Berufe Überwachung Schiffsverkehrsbetr.	6.25990491284	5154	51543	93.7400950872	1262.0	Lotse	Lotsin
+588	Berufe im chemisch-techn. Laboratorium	59.1680426246	4132	41322	40.8319573754	72071.0	Laborant	Laborantin
+589	Hotelkaufleute	71.6330078909	6321	63212	28.3669921091	7477.0	Fachmann	Fachfrau
+590	Berufe in der klinischen Psychologie	77.9567882775	8162	81623	22.0432117225	26752.0	Psychologisch-technischer Assistent	Psychologisch-technische Assistentin
+591	Museumsberufe (o.S.)	67.3256247669	9470	94704	32.6743752331	2681.0	Kunsthistoriker	Kunsthistorikerin
+592	Berufe im Glasapparatebau	21.9696969697	2132	21322	78.0303030303	396.0	Thermometermacher	Thermometermacherin
+593	Berufe in der Textiltechnik (o.S.)	43.0767459267	2810	28101	56.9232540733	17369.0	Färber	Färberin
+594	Tiermedizinische Fachangestellte	90.8068340731	8114	81142	9.19316592692	16447.0	Tiermedizinischer Fachangestellter	Tiermedizinische Fachangestellte
+595	Berufe Buchbinderei, Druckweiterverarb.	36.6999465145	2342	23422	63.3000534855	11218.0	Buchbinder	Buchbinderin
+596	TechBetriebEisenb.Luft,Schiffsverk.(ssT)	45.3608247423	5118	51182	54.6391752577	388.0	Funker	Funkerin
+597	Berufe in der Baustoffprüfung	23.0246602919	4143	41432	76.9753397081	3974.0	Baustoffprüfer	Baustoffprüferin
+598	Berufe technisch. Schiffsverkehrsbetrieb	3.8146208153	5113	51132	96.1853791847	8782.0	Bootsmann	Bootsfrau
+599	Berufe im Beton- und Stahlbetonbau	0.723795907426	3211	32112	99.2762040926	33573.0	Beton- und Stahlbetonbauer	Beton- und Stahlbetonbauerin
+600	Berufe in der Zweiradtechnik	4.72055030095	2525	25252	95.2794496991	11630.0	Fahrradmonteur	Fahrradmonteurin
+601	Hotelkaufleute	71.6330078909	6321	63212	28.3669921091	7477.0	Kaufmannsgehilfe	Kaufmannsgehilfin
+602	Berufe in der Metallbearbeitung (o.S.)	18.4493427603	2420	24202	81.5506572397	396735.0	Teilezurichter	Teilezurichterin
+603	Berufe im chemisch-techn. Laboratorium	59.1680426246	4132	41322	40.8319573754	72071.0	Textillaborant	Textillaborantin
+604	Berufe Veranstaltungs- und Bühnentechnik	12.5905136121	9451	94513	87.4094863879	17815.0	Beleuchter	Beleuchterin
+605	Berufe i.d. elektrischen Betriebstechnik	4.9236883504	2625	26252	95.0763116496	108699.0	Energieelektroniker	Energieelektronikerin
+606	Berufe im chemisch-techn. Laboratorium	59.1680426246	4132	41322	40.8319573754	72071.0	Stoffprüfer	Stoffprüferin
+607	Berufe im Objekt-,Werte-, Personenschutz	31.0871031175	5311	53112	68.9128968825	212059.0	Luftsicherheitsbeauftragter	Luftsicherheitsbeauftragte
+608	Berufe Unternehmensorga.,strategie (ssT)	44.2377678932	7138	71383	55.7622321068	4946.0	Betriebswirt	Betriebswirtin
+609	Zahnmedizinische Fachangestellte	99.4084063138	8111	81113	0.591593686223	193545.0	Dentalhygieniker	Dentalhygienikerin
+610	Berufe Anlagen-, Behälter-, Apparatebau	3.29425467804	3434	34342	96.705745322	39493.0	Kupferschmied	Kupferschmiedin
+611	Berufe im Bibliothekswesen	81.5969741542	7332	73324	18.4030258458	23795.0	Bibliothekar	Bibliothekarin
+612	Berufe i.d. Kinderbetreuung, -erziehung	91.0178488053	8311	83112	8.9821511947	732486.0	Kinderpfleger	Kinderpflegerin
+613	Berufe in der Drucktechnik	22.5987478195	2341	23412	77.4012521805	73951.0	Medientechnologe Siebdruck	Medientechnologin Siebdruck
+614	Berufe in der Pelzbe- und -verarbeitung	65.6862745098	2834	28342	34.3137254902	306.0	Rauchwarenzurichter	Rauchwarenzurichterin
+615	Berufe Arbeitssicherh. Sicherheitstech.	13.1710869017	5312	53123	86.8289130983	35707.0	Sicherheitsbeauftragter	Sicherheitsbeauftragte
+616	Berufe im Rettungsdienst	21.3708058503	8134	81342	78.6291941497	52305.0	Disponent	Disponentin
+617	Berufe i. d. Hochschullehre, -forschung	42.812488391	8430	84304	57.187511609	188431.0	Lehrbeauftragter	Lehrbeauftragte
+618	Berufe im Brandschutz	3.44094865995	5313	53132	96.5590513401	14589.0	Werkfeuerwehrmann	Werkfeuerwehrfrau
+619	Straßen- und Tunnelwärter/innen	2.21180663155	5121	51212	97.7881933685	25816.0	Tunnelwärter	Tunnelwärterin
+620	Fremdsprachensekretäre,-korrespondenten	89.5453170683	7141	71413	10.4546829317	9919.0	Euro-Fremdsprachenkorrespondent	Euro-Fremdsprachenkorrespondentin
+621	Berufe in der Softwareentwicklung	12.3967931919	4341	43412	87.6032068081	141948.0	Mathematisch-technischer Softwareentwickler	Mathematisch-technische Softwareentwicklerin
+622	Berufe tech. Produktionsplan.,-steuerung	15.718731148	2730	27302	84.281268852	230413.0	Produktionstechnologe	Produktionstechnologin
+623	BerufeSchauspielTanz,Bewegungskunst(ssT)	41.5165165165	9428	94283	58.4834834835	1332.0	Pantomime	Pantomimin
+624	Berufe im Ofen- und Luftheizungsbau	1.59872102318	3422	34222	98.4012789768	2502.0	Ofenbauer	Ofenbauerin
+625	Kunsthandw.Schmuckherst.,Edelsteinbearb.	60.9995903318	9352	93522	39.0004096682	4882.0	Edelsteingraveur	Edelsteingraveurin
+626	Berufe Informations,Telekommunikationst.	11.4381605553	2631	26312	88.5618394447	191884.0	Facharbeiter für Nachrichtentechnik	Facharbeiterin für Nachrichtentechnik
+627	Berufe Metalloberflächenbehandlung (o.S)	12.6353874883	2430	24302	87.3646125117	42840.0	Galvaniseur	Galvaniseurin
+628	Berufe in der Erwachsenenbildung (o.S.)	51.7249764431	8440	84404	48.2750235569	32899.0	Dozent	Dozentin
+629	Berufe kunsthandwerkl. Metallgestaltung	14.0532544379	9351	93512	85.9467455621	676.0	Metallbildner	Metallbildnerin
+630	Maschinen-, Gerätezusammensetzer/innen	21.0325537037	2511	25112	78.9674462963	171962.0	Gerätezusammensetzer	Gerätezusammensetzerin
+631	Assistenz Rechtsanwaltskanzlei,Notariat	94.3062952197	7311	73112	5.69370478029	94262.0	Rechtsanwalts- und Notarfachangestellter	Rechtsanwalts- und Notarfachangestellte
+632	Berufe Digital-, Printmediengestaltung	50.1462693284	2321	23213	49.8537306716	62214.0	Mediengestalter	Mediengestalterin
+633	Berufe in der Personaldienstleistung	66.3964145433	7152	71522	33.6035854567	99290.0	Personaldisponent	Personaldisponentin
+634	Berufe nicht ärztliche Psychotherapie	78.1458251666	8163	81634	21.8541748334	5102.0	Kinder- und Jugendlichenpsychotherapeut	Kinder- und Jugendlichenpsychotherapeutin
+635	Berufe i.d. Bühnen- und Kostümbildnerei	70.9736680955	9461	94614	29.0263319045	3266.0	Kostümbildner	Kostümbildnerin
+636	Berufe i. d. Hochschullehre, -forschung	42.812488391	8430	84304	57.187511609	188431.0	Wissenschaftlicher Mitarbeiter	Wissenschaftliche Mitarbeiterin
+637	Berufe im Hotelservice	79.2351889413	6322	63221	20.7648110587	141499.0	Hoteldiener	Hoteldienerin
+638	Verlags- und Medienkaufleute (o.S.)	65.0971858153	9230	92302	34.9028141847	20219.0	Verlagskaufmann	Verlagskauffrau
+639	Führung - Hochschullehre und -forschung	29.7738693467	8439	84394	70.2261306533	796.0	Rektor	Rektorin
+640	Berufe physikalisch-techn. Laboratorium	32.4723846654	4141	41412	67.5276153346	6156.0	Physiklaborant	Physiklaborantin
+641	Apotheker, Pharmazeuten	83.8102088662	8180	81804	16.1897911338	37536.0	Fachapotheker	Fachapothekerin
+642	Aufsicht,Führung - Getränkeherstellung	4.35766836446	2919	29193	95.6423316355	1767.0	Braumeister	Braumeisterin
+643	Rechtsberatung,-sprechung,-ordnung (ssT)	57.9327818764	7318	73184	42.0672181236	26838.0	Wirtschaftsjurist	Wirtschaftsjuristin
+644	Versicherungskaufleute	53.568518232	7213	72133	46.431481768	193890.0	Versicherungsvertreter	Versicherungsvertreterin
+645	Kunsthandw.Schmuckherst.,Edelsteinbearb.	60.9995903318	9352	93522	39.0004096682	4882.0	Edelsteinschleifer	Edelsteinschleiferin
+646	Berufe im Holz-, Möbel-, Innenausbau	3.90146033877	2234	22342	96.0985396612	143049.0	Tischler	Tischlerin
+647	Zahnmedizinische Fachangestellte	99.4084063138	8111	81113	0.591593686223	193545.0	Zahnmedizinischer Fachassistent	Zahnmedizinische Fachassistentin
+648	Komiker/innen, Kabarettisten/innen	54.5454545455	9431	94313	45.4545454545	33.0	Clown	Clownin
+649	Apotheker, Pharmazeuten	83.8102088662	8180	81804	16.1897911338	37536.0	Pharmazeut	Pharmazeutin
+650	Geschäftsführer/innen und Vorstände	21.1018907961	7110	71104	78.8981092039	184737.0	Manager	Managerin
+651	Kunsthandw.Schmuckherst.,Edelsteinbearb.	60.9995903318	9352	93522	39.0004096682	4882.0	Juwelier	Juwelierin
+652	Berufe in der Theologie	30.0088759784	8331	83314	69.9911240216	12393.0	Pfarrer	Pfarrerin
+653	Aufsicht, Führung - Speisenzubereitung	18.02864773	2939	29393	81.97135227	20595.0	Küchenmeister	Küchenmeisterin
+654	Berufe in der Wirtschaftsinformatik	25.5314765985	4311	43112	74.4685234015	24272.0	Informatikkaufmann	Informatikkauffrau
+655	Nautische Schiffsoffiziere und Kapitäne	4.49203447375	5241	52414	95.5079655262	3829.0	Kapitän	Kapitänin
+656	Berufe in der Textilveredlung	20.9806780897	2814	28142	79.0193219103	5486.0	Produktveredler Textil	Produktveredlerin Textil
+657	Berufe im Rettungsdienst	21.3708058503	8134	81343	78.6291941497	52305.0	Notfallsanitäter	Notfallsanitäterin
+658	Berufe in der Personaldienstleistung	66.3964145433	7152	71522	33.6035854567	99290.0	Personaldienstleistungskaufmann	Personaldienstleistungskauffrau
+659	Berufe Leitungsinstallation,-wartung	3.41477678862	2626	26262	96.5852232114	30778.0	Elektroanlagenmonteur	Elektroanlagenmonteurin
+660	Berufe im visuellen Marketing	79.2024013722	9322	93222	20.7975986278	9328.0	Schauwerbegestalter	Schauwerbegestalterin
+661	Schiffsführer Binnen-,Hafenverkehr	5.69221386461	5242	52423	94.3077861354	4919.0	Bootsführer	Bootsführerin
+662	Berufe handwerkl.Metall-,Glockengießerei	4.20514511873	2414	24142	95.7948548813	6064.0	Gelbgießer	Gelbgießerin
+663	Berufe im Verkauf (Elektro,Haushaltsw.)	39.4658181468	6224	62242	60.5341818532	20742.0	Fotomedienfachmann	Fotomedienfachfrau
+664	Komiker/innen, Kabarettisten/innen	54.5454545455	9431	94313	45.4545454545	33.0	Humorist	Humoristin
+665	Berufe Unternehmensorga.,strategie (ssT)	44.2377678932	7138	71382	55.7622321068	4946.0	Werkgehilfe Schmuckwarenindustrie, Taschen- und Armbanduhren	Werkgehilfin Schmuckwarenindustrie, Taschen- und Armbanduhren
+666	Berufe in der IT-Anwendungsberatung	19.8526233052	4322	43224	80.1473766948	101780.0	IT-Berater	IT-Beraterin
+667	Berufe in der Landwirtschaft (o.S.)	21.5765899789	1110	11102	78.4234100211	124357.0	Landwirt	Landwirtin
+668	Berufe in der Isolierung	1.2101210121	3331	33312	98.7898789879	11817.0	Isolierfacharbeiter	Isolierfacharbeiterin
+669	Servicefachkräfte im Schiffsverkehr	31.3624678663	5143	51432	68.6375321337	389.0	Zahlmeister	Zahlmeisterin
+670	Berufe im Güter- und Warenumschlag	14.3576367827	5133	51332	85.6423632173	16486.0	Küper	Küperin
+671	Berufe Informations,Telekommunikationst.	11.4381605553	2631	26312	88.5618394447	191884.0	Büroinformationselektroniker	Büroinformationselektronikerin
+672	Kunstmaler/innen, Zeichner/innen	48.7741935484	9332	93323	51.2258064516	775.0	Schnellzeichner	Schnellzeichnerin
+673	Berufe nicht ärztliche Psychotherapie	78.1458251666	8163	81634	21.8541748334	5102.0	Psychologischer Psychotherapeut	Psychologische Psychotherapeutin
+674	Berufe in der Personaldienstleistung	66.3964145433	7152	71524	33.6035854567	99290.0	Fallmanager	Fallmanagerin
+675	Berufe in der Öffentlichkeitsarbeit	65.267451247	9220	92204	34.732548753	23537.0	Pressesprecher	Pressesprecherin
+676	Berufe in der Dachdeckerei	0.400729968205	3214	32142	99.5992700318	53153.0	Dachdecker	Dachdeckerin
+677	Berufe im Lacklaboratorium	45.6225127914	2222	22222	54.3774872086	3518.0	Lacklaborant	Lacklaborantin
+678	Berufe in der Glasherstellung	17.5054582097	2131	21312	82.4945417903	17863.0	Glasmacher	Glasmacherin
+679	Berufe im Verkauf von Lebensmitteln (oS)	72.0206153296	6230	62302	27.9793846704	89448.0	Fachverkäufer im Lebensmittelhandwerk	Fachverkäuferin im Lebensmittelhandwerk
+680	Pflasterer/innen, Steinsetzer/innen	0.528109028961	3221	32212	99.471890971	5870.0	Straßenbauer	Straßenbauerin
+681	Berufe in der Justizverwaltung	93.3804860355	7325	73252	6.61951396445	16542.0	Justizfachangestellter	Justizfachangestellte
+682	Berufe Digital-, Printmediengestaltung	50.1462693284	2321	23212	49.8537306716	62214.0	Notenstecher	Notenstecherin
+683	Berufe im Holzblasinstrumentenbau	29.4294294294	9362	93622	70.5705705706	333.0	Holzblasinstrumentenmacher	Holzblasinstrumentenmacherin
+684	Berufe im Gartenbau (o.S.)	21.8356761854	1210	12102	78.1643238146	135732.0	Gärtner	Gärtnerin
+685	Berufe in der Schiffbautechnik	6.19822907741	2524	25242	93.8017709226	3501.0	Schiffsmechaniker	Schiffsmechanikerin
+686	Berufe in der Badeaufsicht	39.2836746349	5314	53142	60.7163253651	12257.0	Rettungsschwimmer	Rettungsschwimmerin
+687	Berufe Gesellschaftswissenschaften (ssT)	48.3720930233	9138	91384	51.6279069767	1935.0	Kriminologe	Kriminologin
+688	Berufe Umweltschutzverwaltung, -beratung	41.0920869968	4231	42314	58.9079130032	10805.0	Umweltgutachter	Umweltgutachterin
+689	Berufe in der Zahntechnik	60.2778057373	8254	82542	39.7221942627	49675.0	Zahntechniker	Zahntechnikerin
+690	Anlageberater u. sonst. Finanzdienstl.	44.3380220021	7212	72124	55.6619779979	36542.0	Rentenberater	Rentenberaterin
+691	Berufe in der Forstwirtschaft	5.09963399756	1171	11714	94.9003660024	24590.0	Forstwirt	Forstwirtin
+692	Berufe im Rettungsdienst	21.3708058503	8134	81342	78.6291941497	52305.0	Rettungsassistent	Rettungsassistentin
+693	Berufe im Berg- und Tagebau	7.26492128967	2111	21112	92.7350787103	23758.0	Bergbautechnologe	Bergbautechnologin
+694	Berufe i.d. medizinischen Dokumentation	85.1895119418	7334	73342	14.8104880582	7704.0	Medizinischer Dokumentationsassistent	Medizinische Dokumentationsassistentin
+695	Maschinen-, Gerätezusammensetzer/innen	21.0325537037	2511	25112	78.9674462963	171962.0	Fertigungsmechaniker	Fertigungsmechanikerin
+696	Berufe in der Kartografie	47.4680548982	3122	31222	52.5319451018	2113.0	Geomatiker	Geomatikerin
+697	Berufe Sattlerei, Herst. Lederutensilien	48.3291210334	2832	28322	51.6708789666	3561.0	Täschner	Täschnerin
+698	Berufe in der Klempnerei (o.S.)	1.24864495925	3420	34202	98.7513550408	24907.0	Klempner	Klempnerin
+699	Berufe in der Gebäudetechnik (o.S.)	6.86331637035	3410	34102	93.1366836296	231681.0	Haustechniker	Haustechnikerin
+700	Kutscher/innen	15.3005464481	1134	11342	84.6994535519	366.0	Kutscher	Kutscherin
+701	Berufe Metalloberflächenbehandlung (o.S)	12.6353874883	2430	24302	87.3646125117	42840.0	Vergolder	Vergolderin
+702	Berufe im IT-Vertrieb	21.9930782724	4323	43233	78.0069217276	21093.0	IT-System-Kaufmann	IT-System-Kauffrau
+703	Berufe Grafik-Kommunikations-,Fotodesign	48.9152458611	2322	23223	51.0847541389	40470.0	Webdesigner	Webdesignerin
+704	Berufe i.d. spanlosen Metallbearbeitung	12.937104197	2421	24212	87.062895803	25423.0	Stanz- und Umformmechaniker	Stanz- und Umformmechanikerin
+705	Berufe Leitungsinstallation,-wartung	3.41477678862	2626	26262	96.5852232114	30778.0	Anlagenelektriker	Anlagenelektrikerin
+706	Büro- und Sekretariatskräfte (o.S.)	79.4443583916	7140	71401	20.5556416084	1969075.0	Telefonist	Telefonistin
+707	Berufe physikalisch-techn. Laboratorium	32.4723846654	4141	41414	67.5276153346	6156.0	Physikingenieur	Physikingenieurin
+708	Aufsicht,Führung-Objekt-,Brandschutz	14.3865948534	5319	53193	85.6134051466	8355.0	Wachleiter	Wachleiterin
+709	Berufe in der Forstwirtschaft	5.09963399756	1171	11713	94.9003660024	24590.0	Förster	Försterin
+710	Berufe technische Qualitätssicherung	27.7924731183	2731	27313	72.2075268817	186000.0	Qualitätsfachmann	Qualitätsfachfrau
+711	Berufe Informations,Telekommunikationst.	11.4381605553	2631	26312	88.5618394447	191884.0	Elektroinstallateur	Elektroinstallateurin
+712	Dolmetscher/innen und Übersetzer/innen	69.8481848185	7142	71424	30.1518151815	7575.0	Übersetzer	Übersetzerin
+713	Berufe in der Gebäudetechnik (o.S.)	6.86331637035	3410	34102	93.1366836296	231681.0	Hausmeister	Hausmeisterin
+714	Berufe in der Geografie	42.5909494232	4213	42134	57.4090505768	2254.0	Geograph	Geographin
+715	Kaufleute im Handel (o.S.)	49.2979461483	6120	61203	50.7020538517	18161.0	Handelsfachwirt	Handelsfachwirtin
+716	Nautische Schiffsoffiziere und Kapitäne	4.49203447375	5241	52414	95.5079655262	3829.0	Schiffsbetriebsoffizier	Schiffsbetriebsoffizierin
+717	Berufe im Metallblasinstrumentenbau	16.6666666667	9363	93632	83.3333333333	342.0	Metallblasinstrumentenmacher	Metallblasinstrumentenmacherin
+718	Berufe in der Textilherstellung	34.0723731095	2812	28122	65.9276268905	12629.0	Produktprüfer Textil	Produktprüferin Textil
+719	Speditions- und Logistikkaufleute	37.0142226858	5162	51622	62.9857773142	141886.0	Expedient	Expedientin
+720	Grill-, Braten- u. Fischköche/-köchinnen	37.0960187354	2932	29322	62.9039812646	2135.0	Poissonnier	Poissonnierin
+721	Berufe Drechslerei, Spielzeugherstellung	60.4	9333	93332	39.6	750.0	Spielzeughersteller	Spielzeugherstellerin
+722	Berufe in der Zimmerei	1.21315420092	3332	33322	98.7868457991	49870.0	Bootsbauer	Bootsbauerin
+723	Berufe Überwachung Verkehrsbetrieb (oS)	26.3961430293	5150	51504	73.6038569707	4978.0	Verkehrsplaner	Verkehrsplanerin
+724	Industriekeramik (Verfahren,Anlagentech)	25.5032397408	2141	21412	74.4967602592	11575.0	Industriekeramiker Verfahrenstechnik	Industriekeramikerin Verfahrenstechnik
+725	Berufe i.d. Land-, Baumaschinentechnik	0.488489461042	2522	25222	99.511510539	37053.0	Landmaschinenmechaniker	Landmaschinenmechanikerin
+726	Berufe in der Drucktechnik	22.5987478195	2341	23412	77.4012521805	73951.0	Medientechnologe Druck	Medientechnologin Druck
+727	Berufe Luftver.,Schiff,Fahrzeugelektron.	4.35011032889	2633	26332	95.6498896711	9517.0	Fluggerätelektroniker	Fluggerätelektronikerin
+728	Schifffahrtskaufleute	42.1270978691	5165	51653	57.8729021309	5303.0	Schiffsmakler	Schiffsmaklerin
+729	Detektive/Detektivinnen	14.3413873733	5315	53152	85.6586126267	2566.0	Detektiv	Detektivin
+730	Berufe i.d. schleifenden Metallbearbeit.	6.28800778399	2422	24222	93.711992216	32888.0	Vorpolierer Schmuck- und Kleingeräteherstellung	Vorpoliererin Schmuck- und Kleingeräteherstellung
+731	Berufe in der Haus- und Familienpflege	81.0310203384	8314	83143	18.9689796616	46808.0	Haus- und Familienpfleger	Haus- und Familienpflegerin
+732	Berufe in der Gravur	26.9543973941	9353	93532	73.0456026059	1228.0	Graveur	Graveurin
+733	Berufe i.d. regenerativen Energietechnik	9.54682779456	2624	26244	90.4531722054	4965.0	Maschinenbauingenieur	Maschinenbauingenieurin
+734	Platz-, Gerätewarte/innen	7.74886392866	3411	34112	92.2511360713	46652.0	Platzwart	Platzwartin
+735	Berufe Leitungsinstallation,-wartung	3.41477678862	2626	26262	96.5852232114	30778.0	Installateur	Installateurin
+736	Berufe in der Justizverwaltung	93.3804860355	7325	73253	6.61951396445	16542.0	Rechtspfleger	Rechtspflegerin
+737	Berufe kunsthandwerkliche Glasbläserei	27.8772378517	9343	93432	72.1227621483	391.0	Glasbläser	Glasbläserin
+738	Kodierer,Korrekturleser,verw.Bürokräfte	76.9957343083	7144	71442	23.0042656917	3282.0	Korrektor	Korrektorin
+739	Berufe in der Umweltschutztechnik (o.S.)	31.4682116176	4220	42202	68.5317883824	6559.0	Umweltschutztechnischer Assistent	Umweltschutztechnische Assistentin
+740	Berufe in der Meteorologie	39.2857142857	4214	42142	60.7142857143	700.0	Technischer Assistent	Technische Assistentin
+741	Aufsicht,Führung-Objekt-,Brandschutz	14.3865948534	5319	53194	85.6134051466	8355.0	Einsatzleiter	Einsatzleiterin
+742	Berufe i.d. Holzbe-,-verarbeitung (o.S.)	11.5013019049	2230	22303	88.4986980951	58376.0	Holztechniker	Holztechnikerin
+743	Berufe in der Ver- und Entsorgung (o.S.)	6.25302705321	3430	34301	93.7469729468	57812.0	Straßenreiniger	Straßenreinigerin
+744	Berufe in der Gastronomie (s.s.T.)	64.7840765227	6338	63383	35.2159234773	14218.0	Sommelier	Sommelière
+745	Berufe im Dialogmarketing	60.0417870759	9212	92122	39.9582129241	147414.0	Callcenteragent	Callcenteragentin
+746	Berufe in der Zimmerei	1.21315420092	3332	33322	98.7868457991	49870.0	Zimmerer	Zimmerin
+747	Rechtsberatung,-sprechung,-ordnung (ssT)	57.9327818764	7318	73184	42.0672181236	26838.0	Jurist	Juristin
+748	Berufe in der Markt-, Meinungsforschung	46.7461188647	9134	91342	53.2538811353	12754.0	Fachangestellter für Markt- und Sozialforschung	Fachangestellte für Markt- und Sozialforschung
+749	Berufe in der Requisite	64.7788736876	9462	94623	35.2211263124	3143.0	Requisiteur	Requisiteurin
+750	Berufe in der Landwirtschaft (o.S.)	21.5765899789	1110	11101	78.4234100211	124357.0	Erntehelfer	Erntehelferin
+751	Berufe in der Lagerwirtschaft	24.9768310941	5131	51312	75.0231689059	1265705.0	Lagerhalter	Lagerhalterin
+752	Berufe in der Textilreinigung	83.7570295047	5413	54132	16.2429704953	25962.0	Textilreiniger	Textilreinigerin
+753	Berufe Mühlenprodukt-,Futtermittelherst.	3.44827586207	2921	29212	96.5517241379	3248.0	Müller	Müllerin
+754	Berufe in der Personaldienstleistung	66.3964145433	7152	71524	33.6035854567	99290.0	Arbeitsvermittler	Arbeitsvermittlerin
+755	Berufe in der Schuhherstellung	37.8797535585	2833	28332	62.1202464415	9414.0	Schuhmacher	Schuhmacherin
+756	Berufe in der Softwareentwicklung	12.3967931919	4341	43413	87.6032068081	141948.0	Systemprogrammierer	Systemprogrammiererin
+757	Technische Zeichner/innen	55.2902652383	2721	27212	44.7097347617	106885.0	Technischer Produktdesigner	Technische Produktdesignerin
+758	Köche/Köchinnen (o.S.)	52.9232533486	2930	29302	47.0767466514	449961.0	Koch	Köchin
+759	Berufe im Musikfachhandel	33.5901386749	6253	62532	66.4098613251	649.0	Musikalienhändler	Musikalienhändlerin
+760	Redakteure/innen, Journalisten/innen	50.5608415413	9241	92413	49.4391584587	71678.0	Technischer Redakteur	Technische Redakteurin
+761	Musiker/innen	37.9399437331	9411	94114	62.0600562669	17417.0	Musiker	Musikerin
+762	Berufe in der Bild- und Tontechnik	26.5236833389	9453	94534	73.4763166611	12076.0	Tonmeister	Tonmeisterin
+763	Tech.ServicekräfteWartung,Instandhaltung	4.12407074143	2513	25132	95.8759292586	212266.0	Aufzugsmonteur	Aufzugsmonteurin
+764	Berufe Theater-,Film-,Fernsehproduk.(oS)	51.4743851067	9440	94404	48.5256148933	7359.0	Dramatiker	Dramatikerin
+765	Hochbau	1.2849391531	321	32172	98.7150608469	423522.0	Bauwerksmechaniker für Abbruch und Betontrenntechnik	Bauwerksmechanikerin für Abbruch und Betontrenntechnik
+766	Aufsicht,Führung-TheaterFilm,Fernsehprod	40.1872883044	9449	94494	59.8127116956	5019.0	Intendant	Intendantin
+767	Berufe im Weinbau	18.034026465	1160	11602	81.965973535	2645.0	Winzer	Winzerin
+768	Berufe in der Theologie	30.0088759784	8331	83314	69.9911240216	12393.0	Theologe	Theologin
+769	Berufe in der Buchhaltung	79.0444149597	7221	72212	20.9555850403	285647.0	Wirtschaftsassistent	Wirtschaftsassistentin
+770	Berufe Überwachung Luftverkehrsbetrieb	30.8085212408	5153	51532	69.1914787592	8027.0	Flugdienstberater	Flugdienstberaterin
+771	Aufsicht und Führung - Chemie	14.1397849462	4139	41394	85.8602150538	13020.0	Chemiker	Chemikerin
+772	Berufe in der Fischwirtschaft (o.S.)	17.7215189873	1140	11402	82.2784810127	790.0	Fischwirt	Fischwirtin
+773	Strahlenschutzbeauftragte	8.21409644939	4233	42334	91.7859035506	1887.0	Strahlenschutzbeauftragter	Strahlenschutzbeauftragte
+774	Berufe in der Chemie- und Pharmatechnik	26.7838353922	4131	41312	73.2161646078	179627.0	Chemikant	Chemikantin
+775	Berufe Papierverarb., Verpackungstechnik	17.5711352303	2312	23122	82.4288647697	30681.0	Verpackungsmittelmechaniker	Verpackungsmittelmechanikerin
+776	Berufe im Klavier- und Cembalobau	16.3310961969	9364	93642	83.6689038031	894.0	Klavierstimmer	Klavierstimmerin
+777	Berufe in der Theologie	30.0088759784	8331	83314	69.9911240216	12393.0	Rabbiner	Rabbinerin
+778	Berufe i.d. spanenden Metallbearbeitung	2.73770282356	2423	24232	97.2622971764	195675.0	Revolverdreher	Revolverdreherin
+779	Berufskraftfahrer (Güterverkehr/LKW)	1.7043032114	5212	52122	98.2956967886	551193.0	Berufskraftfahrer	Berufskraftfahrerin
+780	Berufe im Klavier- und Cembalobau	16.3310961969	9364	93642	83.6689038031	894.0	Klavier- und Cembalobauer	Klavier- und Cembalobauerin
+781	Büro- und Sekretariatskräfte (o.S.)	79.4443583916	7140	71402	20.5556416084	1969075.0	Bürokaufmann	Bürokauffrau
+782	Berufe Digital-, Printmediengestaltung	50.1462693284	2321	23212	49.8537306716	62214.0	Reprograf	Reprografin
+783	Berufe in der Elektrotechnik (o.S.)	25.5998730188	2630	26302	74.4001269812	220505.0	Elektromechaniker	Elektromechanikerin
+784	Berufe Kunsthandwerk, bildend.Kunst (oS)	54.5947166403	9330	93304	45.4052833597	4429.0	Künstler	Künstlerin
+785	Berufe in der Regie	50.9119332986	9441	94413	49.0880667014	1919.0	Regieassistent	Regieassistentin
+786	Berufe im Archivwesen	67.26062468	7331	73314	32.73937532	9765.0	Archivar	Archivarin
+787	Bankkaufleute	59.7982510844	7211	72112	40.2017489156	501911.0	Kassierer	Kassiererin
+788	Berufe im Orgel- und Harmoniumbau	9.93690851735	9365	93652	90.0630914826	634.0	Orgelbauer	Orgelbauerin
+789	Berufe im Gastronomieservice (o.S.)	65.2648305355	6330	63302	34.7351694645	391439.0	Kellner	Kellnerin
+790	Berufe Informations,Telekommunikationst.	11.4381605553	2631	26312	88.5618394447	191884.0	Kommunikationselektroniker	Kommunikationselektronikerin
+791	Berufe in der Glasveredelung	22.984008166	2134	21342	77.015991834	11756.0	Glasveredler	Glasveredlerin
+792	Berufe in der Zweiradtechnik	4.72055030095	2525	25252	95.2794496991	11630.0	Zweiradmechaniker	Zweiradmechanikerin
+793	Verwalt. Berufe Sozial-,Gesundheitswesen	86.944437789	7322	73223	13.055562211	83474.0	Zahnmedizinischer Verwaltungsassistent	Zahnmedizinische Verwaltungsassistentin
+794	Lehrkräfte an Sonderschulen	76.2119908204	8413	84134	23.7880091796	13944.0	Förderlehrer	Förderlehrerin
+795	Berufe in der Bild- und Tontechnik	26.5236833389	9453	94533	73.4763166611	12076.0	Cutter	Cutterin
+796	Anlageberater u. sonst. Finanzdienstl.	44.3380220021	7212	72123	55.6619779979	36542.0	Finanzmakler	Finanzmaklerin
+797	Berufe in der Orthopädie-, Rehatechnik	29.4536817102	8251	82512	70.5463182898	10525.0	Orthopädietechnik-Mechaniker	Orthopädietechnik-Mechanikerin
+798	Rechtsberatung,-sprechung,-ordnung (ssT)	57.9327818764	7318	73183	42.0672181236	26838.0	Datenschutzbeauftragter	Datenschutzbeauftragte
+799	Aufsicht,Führung-Unternehmensorg,strateg	25.9924816691	7139	71394	74.0075183309	451696.0	Betriebsführer	Betriebsführerin
+800	Berufe im Straßen- und Asphaltbau	0.983744394619	3222	32222	99.0162556054	35680.0	Asphaltbauer	Asphaltbauerin
+801	Zauberer/innen, Illusionisten/innen	19.2592592593	9432	94323	80.7407407407	135.0	Zauberer	Zauberin
+802	Berufe in der Fotografie	64.1671278362	2332	23322	35.8328721638	7228.0	Pressefotograf	Pressefotografin
+803	Fremdsprachensekretäre,-korrespondenten	89.5453170683	7141	71412	10.4546829317	9919.0	Fremdsprachenassistent	Fremdsprachenassistentin
+804	Schiffsführer Binnen-,Hafenverkehr	5.69221386461	5242	52422	94.3077861354	4919.0	Hafenschiffer	Hafenschifferin
+805	Berufe Überwachung Verkehrsbetrieb (ssT)	13.8408304498	5158	51583	86.1591695502	289.0	Gefahrgutbeauftragter	Gefahrgutbeauftragte
+806	Berufe i.d. Bekleidungsherstellung	84.4050647718	2822	28222	15.5949352282	34197.0	Maßschneider	Maßschneiderin
+807	Berufe im Bereich Glücks- und Wettspiel	18.8318693173	9434	94342	81.1681306827	6489.0	Croupier	Croupière
+808	Berufe i.d. schleifenden Metallbearbeit.	6.28800778399	2422	24222	93.711992216	32888.0	Feinpolierer	Feinpoliererin
+809	Berufe in der Baustoffherstellung	1.71388101983	2122	21222	98.2861189802	21180.0	Betonfertigteilbauer	Betonfertigteilbauerin
+810	Berufe in der Informatik (o.S.)	16.2154269235	4310	43102	83.7845730765	164362.0	Fachinformatiker	Fachinformatikerin
+811	Berufe in der Feinwerktechnik	14.6782915793	2451	24512	85.3217084207	45305.0	Feinwerkmechaniker	Feinwerkmechanikerin
+812	Berufe in Werbung und Marketing	54.6682417799	9211	92113	45.3317582201	152370.0	Social-Media-Manager	Social-Media-Managerin
+813	Berufe Verkauf Back-, Konditoreiwaren	96.0493003841	6231	62312	3.95069961592	161946.0	Fachverkäufer im Lebensmittelhandwerk (Bäckerei)	Fachverkäuferin im Lebensmittelhandwerk (Bäckerei)
+814	Berufe in der Luft- und Raumfahrttechnik	7.47075732134	2523	25234	92.5292426787	35137.0	Flugingenieur	Flugingenieurin
+815	Berufe im Rettungsdienst	21.3708058503	8134	81341	78.6291941497	52305.0	Rettungshelfer	Rettungshelferin
+816	Berufe Naturstein-,Mineralaufbereitung	4.23446184942	2121	21212	95.7655381506	9895.0	Aufbereitungsmechaniker	Aufbereitungsmechanikerin
+817	Berufe pharmazeutisch-techn. Assistenz	96.8602491956	8182	81822	3.13975080443	70547.0	Pharmazeutischer Assistent	Pharmazeutische Assistentin
+818	Berufe Digital-, Printmediengestaltung	50.1462693284	2321	23212	49.8537306716	62214.0	Schriftsetzer	Schriftsetzerin
+819	Berufe Papierverarb., Verpackungstechnik	17.5711352303	2312	23122	82.4288647697	30681.0	Packmitteltechnologe	Packmitteltechnologin
+820	Anlageberater u. sonst. Finanzdienstl.	44.3380220021	7212	72123	55.6619779979	36542.0	Fachberater für Finanzdienstleistungen	Fachberaterin für Finanzdienstleistungen
+821	Technische Zeichner/innen	55.2902652383	2721	27212	44.7097347617	106885.0	Bauzeichner	Bauzeichnerin
+822	Fluglehrer/innen	5.5737704918	8452	84523	94.4262295082	305.0	Fluglehrer	Fluglehrerin
+823	Aufsicht und Führung - Hotellerie	66.5682062299	6329	63293	33.4317937701	18620.0	Hotelmeister	Hotelmeisterin
+824	Berufe in Moderation, Unterhaltung (oS)	48.0295566502	9430	94303	51.9704433498	406.0	Moderator	Moderatorin
+825	Sport-, Fitnesskaufleute, Sportmanager	45.0848688391	6312	63122	54.9151311609	11017.0	Sportfachmann	Sportfachfrau
+826	Berufe i.d. Holzbe-,-verarbeitung (o.S.)	11.5013019049	2230	22302	88.4986980951	58376.0	Holzbearbeitungsmechaniker	Holzbearbeitungsmechanikerin
+827	Tourismuskaufleute	82.1267850182	6311	63112	17.8732149818	56442.0	Kaufmann für Tourismus und Freizeit	Kauffrau für Tourismus und Freizeit
+828	Maschinen- und Anlagenführer/innen	12.501779731	2512	25122	87.498220269	210706.0	Maschinen- und Anlagenführer	Maschinen- und Anlagenführerin
+829	Angehörige der regulären Streitkräfte	43.2896890344	01	01203	56.7103109656	2444.0	Feldwebel	Feldwebelin
+830	Angehörige der regulären Streitkräfte	43.2896890344	01	01402	56.7103109656	2444.0	Soldat	Soldatin
+831	Angehörige der regulären Streitkräfte	43.2896890344	01	01104	56.7103109656	2444.0	Offizier	Offizierin
