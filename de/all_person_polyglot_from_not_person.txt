@@ -1,0 +1,56 @@
+#01.04.2016
+#List derived manually from value all_other_2 in file 12.Names analysis.ipynb:
+#
+name, prof , gender
+Gardi Hutter , Clown , M
+Herbi Lips , Clown , F 
+Christoffel Plantijn , Verleger , M
+Wangari Maathai	, Professor , F
+Athanasius der Große , Lehrer , M
+Chrismar - Trott , Heilpraktiker
+Fra Bartolommeo , Model
+Miltschin Nadolski , Korrektor
+A.T. Kearney , Unternehmensberater
+Lazarus Goldschmidt , Orientalist
+Juda Jeitteles , Orientalist
+Evel Knievel , Stuntman
+Yakima Canutt , Stuntman
+Gregorius Sickinger , Kupferstecher
+Rolandinus de Passagerius , Notar
+Fräulein Rohlik , Kürschner
+Conrat Meit , Steinbildhauer
+Jodocus Hondius , Kartograf
+Inō Tadataka , Kartograf
+Tissy Bruns , Journalist
+Columban von Luxeuil , Missionar
+Édith Piaf , Liedermacher
+Fredl Fesl , Liedermacher
+Berent Schwineköper , Kaufmann
+Honderd Verzen , Sekretär
+Euagrios Pontikos , Mönchtum
+Asenath Barzani , Rabbiner
+Warnock Fernea , Butler
+Mrs Beeton , Butler
+Ferde Grofé , Arrangeur
+Francy Boland , Arrangeur
+Hans. J. Wulff , Drehbuchautor
+Materno Bossi , Stuckateur
+Lecoq Ohrfeigen , Pantomime
+Kotzebues Menschenhass , Pantomime
+Ajahn Sumedho , Nonne
+Coosje van Bruggen , Kunstkritiker
+Kogoro Akechi , Detektiv
+Svenia Kähler , Jurist
+Jochanan Trilse , Dramatiker
+Oettingen - Wallerstein , Diener
+Albus Dumbledore , Zauberer
+Aleister Crowley , Zauberer
+Weißen Elster , Müller
+Soranos von Ephesos , Hebamme
+Eucharius Rösslin , Hebamme
+#
+#================ 
+# Paulene Stone if F identified as M
+# Hadija Harun is F? identified as M 
+# Sweet Charity is not a person, identified as F 
+# Marlana Coe is F?, identified as M

@@ -54,6 +54,15 @@
         "Frauen": 28.21513002364066
     }, 
     {
+        "name": "Metallformer", 
+        "M\u00e4nner": 95.79485488126649, 
+        "Overall": 6064.0, 
+        "KldB": "2414", 
+        "KldB5": "24142", 
+        "Berufsgruppe": "Berufe handwerkl.Metall-,Glockengie\u00dferei", 
+        "Frauen": 4.205145118733509
+    }, 
+    {
         "name": "Saunameister", 
         "M\u00e4nner": 29.20134584735257, 
         "Overall": 5647.0, 
@@ -79,6 +88,15 @@
         "KldB5": "94283", 
         "Berufsgruppe": "BerufeSchauspielTanz,Bewegungskunst(ssT)", 
         "Frauen": 41.51651651651652
+    }, 
+    {
+        "name": "Fassadenmonteur", 
+        "M\u00e4nner": 98.71506084689815, 
+        "Overall": 423522.0, 
+        "KldB": "321", 
+        "KldB5": "32152", 
+        "Berufsgruppe": "Hochbau", 
+        "Frauen": 1.284939153101846
     }, 
     {
         "name": "Schneidwerkzeugmechaniker", 
@@ -171,13 +189,13 @@
         "Frauen": 85.0894719246016
     }, 
     {
-        "name": "Mathematisch-technischer Assistent", 
-        "M\u00e4nner": 87.60320680812691, 
-        "Overall": 141948.0, 
-        "KldB": "4341", 
-        "KldB5": "43412", 
-        "Berufsgruppe": "Berufe in der Softwareentwicklung", 
-        "Frauen": 12.39679319187308
+        "name": "Soziologe", 
+        "M\u00e4nner": 39.20386007237636, 
+        "Overall": 2487.0, 
+        "KldB": "9132", 
+        "KldB5": "91324", 
+        "Berufsgruppe": "Berufe in der Soziologie", 
+        "Frauen": 60.79613992762364
     }, 
     {
         "name": "Ingenieur", 
@@ -216,13 +234,13 @@
         "Frauen": 99.40840631377716
     }, 
     {
-        "name": "Softwareentwickler", 
-        "M\u00e4nner": 87.60320680812691, 
-        "Overall": 141948.0, 
-        "KldB": "4341", 
-        "KldB5": "43414", 
-        "Berufsgruppe": "Berufe in der Softwareentwicklung", 
-        "Frauen": 12.39679319187308
+        "name": "Steinbehauer", 
+        "M\u00e4nner": 94.55540910473486, 
+        "Overall": 9863.0, 
+        "KldB": "2123", 
+        "KldB5": "21232", 
+        "Berufsgruppe": "Berufe in der Steinmetztechnik", 
+        "Frauen": 5.444590895265132
     }, 
     {
         "name": "Personalreferent", 
@@ -270,6 +288,15 @@
         "Frauen": 58.03468208092485
     }, 
     {
+        "name": "Einrichtungsfachberater", 
+        "M\u00e4nner": 43.51778460319033, 
+        "Overall": 40372.0, 
+        "KldB": "6225", 
+        "KldB5": "62252", 
+        "Berufsgruppe": "Berufe im Verkauf (M\u00f6bel, Einrichtung)", 
+        "Frauen": 56.48221539680967
+    }, 
+    {
         "name": "Reiseleiter", 
         "M\u00e4nner": 41.96531791907515, 
         "Overall": 1730.0, 
@@ -277,6 +304,15 @@
         "KldB5": "63142", 
         "Berufsgruppe": "Reiseleiter/innen, Fremdenf\u00fchrer/innen", 
         "Frauen": 58.03468208092485
+    }, 
+    {
+        "name": "Bauzeichner", 
+        "M\u00e4nner": 44.709734761659725, 
+        "Overall": 106885.0, 
+        "KldB": "2721", 
+        "KldB5": "27212", 
+        "Berufsgruppe": "Technische Zeichner/innen", 
+        "Frauen": 55.290265238340275
     }, 
     {
         "name": "Fachzahnarzt", 
@@ -513,13 +549,13 @@
         "Frauen": 70.44476327116212
     }, 
     {
-        "name": "Kunstschmied", 
-        "M\u00e4nner": 85.94674556213018, 
-        "Overall": 676.0, 
-        "KldB": "9351", 
-        "KldB5": "93512", 
-        "Berufsgruppe": "Berufe kunsthandwerkl. Metallgestaltung", 
-        "Frauen": 14.053254437869823
+        "name": "Technischer Betriebswirt", 
+        "M\u00e4nner": 37.83997752091121, 
+        "Overall": 935981.0, 
+        "KldB": "7130", 
+        "KldB5": "71303", 
+        "Berufsgruppe": "Berufe kaufm.,techn.Betriebswirtsch.(oS)", 
+        "Frauen": 62.16002247908879
     }, 
     {
         "name": "Schausteller", 
@@ -691,6 +727,15 @@
         "KldB5": "52413", 
         "Berufsgruppe": "Nautische Schiffsoffiziere und Kapit\u00e4ne", 
         "Frauen": 4.4920344737529385
+    }, 
+    {
+        "name": "Automechatroniker", 
+        "M\u00e4nner": 96.0265815932832, 
+        "Overall": 347308.0, 
+        "KldB": "2521", 
+        "KldB5": "25212", 
+        "Berufsgruppe": "Berufe in der Kraftfahrzeugtechnik", 
+        "Frauen": 3.973418406716805
     }, 
     {
         "name": "Astronom", 
@@ -999,13 +1044,13 @@
         "Frauen": 4.234461849418898
     }, 
     {
-        "name": "Maurer", 
-        "M\u00e4nner": 99.7903197623624, 
-        "Overall": 97291.0, 
-        "KldB": "3212", 
-        "KldB5": "32122", 
-        "Berufsgruppe": "Berufe im Maurerhandwerk", 
-        "Frauen": 0.20968023763760266
+        "name": "Kommunikationstechnischer Assistent", 
+        "M\u00e4nner": 88.56183944466449, 
+        "Overall": 191884.0, 
+        "KldB": "2631", 
+        "KldB5": "26312", 
+        "Berufsgruppe": "Berufe Informations,Telekommunikationst.", 
+        "Frauen": 11.438160555335514
     }, 
     {
         "name": "Reporter", 
@@ -1042,6 +1087,15 @@
         "KldB5": "71302", 
         "Berufsgruppe": "Berufe kaufm.,techn.Betriebswirtsch.(oS)", 
         "Frauen": 62.16002247908879
+    }, 
+    {
+        "name": "Kettengoldschmied", 
+        "M\u00e4nner": 39.000409668168786, 
+        "Overall": 4882.0, 
+        "KldB": "9352", 
+        "KldB5": "93522", 
+        "Berufsgruppe": "Kunsthandw.Schmuckherst.,Edelsteinbearb.", 
+        "Frauen": 60.999590331831214
     }, 
     {
         "name": "Drahtwarenmacher", 
@@ -1375,6 +1429,15 @@
         "KldB5": "34342", 
         "Berufsgruppe": "Berufe Anlagen-, Beh\u00e4lter-, Apparatebau", 
         "Frauen": 3.2942546780442106
+    }, 
+    {
+        "name": "Strohdachdecker", 
+        "M\u00e4nner": 99.599270031795, 
+        "Overall": 53153.0, 
+        "KldB": "3214", 
+        "KldB5": "32142", 
+        "Berufsgruppe": "Berufe in der Dachdeckerei", 
+        "Frauen": 0.4007299682049931
     }, 
     {
         "name": "Pf\u00f6rtner", 
@@ -1899,6 +1962,15 @@
         "Frauen": 67.86085150571132
     }, 
     {
+        "name": "Ramp-Agent", 
+        "M\u00e4nner": 69.19147875918775, 
+        "Overall": 8027.0, 
+        "KldB": "5153", 
+        "KldB5": "51532", 
+        "Berufsgruppe": "Berufe \u00dcberwachung Luftverkehrsbetrieb", 
+        "Frauen": 30.808521240812258
+    }, 
+    {
         "name": "Schwei\u00dfer", 
         "M\u00e4nner": 73.25340377971958, 
         "Overall": 221445.0, 
@@ -2097,6 +2169,15 @@
         "Frauen": 39.24758515505847
     }, 
     {
+        "name": "Medienwirt", 
+        "M\u00e4nner": 34.90281418467778, 
+        "Overall": 20219.0, 
+        "KldB": "9230", 
+        "KldB5": "92304", 
+        "Berufsgruppe": "Verlags- und Medienkaufleute (o.S.)", 
+        "Frauen": 65.09718581532222
+    }, 
+    {
         "name": "Honorarprofessor", 
         "M\u00e4nner": 57.18751160902399, 
         "Overall": 188431.0, 
@@ -2140,6 +2221,15 @@
         "KldB5": "21112", 
         "Berufsgruppe": "Berufe im Berg- und Tagebau", 
         "Frauen": 7.2649212896708475
+    }, 
+    {
+        "name": "Verwaltungsbetriebswirt", 
+        "M\u00e4nner": 25.875320239111872, 
+        "Overall": 471913.0, 
+        "KldB": "7320", 
+        "KldB5": "73203", 
+        "Berufsgruppe": "Berufe i.d. \u00f6ffentlichen Verwaltung (oS)", 
+        "Frauen": 74.12467976088813
     }, 
     {
         "name": "Ingenieurp\u00e4dagoge", 
@@ -2313,13 +2403,13 @@
         "Frauen": 48.32912103341758
     }, 
     {
-        "name": "Fassadenmonteur", 
-        "M\u00e4nner": 98.71506084689815, 
-        "Overall": 423522.0, 
-        "KldB": "321", 
-        "KldB5": "32152", 
-        "Berufsgruppe": "Hochbau", 
-        "Frauen": 1.284939153101846
+        "name": "Wildheger", 
+        "M\u00e4nner": 90.72164948453609, 
+        "Overall": 388.0, 
+        "KldB": "1173", 
+        "KldB5": "11732", 
+        "Berufsgruppe": "Berufe in der Jagdwirtschaft, Wildhege", 
+        "Frauen": 9.278350515463918
     }, 
     {
         "name": "Br\u00fcckenw\u00e4rter", 
@@ -2455,6 +2545,24 @@
         "KldB5": "61142", 
         "Berufsgruppe": "Kaufleute im Automatenservice", 
         "Frauen": 31.104166666666668
+    }, 
+    {
+        "name": "Logistikmeister", 
+        "M\u00e4nner": 89.57004951376767, 
+        "Overall": 28073.0, 
+        "KldB": "5139", 
+        "KldB5": "51393", 
+        "Berufsgruppe": "Aufsicht,F\u00fchrung-Lagerw.Zustell.G\u00fcterum.", 
+        "Frauen": 10.429950486232324
+    }, 
+    {
+        "name": "Werkschutzleiter", 
+        "M\u00e4nner": 85.61340514661879, 
+        "Overall": 8355.0, 
+        "KldB": "5319", 
+        "KldB5": "53193", 
+        "Berufsgruppe": "Aufsicht,F\u00fchrung-Objekt-,Brandschutz", 
+        "Frauen": 14.386594853381208
     }, 
     {
         "name": "Moden\u00e4her", 
@@ -2763,6 +2871,15 @@
         "Frauen": 63.617638630176245
     }, 
     {
+        "name": "Kunstschmied", 
+        "M\u00e4nner": 85.94674556213018, 
+        "Overall": 676.0, 
+        "KldB": "9351", 
+        "KldB5": "93512", 
+        "Berufsgruppe": "Berufe kunsthandwerkl. Metallgestaltung", 
+        "Frauen": 14.053254437869823
+    }, 
+    {
         "name": "Entwickler", 
         "M\u00e4nner": 87.74684515290133, 
         "Overall": 213798.0, 
@@ -2817,13 +2934,13 @@
         "Frauen": 5.533194932847519
     }, 
     {
-        "name": "Finanzberater", 
-        "M\u00e4nner": 55.661977997920204, 
-        "Overall": 36542.0, 
-        "KldB": "7212", 
-        "KldB5": "72123", 
-        "Berufsgruppe": "Anlageberater u. sonst. Finanzdienstl.", 
-        "Frauen": 44.338022002079796
+        "name": "Edelsteinschleifer", 
+        "M\u00e4nner": 39.000409668168786, 
+        "Overall": 4882.0, 
+        "KldB": "9352", 
+        "KldB5": "93522", 
+        "Berufsgruppe": "Kunsthandw.Schmuckherst.,Edelsteinbearb.", 
+        "Frauen": 60.999590331831214
     }, 
     {
         "name": "Elektroingenieur", 
@@ -2860,6 +2977,15 @@
         "KldB5": "28322", 
         "Berufsgruppe": "Berufe Sattlerei, Herst. Lederutensilien", 
         "Frauen": 48.32912103341758
+    }, 
+    {
+        "name": "Bezirksleiter", 
+        "M\u00e4nner": 78.75177448793349, 
+        "Overall": 19724.0, 
+        "KldB": "7219", 
+        "KldB5": "72194", 
+        "Berufsgruppe": "F\u00fchrung-Versicherung-,Finanzdienstleist.", 
+        "Frauen": 21.24822551206652
     }, 
     {
         "name": "Fluglotse", 
@@ -3312,13 +3438,13 @@
         "Frauen": 0.2699447651480543
     }, 
     {
-        "name": "Mitarbeiter", 
-        "M\u00e4nner": 65.80301463173976, 
-        "Overall": 462146.0, 
-        "KldB": "6112", 
-        "KldB5": "61123", 
-        "Berufsgruppe": "Berufe im Vertrieb (au\u00dfer IKT)", 
-        "Frauen": 34.19698536826024
+        "name": "Gartenbauwerker", 
+        "M\u00e4nner": 78.16432381457578, 
+        "Overall": 135732.0, 
+        "KldB": "1210", 
+        "KldB5": "12102", 
+        "Berufsgruppe": "Berufe im Gartenbau (o.S.)", 
+        "Frauen": 21.83567618542422
     }, 
     {
         "name": "Artist", 
@@ -3409,6 +3535,24 @@
         "KldB5": "24232", 
         "Berufsgruppe": "Berufe i.d. spanenden Metallbearbeitung", 
         "Frauen": 2.7377028235594736
+    }, 
+    {
+        "name": "Foto- und medientechnischer Assistent", 
+        "M\u00e4nner": 42.118226600985224, 
+        "Overall": 4060.0, 
+        "KldB": "2331", 
+        "KldB5": "23312", 
+        "Berufsgruppe": "Berufe in der Fototechnik", 
+        "Frauen": 57.881773399014776
+    }, 
+    {
+        "name": "Pharmazie-Ingenieur", 
+        "M\u00e4nner": 73.21616460777055, 
+        "Overall": 179627.0, 
+        "KldB": "4131", 
+        "KldB5": "41313", 
+        "Berufsgruppe": "Berufe in der Chemie- und Pharmatechnik", 
+        "Frauen": 26.783835392229452
     }, 
     {
         "name": "Rechtsanwalt", 
@@ -3582,13 +3726,13 @@
         "Frauen": 3.1017246515938957
     }, 
     {
-        "name": "Soziologe", 
-        "M\u00e4nner": 39.20386007237636, 
-        "Overall": 2487.0, 
-        "KldB": "9132", 
-        "KldB5": "91324", 
-        "Berufsgruppe": "Berufe in der Soziologie", 
-        "Frauen": 60.79613992762364
+        "name": "Dichter", 
+        "M\u00e4nner": 52.216748768472904, 
+        "Overall": 812.0, 
+        "KldB": "9243", 
+        "KldB5": "92434", 
+        "Berufsgruppe": "Autoren/Autorinnen, Schriftsteller/innen", 
+        "Frauen": 47.783251231527096
     }, 
     {
         "name": "Technischer Konfektion\u00e4r", 
@@ -3625,6 +3769,15 @@
         "KldB5": "94134", 
         "Berufsgruppe": "Dirigenten/Dirigentinnen", 
         "Frauen": 27.8372591006424
+    }, 
+    {
+        "name": "Kalkulator", 
+        "M\u00e4nner": 64.25740705793547, 
+        "Overall": 21196.0, 
+        "KldB": "7222", 
+        "KldB5": "72223", 
+        "Berufsgruppe": "Berufe in Kostenrechnung und Kalkulation", 
+        "Frauen": 35.74259294206454
     }, 
     {
         "name": "Technischer Zeichner", 
@@ -3789,6 +3942,15 @@
         "Frauen": 45.347054959492006
     }, 
     {
+        "name": "Fischwirt", 
+        "M\u00e4nner": 82.27848101265823, 
+        "Overall": 790.0, 
+        "KldB": "1140", 
+        "KldB5": "11402", 
+        "Berufsgruppe": "Berufe in der Fischwirtschaft (o.S.)", 
+        "Frauen": 17.72151898734177
+    }, 
+    {
         "name": "Registrator", 
         "M\u00e4nner": 32.739375320020486, 
         "Overall": 9765.0, 
@@ -3796,6 +3958,15 @@
         "KldB5": "73312", 
         "Berufsgruppe": "Berufe im Archivwesen", 
         "Frauen": 67.26062467997951
+    }, 
+    {
+        "name": "Zimmererpolier", 
+        "M\u00e4nner": 97.77891243298443, 
+        "Overall": 7834.0, 
+        "KldB": "3339", 
+        "KldB5": "33393", 
+        "Berufsgruppe": "Aufsicht-Aus-,Trockenbau.Iso.Zimm.Glas.", 
+        "Frauen": 2.221087567015573
     }, 
     {
         "name": "Ballettmeister", 
@@ -4068,13 +4239,13 @@
         "Frauen": 93.69190950719353
     }, 
     {
-        "name": "Glasapparatebauer", 
-        "M\u00e4nner": 78.03030303030303, 
-        "Overall": 396.0, 
-        "KldB": "2132", 
-        "KldB5": "21322", 
-        "Berufsgruppe": "Berufe im Glasapparatebau", 
-        "Frauen": 21.96969696969697
+        "name": "Revolverdreher", 
+        "M\u00e4nner": 97.26229717644053, 
+        "Overall": 195675.0, 
+        "KldB": "2423", 
+        "KldB5": "24232", 
+        "Berufsgruppe": "Berufe i.d. spanenden Metallbearbeitung", 
+        "Frauen": 2.7377028235594736
     }, 
     {
         "name": "Redakteur", 
@@ -4428,13 +4599,22 @@
         "Frauen": 7.613568491222771
     }, 
     {
-        "name": "Musikverleger", 
-        "M\u00e4nner": 67.36425339366517, 
-        "Overall": 1768.0, 
-        "KldB": "9239", 
-        "KldB5": "92394", 
-        "Berufsgruppe": "F\u00fchrung - Verlags- und Medienwirtschaft", 
-        "Frauen": 32.63574660633484
+        "name": "Produktionstechnologe", 
+        "M\u00e4nner": 84.2812688520179, 
+        "Overall": 230413.0, 
+        "KldB": "2730", 
+        "KldB5": "27302", 
+        "Berufsgruppe": "Berufe tech. Produktionsplan.,-steuerung", 
+        "Frauen": 15.718731147982101
+    }, 
+    {
+        "name": "Handelslehrer", 
+        "M\u00e4nner": 36.382361369823755, 
+        "Overall": 55832.0, 
+        "KldB": "8421", 
+        "KldB5": "84214", 
+        "Berufsgruppe": "Lehrkr\u00e4fte f\u00fcr berufsbildende F\u00e4cher", 
+        "Frauen": 63.617638630176245
     }, 
     {
         "name": "Betriebssanit\u00e4ter", 
@@ -4552,6 +4732,15 @@
         "KldB5": "94482", 
         "Berufsgruppe": "Berufe Theater-,Film-, Fernsehprod.(ssT)", 
         "Frauen": 60.317460317460316
+    }, 
+    {
+        "name": "Rollladen- und Sonnenschutztechnikermeister", 
+        "M\u00e4nner": 97.77891243298443, 
+        "Overall": 7834.0, 
+        "KldB": "3339", 
+        "KldB5": "33393", 
+        "Berufsgruppe": "Aufsicht-Aus-,Trockenbau.Iso.Zimm.Glas.", 
+        "Frauen": 2.221087567015573
     }, 
     {
         "name": "Technischer Systemplaner", 
@@ -5049,13 +5238,13 @@
         "Frauen": 12.39679319187308
     }, 
     {
-        "name": "Produktionstechnologe", 
-        "M\u00e4nner": 84.2812688520179, 
-        "Overall": 230413.0, 
-        "KldB": "2730", 
-        "KldB5": "27302", 
-        "Berufsgruppe": "Berufe tech. Produktionsplan.,-steuerung", 
-        "Frauen": 15.718731147982101
+        "name": "IT-Berater", 
+        "M\u00e4nner": 80.14737669483199, 
+        "Overall": 101780.0, 
+        "KldB": "4322", 
+        "KldB5": "43224", 
+        "Berufsgruppe": "Berufe in der IT-Anwendungsberatung", 
+        "Frauen": 19.85262330516801
     }, 
     {
         "name": "Pantomime", 
@@ -5193,6 +5382,15 @@
         "Frauen": 79.2351889412646
     }, 
     {
+        "name": "Medienberater", 
+        "M\u00e4nner": 45.33175822012207, 
+        "Overall": 152370.0, 
+        "KldB": "9211", 
+        "KldB5": "92113", 
+        "Berufsgruppe": "Berufe in Werbung und Marketing", 
+        "Frauen": 54.66824177987793
+    }, 
+    {
         "name": "Verlagskaufmann", 
         "M\u00e4nner": 34.90281418467778, 
         "Overall": 20219.0, 
@@ -5256,13 +5454,13 @@
         "Frauen": 53.56851823198721
     }, 
     {
-        "name": "Edelsteinschleifer", 
-        "M\u00e4nner": 39.000409668168786, 
-        "Overall": 4882.0, 
-        "KldB": "9352", 
-        "KldB5": "93522", 
-        "Berufsgruppe": "Kunsthandw.Schmuckherst.,Edelsteinbearb.", 
-        "Frauen": 60.999590331831214
+        "name": "Finanzberater", 
+        "M\u00e4nner": 55.661977997920204, 
+        "Overall": 36542.0, 
+        "KldB": "7212", 
+        "KldB5": "72123", 
+        "Berufsgruppe": "Anlageberater u. sonst. Finanzdienstl.", 
+        "Frauen": 44.338022002079796
     }, 
     {
         "name": "Tischler", 
@@ -5290,6 +5488,15 @@
         "KldB5": "94313", 
         "Berufsgruppe": "Komiker/innen, Kabarettisten/innen", 
         "Frauen": 54.54545454545455
+    }, 
+    {
+        "name": "Mathematisch-technischer Assistent", 
+        "M\u00e4nner": 87.60320680812691, 
+        "Overall": 141948.0, 
+        "KldB": "4341", 
+        "KldB5": "43412", 
+        "Berufsgruppe": "Berufe in der Softwareentwicklung", 
+        "Frauen": 12.39679319187308
     }, 
     {
         "name": "Pharmazeut", 
@@ -5445,15 +5652,6 @@
         "Frauen": 44.23776789324707
     }, 
     {
-        "name": "IT-Berater", 
-        "M\u00e4nner": 80.14737669483199, 
-        "Overall": 101780.0, 
-        "KldB": "4322", 
-        "KldB5": "43224", 
-        "Berufsgruppe": "Berufe in der IT-Anwendungsberatung", 
-        "Frauen": 19.85262330516801
-    }, 
-    {
         "name": "Landwirt", 
         "M\u00e4nner": 78.42341002114878, 
         "Overall": 124357.0, 
@@ -5524,6 +5722,15 @@
         "KldB5": "71524", 
         "Berufsgruppe": "Berufe in der Personaldienstleistung", 
         "Frauen": 66.39641454325712
+    }, 
+    {
+        "name": "Chemisch-technischer Assistent", 
+        "M\u00e4nner": 40.83195737536596, 
+        "Overall": 72071.0, 
+        "KldB": "4132", 
+        "KldB5": "41322", 
+        "Berufsgruppe": "Berufe im chemisch-techn. Laboratorium", 
+        "Frauen": 59.16804262463404
     }, 
     {
         "name": "Pressesprecher", 
@@ -5787,6 +5994,15 @@
         "Frauen": 48.9152458611317
     }, 
     {
+        "name": "Mitarbeiter", 
+        "M\u00e4nner": 65.80301463173976, 
+        "Overall": 462146.0, 
+        "KldB": "6112", 
+        "KldB5": "61123", 
+        "Berufsgruppe": "Berufe im Vertrieb (au\u00dfer IKT)", 
+        "Frauen": 34.19698536826024
+    }, 
+    {
         "name": "Stanz- und Umformmechaniker", 
         "M\u00e4nner": 87.06289580301302, 
         "Overall": 25423.0, 
@@ -5931,13 +6147,13 @@
         "Frauen": 37.01422268581819
     }, 
     {
-        "name": "Poissonnier", 
-        "M\u00e4nner": 62.903981264637004, 
-        "Overall": 2135.0, 
-        "KldB": "2932", 
-        "KldB5": "29322", 
-        "Berufsgruppe": "Grill-, Braten- u. Fischk\u00f6che/-k\u00f6chinnen", 
-        "Frauen": 37.096018735362996
+        "name": "B\u00fcchsenmachermeister", 
+        "M\u00e4nner": 97.12230215827338, 
+        "Overall": 3336.0, 
+        "KldB": "2459", 
+        "KldB5": "24593", 
+        "Berufsgruppe": "Aufsicht - Feinwerk- u. Werkzeugtechnik", 
+        "Frauen": 2.8776978417266186
     }, 
     {
         "name": "Spielzeughersteller", 
@@ -5958,6 +6174,15 @@
         "Frauen": 1.2131542009223983
     }, 
     {
+        "name": "Softwareentwickler", 
+        "M\u00e4nner": 87.60320680812691, 
+        "Overall": 141948.0, 
+        "KldB": "4341", 
+        "KldB5": "43414", 
+        "Berufsgruppe": "Berufe in der Softwareentwicklung", 
+        "Frauen": 12.39679319187308
+    }, 
+    {
         "name": "Verkehrsplaner", 
         "M\u00e4nner": 73.60385697067096, 
         "Overall": 4978.0, 
@@ -5974,6 +6199,15 @@
         "KldB5": "21412", 
         "Berufsgruppe": "Industriekeramik (Verfahren,Anlagentech)", 
         "Frauen": 25.503239740820735
+    }, 
+    {
+        "name": "Poissonnier", 
+        "M\u00e4nner": 62.903981264637004, 
+        "Overall": 2135.0, 
+        "KldB": "2932", 
+        "KldB5": "29322", 
+        "Berufsgruppe": "Grill-, Braten- u. Fischk\u00f6che/-k\u00f6chinnen", 
+        "Frauen": 37.096018735362996
     }, 
     {
         "name": "Landmaschinenmechaniker", 
@@ -6048,13 +6282,13 @@
         "Frauen": 26.95439739413681
     }, 
     {
-        "name": "Maschinenbauingenieur", 
-        "M\u00e4nner": 90.45317220543807, 
-        "Overall": 4965.0, 
-        "KldB": "2624", 
-        "KldB5": "26244", 
-        "Berufsgruppe": "Berufe i.d. regenerativen Energietechnik", 
-        "Frauen": 9.546827794561933
+        "name": "Kunststoff-Formgeber", 
+        "M\u00e4nner": 73.25340377971958, 
+        "Overall": 221445.0, 
+        "KldB": "2210", 
+        "KldB5": "22102", 
+        "Berufsgruppe": "Kunststoff-,Kautschukherstellung (o.S.)", 
+        "Frauen": 26.74659622028043
     }, 
     {
         "name": "Platzwart", 
@@ -6228,13 +6462,13 @@
         "Frauen": 83.75702950466066
     }, 
     {
-        "name": "M\u00fcller", 
-        "M\u00e4nner": 96.55172413793103, 
-        "Overall": 3248.0, 
-        "KldB": "2921", 
-        "KldB5": "29212", 
-        "Berufsgruppe": "Berufe M\u00fchlenprodukt-,Futtermittelherst.", 
-        "Frauen": 3.4482758620689653
+        "name": "Musikverleger", 
+        "M\u00e4nner": 67.36425339366517, 
+        "Overall": 1768.0, 
+        "KldB": "9239", 
+        "KldB5": "92394", 
+        "Berufsgruppe": "F\u00fchrung - Verlags- und Medienwirtschaft", 
+        "Frauen": 32.63574660633484
     }, 
     {
         "name": "Arbeitsvermittler", 
@@ -6399,13 +6633,13 @@
         "Frauen": 14.13978494623656
     }, 
     {
-        "name": "Fischwirt", 
-        "M\u00e4nner": 82.27848101265823, 
-        "Overall": 790.0, 
-        "KldB": "1140", 
-        "KldB5": "11402", 
-        "Berufsgruppe": "Berufe in der Fischwirtschaft (o.S.)", 
-        "Frauen": 17.72151898734177
+        "name": "Maurer", 
+        "M\u00e4nner": 99.7903197623624, 
+        "Overall": 97291.0, 
+        "KldB": "3212", 
+        "KldB5": "32122", 
+        "Berufsgruppe": "Berufe im Maurerhandwerk", 
+        "Frauen": 0.20968023763760266
     }, 
     {
         "name": "Strahlenschutzbeauftragter", 
@@ -6453,13 +6687,13 @@
         "Frauen": 30.00887597837489
     }, 
     {
-        "name": "Revolverdreher", 
-        "M\u00e4nner": 97.26229717644053, 
-        "Overall": 195675.0, 
-        "KldB": "2423", 
-        "KldB5": "24232", 
-        "Berufsgruppe": "Berufe i.d. spanenden Metallbearbeitung", 
-        "Frauen": 2.7377028235594736
+        "name": "Glasapparatebauer", 
+        "M\u00e4nner": 78.03030303030303, 
+        "Overall": 396.0, 
+        "KldB": "2132", 
+        "KldB5": "21322", 
+        "Berufsgruppe": "Berufe im Glasapparatebau", 
+        "Frauen": 21.96969696969697
     }, 
     {
         "name": "Berufskraftfahrer", 
@@ -6613,6 +6847,15 @@
         "KldB5": "94533", 
         "Berufsgruppe": "Berufe in der Bild- und Tontechnik", 
         "Frauen": 26.523683338853925
+    }, 
+    {
+        "name": "Maschinentechniker", 
+        "M\u00e4nner": 86.65880501858827, 
+        "Overall": 611407.0, 
+        "KldB": "2510", 
+        "KldB5": "25103", 
+        "Berufsgruppe": "Berufe Maschinenbau-, Betriebstechn.(oS)", 
+        "Frauen": 13.341194981411727
     }, 
     {
         "name": "Finanzmakler", 
@@ -6840,13 +7083,13 @@
         "Frauen": 44.338022002079796
     }, 
     {
-        "name": "Bauzeichner", 
-        "M\u00e4nner": 44.709734761659725, 
-        "Overall": 106885.0, 
-        "KldB": "2721", 
-        "KldB5": "27212", 
-        "Berufsgruppe": "Technische Zeichner/innen", 
-        "Frauen": 55.290265238340275
+        "name": "Maschinenbauingenieur", 
+        "M\u00e4nner": 90.45317220543807, 
+        "Overall": 4965.0, 
+        "KldB": "2624", 
+        "KldB5": "26244", 
+        "Berufsgruppe": "Berufe i.d. regenerativen Energietechnik", 
+        "Frauen": 9.546827794561933
     }, 
     {
         "name": "Fluglehrer", 
@@ -6865,6 +7108,15 @@
         "KldB5": "63293", 
         "Berufsgruppe": "Aufsicht und F\u00fchrung - Hotellerie", 
         "Frauen": 66.56820622986037
+    }, 
+    {
+        "name": "M\u00fcller", 
+        "M\u00e4nner": 96.55172413793103, 
+        "Overall": 3248.0, 
+        "KldB": "2921", 
+        "KldB5": "29212", 
+        "Berufsgruppe": "Berufe M\u00fchlenprodukt-,Futtermittelherst.", 
+        "Frauen": 3.4482758620689653
     }, 
     {
         "name": "Moderator", 
