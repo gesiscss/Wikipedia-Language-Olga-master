@@ -48,6 +48,9 @@ Aleister Crowley , Zauberer
 Weißen Elster , Müller
 Soranos von Ephesos , Hebamme
 Eucharius Rösslin , Hebamme
+Balder Batran , Maurer
+Sweeney Todd , Arrangeur
+Wsewolod Meyerhold , Schauspiele
 #
 #================ 
 # Paulene Stone if F identified as M
