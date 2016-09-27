@@ -1,0 +1,768 @@
+,labor_market_woman,Bias,Bias2,WikiName,Ambigious,Name,Oppositgender,Profession_name,NormalizedGoogleDif,l_m_without_outliers,NormalizedGoogleDif2
+Abfallbeauftragter,26.1261261261,male,0,Abfallbeauftragter,0,Abfallbeauftragter,Abfallbeauftragte,Abfallbeauftragter,0.296424452134,26.1261261261,0.296424452134
+Abt,62.5711035267,male,0,Abt,0,Abt,Äbtissin,Abt,0.986317527719,62.5711035267,0.986317527719
+Account-Manager,43.2484932485,male,0,Account-Manager,0,Account-Manager,Account-Managerin,Account-Manager,0.995389441064,43.2484932485,0.995389441064
+Altenpflegehelfer,85.0894719246,male,0,Altenpflegehelfer,0,Altenpflegehelfer,Altenpflegehelferin,Altenpflegehelfer,0.420560747664,85.0894719246,0.420560747664
+Altenpfleger,85.0894719246,male,0,Altenpfleger,0,Altenpfleger,Altenpflegerin,Altenpfleger,0.475515463918,85.0894719246,0.475515463918
+Amtsanwalt,93.3804860355,male,0,Amtsanwalt,0,Amtsanwalt,Amtsanwältin,Amtsanwalt,0.408966148216,93.3804860355,0.408966148216
+Animateur,67.550274223,male,0,Animateur,0,Animateur,Animateurin,Animateur,0.991900338953,67.550274223,0.991900338953
+Anlagenelektriker,3.41477678862,male,0,Anlagenelektriker,0,Anlagenelektriker,Anlagenelektrikerin,Anlagenelektriker,0.809034907598,3.41477678862,0.809034907598
+Anlagenmechaniker,3.29425467804,male,0,Anlagenmechaniker,0,Anlagenmechaniker,Anlagenmechanikerin,Anlagenmechaniker,0.954667863555,3.29425467804,0.954667863555
+Anwendungsprogrammierer,13.505193109,male,0,Anwendungsprogrammierer,0,Anwendungsprogrammierer,Anwendungsprogrammiererin,Anwendungsprogrammierer,0.848124428179,13.505193109,0.848124428179
+Apotheker,83.8102088662,neutral,1,Apotheker,0,Apotheker,Apothekerin,Apotheker,0.785195936139,83.8102088662,0.785195936139
+Arbeitserzieher,68.3097468018,male,0,Arbeitserzieher,0,Arbeitserzieher,Arbeitserzieherin,Arbeitserzieher,0.77565849228,68.3097468018,0.77565849228
+Arbeitsvermittler,66.3964145433,male,0,Arbeitsvermittler,0,Arbeitsvermittler,Arbeitsvermittlerin,Arbeitsvermittler,0.645133505599,66.3964145433,0.645133505599
+Architekt,46.4820056611,male,0,Architekt,0,Architekt,Architektin,Architekt,0.880341880342,46.4820056611,0.880341880342
+Archivar,67.26062468,male,0,Archivar,0,Archivar,Archivarin,Archivar,0.955154057106,67.26062468,0.955154057106
+Arrangeur,31.8181818182,male,0,Arrangeur,0,Arrangeur,Arrangeurin,Arrangeur,0.9825708061,31.8181818182,0.9825708061
+Artist (Darsteller),41.5165165165,male,0,Artist (Darsteller),0,Artist,Artistin,Artist,0.998673923301,41.5165165165,0.998673923301
+Arzt,90.9643696925,male,0,Arzt,0,Arzt,Ärztin,Arzt,0.758909853249,90.9643696925,0.758909853249
+Asphaltbauer,0.983744394619,male,0,Asphaltbauer,0,Asphaltbauer,Asphaltbauerin,Asphaltbauer,0.813796430294,0.983744394619,0.813796430294
+Assistenzarzt,63.8102442187,male,0,Assistenzarzt,0,Assistenzarzt,Assistenzärztin,Assistenzarzt,0.47355163728,63.8102442187,0.47355163728
+Astronom,13.6886395512,male,0,Astronom,0,Astronom,Astronomin,Astronom,0.971198909308,13.6886395512,0.971198909308
+Astrophysiker,13.6886395512,male,0,Astrophysiker,0,Astrophysiker,Astrophysikerin,Astrophysiker,0.824981301421,13.6886395512,0.824981301421
+Audiodesign,35.5086372361,neutral,1,Audiodesign,0,Audiodesigner,Audiodesignerin,Audiodesigner,0.948924731183,35.5086372361,0.948924731183
+Aufbereitungsmechaniker,4.23446184942,male,0,Aufbereitungsmechaniker,0,Aufbereitungsmechaniker,Aufbereitungsmechanikerin,Aufbereitungsmechaniker,0.776173285199,4.23446184942,0.776173285199
+Aufzugsmonteur,4.12407074143,male,0,Aufzugsmonteur,0,Aufzugsmonteur,Aufzugsmonteurin,Aufzugsmonteur,0.967694566814,4.12407074143,0.967694566814
+Augenoptiker,76.7466540888,male,0,Augenoptiker,0,Augenoptiker,Augenoptikerin,Augenoptiker,0.954359274429,76.7466540888,0.954359274429
+Ausbaufacharbeiter,0.557103064067,male,0,Ausbaufacharbeiter,0,Ausbaufacharbeiter,Ausbaufacharbeiterin,Ausbaufacharbeiter,0.913805697589,0.557103064067,0.913805697589
+Ausbilder,33.7182984156,male,0,Ausbilder,0,Ausbilder,Ausbilderin,Ausbilder,0.792850595784,33.7182984156,0.792850595784
+Ausbildungsberater,66.3964145433,male,0,Ausbildungsberater,0,Ausbildungsberater,Ausbildungsberaterin,Ausbildungsberater,0.732522796353,66.3964145433,0.732522796353
+Automateneinrichter,4.12407074143,male,0,Automateneinrichter,0,Automateneinrichter,Automateneinrichterin,Automateneinrichter,0.876606683805,4.12407074143,0.876606683805
+Automatenfachmann,31.1041666667,male,0,Automatenfachmann,0,Automatenfachmann,Automatenfachfrau,Automatenfachmann,0.81365221724,31.1041666667,0.81365221724
+Automobil-Mechatroniker,3.97341840672,male,0,Automobil-Mechatroniker,0,Automechatroniker,Automechatronikerin,Automechatroniker,0.968549796156,3.97341840672,0.968549796156
+Automobilkaufmann,21.0800227373,male,0,Automobilkaufmann,0,Automobilkaufmann,Automobilkauffrau,Automobilkaufmann,0.348348348348,21.0800227373,0.348348348348
+Ballettmeister,53.1545741325,male,0,Ballettmeister,0,Ballettmeister,Ballettmeisterin,Ballettmeister,0.525206232814,53.1545741325,0.525206232814
+Ballettrepetitor,35.5086372361,male,0,Ballettrepetitor,0,Ballettrepetitor,Ballettrepetitorin,Ballettrepetitor,0.88623853211,35.5086372361,0.88623853211
+Bankkaufmann,59.7982510844,male,0,Bankkaufmann,0,Bankkaufmann,Bankkauffrau,Bankkaufmann,0.505131128848,59.7982510844,0.505131128848
+Bauchredner,30.9090909091,male,0,Bauchredner,0,Bauchredner,Bauchrednerin,Bauchredner,0.959588921791,30.9090909091,0.959588921791
+Baugeräteführer,0.2800140007,male,0,Baugeräteführer,0,Baugeräteführer,Baugeräteführerin,Baugeräteführer,0.884103531384,0.2800140007,0.884103531384
+Baumeister,22.5084770306,male,0,Baumeister,0,Baumeister,Baumeisterin,Baumeister,0.988150098749,22.5084770306,0.988150098749
+Baustoffprüfer,23.0246602919,male,0,Baustoffprüfer,0,Baustoffprüfer,Baustoffprüferin,Baustoffprüfer,0.789598108747,23.0246602919,0.789598108747
+Bautechniker,22.5084770306,male,0,Bautechniker,0,Bautechniker,Bautechnikerin,Bautechniker,0.898734177215,22.5084770306,0.898734177215
+Bauwerksabdichter,0.942760942761,male,0,Bauwerksabdichter,0,Bauwerksabdichter,Bauwerksabdichterin,Bauwerksabdichter,0.887179487179,0.942760942761,0.887179487179
+Bauwerksmechaniker für Abbruch und Betontrenntechnik,1.2849391531,male,0,Bauwerksmechaniker für Abbruch und Betontrenntechnik,0,Bauwerksmechaniker für Abbruch und Betontrenntechnik,Bauwerksmechanikerin für Abbruch und Betontrenntechnik,Bauwerksmechaniker für Abbruch und Betontrenntechnik,0.43661971831,1.2849391531,0.43661971831
+Bauzeichner,55.2902652383,male,0,Bauzeichner,0,Bauzeichner,Bauzeichnerin,Bauzeichner,0.791044776119,55.2902652383,0.791044776119
+Beleghebamme,99.8431372549,female,2,Beleghebamme,0,Beleghebamme,Belegentbindungspfleger,Belegentbindungspfleger,-0.993448107618,99.8431372549,-0.993448107618
+Beleuchter,12.5905136121,male,0,Beleuchter,0,Beleuchter,Beleuchterin,Beleuchter,0.903801298619,12.5905136121,0.903801298619
+Beleuchtungsmeister,19.2571659265,male,0,Beleuchtungsmeister,0,Beleuchtungsmeister,Beleuchtungsmeisterin,Beleuchtungsmeister,0.912126537786,19.2571659265,0.912126537786
+Berechnungsingenieur,12.2531548471,male,0,Berechnungsingenieur,0,Berechnungsingenieur,Berechnungsingenieurin,Berechnungsingenieur,0.956908479937,12.2531548471,0.956908479937
+Berg- und Maschinenmann,7.26492128967,male,0,Berg- und Maschinenmann,0,Berg- und Maschinenmann,Berg- und Maschinenfrau,Berg- und Maschinenmann,0.933415536375,7.26492128967,0.933415536375
+Bergbautechnologe,7.26492128967,male,0,Bergbautechnologe,0,Bergbautechnologe,Bergbautechnologin,Bergbautechnologe,0.659278024066,7.26492128967,0.659278024066
+Berufskraftfahrer,1.7043032114,male,0,Berufskraftfahrer,0,Berufskraftfahrer,Berufskraftfahrerin,Berufskraftfahrer,0.950682738959,1.7043032114,0.950682738959
+Beschließerin,93.6919095072,female,2,Beschließerin,0,Beschließerin,Beschließer,Beschließer,-0.320905459387,93.6919095072,-0.320905459387
+Bestatter,26.2594161959,male,0,Bestatter,0,Bestatter,Bestatterin,Bestatter,0.933344573709,26.2594161959,0.933344573709
+Beton- und Stahlbetonbauer,0.723795907426,male,0,Beton- und Stahlbetonbauer,0,Beton- und Stahlbetonbauer,Beton- und Stahlbetonbauerin,Beton- und Stahlbetonbauer,0.928100510014,0.723795907426,0.928100510014
+Betonfertigteilbauer,1.71388101983,male,0,Betonfertigteilbauer,0,Betonfertigteilbauer,Betonfertigteilbauerin,Betonfertigteilbauer,0.934168365861,1.71388101983,0.934168365861
+Betonstahlbieger und -flechter,0.723795907426,male,0,Betonstahlbieger und -flechter,0,Betonstahlbieger und -flechter,Betonstahlbiegerin und -flechterin,Betonstahlbieger und -flechter,1.0,0.723795907426,1.0
+Betriebsführer,25.9924816691,male,0,Betriebsführer,0,Betriebsführer,Betriebsführerin,Betriebsführer,0.800590691516,25.9924816691,0.800590691516
+Betriebsinformatiker,25.5314765985,male,0,Betriebsinformatiker,0,Betriebsinformatiker,Betriebsinformatikerin,Betriebsinformatiker,0.820971867008,25.5314765985,0.820971867008
+Betriebsingenieur,15.718731148,male,0,Betriebsingenieur,0,Betriebsingenieur,Betriebsingenieurin,Betriebsingenieur,0.963275204989,15.718731148,0.963275204989
+Betriebssanitäter,21.3708058503,male,0,Betriebssanitäter,0,Betriebssanitäter,Betriebssanitäterin,Betriebssanitäter,0.958077709611,21.3708058503,0.958077709611
+Betriebswirt,44.2377678932,male,0,Betriebswirt,0,Betriebswirt,Betriebswirtin,Betriebswirt,0.59266802444,44.2377678932,0.59266802444
+Bewährungshelfer,74.9556154125,male,0,Bewährungshelfer,0,Bewährungshelfer,Bewährungshelferin,Bewährungshelfer,0.229357798165,74.9556154125,0.229357798165
+Bezirksamtsleiter,21.2482255121,male,0,Bezirksamtsleiter,0,Bezirksleiter,Bezirksleiterin,Bezirksleiter,0.71144278607,21.2482255121,0.71144278607
+Bibliothekar,81.5969741542,male,0,Bibliothekar,0,Bibliothekar,Bibliothekarin,Bibliothekar,0.483021483021,81.5969741542,0.483021483021
+Biersieder,3.84404173531,male,0,Biersieder,0,Biersieder,Biersiederin,Biersieder,0.965635738832,3.84404173531,0.965635738832
+Bildredakteur,50.5608415413,male,0,Bildredakteur,0,Bildredakteur,Bildredakteurin,Bildredakteur,0.192743764172,50.5608415413,0.192743764172
+Biologe,64.447695684,male,0,Biologe,0,Biologe,Biologin,Biologe,0.230610134436,64.447695684,0.230610134436
+Biologielaborant,73.2942168505,male,0,Biologielaborant,0,Biologielaborant,Biologielaborantin,Biologielaborant,0.554677206851,73.2942168505,0.554677206851
+Biologiemodellmacher,10.0019805902,male,0,Biologiemodellmacher,0,Biologiemodellmacher,Biologiemodellmacherin,Biologiemodellmacher,0.803499327052,10.0019805902,0.803499327052
+Biologisch-technischer Assistent,73.2942168505,male,0,Biologisch-technischer Assistent,0,Biologisch-technischer Assistent,Biologisch-technische Assistentin,Biologisch-technischer Assistent,0.20824742268,73.2942168505,0.20824742268
+Bodenleger,0.557103064067,male,0,Bodenleger,0,Bodenleger,Bodenlegerin,Bodenleger,0.984723642269,0.557103064067,0.984723642269
+Bohrwerkdreher,2.73770282356,male,0,Bohrwerkdreher,0,Bohrwerkdreher,Bohrwerkdreherin,Bohrwerkdreher,0.933701657459,2.73770282356,0.933701657459
+Bootsbauer,1.21315420092,male,0,Bootsbauer,0,Bootsbauer,Bootsbauerin,Bootsbauer,0.951672862454,1.21315420092,0.951672862454
+Bootsführer,5.69221386461,male,0,Bootsführer,0,Bootsführer,Bootsführerin,Bootsführer,0.969955428383,5.69221386461,0.969955428383
+Bootsmann,3.8146208153,male,0,Bootsmann,0,Bootsmann,Bootsfrau,Bootsmann,0.964876773554,3.8146208153,0.964876773554
+Bote,47.8940392206,neutral,1,Bote,0,Bote,Botin,Bote,0.838901838902,47.8940392206,0.838901838902
+Brauer und Mälzer,3.84404173531,male,0,Brauer und Mälzer,0,Brauer und Mälzer,Brauerin und Mälzerin,Brauer und Mälzer,0.826983792886,3.84404173531,0.826983792886
+Braumeister,4.35766836446,male,0,Braumeister,0,Braumeister,Braumeisterin,Braumeister,0.97635759143,4.35766836446,0.97635759143
+Brunnenbauer,0.531914893617,male,0,Brunnenbauer,0,Brunnenbauer,Brunnenbauerin,Brunnenbauer,0.974795374821,0.531914893617,0.974795374821
+Brückenwärter,7.47126436782,male,0,Brückenwärter,0,Brückenwärter,Brückenwärterin,Brückenwärter,0.94624652456,7.47126436782,0.94624652456
+Buchbinder,36.6999465145,male,0,Buchbinder,0,Buchbinder,Buchbinderin,Buchbinder,0.955292501189,36.6999465145,0.955292501189
+Buchhalter,79.0444149597,male,0,Buchhalter,0,Buchhalter,Buchhalterin,Buchhalter,0.740273396425,79.0444149597,0.740273396425
+Buchhändler,83.0677624958,male,0,Buchhändler,0,Buchhändler,Buchhändlerin,Buchhändler,0.759098786828,83.0677624958,0.759098786828
+Bundeskanzler,18.1568088033,neutral,1,Bundeskanzler,1,Bundeskanzler,Bundeskanzlerin,Bundeskanzler,-0.408695652174,18.1568088033,-0.408695652174
+Butler,93.6919095072,male,0,Butler,0,Butler,Butlerin,Butler,0.999683383464,93.6919095072,0.999683383464
+Bäcker,29.4110759864,male,0,Bäcker,0,Bäcker,Bäckerin,Bäcker,0.957005189029,29.4110759864,0.957005189029
+Büchsenmacher,3.10172465159,male,0,Büchsenmacher,0,Büchsenmacher,Büchsenmacherin,Büchsenmacher,0.980453227365,3.10172465159,0.980453227365
+Büchsenmeister,2.87769784173,male,0,Büchsenmeister,0,Büchsenmachermeister,Büchsenmachermeisterin,Büchsenmachermeister,0.992090954029,2.87769784173,0.992090954029
+Bühnenmaler,70.9736680955,male,0,Bühnenmaler,0,Bühnenmaler,Bühnenmalerin,Bühnenmaler,0.667645331767,70.9736680955,0.667645331767
+Bühnenmeister,19.2571659265,male,0,Bühnenmeister,0,Bühnenmeister,Bühnenmeisterin,Bühnenmeister,0.91473448018,19.2571659265,0.91473448018
+Büroinformationselektroniker,11.4381605553,male,0,Büroinformationselektroniker,0,Büroinformationselektroniker,Büroinformationselektronikerin,Büroinformationselektroniker,0.953818827709,11.4381605553,0.953818827709
+Büroleiter,70.9926383282,male,0,Büroleiter,0,Büroleiter,Büroleiterin,Büroleiter,0.354166666667,70.9926383282,0.354166666667
+Büromaschinenmechaniker,11.4381605553,male,0,Büromaschinenmechaniker,0,Büromaschinenmechaniker,Büromaschinenmechanikerin,Büromaschinenmechaniker,0.910313901345,11.4381605553,0.910313901345
+Bürovorsteher,94.3062952197,male,0,Bürovorsteher,0,Bürovorsteher,Bürovorsteherin,Bürovorsteher,0.0451612903226,94.3062952197,0.0451612903226
+Calculator,35.7425929421,male,0,Calculator,0,Kalkulator,Kalkulatorin,Kalkulator,0.999608198597,35.7425929421,0.999608198597
+Callcenteragent,60.0417870759,male,0,Callcenteragent,0,Callcenteragent,Callcenteragentin,Callcenteragent,0.924927815207,60.0417870759,0.924927815207
+Chefarzt,24.865650882,male,0,Chefarzt,0,Chefarzt,Chefärztin,Chefarzt,0.825168107589,24.865650882,0.825168107589
+Chefpilot,6.46539170954,male,0,Chefpilot,0,Chefpilot,Chefpilotin,Chefpilot,0.984390035283,6.46539170954,0.984390035283
+Chefredakteur,31.7397555715,male,0,Chefredakteur,0,Chefredakteur,Chefredakteurin,Chefredakteur,0.622980251346,31.7397555715,0.622980251346
+Chemielaborant,59.1680426246,male,0,Chemielaborant,0,Chemielaborant,Chemielaborantin,Chemielaborant,0.673405909798,59.1680426246,0.673405909798
+Chemielaborjungwerker,59.1680426246,male,0,Chemielaborjungwerker,0,Chemielaborjungwerker,Chemielaborjungwerkerin,Chemielaborjungwerker,0.839388145315,59.1680426246,0.839388145315
+Chemigraf,44.0740740741,male,0,Chemigraf,0,Chemigraf,Chemigrafin,Chemigraf,0.949748743719,44.0740740741,0.949748743719
+Chemikant,26.7838353922,male,0,Chemikant,0,Chemikant,Chemikantin,Chemikant,0.838016528926,26.7838353922,0.838016528926
+Chemiker,14.1397849462,male,0,Chemiker,0,Chemiker,Chemikerin,Chemiker,0.855050694705,14.1397849462,0.855050694705
+Chemisch-Technischer Assistent,59.1680426246,male,0,Chemisch-Technischer Assistent,0,Chemisch-technischer Assistent,Chemisch-technische Assistentin,Chemisch-technischer Assistent,0.413114754098,59.1680426246,0.413114754098
+Clown,54.5454545455,male,0,Clown,0,Clown,Clownin,Clown,0.992776186325,54.5454545455,0.992776186325
+Conférencier,48.0295566502,male,0,Conférencier,0,Conférencier,Conférencieuse,Conférencier,0.999446519994,48.0295566502,0.999446519994
+Croupier,18.8318693173,male,0,Croupier,0,Croupier,Croupière,Croupier,0.891891891892,18.8318693173,0.891891891892
+Cutter (Film),26.5236833389,male,0,Cutter (Film),0,Cutter,Cutterin,Cutter,0.998206571879,26.5236833389,0.998206571879
+Dachdecker,0.400729968205,male,0,Dachdecker,0,Dachdecker,Dachdeckerin,Dachdecker,0.993338054397,0.400729968205,0.993338054397
+Datenbankadministrator,23.924239907,male,0,Datenbankadministrator,0,Datenbankadministrator,Datenbankadministratorin,Datenbankadministrator,0.897503285151,23.924239907,0.897503285151
+Datenschutzbeauftragter,57.9327818764,male,0,Datenschutzbeauftragter,0,Datenschutzbeauftragter,Datenschutzbeauftragte,Datenschutzbeauftragter,0.233532934132,57.9327818764,0.233532934132
+Datentechnischer Assistent,11.4381605553,male,0,Datentechnischer Assistent,0,Datentechnischer Assistent,Datentechnische Assistentin,Datentechnischer Assistent,0.652173913043,11.4381605553,0.652173913043
+Datentypist,79.4443583916,male,0,Datentypist,0,Datentypist,Datentypistin,Datentypist,0.309352517986,79.4443583916,0.309352517986
+Datenverarbeitungskaufmann,25.5314765985,male,0,Datenverarbeitungskaufmann,0,Datenverarbeitungskaufmann,Datenverarbeitungskauffrau,Datenverarbeitungskaufmann,0.601884570082,25.5314765985,0.601884570082
+Dekorationsmalerei,70.9736680955,neutral,1,Dekorationsmalerei,0,Dekorationenmaler,Dekorationenmalerin,Dekorationenmaler,0.957446808511,70.9736680955,0.957446808511
+Dekorvorlagenhersteller,50.1462693284,male,0,Dekorvorlagenhersteller,0,Dekorvorlagenhersteller,Dekorvorlagenherstellerin,Dekorvorlagenhersteller,0.669341894061,50.1462693284,0.669341894061
+Denkmaltechnischer Assistent,13.1957960296,male,0,Denkmaltechnischer Assistent,0,Denkmaltechnischer Assistent,Denkmaltechnische Assistentin,Denkmaltechnischer Assistent,0.55223880597,13.1957960296,0.55223880597
+Designer,48.9152458611,male,0,Designer,0,Designer,Designerin,Designer,0.994259514668,48.9152458611,0.994259514668
+Desinfektor,13.1873479319,male,0,Desinfektor,0,Desinfektor,Desinfektorin,Desinfektor,0.87375249501,13.1873479319,0.87375249501
+Detektiv,14.3413873733,male,0,Detektiv,0,Detektiv,Detektivin,Detektiv,0.952277657267,14.3413873733,0.952277657267
+Diakon,58.6139959235,neutral,1,Diakon,0,Diakon,Diakonin,Diakon,0.813292354975,58.6139959235,0.813292354975
+Diamantschleifer,60.9995903318,male,0,Diamantschleifer,0,Diamantschleifer,Diamantschleiferin,Diamantschleifer,0.976639712489,60.9995903318,0.976639712489
+Dichter,47.7832512315,male,0,Dichter,0,Dichter,Dichterin,Dichter,0.929184801788,47.7832512315,0.929184801788
+Diener,93.6919095072,male,0,Diener,0,Diener,Dienerin,Diener,0.909610131612,93.6919095072,0.909610131612
+Diplom-Handelslehrer,63.6176386302,male,0,Diplom-Handelslehrer,0,Handelslehrer,Handelslehrerin,Handelslehrer,0.5682382134,63.6176386302,0.5682382134
+Direktor,62.9975429975,neutral,1,Direktor,1,Direktor,Direktrice,Direktor,0.998790700297,62.9975429975,0.998790700297
+Dirigent,27.8372591006,male,0,Dirigent,0,Dirigent,Dirigentin,Dirigent,0.914453259745,27.8372591006,0.914453259745
+Disponent,21.3708058503,male,0,Disponent,0,Disponent,Disponentin,Disponent,0.818181818182,21.3708058503,0.818181818182
+Diätkoch,56.8326947637,male,0,Diätkoch,0,Diätkoch,Diätköchin,Diätkoch,0.485645933014,56.8326947637,0.485645933014
+Dokumentar,62.5742942051,male,0,Dokumentar,0,Dokumentar,Dokumentarin,Dokumentar,0.977669970521,62.5742942051,0.977669970521
+Dolmetscher,69.8481848185,male,0,Dolmetscher,0,Dolmetscher,Dolmetscherin,Dolmetscher,0.651773625778,69.8481848185,0.651773625778
+Dompteur,41.5165165165,male,0,Dompteur,0,Dompteur,Dompteuse,Dompteur,0.645390070922,41.5165165165,0.645390070922
+Dozent,51.7249764431,male,0,Dozent,0,Dozent,Dozentin,Dozent,0.418952618454,51.7249764431,0.418952618454
+Drahtwarenmacher,12.937104197,male,0,Drahtwarenmacher,0,Drahtwarenmacher,Drahtwarenmacherin,Drahtwarenmacher,0.856741573034,12.937104197,0.856741573034
+Dramatiker,51.4743851067,male,0,Dramatiker,0,Dramatiker,Dramatikerin,Dramatiker,0.926745516978,51.4743851067,0.926745516978
+Dramaturg,51.4743851067,male,0,Dramaturg,0,Dramaturg,Dramaturgin,Dramaturg,0.853379879403,51.4743851067,0.853379879403
+Drechsler,60.4,male,0,Drechsler,0,Drechsler,Drechslerin,Drechsler,0.992335789351,60.4,0.992335789351
+Drehbuchautor,47.7832512315,male,0,Drehbuchautor,0,Drehbuchautor,Drehbuchautorin,Drehbuchautor,0.642512077295,47.7832512315,0.642512077295
+Edelmetallprüfer,19.3917391602,male,0,Edelmetallprüfer,0,Edelmetallprüfer,Edelmetallprüferin,Edelmetallprüfer,0.681908548708,19.3917391602,0.681908548708
+Edelsteinfasser,60.9995903318,male,0,Edelsteinfasser,0,Edelsteinfasser,Edelsteinfasserin,Edelsteinfasser,0.797752808989,60.9995903318,0.797752808989
+Edelsteingraveur,60.9995903318,male,0,Edelsteingraveur,0,Edelsteingraveur,Edelsteingraveurin,Edelsteingraveur,0.764705882353,60.9995903318,0.764705882353
+Edelsteinschleifer,60.9995903318,male,0,Edelsteinschleifer,0,Edelsteinschleifer,Edelsteinschleiferin,Edelsteinschleifer,0.835016835017,60.9995903318,0.835016835017
+Einkäufer,49.0421123053,male,0,Einkäufer,0,Einkäufer,Einkäuferin,Einkäufer,0.865021770682,49.0421123053,0.865021770682
+Einrichtungsberater,56.4822153968,male,0,Einrichtungsberater,0,Einrichtungsfachberater,Einrichtungsfachberaterin,Einrichtungsfachberater,0.546275395034,56.4822153968,0.546275395034
+Einsatzleiter,14.3865948534,male,0,Einsatzleiter,0,Einsatzleiter,Einsatzleiterin,Einsatzleiter,0.873914376213,14.3865948534,0.873914376213
+Elektroanlagenmonteur,3.41477678862,male,0,Elektroanlagenmonteur,0,Elektroanlagenmonteur,Elektroanlagenmonteurin,Elektroanlagenmonteur,0.895762586741,3.41477678862,0.895762586741
+Elektroingenieur,25.5998730188,male,0,Elektroingenieur,0,Elektroingenieur,Elektroingenieurin,Elektroingenieur,0.958571945586,25.5998730188,0.958571945586
+Elektroinstallateur,11.4381605553,male,0,Elektroinstallateur,0,Elektroinstallateur,Elektroinstallateurin,Elektroinstallateur,0.98633736206,11.4381605553,0.98633736206
+Elektromechaniker,25.5998730188,male,0,Elektromechaniker,0,Elektromechaniker,Elektromechanikerin,Elektromechaniker,0.972549831023,25.5998730188,0.972549831023
+Elektromechanikermeister,1.19304480264,male,0,Elektromechanikermeister,0,Elektromechanikermeister,Elektromechanikermeisterin,Elektromechanikermeister,0.986230636833,1.19304480264,0.986230636833
+Elektromonteur,1.46126422781,male,0,Elektromonteur,0,Elektromonteur,Elektromonteurin,Elektromonteur,0.981605351171,1.46126422781,0.981605351171
+Elektroniker,25.5998730188,male,0,Elektroniker,0,Elektroniker,Elektronikerin,Elektroniker,0.934855233853,25.5998730188,0.934855233853
+Energieberater,41.0920869968,male,0,Energieberater,0,Energieberater,Energieberaterin,Energieberater,0.92918747163,41.0920869968,0.92918747163
+Energieelektroniker,4.9236883504,male,0,Energieelektroniker,0,Energieelektroniker,Energieelektronikerin,Energieelektroniker,0.946096223647,4.9236883504,0.946096223647
+Ensembleleiter,27.8372591006,male,0,Ensembleleiter,0,Ensembleleiter,Ensembleleiterin,Ensembleleiter,0.584307808374,27.8372591006,0.584307808374
+Entwickler,12.2531548471,male,0,Entwickler,1,Entwickler,Entwicklerin,Entwickler,0.994959463152,12.2531548471,0.994959463152
+Entwicklungshelfer,34.1637010676,male,0,Entwicklungshelfer,0,Entwicklungshelfer,Entwicklungshelferin,Entwicklungshelfer,0.762752792031,34.1637010676,0.762752792031
+Erntehelfer,21.5765899789,male,0,Erntehelfer,0,Erntehelfer,Erntehelferin,Erntehelfer,0.915119363395,21.5765899789,0.915119363395
+Erzieher,91.0178488053,male,0,Erzieher,0,Erzieher,Erzieherin,Erzieher,0.388942774006,91.0178488053,0.388942774006
+Estrichleger,0.557103064067,male,0,Estrichleger,0,Estrichleger,Estrichlegerin,Estrichleger,0.984324740633,0.557103064067,0.984324740633
+Ethnologe,64.6258503401,male,0,Ethnologe,0,Ethnologe,Ethnologin,Ethnologe,0.186046511628,64.6258503401,0.186046511628
+Euro-Fremdsprachenkorrespondent,89.5453170683,male,0,Euro-Fremdsprachenkorrespondent,0,Euro-Fremdsprachenkorrespondent,Euro-Fremdsprachenkorrespondentin,Euro-Fremdsprachenkorrespondent,0.543859649123,89.5453170683,0.543859649123
+Ewerführer,5.69221386461,male,0,Ewerführer,0,Ewerführer,Ewerführerin,Ewerführer,0.940532081377,5.69221386461,0.940532081377
+Expedient,37.0142226858,male,0,Expedient,0,Expedient,Expedientin,Expedient,0.996801462189,37.0142226858,0.996801462189
+Fachapotheker,83.8102088662,male,0,Fachapotheker,0,Fachapotheker,Fachapothekerin,Fachapotheker,0.315453384419,83.8102088662,0.315453384419
+Facharbeiter für Fertigungsmittel,3.10172465159,male,0,Facharbeiter für Fertigungsmittel,0,Facharbeiter für Fertigungsmittel,Facharbeiterin für Fertigungsmittel,Facharbeiter für Fertigungsmittel,0.803278688525,3.10172465159,0.803278688525
+Facharbeiter für Nachrichtentechnik,11.4381605553,male,0,Facharbeiter für Nachrichtentechnik,0,Facharbeiter für Nachrichtentechnik,Facharbeiterin für Nachrichtentechnik,Facharbeiter für Nachrichtentechnik,0.955128205128,11.4381605553,0.955128205128
+Facharzt,54.1590254126,male,0,Facharzt,0,Facharzt,Fachärztin,Facharzt,0.548856548857,54.1590254126,0.548856548857
+Fachberater für Finanzdienstleistungen,44.3380220021,male,0,Fachberater für Finanzdienstleistungen,0,Fachberater für Finanzdienstleistungen,Fachberaterin für Finanzdienstleistungen,Fachberater für Finanzdienstleistungen,0.766233766234,44.3380220021,0.766233766234
+Fachinformatiker,16.2154269235,male,0,Fachinformatiker,0,Fachinformatiker,Fachinformatikerin,Fachinformatiker,0.661721068249,16.2154269235,0.661721068249
+Fachlagerist,24.9768310941,male,0,Fachlagerist,0,Fachlagerist,Fachlageristin,Fachlagerist,0.871091871092,24.9768310941,0.871091871092
+Fachlehrer,63.6176386302,male,0,Fachlehrer,0,Fachlehrer,Fachlehrerin,Fachlehrer,0.554347826087,63.6176386302,0.554347826087
+Fachmann,71.6330078909,male,0,Fachmann,1,Fachmann,Fachfrau,Fachmann,0.781443298969,71.6330078909,0.781443298969
+Fachtierarzt,72.8797953964,male,0,Fachtierarzt,0,Fachtierarzt,Fachtierärztin,Fachtierarzt,0.500635862654,72.8797953964,0.500635862654
+Fachverkäufer im Lebensmittelhandwerk,72.0206153296,male,0,Fachverkäufer im Lebensmittelhandwerk,0,Fachverkäufer im Lebensmittelhandwerk,Fachverkäuferin im Lebensmittelhandwerk,Fachverkäufer im Lebensmittelhandwerk,0.399317406143,72.0206153296,0.399317406143
+Fachverkäufer im Lebensmittelhandwerk (Fleischerei),92.3912445691,male,0,Fachverkäufer im Lebensmittelhandwerk (Fleischerei),0,Fachverkäufer im Lebensmittelhandwerk (Fleischerei),Fachverkäuferin im Lebensmittelhandwerk (Fleischerei),Fachverkäufer im Lebensmittelhandwerk (Fleischerei),0.385579937304,92.3912445691,0.385579937304
+Fachwirt,59.7982510844,male,0,Fachwirt,0,Fachwirt,Fachwirtin,Fachwirt,0.69933396765,59.7982510844,0.69933396765
+Fachzahnarzt,66.0346097202,male,0,Fachzahnarzt,0,Fachzahnarzt,Fachzahnärztin,Fachzahnarzt,0.388601036269,66.0346097202,0.388601036269
+Fahrbahnmarkierer,2.21180663155,male,0,Fahrbahnmarkierer,0,Fahrbahnmarkierer,Fahrbahnmarkiererin,Fahrbahnmarkierer,0.966386554622,2.21180663155,0.966386554622
+Fahrlehrer,13.4048438238,male,0,Fahrlehrer,0,Fahrlehrer,Fahrlehrerin,Fahrlehrer,0.884644573741,13.4048438238,0.884644573741
+Fahrradmonteur,4.72055030095,male,0,Fahrradmonteur,0,Fahrradmonteur,Fahrradmonteurin,Fahrradmonteur,0.923484046575,4.72055030095,0.923484046575
+Fahrzeuginnenausstatter,44.4552466135,male,0,Fahrzeuginnenausstatter,0,Fahrzeuginnenausstatter,Fahrzeuginnenausstatterin,Fahrzeuginnenausstatter,0.846607669617,44.4552466135,0.846607669617
+Fahrzeuglackierer,6.22029488291,male,0,Fahrzeuglackierer,0,Fahrzeuglackierer,Fahrzeuglackiererin,Fahrzeuglackierer,0.920438957476,6.22029488291,0.920438957476
+Fallmanager,66.3964145433,male,0,Fallmanager,0,Fallmanager,Fallmanagerin,Fallmanager,0.543062200957,66.3964145433,0.543062200957
+Fassadenmonteur,1.2849391531,male,0,Fassadenmonteur,0,Fassadenmonteur,Fassadenmonteurin,Fassadenmonteur,0.816246896062,1.2849391531,0.816246896062
+Federmacher,12.937104197,male,0,Federmacher,0,Federmacher,Federmacherin,Federmacher,0.859022556391,12.937104197,0.859022556391
+Feinoptiker,42.1704511943,male,0,Feinoptiker,0,Feinoptiker,Feinoptikerin,Feinoptiker,0.650902837489,42.1704511943,0.650902837489
+Feinpolierer,6.28800778399,male,0,Feinpolierer,0,Feinpolierer,Feinpoliererin,Feinpolierer,0.829694323144,6.28800778399,0.829694323144
+Feintäschner,48.3291210334,male,0,Feintäschner,0,Feintäschner,Feintäschnerin,Feintäschner,0.896907216495,48.3291210334,0.896907216495
+Feinwerkmechaniker,14.6782915793,male,0,Feinwerkmechaniker,0,Feinwerkmechaniker,Feinwerkmechanikerin,Feinwerkmechaniker,0.930708999249,14.6782915793,0.930708999249
+Feldwebel,43.2896890344,male,0,Feldwebel,0,Feldwebel,Feldwebelin,Feldwebel,0.99863364188,43.2896890344,0.99863364188
+Fernmeldehandwerker,11.4381605553,male,0,Fernmeldehandwerker,0,Fernmeldehandwerker,Fernmeldehandwerkerin,Fernmeldehandwerker,0.959183673469,11.4381605553,0.959183673469
+Fertigungsmechaniker,21.0325537037,male,0,Fertigungsmechaniker,0,Fertigungsmechaniker,Fertigungsmechanikerin,Fertigungsmechaniker,0.885121752301,21.0325537037,0.885121752301
+Feuerungs- und Schornsteinbauer,1.2849391531,male,0,Feuerungs- und Schornsteinbauer,0,Feuerungs- und Schornsteinbauer,Feuerungs- und Schornsteinbauerin,Feuerungs- und Schornsteinbauer,0.870229007634,1.2849391531,0.870229007634
+Figurenkeramformer,16.735966736,male,0,Figurenkeramformer,0,Figurenkeramformer,Figurenkeramformerin,Figurenkeramformer,0.653259361997,16.735966736,0.653259361997
+Film- und Videoeditor,26.5236833389,male,0,Film- und Videoeditor,0,Film- und Videoeditor,Film- und Videoeditorin,Film- und Videoeditor,0.686316541622,26.5236833389,0.686316541622
+Film- und Videolaborant,57.881773399,male,0,Film- und Videolaborant,0,Film- und Videolaborant,Film- und Videolaborantin,Film- und Videolaborant,0.756097560976,57.881773399,0.756097560976
+Filmgeschäftsführung,40.1872883044,neutral,1,Filmgeschäftsführung,0,Filmgeschäftsführer,Filmgeschäftsführerin,Filmgeschäftsführer,0.536231884058,40.1872883044,0.536231884058
+Filmkopienfertiger,57.881773399,male,0,Filmkopienfertiger,0,Filmkopienfertiger,Filmkopienfertigerin,Filmkopienfertiger,0.963636363636,57.881773399,0.963636363636
+Filmregisseur,50.9119332986,male,0,Filmregisseur,0,Film-Regisseur,Film-Regisseurin,Film-Regisseur,0.878619994963,50.9119332986,0.878619994963
+Filmvorführer,16.156507852,male,0,Filmvorführer,0,Filmvorführer,Filmvorführerin,Filmvorführer,0.823564239195,16.156507852,0.823564239195
+Finanzberater,44.3380220021,male,0,Finanzberater,0,Finanzberater,Finanzberaterin,Finanzberater,0.913996627319,44.3380220021,0.913996627319
+Finanzmakler,44.3380220021,male,0,Finanzmakler,0,Finanzmakler,Finanzmaklerin,Finanzmakler,0.928205128205,44.3380220021,0.928205128205
+Fischwirt,17.7215189873,male,0,Fischwirt,0,Fischwirt,Fischwirtin,Fischwirt,0.868781930627,17.7215189873,0.868781930627
+Flachglasmechaniker,22.984008166,male,0,Flachglasmechaniker,0,Flachglasmechaniker,Flachglasmechanikerin,Flachglasmechaniker,0.887076537014,22.984008166,0.887076537014
+Flechtwerkgestalter,59.0717299578,male,0,Flechtwerkgestalter,0,Flechtwerkgestalter,Flechtwerkgestalterin,Flechtwerkgestalter,0.7137196632,59.0717299578,0.7137196632
+Fleischer,13.9570504204,male,0,Fleischer,0,Fleischer,Fleischerin,Fleischer,0.996963680953,13.9570504204,0.996963680953
+Flexograf,44.0740740741,male,0,Flexograf,0,Flexograf,Flexografin,Flexograf,0.836094939543,44.0740740741,0.836094939543
+Flugbegleiter,78.2033652524,male,0,Flugbegleiter,0,Flugbegleiter,Flugbegleiterin,Flugbegleiter,0.320552147239,78.2033652524,0.320552147239
+Flugdienstberater,30.8085212408,male,0,Flugdienstberater,0,Flugdienstberater,Flugdienstberaterin,Flugdienstberater,0.945337620579,30.8085212408,0.945337620579
+Fluggerätelektroniker,4.35011032889,male,0,Fluggerätelektroniker,0,Fluggerätelektroniker,Fluggerätelektronikerin,Fluggerätelektroniker,0.917510853835,4.35011032889,0.917510853835
+Fluggerätmechaniker,7.47075732134,male,0,Fluggerätmechaniker,0,Fluggerätmechaniker,Fluggerätmechanikerin,Fluggerätmechaniker,0.930424291172,7.47075732134,0.930424291172
+Flugingenieur,7.47075732134,male,0,Flugingenieur,0,Flugingenieur,Flugingenieurin,Flugingenieur,0.93818753274,7.47075732134,0.93818753274
+Fluglehrer,5.5737704918,male,0,Fluglehrer,0,Fluglehrer,Fluglehrerin,Fluglehrer,0.922978831931,5.5737704918,0.922978831931
+Fluglotse,30.8085212408,male,0,Fluglotse,0,Fluglotse,Fluglotsin,Fluglotse,0.791798107256,30.8085212408,0.791798107256
+Fondsmanager,44.3380220021,male,0,Fondsmanager,0,Fondsmanager,Fondsmanagerin,Fondsmanager,0.960018382353,44.3380220021,0.960018382353
+Former,4.20514511873,male,0,Former,0,Former,Formerin,Former,0.999520714136,4.20514511873,0.999520714136
+Formstecher,50.1462693284,male,0,Formstecher,0,Formstecher,Formstecherin,Formstecher,0.999018485195,50.1462693284,0.999018485195
+Forstfacharbeiter,5.09963399756,male,0,Forstfacharbeiter,0,Forstfacharbeiter,Forstfacharbeiterin,Forstfacharbeiter,0.892271662763,5.09963399756,0.892271662763
+Forstwirt,5.09963399756,male,0,Forstwirt,0,Forstwirt,Forstwirtin,Forstwirt,0.873268058378,5.09963399756,0.873268058378
+Fotograf,64.1671278362,male,0,Fotograf,0,Fotograf,Fotografin,Fotograf,0.920249113398,64.1671278362,0.920249113398
+Fotogravurzeichner,50.1462693284,male,0,Fotogravurzeichner,0,Fotogravurzeichner,Fotogravurzeichnerin,Fotogravurzeichner,0.619402985075,50.1462693284,0.619402985075
+Fotolaborant,57.881773399,male,0,Fotolaborant,0,Fotolaborant,Fotolaborantin,Fotolaborant,0.281464530892,57.881773399,0.281464530892
+Fotomedienfachmann,39.4658181468,male,0,Fotomedienfachmann,0,Fotomedienfachmann,Fotomedienfachfrau,Fotomedienfachmann,0.388684790595,39.4658181468,0.388684790595
+Fotomedienlaborant,57.881773399,male,0,Fotomedienlaborant,0,Fotomedienlaborant,Fotomedienlaborantin,Fotomedienlaborant,0.339285714286,57.881773399,0.339285714286
+Fraud-Analyst,16.5119285462,male,0,Fraud-Analyst,0,Fraud-Analyst,Fraud-Analystin,Fraud-Analyst,0.998173992435,16.5119285462,0.998173992435
+Fremdenführer,58.0346820809,male,0,Fremdenführer,0,Fremdenführer,Fremdenführerin,Fremdenführer,0.675698207586,58.0346820809,0.675698207586
+Friseur,91.9347511287,male,0,Friseur,0,Friseur,Friseurin,Friseur,0.907918968692,91.9347511287,0.907918968692
+Funkelektroniker,11.4381605553,male,0,Funkelektroniker,0,Funkelektroniker,Funkelektronikerin,Funkelektroniker,0.906371911573,11.4381605553,0.906371911573
+Funker,45.3608247423,male,0,Funker,0,Funker,Funkerin,Funker,0.997006774743,45.3608247423,0.997006774743
+Futtermeister,31.1584553928,male,0,Futtermeister,0,Futtermeister,Futtermeisterin,Futtermeister,0.904761904762,31.1584553928,0.904761904762
+Fußballtrainer,7.80452224654,male,0,Fußballtrainer,0,Fußballtrainer,Fußballtrainerin,Fußballtrainer,0.966685033696,7.80452224654,0.966685033696
+Färber,43.0767459267,male,0,Färber,0,Färber,Färberin,Färber,0.970854988281,43.0767459267,0.970854988281
+Förderlehrer,76.2119908204,male,0,Förderlehrer,0,Förderlehrer,Förderlehrerin,Förderlehrer,0.181166837257,76.2119908204,0.181166837257
+Fördermaschinist,7.26492128967,male,0,Fördermaschinist,0,Fördermaschinist,Fördermaschinistin,Fördermaschinist,0.943548387097,7.26492128967,0.943548387097
+Förster,5.09963399756,male,0,Förster,0,Förster,Försterin,Förster,0.977981538839,5.09963399756,0.977981538839
+Galerist,70.4447632712,male,0,Galerist,0,Galerist,Galeristin,Galerist,0.563909774436,70.4447632712,0.563909774436
+Galvaniseur,12.6353874883,male,0,Galvaniseur,0,Galvaniseur,Galvaniseurin,Galvaniseur,0.900610287707,12.6353874883,0.900610287707
+Gardemanger,55.289532294,male,0,Gardemanger,0,Gardemanger,Gardemangerin,Gardemanger,0.999378431576,55.289532294,0.999378431576
+Gartenbaufachwerker,21.8356761854,male,0,Gartenbaufachwerker,0,Gartenbauwerker,Gartenbauwerkerin,Gartenbauwerker,0.894230769231,21.8356761854,0.894230769231
+Gastwirt,46.9442078365,male,0,Gastwirt,0,Gastwirt,Gastwirtin,Gastwirt,0.831166062673,46.9442078365,0.831166062673
+Gebäudereiniger,61.5522574535,male,0,Gebäudereiniger,0,Gebäudereiniger,Gebäudereinigerin,Gebäudereiniger,0.93583918491,61.5522574535,0.93583918491
+Gefahrgutbeauftragter,13.8408304498,male,0,Gefahrgutbeauftragter,0,Gefahrgutbeauftragter,Gefahrgutbeauftragte,Gefahrgutbeauftragter,0.0600112170499,13.8408304498,0.0600112170499
+Gehilfe,76.2525479477,male,0,Gehilfe,0,Gehilfe,Gehilfin,Gehilfe,0.550387596899,76.2525479477,0.550387596899
+Geigenbauer,29.8076923077,male,0,Geigenbauer,0,Geigenbauer,Geigenbauerin,Geigenbauer,0.901108269395,29.8076923077,0.901108269395
+Gelbgießer,4.20514511873,male,0,Gelbgießer,0,Gelbgießer,Gelbgießerin,Gelbgießer,0.993846153846,4.20514511873,0.993846153846
+Geograph,42.5909494232,male,0,Geograph,0,Geograph,Geographin,Geograph,0.977785233714,42.5909494232,0.977785233714
+Geologe,30.4119850187,male,0,Geologe,0,Geologe,Geologin,Geologe,0.7056,30.4119850187,0.7056
+Geomatiker,47.4680548982,male,0,Geomatiker,0,Geomatiker,Geomatikerin,Geomatiker,0.69801980198,47.4680548982,0.69801980198
+Geprüfter Logistikmeister,10.4299504862,male,0,Geprüfter Logistikmeister,0,Logistikmeister,Logistikmeisterin,Logistikmeister,0.892498292849,10.4299504862,0.892498292849
+Geprüfter Technischer Betriebswirt,62.1600224791,male,0,Geprüfter Technischer Betriebswirt,0,Technischer Betriebswirt,Technische Betriebswirtin,Technischer Betriebswirt,0.902993734045,62.1600224791,0.902993734045
+Gerichtsvollzieher,27.2030651341,male,0,Gerichtsvollzieher,0,Gerichtsvollzieher,Gerichtsvollzieherin,Gerichtsvollzieher,0.867293849334,27.2030651341,0.867293849334
+Gerätezusammensetzer,21.0325537037,male,0,Gerätezusammensetzer,0,Gerätezusammensetzer,Gerätezusammensetzerin,Gerätezusammensetzer,0.890025575448,21.0325537037,0.890025575448
+Gerüstbauer,0.170745589072,male,0,Gerüstbauer,0,Gerüstbauer,Gerüstbauerin,Gerüstbauer,0.984011203828,0.170745589072,0.984011203828
+Gestaltungs- und medientechnischer Assistent,57.881773399,male,0,Gestaltungs- und medientechnischer Assistent,0,Foto- und medientechnischer Assistent,Foto- und medientechnische Assistentin,Foto- und medientechnischer Assistent,0.28813559322,57.881773399,0.28813559322
+Gestaltungstechnischer Assistent,34.9566605839,male,0,Gestaltungstechnischer Assistent,0,Gestaltungstechnischer Assistent,Gestaltungstechnische Assistentin,Gestaltungstechnischer Assistent,0.152542372881,34.9566605839,0.152542372881
+Gesundheits- und Krankenpflegehelfer,84.9596721778,male,0,Gesundheits- und Krankenpflegehelfer,0,Gesundheits- und Krankenpflegehelfer,Gesundheits- und Krankenpflegehelferin,Gesundheits- und Krankenpflegehelfer,0.756713037852,84.9596721778,0.756713037852
+Gesundheits- und Krankenpfleger,84.9596721778,male,0,Gesundheits- und Krankenpfleger,0,Gesundheits- und Krankenpfleger,Gesundheits- und Krankenpflegerin,Gesundheits- und Krankenpfleger,0.495477386935,84.9596721778,0.495477386935
+Gewässerschutzbeauftragter,26.1261261261,male,0,Gewässerschutzbeauftragter,0,Gewässerschutzbeauftragter,Gewässerschutzbeauftragte,Gewässerschutzbeauftragter,0.136929460581,26.1261261261,0.136929460581
+Glasapparatebauer,21.9696969697,male,0,Glasapparatebauer,0,Glasapparatebauer,Glasapparatebauerin,Glasapparatebauer,0.751336898396,21.9696969697,0.751336898396
+Glasbläser,27.8772378517,male,0,Glasbläser,0,Glasbläser,Glasbläserin,Glasbläser,0.899340922708,27.8772378517,0.899340922708
+Glaser,3.06442138242,male,0,Glaser,0,Glaser,Glaserin,Glaser,0.998439574579,3.06442138242,0.998439574579
+Glasmacher,17.5054582097,male,0,Glasmacher,0,Glasmacher,Glasmacherin,Glasmacher,0.982474675284,17.5054582097,0.982474675284
+Glasschneider,22.984008166,male,0,Glasschneider,0,Glasschneider,Glasschneiderin,Glasschneider,0.999666722213,22.984008166,0.999666722213
+Glasveredler,22.984008166,male,0,Glasveredler,0,Glasveredler,Glasveredlerin,Glasveredler,0.74689193497,22.984008166,0.74689193497
+Gleisbauer,0.642715886618,male,0,Gleisbauer,0,Gleisbauer,Gleisbauerin,Gleisbauer,0.923895462671,0.642715886618,0.923895462671
+Goldschläger,60.9995903318,male,0,Goldschläger,0,Goldschläger,Goldschlägerin,Goldschläger,0.997067926372,60.9995903318,0.997067926372
+Goldschmied,60.9995903318,male,0,Goldschmied,0,Goldschmied,Goldschmiedin,Goldschmied,0.940503432494,60.9995903318,0.940503432494
+Grafiker,48.9152458611,male,0,Grafiker,0,Grafiker,Grafikerin,Grafiker,0.795407098121,48.9152458611,0.795407098121
+Graveur,26.9543973941,male,0,Graveur,0,Graveur,Graveurin,Graveur,0.997813925128,26.9543973941,0.997813925128
+Gruppenleiter,25.9924816691,male,0,Gruppenleiter,0,Gruppenleiter,Gruppenleiterin,Gruppenleiter,0.620057859209,25.9924816691,0.620057859209
+Gärtner,21.8356761854,male,0,Gärtner,0,Gärtner,Gärtnerin,Gärtner,0.701466781708,21.8356761854,0.701466781708
+Gürtler,14.0532544379,male,0,Gürtler,0,Gürtler,Gürtlerin,Gürtler,0.99887832727,14.0532544379,0.99887832727
+Hafenarbeiter,24.9768310941,male,0,Hafenarbeiter,0,Hafenarbeiter,Hafenarbeiterin,Hafenarbeiter,0.987432412684,24.9768310941,0.987432412684
+Hafenschiffer,5.69221386461,male,0,Hafenschiffer,0,Hafenschiffer,Hafenschifferin,Hafenschiffer,0.792642140468,5.69221386461,0.792642140468
+Handelsfachwirt,49.2979461483,male,0,Handelsfachwirt,0,Handelsfachwirt,Handelsfachwirtin,Handelsfachwirt,0.792807300054,49.2979461483,0.792807300054
+Handelsvertreter,34.1969853683,male,0,Handelsvertreter,0,Handelsvertreter,Handelsvertreterin,Handelsvertreter,0.941627504328,34.1969853683,0.941627504328
+Handschuhmacher,48.3291210334,male,0,Handschuhmacher,0,Handschuhmacher,Handschuhmacherin,Handschuhmacher,0.892573900505,48.3291210334,0.892573900505
+Handwerksmeister,7.61356849122,male,0,Handwerksmeister,0,Handwerksmeister,Handwerksmeisterin,Handwerksmeister,0.965373905323,7.61356849122,0.965373905323
+Handzuginstrumentenmacher,33.0882352941,male,0,Handzuginstrumentenmacher,0,Handzuginstrumentenmacher,Handzuginstrumentenmacherin,Handzuginstrumentenmacher,0.906950028719,33.0882352941,0.906950028719
+Haus- und Familienpfleger,81.0310203384,male,0,Haus- und Familienpfleger,0,Haus- und Familienpfleger,Haus- und Familienpflegerin,Haus- und Familienpfleger,0.572212065814,81.0310203384,0.572212065814
+Haushälterin,93.6919095072,female,2,Haushälterin,0,Haushälterin,Haushälter,Haushälter,-0.807228915663,93.6919095072,-0.807228915663
+Hauslehrer,75.0819356083,male,0,Hauslehrer,0,Hauslehrer,Hauslehrerin,Hauslehrer,0.787982413288,75.0819356083,0.787982413288
+Hausmeister,6.86331637035,male,0,Hausmeister,0,Hausmeister,Hausmeisterin,Hausmeister,0.934512608205,6.86331637035,0.934512608205
+Haustechniker,6.86331637035,male,0,Haustechniker,0,Haustechniker,Haustechnikerin,Haustechniker,0.945583302274,6.86331637035,0.945583302274
+Hebamme,99.8431372549,female,2,Hebamme,0,Hebamme,Entbindungspfleger,Entbindungspfleger,-0.908827044562,99.8431372549,-0.908827044562
+Heilgehilfe,84.9596721778,male,0,Heilgehilfe,0,Heilgehilfe,Heilgehilfin,Heilgehilfe,0.796875,84.9596721778,0.796875
+Heilpraktiker,76.6557645135,male,0,Heilpraktiker,0,Heilpraktiker,Heilpraktikerin,Heilpraktiker,0.599147121535,76.6557645135,0.599147121535
+Heizer,12.501779731,male,0,Heizer,0,Heizer,Heizerin,Heizer,0.994297010304,12.501779731,0.994297010304
+Hilfspolizei,37.7005047672,neutral,1,Hilfspolizei,0,Hilfspolizist,Politesse,Hilfspolizist,0.810561609388,37.7005047672,0.810561609388
+Historiker,49.6703296703,male,0,Historiker,0,Historiker,Historikerin,Historiker,0.832309360318,49.6703296703,0.832309360318
+Hochbaufacharbeiter,2.24141793831,male,0,Hochbaufacharbeiter,0,Hochbaufacharbeiter,Hochbaufacharbeiterin,Hochbaufacharbeiter,0.906492648274,2.24141793831,0.906492648274
+Holz- und Bautenschützer,1.22249388753,male,0,Holz- und Bautenschützer,0,Holz- und Bautenschützer,Holz- und Bautenschützerin,Holz- und Bautenschützer,0.902813299233,1.22249388753,0.902813299233
+Holzbearbeitungsmechaniker,11.5013019049,male,0,Holzbearbeitungsmechaniker,0,Holzbearbeitungsmechaniker,Holzbearbeitungsmechanikerin,Holzbearbeitungsmechaniker,0.9256381798,11.5013019049,0.9256381798
+Holzblasinstrumentenmacher,29.4294294294,male,0,Holzblasinstrumentenmacher,0,Holzblasinstrumentenmacher,Holzblasinstrumentenmacherin,Holzblasinstrumentenmacher,0.845556095192,29.4294294294,0.845556095192
+Holzfäller,5.09963399756,male,0,Holzfäller,0,Holzfäller,Holzfällerin,Holzfäller,0.989187144366,5.09963399756,0.989187144366
+Holzmechaniker,6.89245395128,male,0,Holzmechaniker,0,Holzmechaniker,Holzmechanikerin,Holzmechaniker,0.892493638677,6.89245395128,0.892493638677
+Holzspielzeugmacher,60.4,male,0,Holzspielzeugmacher,0,Holzspielzeugmacher,Holzspielzeugmacherin,Holzspielzeugmacher,0.924603174603,60.4,0.924603174603
+Holztechniker,11.5013019049,male,0,Holztechniker,0,Holztechniker,Holztechnikerin,Holztechniker,0.915865151074,11.5013019049,0.915865151074
+Honorarprofessor,42.812488391,male,0,Honorarprofessor,0,Honorarprofessor,Honorarprofessorin,Honorarprofessor,0.834666666667,42.812488391,0.834666666667
+Host,58.3260838046,neutral,1,Host,1,Host,Hostess,Host,0.87717553456,58.3260838046,0.87717553456
+Hoteldiener,79.2351889413,male,0,Hoteldiener,0,Hoteldiener,Hoteldienerin,Hoteldiener,0.944121071013,79.2351889413,0.944121071013
+Hotelkaufmann,71.6330078909,male,0,Hotelkaufmann,0,Hotelkaufmann,Hotelkauffrau,Hotelkaufmann,0.250909090909,71.6330078909,0.250909090909
+Hotelmeister,66.5682062299,male,0,Hotelmeister,0,Hotelmeister,Hotelmeisterin,Hotelmeister,0.560857258391,66.5682062299,0.560857258391
+Humorist,54.5454545455,male,0,Humorist,0,Humorist,Humoristin,Humorist,0.990159359624,54.5454545455,0.990159359624
+Hundeführer,37.7005047672,male,0,Hundeführer,0,Hundeführer,Hundeführerin,Hundeführer,0.85002895194,37.7005047672,0.85002895194
+Hörgeräteakustiker,66.1900571931,male,0,Hörgeräteakustiker,0,Hörgeräteakustiker,Hörgeräteakustikerin,Hörgeräteakustiker,0.951318458418,66.1900571931,0.951318458418
+IT-Berater,19.8526233052,male,0,IT-Berater,0,IT-Berater,IT-Beraterin,IT-Berater,0.93930938263,19.8526233052,0.93930938263
+IT-Systemkaufmann,21.9930782724,male,0,IT-Systemkaufmann,0,IT-System-Kaufmann,IT-System-Kauffrau,IT-System-Kaufmann,0.805186849091,21.9930782724,0.805186849091
+Illusionist,19.2592592593,male,0,Illusionist,0,Illusionist,Illusionistin,Illusionist,0.99785970377,19.2592592593,0.99785970377
+Imker,28.5714285714,male,0,Imker,0,Imker,Imkerin,Imker,0.938721204288,28.5714285714,0.938721204288
+Immissionsschutzbeauftragter,26.1261261261,male,0,Immissionsschutzbeauftragter,0,Immissionsschutzbeauftragter,Immissionsschutzbeauftragte,Immissionsschutzbeauftragter,0.565778853914,26.1261261261,0.565778853914
+Immobilienkaufmann,57.0449103969,male,0,Immobilienkaufmann,0,Immobilienkaufmann,Immobilienkauffrau,Immobilienkaufmann,0.304635761589,57.0449103969,0.304635761589
+Immobilienmakler,57.0449103969,male,0,Immobilienmakler,0,Immobilienmakler,Immobilienmaklerin,Immobilienmakler,0.924528301887,57.0449103969,0.924528301887
+Industrie-Isolierer,1.2101210121,male,0,Industrie-Isolierer,0,Industrie-Isolierer,Industrie-Isoliererin,Industrie-Isolierer,0.865778200857,1.2101210121,0.865778200857
+Industrieelektriker,4.9236883504,male,0,Industrieelektriker,0,Industrieelektriker,Industrieelektrikerin,Industrieelektriker,0.94282984314,4.9236883504,0.94282984314
+Industrieelektroniker,4.9236883504,male,0,Industrieelektroniker,0,Industrieelektroniker,Industrieelektronikerin,Industrieelektroniker,0.956879383496,4.9236883504,0.956879383496
+Industriekaufmann,62.1600224791,male,0,Industriekaufmann,0,Industriekaufmann,Industriekauffrau,Industriekaufmann,0.29392971246,62.1600224791,0.29392971246
+Industriekeramiker Anlagentechnik,25.5032397408,male,0,Industriekeramiker Anlagentechnik,0,Industriekeramiker Anlagentechnik,Industriekeramikerin Anlagentechnik,Industriekeramiker Anlagentechnik,0.623376623377,25.5032397408,0.623376623377
+Industriekeramiker Dekorationstechnik,75.4844144903,male,0,Industriekeramiker Dekorationstechnik,0,Industriekeramiker Dekorationstechnik,Industriekeramikerin Dekorationstechnik,Industriekeramiker Dekorationstechnik,0.529411764706,75.4844144903,0.529411764706
+Industriekeramiker Modelltechnik,16.735966736,male,0,Industriekeramiker Modelltechnik,0,Industriekeramiker Modelltechnik,Industriekeramikerin Modelltechnik,Industriekeramiker Modelltechnik,0.539033457249,16.735966736,0.539033457249
+Industriekeramiker Verfahrenstechnik,25.5032397408,male,0,Industriekeramiker Verfahrenstechnik,0,Industriekeramiker Verfahrenstechnik,Industriekeramikerin Verfahrenstechnik,Industriekeramiker Verfahrenstechnik,0.60625,25.5032397408,0.60625
+Industriemechaniker,13.3411949814,male,0,Industriemechaniker,0,Industriemechaniker,Industriemechanikerin,Industriemechaniker,0.928468850441,13.3411949814,0.928468850441
+Industriemeister,7.61356849122,male,0,Industriemeister,0,Industriemeister,Industriemeisterin,Industriemeister,0.928484107579,7.61356849122,0.928484107579
+Industrietechnologe,11.4381605553,male,0,Industrietechnologe,0,Industrietechnologe,Industrietechnologin,Industrietechnologe,0.78100863244,11.4381605553,0.78100863244
+Informatiker,16.2154269235,male,0,Informatiker,0,Informatiker,Informatikerin,Informatiker,0.877667140825,16.2154269235,0.877667140825
+Informatikkaufmann,25.5314765985,male,0,Informatikkaufmann,0,Informatikkaufmann,Informatikkauffrau,Informatikkaufmann,0.611971646101,25.5314765985,0.611971646101
+Informationselektroniker,11.4381605553,male,0,Informationselektroniker,0,Informationselektroniker,Informationselektronikerin,Informationselektroniker,0.932181701855,11.4381605553,0.932181701855
+Informationstechnischer Assistent,11.4381605553,male,0,Informationstechnischer Assistent,0,Kommunikationstechnischer Assistent,Kommunikationstechnische Assistentin,Kommunikationstechnischer Assistent,0.856209150327,11.4381605553,0.856209150327
+Ingenieur,7.47075732134,male,0,Ingenieur,0,Ingenieur,Ingenieurin,Ingenieur,0.962784480636,7.47075732134,0.962784480636
+Ingenieurpädagoge,63.6176386302,male,0,Ingenieurpädagoge,0,Ingenieurpädagoge,Ingenieurpädagogin,Ingenieurpädagoge,0.0989010989011,63.6176386302,0.0989010989011
+Inspektor,16.2258392675,male,0,Inspektor,0,Inspektor,Inspektorin,Inspektor,0.985070760826,16.2258392675,0.985070760826
+Installateur,3.41477678862,male,0,Installateur,0,Installateur,Installateurin,Installateur,0.9983847253,3.41477678862,0.9983847253
+Intendant,40.1872883044,male,0,Intendant,0,Intendant,Intendantin,Intendant,0.847076461769,40.1872883044,0.847076461769
+Investmentfondskaufmann,44.3380220021,male,0,Investmentfondskaufmann,0,Investmentfondskaufmann,Investmentfondskauffrau,Investmentfondskaufmann,0.804629266379,44.3380220021,0.804629266379
+Isolierfacharbeiter,1.2101210121,male,0,Isolierfacharbeiter,0,Isolierfacharbeiter,Isolierfacharbeiterin,Isolierfacharbeiter,0.841726618705,1.2101210121,0.841726618705
+Journalist,50.5608415413,male,0,Journalist,0,Journalist,Journalistin,Journalist,0.948460087995,50.5608415413,0.948460087995
+Jurist,57.9327818764,male,0,Jurist,0,Jurist,Juristin,Jurist,0.852331606218,57.9327818764,0.852331606218
+Justizfachwirt,93.3804860355,male,0,Justizfachwirt,0,Justizfachwirt,Justizfachwirtin,Justizfachwirt,0.178947368421,93.3804860355,0.178947368421
+Justiziar,57.9327818764,male,0,Justiziar,0,Justiziar,Justiziarin,Justiziar,0.549783549784,57.9327818764,0.549783549784
+Justizwachtmeister,33.389261745,male,0,Justizwachtmeister,0,Justizwachtmeister,Justizwachtmeisterin,Justizwachtmeister,0.72602739726,33.389261745,0.72602739726
+Juwelier,60.9995903318,male,0,Juwelier,0,Juwelier,Juwelierin,Juwelier,0.998079623473,60.9995903318,0.998079623473
+Jäger,9.27835051546,male,0,Jäger,0,Jäger,Jägerin,Jäger,0.959803185723,9.27835051546,0.959803185723
+Kabeljungwerker,10.2560891616,male,0,Kabeljungwerker,0,Kabeljungwerker,Kabeljungwerkerin,Kabeljungwerker,0.912720519963,10.2560891616,0.912720519963
+Kaffeeröster,39.4550784618,male,0,Kaffeeröster,0,Kaffeeröster,Kaffeerösterin,Kaffeeröster,0.947314975211,39.4550784618,0.947314975211
+Kameramann,16.156507852,male,0,Kameramann,0,Kameramann,Kamerafrau,Kameramann,0.81592039801,16.156507852,0.81592039801
+Kanalbauer,0.544182430682,male,0,Kanalbauer,0,Kanalbauer,Kanalbauerin,Kanalbauer,0.910369643441,0.544182430682,0.910369643441
+Kanalsteurer,5.69221386461,male,0,Kanalsteurer,0,Kanalsteurer,Kanalsteurerin,Kanalsteurer,0.988439306358,5.69221386461,0.988439306358
+Kapitän,4.49203447375,male,0,Kapitän,0,Kapitän,Kapitänin,Kapitän,0.96463654224,4.49203447375,0.96463654224
+Karosserie- und Fahrzeugbaumechaniker,3.97341840672,male,0,Karosserie- und Fahrzeugbaumechaniker,0,Karosserie- und Fahrzeugbaumechaniker,Karosserie- und Fahrzeugbaumechanikerin,Karosserie- und Fahrzeugbaumechaniker,0.894353369763,3.97341840672,0.894353369763
+Kartograf,47.4680548982,male,0,Kartograf,0,Kartograf,Kartografin,Kartograf,0.937673557544,47.4680548982,0.937673557544
+Kassierer,59.7982510844,male,0,Kassierer,0,Kassierer,Kassiererin,Kassierer,0.210702341137,59.7982510844,0.210702341137
+Kastellan,27.9733089101,male,0,Kastellan,0,Kastellan,Kastellanin,Kastellan,0.66149870801,27.9733089101,0.66149870801
+Kaufmann für Tourismus und Freizeit,82.1267850182,male,0,Kaufmann für Tourismus und Freizeit,0,Kaufmann für Tourismus und Freizeit,Kauffrau für Tourismus und Freizeit,Kaufmann für Tourismus und Freizeit,0.135225375626,82.1267850182,0.135225375626
+Kaufmann für Verkehrsservice,54.3373493976,male,0,Kaufmann für Verkehrsservice,0,Kaufmann für Verkehrsservice,Kauffrau für Verkehrsservice,Kaufmann für Verkehrsservice,0.510288065844,54.3373493976,0.510288065844
+Kaufmannsgehilfe,71.6330078909,male,0,Kaufmannsgehilfe,0,Kaufmannsgehilfe,Kaufmannsgehilfin,Kaufmannsgehilfe,0.65611814346,71.6330078909,0.65611814346
+Kellermeister,4.35766836446,male,0,Kellermeister,0,Kellermeister,Kellermeisterin,Kellermeister,0.953559777394,4.35766836446,0.953559777394
+Kellner,65.2648305355,male,0,Kellner,0,Kellner,Kellnerin,Kellner,0.714708056171,65.2648305355,0.714708056171
+Keramiker,25.7394587791,male,0,Keramiker,0,Keramiker,Keramikerin,Keramiker,0.681034482759,25.7394587791,0.681034482759
+Kernmacher,4.20514511873,male,0,Kernmacher,0,Kernmacher,Kernmacherin,Kernmacher,0.940357852883,4.20514511873,0.940357852883
+Kesselwärter,12.501779731,male,0,Kesselwärter,0,Kesselwärter,Kesselwärterin,Kesselwärter,0.978021978022,12.501779731,0.978021978022
+Kettenschmied,60.9995903318,male,0,Kettenschmied,0,Kettengoldschmied,Kettengoldschmiedin,Kettengoldschmied,0.857142857143,60.9995903318,0.857142857143
+Kfz-Mechatroniker,3.97341840672,male,0,Kfz-Mechatroniker,0,Kfz-Mechatroniker,Kfz-Mechatronikerin,Kfz-Mechatroniker,0.940639269406,3.97341840672,0.940639269406
+Kinder- und Jugendlichenpsychotherapeut,78.1458251666,male,0,Kinder- und Jugendlichenpsychotherapeut,0,Kinder- und Jugendlichenpsychotherapeut,Kinder- und Jugendlichenpsychotherapeutin,Kinder- und Jugendlichenpsychotherapeut,0.058495821727,78.1458251666,0.058495821727
+Klassenlehrer,70.4238331399,male,0,Klassenlehrer,0,Klassenlehrer,Klassenlehrerin,Klassenlehrer,0.0691244239631,70.4238331399,0.0691244239631
+Klavier- und Cembalobauer,16.3310961969,male,0,Klavier- und Cembalobauer,0,Klavier- und Cembalobauer,Klavier- und Cembalobauerin,Klavier- und Cembalobauer,0.885207652823,16.3310961969,0.885207652823
+Klavierbauer,16.3310961969,male,0,Klavierbauer,0,Klavierbauer,Klavierbauerin,Klavierbauer,0.942557502086,16.3310961969,0.942557502086
+Klavierstimmer,16.3310961969,male,0,Klavierstimmer,0,Klavierstimmer,Klavierstimmerin,Klavierstimmer,0.96613872201,16.3310961969,0.96613872201
+Klebfachingenieur,20.1141507577,male,0,Klebfachingenieur,0,Klebfachingenieur,Klebfachingenieurin,Klebfachingenieur,0.91884057971,20.1141507577,0.91884057971
+Klempner,1.24864495925,male,0,Klempner,0,Klempner,Klempnerin,Klempner,0.997392461817,1.24864495925,0.997392461817
+Knecht,21.5765899789,neutral,1,Knecht,0,Knecht,Magd,Knecht,0.343664539654,21.5765899789,0.343664539654
+Koch,52.9232533486,male,0,Koch,0,Koch,Köchin,Koch,0.948092234516,52.9232533486,0.948092234516
+Komiker,54.5454545455,male,0,Komiker,0,Komiker,Komikerin,Komiker,0.74875484228,54.5454545455,0.74875484228
+Kommunikationselektroniker,11.4381605553,male,0,Kommunikationselektroniker,0,Kommunikationselektroniker,Kommunikationselektronikerin,Kommunikationselektroniker,0.936376210235,11.4381605553,0.936376210235
+Kommunikationswirt,54.6682417799,male,0,Kommunikationswirt,0,Kommunikationswirt,Kommunikationswirtin,Kommunikationswirt,0.20186697783,54.6682417799,0.20186697783
+Komparse,41.5165165165,male,0,Komparse,0,Komparse,Komparsin,Komparse,0.646464646465,41.5165165165,0.646464646465
+Komponist,31.8181818182,male,0,Komponist,0,Komponist,Komponistin,Komponist,0.88298778756,31.8181818182,0.88298778756
+Konservator,45.4646222058,male,0,Konservator,0,Konservator,Konservatorin,Konservator,0.905441570027,45.4646222058,0.905441570027
+Konstrukteur,12.2194707453,male,0,Konstrukteur,0,Konstrukteur,Konstrukteurin,Konstrukteur,0.941326862244,12.2194707453,0.941326862244
+Konstruktionsmechaniker,2.2858399983,male,0,Konstruktionsmechaniker,0,Konstruktionsmechaniker,Konstruktionsmechanikerin,Konstruktionsmechaniker,0.928934010152,2.2858399983,0.928934010152
+Kopfschlächter,13.9570504204,male,0,Kopfschlächter,0,Kopfschlächter,Kopfschlächterin,Kopfschlächter,0.993055555556,13.9570504204,0.993055555556
+Kopierfräser,2.73770282356,male,0,Kopierfräser,0,Kopierfräser,Kopierfräserin,Kopierfräser,0.999264976112,2.73770282356,0.999264976112
+Korbmacher,59.0717299578,male,0,Korbmacher,0,Korbmacher,Korbmacherin,Korbmacher,0.944076770351,59.0717299578,0.944076770351
+Korrektor,76.9957343083,male,0,Korrektor,0,Korrektor,Korrektorin,Korrektor,0.933139534884,76.9957343083,0.933139534884
+Korrepetitor,35.5086372361,male,0,Korrepetitor,0,Korrepetitor,Korrepetitorin,Korrepetitor,0.615894039735,35.5086372361,0.615894039735
+Kraftfahrer,24.9768310941,male,0,Kraftfahrer,0,Kraftfahrer,Kraftfahrerin,Kraftfahrer,0.980198019802,24.9768310941,0.980198019802
+Kraftwerker,6.16331126919,male,0,Kraftwerker,0,Kraftwerker,Kraftwerkerin,Kraftwerker,0.964579901153,6.16331126919,0.964579901153
+Kriminologe,48.3720930233,male,0,Kriminologe,0,Kriminologe,Kriminologin,Kriminologe,0.525809273841,48.3720930233,0.525809273841
+Kunsthistoriker,67.3256247669,male,0,Kunsthistoriker,0,Kunsthistoriker,Kunsthistorikerin,Kunsthistoriker,0.338867924528,67.3256247669,0.338867924528
+Kunstkritiker,50.5608415413,male,0,Kunstkritiker,0,Kunstkritiker,Kunstkritikerin,Kunstkritiker,0.718822979916,50.5608415413,0.718822979916
+Kunstschmied,14.0532544379,male,0,Kunstschmied,0,Kunstschmied,Kunstschmiedin,Kunstschmied,0.969464269582,14.0532544379,0.969464269582
+Kunststoffformgeber,26.7465962203,male,0,Kunststoffformgeber,0,Kunststoff-Formgeber,Kunststoff-Formgeberin,Kunststoff-Formgeber,0.937282229965,26.7465962203,0.937282229965
+Kupferschmied,3.29425467804,male,0,Kupferschmied,0,Kupferschmied,Kupferschmiedin,Kupferschmied,0.979742173112,3.29425467804,0.979742173112
+Kupferstecher,48.7741935484,male,0,Kupferstecher,0,Kupferstecher,Kupferstecherin,Kupferstecher,0.975149265774,48.7741935484,0.975149265774
+Kurator,67.3256247669,male,0,Kurator,0,Kurator,Kuratorin,Kurator,0.743709771796,67.3256247669,0.743709771796
+Kutscher,15.3005464481,male,0,Kutscher,0,Kutscher,Kutscherin,Kutscher,0.985175636481,15.3005464481,0.985175636481
+Küchenchef,18.02864773,male,0,Küchenchef,0,Küchenchef,Küchenchefin,Küchenchef,0.911652703732,18.02864773,0.911652703732
+Küchenmeister,18.02864773,male,0,Küchenmeister,0,Küchenmeister,Küchenmeisterin,Küchenmeister,0.95276840643,18.02864773,0.95276840643
+Künstler,54.5947166403,male,0,Künstler,0,Künstler,Künstlerin,Künstler,0.794325077907,54.5947166403,0.794325077907
+Künstlerischer Leiter,40.1872883044,male,0,Künstlerischer Leiter,0,Künstlerischer Leiter,Künstlerische Leiterin,Künstlerischer Leiter,0.583333333333,40.1872883044,0.583333333333
+Küper,14.3576367827,male,0,Küper,0,Küper,Küperin,Küper,0.999142282189,14.3576367827,0.999142282189
+Kürschner,65.6862745098,male,0,Kürschner,0,Kürschner,Kürschnerin,Kürschner,0.977822214143,65.6862745098,0.977822214143
+Küster,67.8608515057,male,0,Küster,0,Küster,Küsterin,Küster,0.831815747188,67.8608515057,0.831815747188
+Laborant,59.1680426246,male,0,Laborant,0,Laborant,Laborantin,Laborant,0.69133192389,59.1680426246,0.69133192389
+Lacklaborant,45.6225127914,male,0,Lacklaborant,0,Lacklaborant,Lacklaborantin,Lacklaborant,0.646788990826,45.6225127914,0.646788990826
+Lagerhalter,24.9768310941,male,0,Lagerhalter,0,Lagerhalter,Lagerhalterin,Lagerhalter,0.981123259508,24.9768310941,0.981123259508
+Landarbeiter,21.5765899789,male,0,Landarbeiter,0,Landarbeiter,Landarbeiterin,Landarbeiter,0.920255183413,21.5765899789,0.920255183413
+Landmaschinenmechaniker,0.488489461042,male,0,Landmaschinenmechaniker,0,Landmaschinenmechaniker,Landmaschinenmechanikerin,Landmaschinenmechaniker,0.964383153926,0.488489461042,0.964383153926
+Landschaftsarchitekt,13.8494826824,male,0,Landschaftsarchitekt,0,Landschaftsarchitekt,Landschaftsarchitektin,Landschaftsarchitekt,0.556085918854,13.8494826824,0.556085918854
+Landwirt,21.5765899789,male,0,Landwirt,0,Landwirt,Landwirtin,Landwirt,0.947547353084,21.5765899789,0.947547353084
+Lebensmittelchemiker,45.3470549595,male,0,Lebensmittelchemiker,0,Lebensmittelchemiker,Lebensmittelchemikerin,Lebensmittelchemiker,0.620185922975,45.3470549595,0.620185922975
+Lebensmittelkontrolleur,35.3913466213,male,0,Lebensmittelkontrolleur,0,Lebensmittelkontrolleur,Lebensmittelkontrolleurin,Lebensmittelkontrolleur,0.807817589577,35.3913466213,0.807817589577
+Lehrer,70.4238331399,male,0,Lehrer,0,Lehrer,Lehrerin,Lehrer,0.590604026846,70.4238331399,0.590604026846
+Lehrrettungsassistent,63.6176386302,male,0,Lehrrettungsassistent,0,Lehrrettungsassistent,Lehrrettungsassistentin,Lehrrettungsassistent,0.840818141396,63.6176386302,0.840818141396
+Leichtflugzeugbauer,7.47075732134,male,0,Leichtflugzeugbauer,0,Leichtflugzeugbauer,Leichtflugzeugbauerin,Leichtflugzeugbauer,0.744877726371,7.47075732134,0.744877726371
+Lektor,72.8127671701,male,0,Lektor,1,Lektor,Lektorin,Lektor,0.937646356582,72.8127671701,0.937646356582
+Leuchtröhrenglasbläser,26.8707482993,male,0,Leuchtröhrenglasbläser,0,Leuchtröhrenglasbläser,Leuchtröhrenglasbläserin,Leuchtröhrenglasbläser,0.813780260708,26.8707482993,0.813780260708
+Lichtgestalter,12.5905136121,male,0,Lichtgestalter,0,Lichtgestalter,Lichtgestalterin,Lichtgestalter,0.931875953228,12.5905136121,0.931875953228
+Liedermacher,48.1166205576,male,0,Liedermacher,0,Liedermacher,Liedermacherin,Liedermacher,0.878855860909,48.1166205576,0.878855860909
+Listbroker,60.5296610169,male,0,Listbroker,0,Listbroker,Listbrokerin,Listbroker,0.993355481728,60.5296610169,0.993355481728
+Literat,47.7832512315,male,0,Literat,0,Literat,Literatin,Literat,0.958140352934,47.7832512315,0.958140352934
+Literaturagent,60.5296610169,male,0,Literaturagent,0,Literaturagent,Literaturagentin,Literaturagent,0.255172413793,60.5296610169,0.255172413793
+Lotse,6.25990491284,male,0,Lotse,0,Lotse,Lotsin,Lotse,0.940322843633,6.25990491284,0.940322843633
+Luftverkehrskaufmann,35.0604490501,male,0,Luftverkehrskaufmann,0,Luftverkehrskaufmann,Luftverkehrskauffrau,Luftverkehrskaufmann,0.370473537604,35.0604490501,0.370473537604
+Makler,39.2475851551,male,0,Makler,0,Makler,Maklerin,Makler,0.949072618673,39.2475851551,0.949072618673
+Maler und Lackierer,5.53319493285,male,0,Maler und Lackierer,0,Maler und Lackierer,Malerin und Lackiererin,Maler und Lackierer,0.976098616731,5.53319493285,0.976098616731
+Manager,21.1018907961,male,0,Manager,1,Manager,Managerin,Manager,0.995921378054,21.1018907961,0.995921378054
+Maschinen- und Anlagenführer,12.501779731,male,0,Maschinen- und Anlagenführer,0,Maschinen- und Anlagenführer,Maschinen- und Anlagenführerin,Maschinen- und Anlagenführer,0.94217751629,12.501779731,0.94217751629
+Maschinenbauingenieur,9.54682779456,male,0,Maschinenbauingenieur,0,Maschinenbauingenieur,Maschinenbauingenieurin,Maschinenbauingenieur,0.923859343214,9.54682779456,0.923859343214
+Maschinenbautechniker,13.3411949814,male,0,Maschinenbautechniker,0,Maschinentechniker,Maschinentechnikerin,Maschinentechniker,0.952965235174,13.3411949814,0.952965235174
+Maschinenführer,12.501779731,male,0,Maschinenführer,0,Maschinenführer,Maschinenführerin,Maschinenführer,0.942365865308,12.501779731,0.942365865308
+Maschinenzusammensetzer,21.0325537037,male,0,Maschinenzusammensetzer,0,Maschinenzusammensetzer,Maschinenzusammensetzerin,Maschinenzusammensetzer,0.862567811935,21.0325537037,0.862567811935
+Maskenbildner,90.6659674882,male,0,Maskenbildner,0,Maskenbildner,Maskenbildnerin,Maskenbildner,0.247524752475,90.6659674882,0.247524752475
+Masseur und medizinischer Bademeister,77.4982405505,male,0,Masseur und medizinischer Bademeister,0,Masseur und medizinischer Bademeister,Masseurin und medizinische Bademeisterin,Masseur und medizinischer Bademeister,0.542954490144,77.4982405505,0.542954490144
+Mathematiker,34.0704906704,male,0,Mathematiker,0,Mathematiker,Mathematikerin,Mathematiker,0.911314984709,34.0704906704,0.911314984709
+Mathematisch-Technischer Assistent,12.3967931919,male,0,Mathematisch-Technischer Assistent,0,Mathematisch-technischer Assistent,Mathematisch-technische Assistentin,Mathematisch-technischer Assistent,0.258409785933,12.3967931919,0.258409785933
+Mathematisch-technischer Softwareentwickler,12.3967931919,male,0,Mathematisch-technischer Softwareentwickler,0,Mathematisch-technischer Softwareentwickler,Mathematisch-technische Softwareentwicklerin,Mathematisch-technischer Softwareentwickler,0.81946403385,12.3967931919,0.81946403385
+Matrose,3.8146208153,male,0,Matrose,0,Matrose,Matrosin,Matrose,0.739750445633,3.8146208153,0.739750445633
+Maurer,0.209680237638,male,0,Maurer,0,Maurer,Maurerin,Maurer,0.997601519264,0.209680237638,0.997601519264
+Maßschneider,84.4050647718,male,0,Maßschneider,0,Maßschneider,Maßschneiderin,Maßschneider,0.663572224285,84.4050647718,0.663572224285
+Mechaniker,13.3411949814,male,0,Mechaniker,0,Mechaniker,Mechanikerin,Mechaniker,0.958006470302,13.3411949814,0.958006470302
+Mechatroniker,6.22845803015,male,0,Mechatroniker,0,Mechatroniker,Mechatronikerin,Mechatroniker,0.915820029028,6.22845803015,0.915820029028
+Mediaberater,54.6682417799,male,0,Mediaberater,0,Medienberater,Medienberaterin,Medienberater,0.819945673263,54.6682417799,0.819945673263
+Medienfachwirt,65.0971858153,male,0,Medienfachwirt,0,Medienwirt,Medienwirtin,Medienwirt,0.149732620321,65.0971858153,0.149732620321
+Mediengestalter,50.1462693284,male,0,Mediengestalter,0,Mediengestalter,Mediengestalterin,Mediengestalter,0.699819168174,50.1462693284,0.699819168174
+Medienkaufmann Digital und Print,65.0971858153,male,0,Medienkaufmann Digital und Print,0,Medienkaufmann,Medienkauffrau,Medienkaufmann,0.212636695018,65.0971858153,0.212636695018
+Medientechnik,11.4381605553,neutral,1,Medientechnik,0,Medientechniker,Medientechnikerin,Medientechniker,0.811320754717,11.4381605553,0.811320754717
+Medientechnologe Druck,22.5987478195,male,0,Medientechnologe Druck,0,Medientechnologe Druck,Medientechnologin Druck,Medientechnologe Druck,0.730860675226,22.5987478195,0.730860675226
+Medientechnologe Druckverarbeitung,36.6999465145,male,0,Medientechnologe Druckverarbeitung,0,Medientechnologe Druckverarbeitung,Medientechnologin Druckverarbeitung,Medientechnologe Druckverarbeitung,0.665850073493,36.6999465145,0.665850073493
+Medientechnologe Siebdruck,22.5987478195,male,0,Medientechnologe Siebdruck,0,Medientechnologe Siebdruck,Medientechnologin Siebdruck,Medientechnologe Siebdruck,0.460213289582,22.5987478195,0.460213289582
+Medizinischer Dokumentar,85.1895119418,male,0,Medizinischer Dokumentar,0,Medizinischer Dokumentar,Medizinische Dokumentarin,Medizinischer Dokumentar,0.162051747617,85.1895119418,0.162051747617
+Medizinischer Dokumentationsassistent,85.1895119418,male,0,Medizinischer Dokumentationsassistent,0,Medizinischer Dokumentationsassistent,Medizinische Dokumentationsassistentin,Medizinischer Dokumentationsassistent,0.267605633803,85.1895119418,0.267605633803
+Medizinphysiker,13.6886395512,male,0,Medizinphysiker,0,Medizinphysiker,Medizinphysikerin,Medizinphysiker,0.792580557812,13.6886395512,0.792580557812
+Messebau,2.72014753343,neutral,1,Messebau,0,Messebauer,Messebauerin,Messebauer,0.993123142374,2.72014753343,0.993123142374
+Messerschmied,3.10172465159,male,0,Messerschmied,0,Messerschmied,Messerschmiedin,Messerschmied,0.980669932477,3.10172465159,0.980669932477
+Metall- und Glockengießer,4.20514511873,male,0,Metall- und Glockengießer,0,Metall- und Glockengießer,Metall- und Glockengießerin,Metall- und Glockengießer,0.877767936227,4.20514511873,0.877767936227
+Metallbildner,14.0532544379,male,0,Metallbildner,0,Metallbildner,Metallbildnerin,Metallbildner,0.892531260561,14.0532544379,0.892531260561
+Metallblasinstrumentenmacher,16.6666666667,male,0,Metallblasinstrumentenmacher,0,Metallblasinstrumentenmacher,Metallblasinstrumentenmacherin,Metallblasinstrumentenmacher,0.927236971485,16.6666666667,0.927236971485
+Metallschleifer,6.28800778399,male,0,Metallschleifer,0,Metallschleifer,Metallschleiferin,Metallschleifer,0.932952924394,6.28800778399,0.932952924394
+Metallverformer,4.20514511873,male,0,Metallverformer,0,Metallformer,Metallformerin,Metallformer,0.97906755471,4.20514511873,0.97906755471
+Mikrotechnologe,28.2151300236,male,0,Mikrotechnologe,0,Mikrotechnologe,Mikrotechnologin,Mikrotechnologe,0.632047477745,28.2151300236,0.632047477745
+Missionar,67.8608515057,male,0,Missionar,0,Missionar,Missionarin,Missionar,0.896463352127,67.8608515057,0.896463352127
+Mitarbeiter,34.1969853683,male,0,Mitarbeiter,0,Mitarbeiter,Mitarbeiterin,Mitarbeiter,0.879263740507,34.1969853683,0.879263740507
+Modenäher,84.4050647718,male,0,Modenäher,0,Modenäher,Modenäherin,Modenäher,0.415448851775,84.4050647718,0.415448851775
+Moderator (Beruf),48.0295566502,male,0,Moderator (Beruf),0,Moderator,Moderatorin,Moderator,0.968157452596,48.0295566502,0.968157452596
+Modeschneider,84.4050647718,male,0,Modeschneider,0,Modeschneider,Modeschneiderin,Modeschneider,0.251655629139,84.4050647718,0.251655629139
+Modist,84.4050647718,male,0,Modist,0,Modist,Modistin,Modist,0.640278657378,84.4050647718,0.640278657378
+Musikalienhändler,33.5901386749,male,0,Musikalienhändler,0,Musikalienhändler,Musikalienhändlerin,Musikalienhändler,0.86395286556,33.5901386749,0.86395286556
+Musiker,37.9399437331,male,0,Musiker,0,Musiker,Musikerin,Musiker,0.887385970431,37.9399437331,0.887385970431
+Musikfachhändler,33.5901386749,male,0,Musikfachhändler,0,Musikfachhändler,Musikfachhändlerin,Musikfachhändler,0.817338896616,33.5901386749,0.817338896616
+Musikverleger,32.6357466063,male,0,Musikverleger,0,Musikverleger,Musikverlegerin,Musikverleger,0.962504986039,32.6357466063,0.962504986039
+Mönchtum,62.5711035267,neutral,1,Mönchtum,0,Mönch,Nonne,Mönch,-0.6,62.5711035267,-0.6
+Mühlenbauer,3.68870499164,male,0,Mühlenbauer,0,Mühlenbauer,Mühlenbauerin,Mühlenbauer,0.980198019802,3.68870499164,0.980198019802
+Müller,3.44827586207,male,0,Müller,0,Müller,Müllerin,Müller,0.992671579727,3.44827586207,0.992671579727
+Nachrichtengerätemechaniker,11.4381605553,male,0,Nachrichtengerätemechaniker,0,Nachrichtengerätemechaniker,Nachrichtengerätemechanikerin,Nachrichtengerätemechaniker,0.915966386555,11.4381605553,0.915966386555
+Nachtportier,79.2351889413,male,0,Nachtportier,0,Nachtportier,Nachtportierin,Nachtportier,0.995518087717,79.2351889413,0.995518087717
+Naturwerksteinmechaniker,4.23446184942,male,0,Naturwerksteinmechaniker,0,Naturwerksteinmechaniker,Naturwerksteinmechanikerin,Naturwerksteinmechaniker,0.865745310958,4.23446184942,0.865745310958
+Nautischer Offiziersassistent,3.8146208153,male,0,Nautischer Offiziersassistent,0,Nautischer Offiziersassistent,Nautische Offiziersassistentin,Nautischer Offiziersassistent,0.814814814815,3.8146208153,0.814814814815
+Netzelektriker,4.9236883504,male,0,Netzelektriker,0,Netzelektriker,Netzelektrikerin,Netzelektriker,0.970301311932,4.9236883504,0.970301311932
+Notar,48.031496063,male,0,Notar,0,Notar,Notarin,Notar,0.984729465091,48.031496063,0.984729465091
+Notenstecher,50.1462693284,male,0,Notenstecher,0,Notenstecher,Notenstecherin,Notenstecher,0.906896551724,50.1462693284,0.906896551724
+Notfallsanitäter,21.3708058503,male,0,Notfallsanitäter,0,Notfallsanitäter,Notfallsanitäterin,Notfallsanitäter,0.879576891782,21.3708058503,0.879576891782
+Ofenbauer,1.59872102318,male,0,Ofenbauer,0,Ofenbauer,Ofenbauerin,Ofenbauer,0.984379980873,1.59872102318,0.984379980873
+Offizier,43.2896890344,male,0,Offizier,0,Offizier,Offizierin,Offizier,0.967968177536,43.2896890344,0.967968177536
+Online-Redakteur,50.5608415413,male,0,Online-Redakteur,0,Online-Redakteur,Online-Redakteurin,Online-Redakteur,0.491338582677,50.5608415413,0.491338582677
+Operationstechnischer Assistent,77.7285201604,male,0,Operationstechnischer Assistent,0,Operationstechnischer Assistent,Operationstechnische Assistentin,Operationstechnischer Assistent,0.282336578581,77.7285201604,0.282336578581
+Orchesterwart,12.5905136121,male,0,Orchesterwart,0,Orchesterwart,Orchesterwartin,Orchesterwart,0.978947368421,12.5905136121,0.978947368421
+Ordensbruder,62.5711035267,neutral,1,Ordensbruder,0,Ordensbruder,Ordensschwester,Ordensbruder,-0.476293103448,62.5711035267,-0.476293103448
+Orgel- und Harmoniumbauer,9.93690851735,male,0,Orgel- und Harmoniumbauer,0,Orgel- und Harmoniumbauer,Orgel- und Harmoniumbauerin,Orgel- und Harmoniumbauer,0.899529042386,9.93690851735,0.899529042386
+Orgelbauer,9.93690851735,male,0,Orgelbauer,0,Orgelbauer,Orgelbauerin,Orgelbauer,0.98239514757,9.93690851735,0.98239514757
+Orientalist,53.3333333333,male,0,Orientalist,0,Orientalist,Orientalistin,Orientalist,0.990648101108,53.3333333333,0.990648101108
+Orthopädietechnik-Mechaniker,29.4536817102,male,0,Orthopädietechnik-Mechaniker,0,Orthopädietechnik-Mechaniker,Orthopädietechnik-Mechanikerin,Orthopädietechnik-Mechaniker,0.830282861897,29.4536817102,0.830282861897
+Packmitteltechnologe,17.5711352303,male,0,Packmitteltechnologe,0,Packmitteltechnologe,Packmitteltechnologin,Packmitteltechnologe,0.851936740775,17.5711352303,0.851936740775
+Pantomime,41.5165165165,male,0,Pantomime,0,Pantomime,Pantomimin,Pantomime,0.996959800855,41.5165165165,0.996959800855
+Papiertechnologe,5.19575856444,male,0,Papiertechnologe,0,Papiertechnologe,Papiertechnologin,Papiertechnologe,0.744711195626,5.19575856444,0.744711195626
+Pastoralreferent,30.0088759784,male,0,Pastoralreferent,0,Pastoralreferent,Pastoralreferentin,Pastoralreferent,0.25,30.0088759784,0.25
+Patentanwalt (Deutschland),46.2251399884,male,0,Patentanwalt (Deutschland),0,Patentanwalt,Patentanwältin,Patentanwalt,0.900467063939,46.2251399884,0.900467063939
+Patentingenieur,19.2801844836,male,0,Patentingenieur,0,Patentingenieur,Patentingenieurin,Patentingenieur,0.819641423602,19.2801844836,0.819641423602
+Pelzveredler,65.6862745098,male,0,Pelzveredler,0,Pelzveredler,Pelzveredlerin,Pelzveredler,0.799621928166,65.6862745098,0.799621928166
+Personaldienstleistungskaufmann,66.3964145433,male,0,Personaldienstleistungskaufmann,0,Personaldienstleistungskaufmann,Personaldienstleistungskauffrau,Personaldienstleistungskaufmann,0.396866840731,66.3964145433,0.396866840731
+Personaldisponent,66.3964145433,male,0,Personaldisponent,0,Personaldisponent,Personaldisponentin,Personaldisponent,0.337997376476,66.3964145433,0.337997376476
+Personalreferent,66.3964145433,male,0,Personalreferent,0,Personalreferent,Personalreferentin,Personalreferent,0.441002949853,66.3964145433,0.441002949853
+Pfarrer,30.0088759784,male,0,Pfarrer,0,Pfarrer,Pfarrerin,Pfarrer,0.789401238816,30.0088759784,0.789401238816
+Pferdewirt,60.9494015234,male,0,Pferdewirt,0,Pferdewirt,Pferdewirtin,Pferdewirt,0.394957983193,60.9494015234,0.394957983193
+Pflasterer,0.528109028961,male,0,Pflasterer,0,Pflasterer,Pflasterin,Pflasterer,0.916763740337,0.528109028961,0.916763740337
+Pflegedienstleitung,78.3566481054,neutral,1,Pflegedienstleitung,0,Pflegedienstleiter,Pflegedienstleiterin,Pflegedienstleiter,0.0107066381156,78.3566481054,0.0107066381156
+Pförtner,31.0871031175,male,0,Pförtner,0,Pförtner,Pförtnerin,Pförtner,0.952755905512,31.0871031175,0.952755905512
+Pharmakant,26.7838353922,male,0,Pharmakant,0,Pharmakant,Pharmakantin,Pharmakant,0.773940345369,26.7838353922,0.773940345369
+Pharmareferent,57.8807706289,male,0,Pharmareferent,0,Pharmareferent,Pharmareferentin,Pharmareferent,0.374722838137,57.8807706289,0.374722838137
+Pharmazeut,83.8102088662,male,0,Pharmazeut,0,Pharmazeut,Pharmazeutin,Pharmazeut,0.533718689788,83.8102088662,0.533718689788
+Pharmazieingenieur,26.7838353922,male,0,Pharmazieingenieur,0,Pharmazie-Ingenieur,Pharmazie-Ingenieurin,Pharmazie-Ingenieur,0.0698466780239,26.7838353922,0.0698466780239
+Philosoph,54.4837441944,male,0,Philosoph,0,Philosoph,Philosophin,Philosoph,0.869728209934,54.4837441944,0.869728209934
+Physikalisch-technischer Assistent,32.4723846654,male,0,Physikalisch-technischer Assistent,0,Physikalisch-technischer Assistent,Physikalisch-technische Assistentin,Physikalisch-technischer Assistent,0.530593607306,32.4723846654,0.530593607306
+Physiker,16.2575709276,male,0,Physiker,0,Physiker,Physikerin,Physiker,0.889858561541,16.2575709276,0.889858561541
+Physikingenieur,32.4723846654,male,0,Physikingenieur,0,Physikingenieur,Physikingenieurin,Physikingenieur,0.891045710708,32.4723846654,0.891045710708
+Physiklaborant,32.4723846654,male,0,Physiklaborant,0,Physiklaborant,Physiklaborantin,Physiklaborant,0.702127659574,32.4723846654,0.702127659574
+Physiotherapeut,77.4982405505,male,0,Physiotherapeut,0,Physiotherapeut,Physiotherapeutin,Physiotherapeut,0.601907032181,77.4982405505,0.601907032181
+Pilot,6.46539170954,male,0,Pilot,0,Pilot,Pilotin,Pilot,0.996156162101,6.46539170954,0.996156162101
+Platzwart,7.74886392866,male,0,Platzwart,0,Platzwart,Platzwartin,Platzwart,0.98976001553,7.74886392866,0.98976001553
+Poissonnier,37.0960187354,male,0,Poissonnier,0,Poissonnier,Poissonnierin,Poissonnier,0.999964602396,37.0960187354,0.999964602396
+Polier,1.0979692033,male,0,Polier,0,Polier,Polierin,Polier,0.988797051472,1.0979692033,0.988797051472
+Polizeivollzugsbeamter,52.8379772962,male,0,Polizeivollzugsbeamter,0,Polizeivollzugsbeamter,Polizeivollzugsbeamtin,Polizeivollzugsbeamter,0.62494095418,52.8379772962,0.62494095418
+Polster- und Dekorationsnäher,54.8604292327,male,0,Polster- und Dekorationsnäher,0,Polster- und Dekorationsnäher,Polster- und Dekorationsnäherin,Polster- und Dekorationsnäher,0.747652102899,54.8604292327,0.747652102899
+Portier,79.2351889413,male,0,Portier,0,Portier,Portierin,Portier,0.988911139265,79.2351889413,0.988911139265
+Porzellanmaler,75.4844144903,male,0,Porzellanmaler,0,Porzellanmaler,Porzellanmalerin,Porzellanmaler,0.659050966608,75.4844144903,0.659050966608
+Postjungbote,47.8940392206,male,0,Postjungbote,0,Postjungbote,Postjungbotin,Postjungbote,0.873873873874,47.8940392206,0.873873873874
+Pressefotograf,64.1671278362,male,0,Pressefotograf,0,Pressefotograf,Pressefotografin,Pressefotograf,0.886632825719,64.1671278362,0.886632825719
+Pressesprecher,65.267451247,male,0,Pressesprecher,0,Pressesprecher,Pressesprecherin,Pressesprecher,0.471428571429,65.267451247,0.471428571429
+Prior,62.5711035267,male,0,Prior,0,Prior,Priorin,Prior,0.997362525282,62.5711035267,0.997362525282
+Privatdozent,42.812488391,male,0,Privatdozent,0,Privatdozent,Privatdozentin,Privatdozent,0.75797579758,42.812488391,0.75797579758
+Produktgestalter Textil,84.0716305372,male,0,Produktgestalter Textil,0,Produktgestalter Textil,Produktgestalterin Textil,Produktgestalter Textil,0.351778656126,84.0716305372,0.351778656126
+Produktionstechnologe,15.718731148,male,0,Produktionstechnologe,0,Produktionstechnologe,Produktionstechnologin,Produktionstechnologe,0.770966368668,15.718731148,0.770966368668
+Produktprüfer Textil,34.0723731095,male,0,Produktprüfer Textil,0,Produktprüfer Textil,Produktprüferin Textil,Produktprüfer Textil,0.456869009585,34.0723731095,0.456869009585
+Produktveredler Textil,20.9806780897,male,0,Produktveredler Textil,0,Produktveredler Textil,Produktveredlerin Textil,Produktveredler Textil,0.483992467043,20.9806780897,0.483992467043
+Professor,42.812488391,male,0,Professor,0,Professor,Professorin,Professor,0.991310644461,42.812488391,0.991310644461
+Projektassistenz,11.4381605553,neutral,1,Projektassistenz,0,Projektassistent,Projektassistentin,Projektassistent,0.405940594059,11.4381605553,0.405940594059
+Projektleiter,25.9924816691,male,0,Projektleiter,0,Projektleiter,Projektleiterin,Projektleiter,0.680705190989,25.9924816691,0.680705190989
+Prorektor,29.7738693467,male,0,Prorektor,0,Prorektor,Prorektorin,Prorektor,0.891945906335,29.7738693467,0.891945906335
+Prozessleitelektroniker,6.35842667361,male,0,Prozessleitelektroniker,0,Prozessleitelektroniker,Prozessleitelektronikerin,Prozessleitelektroniker,0.92007992008,6.35842667361,0.92007992008
+Präparator,51.5706806283,male,0,Präparator,0,Präparator,Präparatorin,Präparator,0.827888878834,51.5706806283,0.827888878834
+Präsident,29.7738693467,male,0,Präsident,1,Präsident,Präsidentin,Präsident,0.786259541985,29.7738693467,0.786259541985
+Psychoanalytiker,78.1458251666,male,0,Psychoanalytiker,0,Psychoanalytiker,Psychoanalytikerin,Psychoanalytiker,0.569985569986,78.1458251666,0.569985569986
+Psychologe,77.9567882775,male,0,Psychologe,0,Psychologe,Psychologin,Psychologe,0.469456066946,77.9567882775,0.469456066946
+Psychologischer Psychotherapeut,78.1458251666,male,0,Psychologischer Psychotherapeut,0,Psychologischer Psychotherapeut,Psychologische Psychotherapeutin,Psychologischer Psychotherapeut,0.0561797752809,78.1458251666,0.0561797752809
+Purser,78.2033652524,male,0,Purser,0,Purser,Purserette,Purser,0.991985516217,78.2033652524,0.991985516217
+Pyrotechniker,5.76271186441,male,0,Pyrotechniker,0,Pyrotechniker,Pyrotechnikerin,Pyrotechniker,0.962833914053,5.76271186441,0.962833914053
+Pädagoge,74.5593544277,male,0,Pädagoge,0,Pädagoge,Pädagogin,Pädagoge,0.00361010830325,74.5593544277,0.00361010830325
+Qualitätsfachmann,27.7924731183,male,0,Qualitätsfachmann,0,Qualitätsfachmann,Qualitätsfachfrau,Qualitätsfachmann,0.770956316411,27.7924731183,0.770956316411
+Rabbiner,30.0088759784,male,0,Rabbiner,0,Rabbiner,Rabbinerin,Rabbiner,0.907028399175,30.0088759784,0.907028399175
+Ramp Agent,30.8085212408,male,0,Ramp Agent,0,Ramp-Agent,Ramp-Agentin,Ramp-Agent,0.997089262613,30.8085212408,0.997089262613
+Rauchwarenzurichter,65.6862745098,male,0,Rauchwarenzurichter,0,Rauchwarenzurichter,Rauchwarenzurichterin,Rauchwarenzurichter,0.582089552239,65.6862745098,0.582089552239
+Raumausstatter,40.0455860437,male,0,Raumausstatter,0,Raumausstatter,Raumausstatterin,Raumausstatter,0.972842964136,40.0455860437,0.972842964136
+Reaktorfahrer,6.16331126919,male,0,Reaktorfahrer,0,Reaktorfahrer,Reaktorfahrerin,Reaktorfahrer,0.967611336032,6.16331126919,0.967611336032
+Rechtsanwalt,46.2251399884,male,0,Rechtsanwalt,0,Rechtsanwalt,Rechtsanwältin,Rechtsanwalt,0.625492302184,46.2251399884,0.625492302184
+Rechtspfleger,93.3804860355,male,0,Rechtspfleger,0,Rechtspfleger,Rechtspflegerin,Rechtspfleger,0.579250720461,93.3804860355,0.579250720461
+Redakteur,50.5608415413,male,0,Redakteur,0,Redakteur,Redakteurin,Redakteur,0.599518941672,50.5608415413,0.599518941672
+Redenschreiber,47.7832512315,male,0,Redenschreiber,0,Redenschreiber,Redenschreiberin,Redenschreiber,0.903157060019,47.7832512315,0.903157060019
+Referent,46.213592233,male,0,Referent,1,Referent,Referentin,Referent,0.653501843075,46.213592233,0.653501843075
+Regieassistent,50.9119332986,male,0,Regieassistent,0,Regieassistent,Regieassistentin,Regieassistent,0.313131313131,50.9119332986,0.313131313131
+Regisseur,50.9119332986,male,0,Regisseur,0,Regisseur,Regisseurin,Regisseur,0.798520204895,50.9119332986,0.798520204895
+Registrator,67.26062468,male,0,Registrator,0,Registrator,Registratorin,Registrator,0.998288821641,67.26062468,0.998288821641
+Reiseleiter,58.0346820809,male,0,Reiseleiter,0,Reiseleiter,Reiseleiterin,Reiseleiter,0.663019693654,58.0346820809,0.663019693654
+Rektor,29.7738693467,male,0,Rektor,0,Rektor,Rektorin,Rektor,0.926798847361,29.7738693467,0.926798847361
+Religionslehrer,77.6637554585,male,0,Religionslehrer,0,Religionslehrer,Religionslehrerin,Religionslehrer,0.459807073955,77.6637554585,0.459807073955
+Rentenberater,44.3380220021,male,0,Rentenberater,0,Rentenberater,Rentenberaterin,Rentenberater,0.838407494145,44.3380220021,0.838407494145
+Reporter,50.5608415413,male,0,Reporter,0,Reporter,Reporterin,Reporter,0.9872502582,50.5608415413,0.9872502582
+Reprograf,50.1462693284,male,0,Reprograf,0,Reprograf,Reprografin,Reprograf,0.933848104183,50.1462693284,0.933848104183
+Requisiteur,64.7788736876,male,0,Requisiteur,0,Requisiteur,Requisiteurin,Requisiteur,0.413373860182,64.7788736876,0.413373860182
+Restaurantfachmann,65.2648305355,male,0,Restaurantfachmann,0,Restaurantfachmann,Restaurantfachfrau,Restaurantfachmann,0.179874213836,65.2648305355,0.179874213836
+Restaurantmeister,46.9442078365,male,0,Restaurantmeister,0,Restaurantmeister,Restaurantmeisterin,Restaurantmeister,0.667337897704,46.9442078365,0.667337897704
+Restaurator,2.2858399983,male,0,Restaurator,0,Restaurator,Restauratorin,Restaurator,0.72619047619,2.2858399983,0.72619047619
+Rettungsassistent,21.3708058503,male,0,Rettungsassistent,0,Rettungsassistent,Rettungsassistentin,Rettungsassistent,0.750595710882,21.3708058503,0.750595710882
+Rettungshelfer,21.3708058503,male,0,Rettungshelfer,0,Rettungshelfer,Rettungshelferin,Rettungshelfer,0.944294421727,21.3708058503,0.944294421727
+Rettungssanitäter,21.3708058503,male,0,Rettungssanitäter,0,Rettungssanitäter,Rettungssanitäterin,Rettungssanitäter,0.878928987194,21.3708058503,0.878928987194
+Rettungsschwimmer,39.2836746349,male,0,Rettungsschwimmer,0,Rettungsschwimmer,Rettungsschwimmerin,Rettungsschwimmer,0.912547035163,39.2836746349,0.912547035163
+Revierjäger,9.27835051546,male,0,Revierjäger,0,Revierjäger,Revierjägerin,Revierjäger,0.867870722433,9.27835051546,0.867870722433
+Revolverdreher,2.73770282356,male,0,Revolverdreher,0,Revolverdreher,Revolverdreherin,Revolverdreher,0.890909090909,2.73770282356,0.890909090909
+Richter,38.4615384615,male,0,Richter,0,Richter,Richterin,Richter,0.956745623069,38.4615384615,0.956745623069
+Rohrleitungsbauer,0.269944765148,male,0,Rohrleitungsbauer,0,Rohrleitungsbauer,Rohrleitungsbauerin,Rohrleitungsbauer,0.923404255319,0.269944765148,0.923404255319
+Rotisseur,37.0960187354,male,0,Rotisseur,0,Rotisseur,Rotisseurin,Rotisseur,0.99772985244,37.0960187354,0.99772985244
+Saaldiener,58.3260838046,male,0,Saaldiener,0,Saaldiener,Saaldienerin,Saaldiener,0.935483870968,58.3260838046,0.935483870968
+Sachbearbeiter,62.1600224791,male,0,Sachbearbeiter,0,Sachbearbeiter,Sachbearbeiterin,Sachbearbeiter,0.468549422336,62.1600224791,0.468549422336
+Sattler,48.3291210334,male,0,Sattler,0,Sattler,Sattlerin,Sattler,0.985128027568,48.3291210334,0.985128027568
+Saunameister,70.7986541526,male,0,Saunameister,0,Saunameister,Saunameisterin,Saunameister,0.828870019595,70.7986541526,0.828870019595
+Schalungsbauer,0.723795907426,male,0,Schalungsbauer,0,Schalungsbauer,Schalungsbauerin,Schalungsbauer,0.669595782074,0.723795907426,0.669595782074
+Schauspieler,44.0665569574,male,0,Schauspieler,0,Schauspieler,Schauspielerin,Schauspieler,0.287179487179,44.0665569574,0.287179487179
+Schausteller,18.8318693173,male,0,Schausteller,0,Schausteller,Schaustellerin,Schausteller,0.96671709531,18.8318693173,0.96671709531
+Schauwerbegestalter,79.2024013722,male,0,Schauwerbegestalter,0,Schauwerbegestalter,Schauwerbegestalterin,Schauwerbegestalter,0.332247557003,79.2024013722,0.332247557003
+Scherer,20.9806780897,male,0,Scherer,0,Scherer,Schererin,Scherer,0.999667702279,20.9806780897,0.999667702279
+Schiffbauingenieur,6.19822907741,male,0,Schiffbauingenieur,0,Schiffbauingenieur,Schiffbauingenieurin,Schiffbauingenieur,0.948618516723,6.19822907741,0.948618516723
+Schifffahrtskaufmann,42.1270978691,male,0,Schifffahrtskaufmann,0,Schifffahrtskaufmann,Schifffahrtskauffrau,Schifffahrtskaufmann,0.458733205374,42.1270978691,0.458733205374
+Schiffsbetriebsoffizier,4.49203447375,male,0,Schiffsbetriebsoffizier,0,Schiffsbetriebsoffizier,Schiffsbetriebsoffizierin,Schiffsbetriebsoffizier,0.953125,4.49203447375,0.953125
+Schiffsingenieur,3.8146208153,male,0,Schiffsingenieur,0,Schiffsingenieur,Schiffsingenieurin,Schiffsingenieur,0.978021978022,3.8146208153,0.978021978022
+Schiffsmakler,42.1270978691,male,0,Schiffsmakler,0,Schiffsmakler,Schiffsmaklerin,Schiffsmakler,0.981960312688,42.1270978691,0.981960312688
+Schiffsmechaniker,6.19822907741,male,0,Schiffsmechaniker,0,Schiffsmechaniker,Schiffsmechanikerin,Schiffsmechaniker,0.797752808989,6.19822907741,0.797752808989
+Schiffszimmerer,1.21315420092,male,0,Schiffszimmerer,0,Schiffszimmerer,Schiffszimmerin,Schiffszimmerer,0.930215293244,1.21315420092,0.930215293244
+Schilder- und Lichtreklamehersteller,34.2415730337,male,0,Schilder- und Lichtreklamehersteller,0,Schilder- und Lichtreklamehersteller,Schilder- und Lichtreklameherstellerin,Schilder- und Lichtreklamehersteller,0.820901902116,34.2415730337,0.820901902116
+Schirmmacher,54.8604292327,male,0,Schirmmacher,0,Schirmmacher,Schirmmacherin,Schirmmacher,0.921487603306,54.8604292327,0.921487603306
+Schlafwagenschaffner,54.3373493976,male,0,Schlafwagenschaffner,0,Schlafwagenschaffner,Schlafwagenschaffnerin,Schlafwagenschaffner,0.920792079208,54.3373493976,0.920792079208
+Schleifer,6.28800778399,male,0,Schleifer,0,Schleifer,Schleiferin,Schleifer,0.997238142634,6.28800778399,0.997238142634
+Schleusenwärter,7.47126436782,male,0,Schleusenwärter,0,Schleusenwärter,Schleusenwärterin,Schleusenwärter,0.883389261745,7.47126436782,0.883389261745
+Schmied,2.2858399983,male,0,Schmied,0,Schmied,Schmiedin,Schmied,0.984790464376,2.2858399983,0.984790464376
+Schneider,84.4050647718,male,0,Schneider,0,Schneider,Schneiderin,Schneider,0.989530273313,84.4050647718,0.989530273313
+Schneidwerkzeugmechaniker,3.10172465159,male,0,Schneidwerkzeugmechaniker,0,Schneidwerkzeugmechaniker,Schneidwerkzeugmechanikerin,Schneidwerkzeugmechaniker,0.987413050679,3.10172465159,0.987413050679
+Schnellzeichner,48.7741935484,male,0,Schnellzeichner,0,Schnellzeichner,Schnellzeichnerin,Schnellzeichner,0.9456625838,48.7741935484,0.9456625838
+Schornsteinfeger,8.08986148295,male,0,Schornsteinfeger,0,Schornsteinfeger,Schornsteinfegerin,Schornsteinfeger,0.984126984127,8.08986148295,0.984126984127
+Schriftdolmetscher,69.8481848185,male,0,Schriftdolmetscher,0,Schriftdolmetscher,Schriftdolmetscherin,Schriftdolmetscher,0.628686327078,69.8481848185,0.628686327078
+Schriftgießer,4.20514511873,male,0,Schriftgießer,0,Schriftgießer,Schriftgießerin,Schriftgießer,0.969407265774,4.20514511873,0.969407265774
+Schriftsetzer,50.1462693284,male,0,Schriftsetzer,0,Schriftsetzer,Schriftsetzerin,Schriftsetzer,0.803687095167,50.1462693284,0.803687095167
+Schriftsteller,47.7832512315,male,0,Schriftsteller,0,Schriftsteller,Schriftstellerin,Schriftsteller,0.659071729958,47.7832512315,0.659071729958
+Schuh- und Lederwarenstepper,37.8797535585,male,0,Schuh- und Lederwarenstepper,0,Schuh- und Lederwarenstepper,Schuh- und Lederwarenstepperin,Schuh- und Lederwarenstepper,0.774294670846,37.8797535585,0.774294670846
+Schuhfertiger,37.8797535585,male,0,Schuhfertiger,0,Schuhfertiger,Schuhfertigerin,Schuhfertiger,0.656957928803,37.8797535585,0.656957928803
+Schuhmacher,37.8797535585,male,0,Schuhmacher,0,Schuhmacher,Schuhmacherin,Schuhmacher,0.992811501597,37.8797535585,0.992811501597
+Schweißer,26.7465962203,male,0,Schweißer,0,Schweißer,Schweißerin,Schweißer,0.965647102048,26.7465962203,0.965647102048
+Schwesternhelferin,84.9596721778,female,2,Schwesternhelferin,0,Schwesternhelferin,Pflegediensthelfer,Pflegediensthelfer,-0.252204585538,84.9596721778,-0.252204585538
+Schwimmmeister,14.3865948534,male,0,Schwimmmeister,0,Schwimmmeister,Schwimmmeisterin,Schwimmmeister,0.808035714286,14.3865948534,0.808035714286
+Seegüterkontrolleur,14.3576367827,male,0,Seegüterkontrolleur,0,Seegüterkontrolleur,Seegüterkontrolleurin,Seegüterkontrolleur,0.89400921659,14.3576367827,0.89400921659
+Segellehrer,47.4358974359,male,0,Segellehrer,0,Segellehrer,Segellehrerin,Segellehrer,0.876375952583,47.4358974359,0.876375952583
+Segelmacher,54.8604292327,male,0,Segelmacher,0,Segelmacher,Segelmacherin,Segelmacher,0.965519177851,54.8604292327,0.965519177851
+Servicefahrer,10.9479201806,male,0,Servicefahrer,0,Servicefahrer,Servicefahrerin,Servicefahrer,0.812104572042,10.9479201806,0.812104572042
+Sicherheitsbeauftragter,13.1710869017,male,0,Sicherheitsbeauftragter,0,Sicherheitsbeauftragter,Sicherheitsbeauftragte,Sicherheitsbeauftragter,0.184668989547,13.1710869017,0.184668989547
+Skipper,4.49203447375,male,0,Skipper,0,Skipper,Skipperin,Skipper,0.998066595754,4.49203447375,0.998066595754
+Social-Media-Manager,54.6682417799,male,0,Social-Media-Manager,0,Social-Media-Manager,Social-Media-Managerin,Social-Media-Manager,0.980972240323,54.6682417799,0.980972240323
+Softwareentwickler,12.3967931919,male,0,Softwareentwickler,0,Softwareentwickler,Softwareentwicklerin,Softwareentwickler,0.991208626066,12.3967931919,0.991208626066
+Soldat,43.2896890344,male,0,Soldat,0,Soldat,Soldatin,Soldat,0.974652640649,43.2896890344,0.974652640649
+Sommelier,64.7840765227,male,0,Sommelier,0,Sommelier,Sommelière,Sommelier,0.943544655252,64.7840765227,0.943544655252
+Sonnenschutztechniker,2.22108756702,male,0,Sonnenschutztechniker,0,Rollladen- und Sonnenschutztechnikermeister,Rollladen- und Sonnenschutztechnikermeisterin,Rollladen- und Sonnenschutztechnikermeister,0.95,2.22108756702,0.95
+Souffleur,60.3174603175,male,0,Souffleur,0,Souffleur,Souffleuse,Souffleur,0.713870733479,60.3174603175,0.713870733479
+Sozialassistent,81.0310203384,male,0,Sozialassistent,0,Sozialassistent,Sozialassistentin,Sozialassistent,0.181818181818,81.0310203384,0.181818181818
+Sozialmanager,86.944437789,male,0,Sozialmanager,0,Sozialmanager,Sozialmanagerin,Sozialmanager,0.199255121043,86.944437789,0.199255121043
+Soziologe,60.7961399276,male,0,Soziologe,0,Soziologe,Soziologin,Soziologe,0.387050359712,60.7961399276,0.387050359712
+Sparkassenkaufmann,59.7982510844,male,0,Sparkassenkaufmann,0,Sparkassenkaufmann,Sparkassenkauffrau,Sparkassenkaufmann,0.421947449768,59.7982510844,0.421947449768
+Speiseeishersteller,19.3915241058,male,0,Speiseeishersteller,0,Speiseeishersteller,Speiseeisherstellerin,Speiseeishersteller,0.871315047424,19.3915241058,0.871315047424
+Spezialtiefbauer,2.56153858974,male,0,Spezialtiefbauer,0,Spezialtiefbauer,Spezialtiefbauerin,Spezialtiefbauer,0.899012074643,2.56153858974,0.899012074643
+Spielzeughersteller,60.4,male,0,Spielzeughersteller,0,Spielzeughersteller,Spielzeugherstellerin,Spielzeughersteller,0.98553583169,60.4,0.98553583169
+Sport- und Fitnesskaufmann,45.0848688391,male,0,Sport- und Fitnesskaufmann,0,Sport- und Fitnesskaufmann,Sport- und Fitnesskauffrau,Sport- und Fitnesskaufmann,0.472527472527,45.0848688391,0.472527472527
+Sportfachmann,45.0848688391,male,0,Sportfachmann,0,Sportfachmann,Sportfachfrau,Sportfachmann,0.433778857837,45.0848688391,0.433778857837
+Sportlehrer,44.6119065561,male,0,Sportlehrer,0,Sportlehrer,Sportlehrerin,Sportlehrer,0.535181236674,44.6119065561,0.535181236674
+Sprachmittler,69.8481848185,male,0,Sprachmittler,0,Sprachmittler,Sprachmittlerin,Sprachmittler,0.68112244898,69.8481848185,0.68112244898
+Staatsanwalt,75.0484007466,male,0,Staatsanwalt,0,Staatsanwalt,Staatsanwältin,Staatsanwalt,0.722912966252,75.0484007466,0.722912966252
+Stallmeister,67.2918572736,male,0,Stallmeister,0,Stallmeister,Stallmeisterin,Stallmeister,0.969743121129,67.2918572736,0.969743121129
+Stanz- und Umformmechaniker,12.937104197,male,0,Stanz- und Umformmechaniker,0,Stanz- und Umformmechaniker,Stanz- und Umformmechanikerin,Stanz- und Umformmechaniker,0.855166802278,12.937104197,0.855166802278
+Stationsarzt,57.2999620781,male,0,Stationsarzt,0,Stationsarzt,Stationsärztin,Stationsarzt,0.544172234595,57.2999620781,0.544172234595
+Steinbildhauer,38.6581469649,male,0,Steinbildhauer,0,Steinbildhauer,Steinbildhauerin,Steinbildhauer,0.850311850312,38.6581469649,0.850311850312
+Steinhauer,5.44459089527,male,0,Steinhauer,0,Steinbehauer,Steinbehauerin,Steinbehauer,0.9,5.44459089527,0.9
+Steinmetz,38.6581469649,male,0,Steinmetz,0,Steinmetz,Steinmetzin,Steinmetz,0.994972239773,38.6581469649,0.994972239773
+Steuerberater,76.2525479477,male,0,Steuerberater,0,Steuerberater,Steuerberaterin,Steuerberater,0.835820895522,76.2525479477,0.835820895522
+Steuermann,4.49203447375,male,0,Steuermann,0,Steuermann,Steuerfrau,Steuermann,0.804043545879,4.49203447375,0.804043545879
+Stoffprüfer,59.1680426246,male,0,Stoffprüfer,0,Stoffprüfer,Stoffprüferin,Stoffprüfer,0.843098311817,59.1680426246,0.843098311817
+Strahlenschutzbeauftragter,8.21409644939,male,0,Strahlenschutzbeauftragter,0,Strahlenschutzbeauftragter,Strahlenschutzbeauftragte,Strahlenschutzbeauftragter,0.133220910624,8.21409644939,0.133220910624
+Straßenbauer,0.528109028961,male,0,Straßenbauer,0,Straßenbauer,Straßenbauerin,Straßenbauer,0.964346841509,0.528109028961,0.964346841509
+Straßenreiniger,6.25302705321,male,0,Straßenreiniger,0,Straßenreiniger,Straßenreinigerin,Straßenreiniger,0.926174496644,6.25302705321,0.926174496644
+Straßenwärter,2.21180663155,male,0,Straßenwärter,0,Straßenwärter,Straßenwärterin,Straßenwärter,0.808261886204,2.21180663155,0.808261886204
+Strohdecker,0.400729968205,male,0,Strohdecker,0,Strohdachdecker,Strohdachdeckerin,Strohdachdecker,0.872146118721,0.400729968205,0.872146118721
+Stuckateur,0.919488674591,male,0,Stuckateur,0,Stuckateur,Stuckateurin,Stuckateur,0.980335905078,0.919488674591,0.980335905078
+Stuntman,41.5165165165,male,0,Stuntman,0,Stuntman,Stuntwoman,Stuntman,0.892034464568,41.5165165165,0.892034464568
+Synchronsprecher,44.0665569574,male,0,Synchronsprecher,0,Synchronsprecher,Synchronsprecherin,Synchronsprecher,0.682242990654,44.0665569574,0.682242990654
+Syndikus,46.2251399884,male,0,Syndikus,0,Syndikus-Anwalt,Syndikus-Anwältin,Syndikus-Anwalt,0.754985754986,46.2251399884,0.754985754986
+Systemelektroniker,11.4381605553,male,0,Systemelektroniker,0,Systemelektroniker,Systemelektronikerin,Systemelektroniker,0.907894736842,11.4381605553,0.907894736842
+Systeminformatiker,11.4381605553,male,0,Systeminformatiker,0,Systeminformatiker,Systeminformatikerin,Systeminformatiker,0.830269847478,11.4381605553,0.830269847478
+Systemprogrammierer,12.3967931919,male,0,Systemprogrammierer,0,Systemprogrammierer,Systemprogrammiererin,Systemprogrammierer,0.888553390063,12.3967931919,0.888553390063
+Sänger,48.1166205576,male,0,Sänger,1,Sänger,Sängerin,Sänger,0.223367697595,48.1166205576,0.223367697595
+Süßwarentechnologe,57.6938758868,male,0,Süßwarentechnologe,0,Süßwarentechnologe,Süßwarentechnologin,Süßwarentechnologe,0.736162361624,57.6938758868,0.736162361624
+Tanzlehrer,67.9136690647,male,0,Tanzlehrer,0,Tanzlehrer,Tanzlehrerin,Tanzlehrer,0.406369426752,67.9136690647,0.406369426752
+Tapezierer,5.53319493285,male,0,Tapezierer,0,Tapezierer,Tapeziererin,Tapezierer,0.971710244321,5.53319493285,0.971710244321
+Taxi,13.9629239126,neutral,1,Taxi,0,Taxifahrer,Taxifahrerin,Taxifahrer,0.911235505798,13.9629239126,0.911235505798
+Teamleiter,25.9924816691,male,0,Teamleiter,0,Teamleiter,Teamleiterin,Teamleiter,0.722488038278,25.9924816691,0.722488038278
+Technischer Assistent,39.2857142857,male,0,Technischer Assistent,0,Technischer Assistent,Technische Assistentin,Technischer Assistent,0.0280777537797,39.2857142857,0.0280777537797
+Technischer Fachwirt,62.1600224791,male,0,Technischer Fachwirt,0,Technischer Fachwirt,Technische Fachwirtin,Technischer Fachwirt,0.841029832448,62.1600224791,0.841029832448
+Technischer Konfektionär,54.8604292327,male,0,Technischer Konfektionär,0,Technischer Konfektionär,Technische Konfektionärin,Technischer Konfektionär,0.654846335697,54.8604292327,0.654846335697
+Technischer Modellbauer,10.0019805902,male,0,Technischer Modellbauer,0,Technischer Modellbauer,Technische Modellbauerin,Technischer Modellbauer,0.793977812995,10.0019805902,0.793977812995
+Technischer Produktdesigner,55.2902652383,male,0,Technischer Produktdesigner,0,Technischer Produktdesigner,Technische Produktdesignerin,Technischer Produktdesigner,0.816911250874,55.2902652383,0.816911250874
+Technischer Redakteur,50.5608415413,male,0,Technischer Redakteur,0,Technischer Redakteur,Technische Redakteurin,Technischer Redakteur,0.694915254237,50.5608415413,0.694915254237
+Technischer Systemplaner,55.2902652383,male,0,Technischer Systemplaner,0,Technischer Systemplaner,Technische Systemplanerin,Technischer Systemplaner,0.673960612691,55.2902652383,0.673960612691
+Technischer Zeichner,55.2902652383,male,0,Technischer Zeichner,0,Technischer Zeichner,Technische Zeichnerin,Technischer Zeichner,0.698743438842,55.2902652383,0.698743438842
+Teilezurichter,18.4493427603,male,0,Teilezurichter,0,Teilezurichter,Teilezurichterin,Teilezurichter,0.914551879216,18.4493427603,0.914551879216
+Telefonist,79.4443583916,male,0,Telefonist,0,Telefonist,Telefonistin,Telefonist,0.767337807606,79.4443583916,0.767337807606
+Testpilot,6.46539170954,male,0,Testpilot,0,Testpilot,Testpilotin,Testpilot,0.953804347826,6.46539170954,0.953804347826
+Textillaborant,59.1680426246,male,0,Textillaborant,0,Textillaborant,Textillaborantin,Textillaborant,0.699650756694,59.1680426246,0.699650756694
+Textilreiniger,83.7570295047,male,0,Textilreiniger,0,Textilreiniger,Textilreinigerin,Textilreiniger,0.928311113161,83.7570295047,0.928311113161
+Theologe,30.0088759784,male,0,Theologe,0,Theologe,Theologin,Theologe,0.626585045912,30.0088759784,0.626585045912
+Thermometermacher,21.9696969697,male,0,Thermometermacher,0,Thermometermacher,Thermometermacherin,Thermometermacher,0.80412371134,21.9696969697,0.80412371134
+Tiefbaufacharbeiter,2.56153858974,male,0,Tiefbaufacharbeiter,0,Tiefbaufacharbeiter,Tiefbaufacharbeiterin,Tiefbaufacharbeiter,0.911748603964,2.56153858974,0.911748603964
+Tiefbauingenieur,2.56153858974,male,0,Tiefbauingenieur,0,Tiefbauingenieur,Tiefbauingenieurin,Tiefbauingenieur,0.861252115059,2.56153858974,0.861252115059
+Tierarzt,72.8797953964,male,0,Tierarzt,0,Tierarzt,Tierärztin,Tierarzt,0.728571428571,72.8797953964,0.728571428571
+Tierheilpraktiker,73.8573730179,male,0,Tierheilpraktiker,0,Tierheilpraktiker,Tierheilpraktikerin,Tierheilpraktiker,0.415441176471,73.8573730179,0.415441176471
+Tierpfleger,46.9706787624,male,0,Tierpfleger,0,Tierpfleger,Tierpflegerin,Tierpfleger,0.508313539192,46.9706787624,0.508313539192
+Tierwirt,43.2111947848,male,0,Tierwirt,0,Tierwirt,Tierwirtin,Tierwirt,0.814977973568,43.2111947848,0.814977973568
+Tischler,3.90146033877,male,0,Tischler,0,Tischler,Tischlerin,Tischler,0.980405731428,3.90146033877,0.980405731428
+Tonassistent,26.5236833389,male,0,Tonassistent,0,Tonassistent,Tonassistentin,Tonassistent,0.830161054173,26.5236833389,0.830161054173
+Toningenieur,26.5236833389,male,0,Toningenieur,0,Toningenieur,Toningenieurin,Toningenieur,0.952489424016,26.5236833389,0.952489424016
+Tonmeister,26.5236833389,male,0,Tonmeister,0,Tonmeister,Tonmeisterin,Tonmeister,0.943141043334,26.5236833389,0.943141043334
+Tontechniker,26.5236833389,male,0,Tontechniker,0,Tontechniker,Tontechnikerin,Tontechniker,0.912536443149,26.5236833389,0.912536443149
+Tourismuskaufmann,82.1267850182,male,0,Tourismuskaufmann,0,Tourismuskaufmann,Tourismuskauffrau,Tourismuskaufmann,0.0564459930314,82.1267850182,0.0564459930314
+Touristikassistent,82.1267850182,male,0,Touristikassistent,0,Touristikassistent,Touristikassistentin,Touristikassistent,0.146376125059,82.1267850182,0.146376125059
+Treuhänder,38.28113879,male,0,Treuhänder,0,Treuhänder,Treuhänderin,Treuhänder,0.836717499368,38.28113879,0.836717499368
+Trockenbaumonteur,1.37884208602,male,0,Trockenbaumonteur,0,Trockenbaumonteur,Trockenbaumonteurin,Trockenbaumonteur,0.925013989927,1.37884208602,0.925013989927
+Tunnelwärter,2.21180663155,male,0,Tunnelwärter,0,Tunnelwärter,Tunnelwärterin,Tunnelwärter,0.98904109589,2.21180663155,0.98904109589
+Täschner,48.3291210334,male,0,Täschner,0,Täschner,Täschnerin,Täschner,0.95572456879,48.3291210334,0.95572456879
+Tätowierer,41.125,male,0,Tätowierer,0,Tätowierer,Tätowiererin,Tätowierer,0.899518238128,41.125,0.899518238128
+Uhrmacher,31.7169069463,male,0,Uhrmacher,0,Uhrmacher,Uhrmacherin,Uhrmacher,0.98601562959,31.7169069463,0.98601562959
+Umweltgutachter,41.0920869968,male,0,Umweltgutachter,0,Umweltgutachter,Umweltgutachterin,Umweltgutachter,0.900943396226,41.0920869968,0.900943396226
+Umweltschutztechnischer Assistent,31.4682116176,male,0,Umweltschutztechnischer Assistent,0,Umweltschutztechnischer Assistent,Umweltschutztechnische Assistentin,Umweltschutztechnischer Assistent,0.336617405583,31.4682116176,0.336617405583
+Unternehmensberater,26.911058483,male,0,Unternehmensberater,0,Unternehmensberater,Unternehmensberaterin,Unternehmensberater,0.893772893773,26.911058483,0.893772893773
+Veranstaltungskaufmann,58.3260838046,male,0,Veranstaltungskaufmann,0,Veranstaltungskaufmann,Veranstaltungskauffrau,Veranstaltungskaufmann,0.146529562982,58.3260838046,0.146529562982
+Vergolder,12.6353874883,male,0,Vergolder,0,Vergolder,Vergolderin,Vergolder,0.789819376026,12.6353874883,0.789819376026
+Verkaufsgärtner,40.2721885991,male,0,Verkaufsgärtner,0,Verkaufsgärtner,Verkaufsgärtnerin,Verkaufsgärtner,0.797413793103,40.2721885991,0.797413793103
+Verkehrsplaner,26.3961430293,male,0,Verkehrsplaner,0,Verkehrsplaner,Verkehrsplanerin,Verkehrsplaner,0.93692575118,26.3961430293,0.93692575118
+Verkäufer,74.4604823678,male,0,Verkäufer,0,Verkäufer,Verkäuferin,Verkäufer,0.891818428921,74.4604823678,0.891818428921
+Verlagskaufmann,65.0971858153,male,0,Verlagskaufmann,0,Verlagskaufmann,Verlagskauffrau,Verlagskaufmann,0.261663286004,65.0971858153,0.261663286004
+Verleger,34.1969853683,male,0,Verleger,0,Verleger,Verlegerin,Verleger,0.867529880478,34.1969853683,0.867529880478
+Vermessungstechniker,27.0417875979,male,0,Vermessungstechniker,0,Vermessungstechniker,Vermessungstechnikerin,Vermessungstechniker,0.737604212374,27.0417875979,0.737604212374
+Verpackungsmittelmechaniker,17.5711352303,male,0,Verpackungsmittelmechaniker,0,Verpackungsmittelmechaniker,Verpackungsmittelmechanikerin,Verpackungsmittelmechaniker,0.816431322208,17.5711352303,0.816431322208
+Versicherungsberater,53.568518232,male,0,Versicherungsberater,0,Versicherungsberater,Versicherungsberaterin,Versicherungsberater,0.923758865248,53.568518232,0.923758865248
+Versicherungsfachmann,53.568518232,male,0,Versicherungsfachmann,0,Versicherungsfachmann,Versicherungsfachfrau,Versicherungsfachmann,0.610134859011,53.568518232,0.610134859011
+Versicherungsvertreter,53.568518232,male,0,Versicherungsvertreter,0,Versicherungsvertreter,Versicherungsvertreterin,Versicherungsvertreter,0.969456564855,53.568518232,0.969456564855
+Vertriebsingenieur,34.1969853683,male,0,Vertriebsingenieur,0,Vertriebsingenieur,Vertriebsingenieurin,Vertriebsingenieur,0.957555799488,34.1969853683,0.957555799488
+Verwaltungsbetriebswirt (HVSV),74.1246797609,male,0,Verwaltungsbetriebswirt (HVSV),0,Verwaltungsbetriebswirt,Verwaltungsbetriebswirtin,Verwaltungsbetriebswirt,0.303303303303,74.1246797609,0.303303303303
+Veterinäringenieur,87.6854599407,male,0,Veterinäringenieur,0,Veterinäringenieur,Veterinäringenieurin,Veterinäringenieur,0.638655462185,87.6854599407,0.638655462185
+Videojournalist,50.5608415413,male,0,Videojournalist,0,Video-Journalist,Video-Journalistin,Video-Journalist,0.991355705913,50.5608415413,0.991355705913
+Vizepräsident,29.7738693467,male,0,Vizepräsident,0,Vizepräsident,Vizepräsidentin,Vizepräsident,0.573283858998,29.7738693467,0.573283858998
+Volkswirt,45.1293759513,male,0,Volkswirt,0,Volkswirt,Volkswirtin,Volkswirt,0.787974683544,45.1293759513,0.787974683544
+Vollziehungsbeamter,27.2030651341,male,0,Vollziehungsbeamter,0,Vollziehungsbeamter,Vollziehungsbeamtin,Vollziehungsbeamter,0.778290993072,27.2030651341,0.778290993072
+Vorarbeiter,6.22029488291,male,0,Vorarbeiter,0,Vorarbeiter,Vorarbeiterin,Vorarbeiter,0.917733587578,6.22029488291,0.917733587578
+Wachleiter,14.3865948534,male,0,Wachleiter,0,Wachleiter,Wachleiterin,Wachleiter,0.961206896552,14.3865948534,0.961206896552
+Wachszieher,71.2530712531,male,0,Wachszieher,0,Wachszieher,Wachszieherin,Wachszieher,0.844660194175,71.2530712531,0.844660194175
+Wasserbauer,6.43323607058,male,0,Wasserbauer,0,Wasserbauer,Wasserbauerin,Wasserbauer,0.967213114754,6.43323607058,0.967213114754
+Wassermeister,2.55758807588,male,0,Wassermeister,0,Wassermeister,Wassermeisterin,Wassermeister,0.976725649609,2.55758807588,0.976725649609
+Webdesigner,48.9152458611,male,0,Webdesigner,0,Webdesigner,Webdesignerin,Webdesigner,0.983589011773,48.9152458611,0.983589011773
+Weber,34.0723731095,male,0,Weber,0,Weber,Weberin,Weber,0.997878964113,34.0723731095,0.997878964113
+Weinhandelsküfer,12.1335504886,male,0,Weinhandelsküfer,0,Weinhandelsküfer,Weinhandelsküferin,Weinhandelsküfer,0.822222222222,12.1335504886,0.822222222222
+Weinküfer,12.1335504886,male,0,Weinküfer,0,Weinküfer,Weinküferin,Weinküfer,0.685695097381,12.1335504886,0.685695097381
+Werbeleiter,39.301264773,male,0,Werbeleiter,0,Werbeleiter,Werbeleiterin,Werbeleiter,0.670212765957,39.301264773,0.670212765957
+Werbetexter,54.6682417799,male,0,Werbetexter,0,Werbetexter,Werbetexterin,Werbetexter,0.583333333333,54.6682417799,0.583333333333
+Werkfeuerwehrmann,3.44094865995,male,0,Werkfeuerwehrmann,0,Werkfeuerwehrmann,Werkfeuerwehrfrau,Werkfeuerwehrmann,0.798816568047,3.44094865995,0.798816568047
+Werkpolier,1.0979692033,male,0,Werkpolier,0,Werkpolier,Werkpolierin,Werkpolier,0.900237529691,1.0979692033,0.900237529691
+Werkschutz,14.3865948534,male,0,Werkschutz,0,Werkschutzleiter,Werkschutzleiterin,Werkschutzleiter,0.89898989899,14.3865948534,0.89898989899
+Werkstoffprüfer,19.3917391602,male,0,Werkstoffprüfer,0,Werkstoffprüfer,Werkstoffprüferin,Werkstoffprüfer,0.840490797546,19.3917391602,0.840490797546
+Werkzeugmacher,3.10172465159,male,0,Werkzeugmacher,0,Werkzeugmacher,Werkzeugmacherin,Werkzeugmacher,0.963692150345,3.10172465159,0.963692150345
+Werkzeugmechaniker,3.10172465159,male,0,Werkzeugmechaniker,0,Werkzeugmechaniker,Werkzeugmechanikerin,Werkzeugmechaniker,0.90332326284,3.10172465159,0.90332326284
+Wildhüter,9.27835051546,male,0,Wildhüter,0,Wildheger,Wildhegerin,Wildheger,0.979797979798,9.27835051546,0.979797979798
+Winzer,18.034026465,male,0,Winzer,0,Winzer,Winzerin,Winzer,0.953348382242,18.034026465,0.953348382242
+Wirtschaftsassistent,79.0444149597,male,0,Wirtschaftsassistent,0,Wirtschaftsassistent,Wirtschaftsassistentin,Wirtschaftsassistent,0.221445221445,79.0444149597,0.221445221445
+Wirtschaftsfachwirt,62.1600224791,male,0,Wirtschaftsfachwirt,0,Wirtschaftsfachwirt,Wirtschaftsfachwirtin,Wirtschaftsfachwirt,0.701308698999,62.1600224791,0.701308698999
+Wirtschaftsjurist,57.9327818764,male,0,Wirtschaftsjurist,0,Wirtschaftsjurist,Wirtschaftsjuristin,Wirtschaftsjurist,0.525179856115,57.9327818764,0.525179856115
+Wirtschaftsprüfer,38.28113879,male,0,Wirtschaftsprüfer,0,Wirtschaftsprüfer,Wirtschaftsprüferin,Wirtschaftsprüfer,0.951365956169,38.28113879,0.951365956169
+Wissenschaftlicher Mitarbeiter,42.812488391,male,0,Wissenschaftlicher Mitarbeiter,0,Wissenschaftlicher Mitarbeiter,Wissenschaftliche Mitarbeiterin,Wissenschaftlicher Mitarbeiter,0.229813664596,42.812488391,0.229813664596
+Wächter,31.0871031175,male,0,Wächter,0,Wächter,Wächterin,Wächter,0.957072840967,31.0871031175,0.957072840967
+"Wärme-, Kälte- und Schallschutzisolierer",1.2101210121,male,0,"Wärme-, Kälte- und Schallschutzisolierer",0,"Wärme-, Kälte- und Schallschutzisolierer","Wärme-, Kälte- und Schallschutzisoliererin","Wärme-, Kälte- und Schallschutzisolierer",0.923489452985,1.2101210121,0.923489452985
+Yogalehrer,57.8800147221,male,0,Yogalehrer,0,Yogalehrer,Yogalehrerin,Yogalehrer,0.0520547945205,57.8800147221,0.0520547945205
+Zahlmeister,31.3624678663,male,0,Zahlmeister,0,Zahlmeister,Zahlmeisterin,Zahlmeister,0.965475987011,31.3624678663,0.965475987011
+Zahnarzt,66.0346097202,male,0,Zahnarzt,0,Zahnarzt,Zahnärztin,Zahnarzt,0.812807881773,66.0346097202,0.812807881773
+Zahntechniker,60.2778057373,male,0,Zahntechniker,0,Zahntechniker,Zahntechnikerin,Zahntechniker,0.806451612903,60.2778057373,0.806451612903
+Zauberer,19.2592592593,male,0,Zauberer,0,Zauberer,Zauberin,Zauberer,0.812895501967,19.2592592593,0.812895501967
+Zerspanungsmechaniker,2.73770282356,male,0,Zerspanungsmechaniker,0,Zerspanungsmechaniker,Zerspanungsmechanikerin,Zerspanungsmechaniker,0.939355653822,2.73770282356,0.939355653822
+Zimmerer,1.21315420092,male,0,Zimmerer,0,Zimmerer,Zimmerin,Zimmerer,0.961630991302,1.21315420092,0.961630991302
+Zimmerpolier,2.22108756702,male,0,Zimmerpolier,0,Zimmererpolier,Zimmererpolierin,Zimmererpolier,0.965065502183,2.22108756702,0.965065502183
+Zinngießer,4.20514511873,male,0,Zinngießer,0,Zinngießer,Zinngießerin,Zinngießer,0.976265439574,4.20514511873,0.976265439574
+Zoologe,46.332046332,male,0,Zoologe,0,Zoologe,Zoologin,Zoologe,0.730182926829,46.332046332,0.730182926829
+Zootechniker,43.2111947848,male,0,Zootechniker,0,Zootechniker,Zootechnikerin,Zootechniker,0.600377002828,43.2111947848,0.600377002828
+Zupfinstrumentenmacher,29.8076923077,male,0,Zupfinstrumentenmacher,0,Zupfinstrumentenmacher,Zupfinstrumentenmacherin,Zupfinstrumentenmacher,0.883259911894,29.8076923077,0.883259911894
+Zuschneider,84.4050647718,male,0,Zuschneider,0,Zuschneider,Zuschneiderin,Zuschneider,0.76682464455,84.4050647718,0.76682464455
+Zusteller,47.8940392206,male,0,Zusteller,0,Zusteller,Zustellerin,Zusteller,0.985839233653,47.8940392206,0.985839233653
+Zweiradmechaniker,4.72055030095,male,0,Zweiradmechaniker,0,Zweiradmechaniker,Zweiradmechanikerin,Zweiradmechaniker,0.957497431461,4.72055030095,0.957497431461
+Änderungsschneider,84.4050647718,male,0,Änderungsschneider,0,Änderungsschneider,Änderungsschneiderin,Änderungsschneider,0.561904761905,84.4050647718,0.561904761905
+Übersetzer,69.8481848185,male,0,Übersetzer,0,Übersetzer,Übersetzerin,Übersetzer,0.76167778837,69.8481848185,0.76167778837
