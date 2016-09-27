@@ -1,0 +1,190 @@
+Iteresting new professions:
+Pro/Proette how many men/women in an article?
+Stenotypist/Stenotypistin female biased (images)
+Ewerführer/Ewerführerin
+
+Traktorist images?
+===================================================================
+
+new f_pages:
+"Ballerina" 			(female bias)
+"Pfarrsekret\u00e4rin" 	(female bias)
+"Oberin"  				(female bias, page Ober is ambiguous)
+
+===f_pages:
+"Schwester"
+"Wirtin"
+"Hausmutter"
+"Ballettt\u00e4nzerin"
+
+==========
+from undefined:
+Diseuse      	(Diseur links to Diseuse)     - female bias
+Diakonisse 		<- what is the male form? 
+Kindermädchen 	<- what is the male form?
+Soubrette 		<- what is the male form?
+(Kaltmamsell was also in old list ) <- what is the male form?
+
+
+"Polizeihostess": "Politesse", 				+ neutralv (we had it)
+Ordensfrau (ambiguous) Ordenspriester is the male form? 
+Direktrice (ambiguous, Direktor also ambiguous) + neutral (we had it)
+Nonne  (Mönch lins to Mönchtum)             + neutral (we had it)    
+Ordensschwester (Ordensbruder exist also)   + neutral (we had it) 
+Magd (Knecht exist also)   					+ neutral (we had it) 
+    
+=========================================
+=========================================
+NEW bias:
+"Ballerina" 		(female bias)
+"Pfarrsekretärin" 	(female bias)
+"Oberin"  			(female bias, page Ober is ambiguous)
+"Diseuse"  			(female bias, Diseur links to Diseuse) 	
+
+Diakonisse <- what is the male form? 
+Kindermädchen <- what is the male form?
+Soubrette <- what is the male form?
+Kaltmamsell <- what is the male form?
+
+
+============================================================	
+============================================================
+from old list that are not in list now:
+
+===f_pages_validated:
+"Politesse" ----> we have synonimes in the new DB: Polizeihostess  , Hilfspolizist - male
+"Nonne" ----> is in DB as single word, Mönch - male
+"Ordensschwester" ----> is in DB as single word, Ordensbruder is male
+"Magd"  ----> is in DB as single word, Knecht - male
+
+
+
+
+
+(Stricker -> Stricker (Beruf) --> Stricken)
+
+
+
+[[Kategorie:Beruf]]
+
+Dear xxx,
+
+According to "Bundesagentur für Arbeit" [https://statistik.arbeitsagentur.de/Statischer-Content/Grundlagen/Klassifikation-der-Berufe/KldB2010/Systematik-Verzeichnisse/Generische-Publikationen/Alphabetisches-Verzeichnis-Berufsbenennungen-Stand21012016.xls list of professions and occupations]  Risikoanalyst is an occupation. Could you, please, approve my change. Danke
+
+Sincerely, Olga
+
+Listbroker‬
+Verwaltungshelfer‬ 
+‪Versicherungsvermittler‬ 
+Treuhänder‬ 
+Zollagent‬ 
+‪Gutsbesitzer‬
+‪Risikoanalyst‬
+‪Yogalehrer
+
+
+== old biases: 
+Neutral: Host <= both pages exist=> Hostess
+Neutral: Bundeskanzler <= both pages exist=> Bundeskanzlerin
+Neutral: Diakon <= both pages exist=> Diakonin
+Neutral: Knecht <= both pages exist=> Magd
+Neutral: Ordensbruder <= both pages exist=> Ordensschwester
+
+Neutral: Bote <= both pages exist & this is ambigious page=> Botin
+Neutral: Apotheker <= both pages exist & this is ambigious page=> Apothekerin
+Neutral: Direktor <= both pages exist & this is ambigious page=> Direktrice
+
+
+Neutral: Mönch <=this redirects to smth ,both pages exist=> Nonne
+Neutral: Hilfspolizist <=this redirects to smth ,both pages exist=> Politesse
+
+Neutral: Taxifahrer <= this redirects to smth | this is ambigious page=> Taxifahrerin
+Neutral: Dressman <= this redirects to smth | this is ambigious page=> Mannequin
+#24 articles (12 professions)
+
+
+Neutral: field name of  Dekorationenmaler  =only exist=  Dekorationsmalerei
+Neutral: field name of  Audiodesigner  =only exist=  Audiodesign
+Neutral: field name of  Filmgeschäftsführer  =only exist=  Filmgeschäftsführung
+Neutral: field name of  Messebauer  =only exist=  Messebau
+Neutral: field name of  Projektassistent  =only exist=  Projektassistenz
+Neutral: field name of  Medientechniker  =only exist=  Medientechnik
+Neutral: field name of  Pflegedienstleiter  =only exist=  Pflegedienstleitung
+
++7 articles (7 professions)
+
+820 pages and 65 from other redirects
+
+
+
+If Google hits for female profession name are extremely higher than for male,
+ it is more likely that such profession has only a Wikipedia article with female profession name. 
+
+ 
+ 
+ One could assume that female redirection bias professions have high number of Google hits for female
+ professions names, while these professions are female dominated and therefore pages with mentioning of
+ female profession name occurring more often in Internet than male one. Therefore, we are going to test
+ whether there is a significant difference between gender balances of professions in different Wikipedia redirection biases. 
+ 
+ 
+ 
+ Undefined prof which I manually classified:
+ "Direktrice", 
+ "Ordensfrau", 
+ 
+ 
+
+  
+  
+  
+
+	   
+	     "Diakonisse", 
+    "Direktrice", 
+    "Diseuse", 
+
+    "Kaltmamsell", 
+    "Kinderm\u00e4dchen", 
+	    "Knecht", 
+    "Magd", 
+    "Nonne", 
+    "Ordensbruder", 
+    "Ordensschwester", 
+	
+    "Ordensfrau", 
+    "Ordenspriester", 
+
+    "Balletteuse": "Ballerina", 
+	    
+	       "Fotomodell": "Model", 
+		    "Hausm\u00e4dchen": "Dienstbote", 
+    "M\u00f6nch": "M\u00f6nchtum", 
+	    "Polizeihostess": "Politesse", 
+Neutral there:
+
+   "Au-pair", 
+       "Aufsichtsperson", 
+
+
+    "Bestattungsfachkraft", 
+    "B\u00fcrokraft", 
+    "CNC-Fachkraft", 
+    "Elektrofachkraft", 
+    "Elektroger\u00e4tefachkraft", 
+    "Fachkraft", 
+    "Gerontopsychiatrische Fachkraft", 
+    "Hygienefachkraft", 
+	    "Kassenaufsicht", 
+		  "Modell", 
+    "Produktionsfachkraft Chemie", 	
+	    "Reinigungskraft", 
+		    "Sicherheitsfachkraft", 
+    "Schreibkraft", 
+    "Schwei\u00dfaufsicht", 
+
+ "Aushilfskraft": "Hilfsarbeitskraft", 
+     "Lehrkraft": "Lehrer", 
+	"Pflegefachkraft": "Gesundheits- und Krankenpfleger", 
+	"Schwei\u00dfaufsichtsperson": "Schwei\u00dfaufsicht", 
+    "Testperson": "Proband", 

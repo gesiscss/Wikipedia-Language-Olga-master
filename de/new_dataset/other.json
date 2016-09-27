@@ -1,0 +1,840 @@
+[
+    [
+        "Mitarbeiter", 
+        "in,Teamassistent", 
+        "in - Einkauf", 
+        "Beschaffungswesen"
+    ], 
+    [
+        "Maler", 
+        "in und Lackierer", 
+        "in - Maler", 
+        "in"
+    ], 
+    [
+        "Zootechniker", 
+        "in", 
+        "Mechanisator", 
+        "in - Schweineaufzucht, -prod."
+    ], 
+    [
+        "Dipl.-Musiker", 
+        "in - Violine", 
+        "Viola", 
+        "Harfe u.a."
+    ], 
+    [
+        "Zootechniker", 
+        "in", 
+        "Mechanisator", 
+        "in - Milchproduktion"
+    ], 
+    [
+        "Kfm. Ass.", 
+        "Wirtschaftsassistent", 
+        "in - DV", 
+        "Rechnungswesen"
+    ], 
+    [
+        "Wirtschaftsleiter", 
+        "in - Krankenh\u00e4user", 
+        "Alten-", 
+        "Pflegeheime"
+    ], 
+    [
+        "Beh\u00f6rden-", 
+        "Betriebsassistent", 
+        "in - Agrarw. (Umweltsch.", 
+        "Land..."
+    ], 
+    [
+        "B\u00fchneninspektor", 
+        "in - B\u00fchne", 
+        "Film", 
+        "Fernsehen"
+    ], 
+    [
+        "Energieelektroniker", 
+        "in - Betriebst.-Me\u00df", 
+        "Steuer", 
+        "Regelt."
+    ], 
+    [
+        "Dipl.Geologe", 
+        "-in", 
+        "Dipl.Mineraloge", 
+        "-in-Mineral.", 
+        "Geochem."
+    ], 
+    [
+        "Zootechniker", 
+        "in", 
+        "Mechanisator", 
+        "in - Broiler-, Gefl\u00fcgelprod."
+    ], 
+    [
+        "Zootechniker", 
+        "in", 
+        "Mechanisator", 
+        "in - Edelfellproduktion"
+    ], 
+    [
+        "Industrie-Arch\u00e4ologe", 
+        "-Arch\u00e4ologin", 
+        "Arch\u00e4ometer", 
+        "in"
+    ], 
+    [
+        "Bootsmann", 
+        "-frau", 
+        "Pumpenmann", 
+        "-frau"
+    ], 
+    [
+        "Kfm. Ass.", 
+        "Wirtschaftsassistent", 
+        "in - B\u00fcro", 
+        "Sekretariat"
+    ], 
+    [
+        "Ausstattungsleiter", 
+        "in - B\u00fchne", 
+        "Film", 
+        "Fernsehen"
+    ], 
+    [
+        "Ski-", 
+        "Skilanglauflehrer", 
+        "in Reha", 
+        "\u00e4ltere", 
+        "untrainierte Skifahrer"
+    ], 
+    [
+        "Zootechniker", 
+        "in", 
+        "Mechanisator", 
+        "in - industriem\u00e4\u00dfige Schafprod."
+    ], 
+    [
+        "Teleanwalt", 
+        "-anw\u00e4ltin", 
+        "Hotline-Anwalt", 
+        "-Anw\u00e4ltin"
+    ], 
+    [
+        "Zootechniker", 
+        "in", 
+        "Mechanisator", 
+        "in - k\u00fcnstliche Besamung"
+    ], 
+    [
+        "Zootechniker", 
+        "in", 
+        "Mechanisator", 
+        "in - Schafproduktion"
+    ], 
+    [
+        "Zootechniker", 
+        "in", 
+        "Mechanisator", 
+        "in - Veterin\u00e4rtechnik"
+    ], 
+    [
+        "Zootechniker", 
+        "in", 
+        "Mechanisator", 
+        "in - K\u00e4lber-, Rinderproduktion"
+    ], 
+    [
+        "Zootechniker", 
+        "in", 
+        "Mechanisator", 
+        "in - Schlachtschweineproduktion"
+    ], 
+    [
+        "ERI-Mechaniker", 
+        "in, ERI-Wart", 
+        "in I", 
+        "II", 
+        "III"
+    ], 
+    [
+        "M\u00fcller/in - Verfahrenstechnolog", 
+        " M\u00fchlen u. Futtermittel"
+    ], 
+    [
+        "Dipl.Geologe", 
+        "-in", 
+        "Dipl.Geophysiker", 
+        "-in - Geophysik"
+    ], 
+    [
+        "Wirtschaftsdolmetscher", 
+        "in", 
+        "-\u00fcbersetzer", 
+        "in"
+    ], 
+    [
+        "Schinkenr\u00e4ucherer", 
+        "-r\u00e4ucherin"
+    ], 
+    [
+        "Fleischr\u00e4ucherer", 
+        "-r\u00e4ucherin"
+    ], 
+    [
+        "Kfm. Ass.", 
+        "Wirtschaftsassistent", 
+        "in - Werbung"
+    ], 
+    [
+        "Magister", 
+        "Magistra public health"
+    ], 
+    [
+        "NC-", 
+        "CNC-Anlagentechniker", 
+        "in"
+    ], 
+    [
+        "Phono-", 
+        "Stenotypist", 
+        "-in"
+    ], 
+    [
+        "Schwestern-", 
+        "Pflegediensthelfer", 
+        "in"
+    ], 
+    [
+        "CAD", 
+        "CAM-Ingenieur", 
+        "in"
+    ], 
+    [
+        "Chief Purser", 
+        "Purserette"
+    ], 
+    [
+        "EDV", 
+        "PC-Servicetechniker", 
+        "in"
+    ], 
+    [
+        "Gerontolog", 
+        "e", 
+        "in - Aus- u. Fortbildung"
+    ], 
+    [
+        "Speckr\u00e4ucherer", 
+        "-r\u00e4ucherin"
+    ], 
+    [
+        "Koch", 
+        "K\u00f6chin und Konditor", 
+        "in"
+    ], 
+    [
+        "Vormann-", 
+        "frau - Ewerf\u00fchrerei"
+    ], 
+    [
+        "Aufsicht -Messe", 
+        "Ausstellungen", 
+        "Warenh\u00e4user"
+    ], 
+    [
+        "Schneidwerkzeugmech. - Schneidwerkzeug-", 
+        "Schleiftechnik"
+    ], 
+    [
+        "Medizinische", 
+        "r Fachdiagnostiker", 
+        "in"
+    ], 
+    [
+        "Fachverk\u00e4ufer", 
+        "-berater", 
+        "in"
+    ], 
+    [
+        "Konditor-Patissier", 
+        "Patissi\u00e8re"
+    ], 
+    [
+        "Internationaler", 
+        "e Eventmanager", 
+        "in"
+    ], 
+    [
+        "Purser", 
+        "Purserette, Zahlmeister", 
+        "in - Schiff"
+    ], 
+    [
+        "Kfm. Ass.", 
+        "Wirtschaftsassistent", 
+        "in - Betriebsinformatik"
+    ], 
+    [
+        "Schneidwerkzeugmech. - Schneidemasch.", 
+        "Messerschmiedetechnik"
+    ], 
+    [
+        "Master of Arts - European Labour Studies", 
+        "Europ\u00e9en en Scienc."
+    ], 
+    [
+        "Master of Arts - Europastudien", 
+        "European Studies"
+    ], 
+    [
+        "Landrat", 
+        "-r\u00e4tin"
+    ], 
+    [
+        "Stuntman", 
+        "-woman"
+    ], 
+    [
+        "Nautischer Schiffsoffizier - Schiffe aller Gr\u00f6\u00dfen", 
+        "weltw."
+    ], 
+    [
+        "Gesundheitsf\u00f6rderer", 
+        "-f\u00f6rderin, -p\u00e4dagoge", 
+        "-p\u00e4dagogin"
+    ], 
+    [
+        "Landesbischof", 
+        "-bisch\u00f6fin"
+    ], 
+    [
+        "Metallversilberer", 
+        "-versilberin"
+    ], 
+    [
+        "Laufschlosser", 
+        "-in"
+    ], 
+    [
+        "Stadtk\u00e4mmerer", 
+        "-k\u00e4mmerin"
+    ], 
+    [
+        "Feuerversilberer", 
+        "-versilberin"
+    ], 
+    [
+        "Master of Science - Ethical Manag. - Personal", 
+        "Organisation"
+    ], 
+    [
+        "F\u00fctterer", 
+        "F\u00fctterin - Tierwirtschaft"
+    ], 
+    [
+        "Familien-", 
+        "Paartherapeut", 
+        "in"
+    ], 
+    [
+        "Master of Engineering - Bauwesen", 
+        "Fassadenkonstruktion"
+    ], 
+    [
+        "Application-Engineer", 
+        "-Manager", 
+        "in"
+    ], 
+    [
+        "Garten-", 
+        "Landschaftsgestalter", 
+        "in"
+    ], 
+    [
+        "Opernsouffleur", 
+        "-souffleuse"
+    ], 
+    [
+        "Polsterer", 
+        "Polsterin - Fahrzeuge"
+    ], 
+    [
+        "Verkaufsf\u00f6rderer", 
+        "-f\u00f6rderin"
+    ], 
+    [
+        "Heizungs-", 
+        "Sanit\u00e4rkaufmann", 
+        "-frau"
+    ], 
+    [
+        "Stellmacher-", 
+        "B\u00f6ttcherhelfer", 
+        "in"
+    ], 
+    [
+        "Lehrmotop\u00e4de", 
+        "-motop\u00e4din"
+    ], 
+    [
+        "Bachelor of Science - Electronics", 
+        "Elektrotechnik"
+    ], 
+    [
+        "Dipl.-Ing.", 
+        "Dipl.-Designer", 
+        "in - Innenarchitektu"
+    ], 
+    [
+        "Polsterer und Dekorateur", 
+        "Polsterin und Dekorateurin"
+    ], 
+    [
+        "Dipl.-Agraring.", 
+        "-Landw. - Pflanzenz\u00fccht.", 
+        "Saatgutprod."
+    ], 
+    [
+        "Experte", 
+        "Expertin - Marktprognosen"
+    ], 
+    [
+        "Kfm. Ass.", 
+        "Wirtschaftsassistent", 
+        "in - Betriebswirtschaft"
+    ], 
+    [
+        "Kfm. Ass.", 
+        "Wirtschaftsassistent", 
+        "in - Sportverwaltung u. -org."
+    ], 
+    [
+        "Dipl.-Agraring.", 
+        "Dipl.Landwirt", 
+        "in - Tierproduktion"
+    ], 
+    [
+        "Garderobier", 
+        "e"
+    ], 
+    [
+        "Dipl.-Agraring.", 
+        "Dipl.-Landwirt", 
+        "in - Pflanzenproduktion"
+    ], 
+    [
+        "Schnitt-, Entwurfs- und Fertigungsmodelleur", 
+        "-direktrice"
+    ], 
+    [
+        "Kfm. Ass.", 
+        "Wirtschaftsassistent", 
+        "in - Medien"
+    ], 
+    [
+        "Altpapierzerfaserer", 
+        "-zerfaserin"
+    ], 
+    [
+        "Master of Arts - Technic Communications", 
+        "technische Redaktion"
+    ], 
+    [
+        "Medizinische", 
+        "r Fachdiagnostiker", 
+        "in"
+    ], 
+    [
+        "Kleiderausbesserer", 
+        "-ausbesserin"
+    ], 
+    [
+        "Bachelor of Engineering - Mechatronik", 
+        "Mikrosystemtechnik"
+    ], 
+    [
+        "Atmungsorthop\u00e4de", 
+        "-orthop\u00e4din"
+    ], 
+    [
+        "Gesundheitsf\u00f6rderer", 
+        "-f\u00f6rderin"
+    ], 
+    [
+        "Pr\u00fcfwart", 
+        "-wartin"
+    ], 
+    [
+        "Kfm. Ass.", 
+        "Wirtschaftsassistent", 
+        "in - Musik"
+    ], 
+    [
+        "CAD", 
+        "CAM-Planer", 
+        "in"
+    ], 
+    [
+        "Kieferorthop\u00e4de", 
+        "-orthop\u00e4din"
+    ], 
+    [
+        "Alpensenn", 
+        "-senne"
+    ], 
+    [
+        "Relocation-Specialist", 
+        "-Manager", 
+        "in"
+    ], 
+    [
+        "Diplomingenieurp\u00e4dagog", 
+        "e", 
+        "in - Berufsschull."
+    ], 
+    [
+        "Stenotypie-", 
+        "Phonotypielehrer", 
+        "in"
+    ], 
+    [
+        "Medizinische", 
+        "r Fachdiagnostiker", 
+        "in"
+    ], 
+    [
+        "Kfm. Ass.", 
+        "Wirtschaftsassistent", 
+        "in - Fremdsprachen"
+    ], 
+    [
+        "Firmenversicherer", 
+        "-versicherin"
+    ], 
+    [
+        "Kiosk-", 
+        "Imbissverk\u00e4ufer", 
+        "in"
+    ], 
+    [
+        "Industriekletterer", 
+        "-kletterin"
+    ], 
+    [
+        "Personalrat", 
+        "-r\u00e4tin"
+    ], 
+    [
+        "Fellverarbeiterhelfer", 
+        "n"
+    ], 
+    [
+        "Werk-", 
+        "Betriebsmeister", 
+        "in"
+    ], 
+    [
+        "Diplom\u00f6konomp\u00e4dagog", 
+        "e", 
+        "in - Berufsschull."
+    ], 
+    [
+        "Demichef Patissier", 
+        "Patissi\u00e8re"
+    ], 
+    [
+        "Master of Engineering - Software", 
+        "Informationstechnik"
+    ], 
+    [
+        "Medizinische", 
+        "r Fachdiagnostiker", 
+        "in"
+    ], 
+    [
+        "Erstgesell", 
+        "e", 
+        "in"
+    ], 
+    [
+        "Dekorationen-, Schildermaler-", 
+        "Pr\u00e4gerhelfer", 
+        "in"
+    ], 
+    [
+        "Werkst\u00e4ttenvorstand - B\u00fchne", 
+        "Film", 
+        "Fernsehen"
+    ], 
+    [
+        "Schafhirte", 
+        "-hirtin"
+    ], 
+    [
+        "Bachelor of Arts - Internationale Kommunikation", 
+        "\u00dcbersetzen"
+    ], 
+    [
+        "Astro-", 
+        "Weltraumphysiker", 
+        "in"
+    ], 
+    [
+        "Bachelor of Engineering - Technology", 
+        "Management"
+    ], 
+    [
+        "Medizinische", 
+        "r Fachdiagnostiker", 
+        "in"
+    ], 
+    [
+        "E-Commerce-Manager", 
+        "-Assistent", 
+        "in"
+    ], 
+    [
+        "Garderobier", 
+        "e"
+    ], 
+    [
+        "Experte", 
+        "Expertin - Wettbewerbsanalysen"
+    ], 
+    [
+        "B\u00fcrokraft", 
+        "Kaufm\u00e4nnische Fachkraft"
+    ], 
+    [
+        "Zimmerer", 
+        "Zimmerin - Restaurierungsarbeiten"
+    ], 
+    [
+        "Dipl.-Ing.", 
+        "Industriemechaniker", 
+        "in - Mat.-u.Fertigungstechnik"
+    ], 
+    [
+        "Bachelor of Science - Kommunikations-", 
+        "Informationstechnik"
+    ], 
+    [
+        "Master of Science - Peace a. Secur. Stud. - Frieden", 
+        "Sicherh."
+    ], 
+    [
+        "St\u00fcckausbesserer", 
+        "-ausbesserin"
+    ], 
+    [
+        "Patenting.", 
+        "Dipl.-Ing. - Gewerbl. Rechtsschutz"
+    ], 
+    [
+        "Sprechstunden-", 
+        "Praxishelfer", 
+        "in"
+    ], 
+    [
+        "Master of Science - Higher Education - Jugend-", 
+        "Erwachs. P\u00e4d."
+    ], 
+    [
+        "Conduit Manager", 
+        "Managerin"
+    ], 
+    [
+        "Bachelor of Science - Sicherheitstechnik", 
+        "Safety Engineering"
+    ], 
+    [
+        "M\u00fchlenb.-, Getreide-", 
+        "Futtermitteltechniker", 
+        "in - Verfahrenst."
+    ], 
+    [
+        "Master of Engineering - Product Development", 
+        "Manufacturing"
+    ], 
+    [
+        "Kinderkrankenpflegehelfer", 
+        "-in"
+    ], 
+    [
+        "Tiefbohrmeister", 
+        "-in"
+    ], 
+    [
+        "Magister", 
+        "Magistra sanitatis publicae"
+    ], 
+    [
+        "City-", 
+        "Fl\u00e4chen-Manager", 
+        "in"
+    ], 
+    [
+        "Experte", 
+        "Expertin - Financial Deal Shaping"
+    ], 
+    [
+        "Management-", 
+        "Direktionsassistent", 
+        "in"
+    ], 
+    [
+        "Almhirte", 
+        "-hirtin"
+    ], 
+    [
+        "Kfm. Ass.", 
+        "Wirtschaftsassistent", 
+        "in - Informationsverarbeitung"
+    ], 
+    [
+        "M\u00fchlenbau-, Getreide-", 
+        "Futtermitteltechniker", 
+        "in - Anlagenbau"
+    ], 
+    [
+        "Master of Engineering - Production Management", 
+        "Automotiv"
+    ], 
+    [
+        "Fischr\u00e4ucherer", 
+        "-r\u00e4ucherin"
+    ], 
+    [
+        "Synergetik-Therapeut", 
+        "Synergetik-Therapeutin"
+    ], 
+    [
+        "Betriebsrat", 
+        "-r\u00e4tin"
+    ], 
+    [
+        "Fernseh-", 
+        "Rundfunktechniker", 
+        "in"
+    ], 
+    [
+        "Polsterer", 
+        "Polsterin - Dekorationen"
+    ], 
+    [
+        "Bachelor of Arts - Soziale Arbeit", 
+        "Soziale Dienste"
+    ], 
+    [
+        "Stadtrat", 
+        "-r\u00e4tin"
+    ], 
+    [
+        "Kirchenrat", 
+        "-r\u00e4tin"
+    ], 
+    [
+        "Automatenbef\u00fcller", 
+        "-kassierer", 
+        "in"
+    ], 
+    [
+        "Stra\u00dfenpflasterer", 
+        "-pflasterin"
+    ], 
+    [
+        "Kfm. Ass.", 
+        "Wirtschaftsassistent", 
+        "in - Umweltschutz"
+    ], 
+    [
+        "Commis Patissier", 
+        "Patissi\u00e8re"
+    ], 
+    [
+        "Funk-", 
+        "Navigationssystemelektroniker", 
+        "in"
+    ], 
+    [
+        "Empfangsherr", 
+        "-dame"
+    ], 
+    [
+        "Koch-Patissier", 
+        "Patissi\u00e8re"
+    ], 
+    [
+        "Master of Arts - Bildende Kunst", 
+        "Fine Arts"
+    ], 
+    [
+        "Ganzzeugholl\u00e4nderer", 
+        "-holl\u00e4nderin"
+    ], 
+    [
+        "Wirkerei-", 
+        "Strickereitechniker", 
+        "in"
+    ], 
+    [
+        "Lachsr\u00e4ucherer", 
+        "-r\u00e4ucherin"
+    ], 
+    [
+        "Radio-", 
+        "Fernsehtechniker", 
+        "in elektroakustische Ger\u00e4..."
+    ], 
+    [
+        "Master of Engineering - Lightweight Aeronautical", 
+        "Vehicles"
+    ], 
+    [
+        "Master of Engineering - Info-Technik", 
+        "Vernetzte Systeme"
+    ], 
+    [
+        "Kfm. Ass.", 
+        "Wirtschaftsassistent", 
+        "in"
+    ], 
+    [
+        "Koch", 
+        "K\u00f6chin-Tournant"
+    ], 
+    [
+        "Aalr\u00e4ucherer", 
+        "-r\u00e4ucherin"
+    ], 
+    [
+        "Praxisanleiter", 
+        "-innen"
+    ], 
+    [
+        "B\u00fcfettdame", 
+        "-herr"
+    ], 
+    [
+        "Schiffsbetriebsoffizier - Nautik", 
+        "Technik"
+    ], 
+    [
+        "Baukletterer", 
+        "-kletterin"
+    ], 
+    [
+        "Forschungs- und Entwicklungsing. - Maschinen-", 
+        "Fahrzeugbau"
+    ], 
+    [
+        "Produktf\u00f6rderer", 
+        "-f\u00f6rderin"
+    ], 
+    [
+        "Halbzeugholl\u00e4nderer", 
+        "-holl\u00e4nderin"
+    ]
+]
