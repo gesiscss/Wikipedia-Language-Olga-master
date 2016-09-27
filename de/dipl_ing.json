@@ -1,1014 +1,80 @@
 [
     [
-        "Dipl.-Ing. - Elektrotechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Elektronik"
-    ], 
-    [
-        "Dipl.-Ing. - Fernsehtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Prozessautomatisierung"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Kartographie"
-    ], 
-    [
-        "Dipl.-Ing.  - Holztechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Augenoptik"
-    ], 
-    [
-        "Dipl.-Ing. - Geb\u00e4udetechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Geb\u00e4udetechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Verarb.", 
-        "Verfahrenstech."
-    ], 
-    [
-        "Dipl.-Ing.  - Umwelttechnik, Strahlenschutz"
-    ], 
-    [
-        "Dipl.-Ing. - Lebensmitteltechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Geowissenschaften"
-    ], 
-    [
-        "Dipl.-Ing. - Recycling"
-    ], 
-    [
-        "Dipl.-Ing. - Medizintechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Drucktechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Informatik"
-    ], 
-    [
-        "Dipl.-Ing. - Elektrotechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Augenoptik"
-    ], 
-    [
-        "Dipl.-Ing. - Biotechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Kartographie"
-    ], 
-    [
-        "Dipl.-Ing. - Kunststofftechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Infrastruktur und Umwelt"
-    ], 
-    [
-        "Dipl.-Ing. - Medientechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Chemie"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Sicherheitstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Verlagsherstellung"
-    ], 
-    [
-        "Dipl.-Ing. - H\u00f6rtechnik u. Audiologie"
-    ], 
-    [
-        "Dipl.-Ing. - Bioinformatik"
-    ], 
-    [
-        "Dipl.-Ing.  - Fahrzeugelektronik", 
-        "mechatronische Systeme"
-    ], 
-    [
-        "Dipl.-Ing. - Architektur"
-    ], 
-    [
-        "Dipl.-Ing. - Biotechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Chemie"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Chemie"
-    ], 
-    [
-        "Dipl.-Ing. - Luft- u. Raumfahrttechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Geoinformatik"
-    ], 
-    [
-        "Dipl.-Ing. - Geoinformatik"
-    ], 
-    [
-        "Dipl.-Ing. - Nanotechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Luft- u. Raumfahrttechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Bekleidungstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Bioinformatik"
-    ], 
-    [
-        "Dipl.-Ing. - Druck- u. Medientechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Elektrotechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Farben, Lacke, Kunststoffe"
-    ], 
-    [
-        "Dipl.-Ing. - Gartenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Getr\u00e4nketechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Holztechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Theater- u. Veranstaltungstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Umweltschutz"
-    ], 
-    [
-        "Dipl.-Ing.  - Innenarchitektur"
-    ], 
-    [
-        "Dipl.-Ing. - Physik"
-    ], 
-    [
-        "Dipl.-Ing. - Medizintechnik"
-    ], 
-    [
-        "Dipl.-Ing.  - Papiertechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Rohstoffe und Geotechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Rohstoffe und Geotechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Geowissenschaften"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Biomedizinische Technik"
-    ], 
-    [
-        "Dipl.-Ing. - Drucktechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Entsorgungstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Fernsehtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Kunststofftechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Lebensmitteltechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Ledertechnik"
-    ], 
-    [
-        "Dipl.-Ing.  - Metallbau"
-    ], 
-    [
-        "Dipl.-Ing. - Gie\u00dfereitechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Werkstofftechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Landschaftsarchitektur", 
-        "Landespfl.", 
-        "planung"
-    ], 
-    [
-        "Dipl.-Ing. - Verfahrens- und Biotechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Verfahrens- und Biotechnik"
-    ], 
-    [
-        "Dipl.-Ing.  - Veranstaltungs- und Produktionstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - H\u00f6rtechnik u. Audiologie"
-    ], 
-    [
-        "Dipl.-Ing.  - Service Engineering"
-    ], 
-    [
-        "Dipl.-Ing. - Landschaft.", 
-        "Naturschutz"
-    ], 
-    [
-        "Dipl.-Ing. - Landschaft.", 
-        "Naturschutz"
-    ], 
-    [
-        "Dipl.-Ing. - Oberfl\u00e4chentechnik", 
-        "Werkstoffkunde"
-    ], 
-    [
-        "Dipl.-Ing. - Oberfl\u00e4chentechnik", 
-        "Werkstoffkunde"
-    ], 
-    [
-        "Dipl.-Ing. - Agrarwissenschaft"
-    ], 
-    [
-        "Dipl.-Ing. - Bodenwissenschaften"
-    ], 
-    [
-        "Dipl.-Ing. - Bodenwissenschaften"
-    ], 
-    [
-        "Dipl.-Ing. - Pharmazeutische Chemie"
-    ], 
-    [
-        "Dipl.-Ing.  - Elektrotech."
-    ], 
-    [
-        "Dipl.-Ing. - Angewandte Informatik"
-    ], 
-    [
-        "Dipl.-Ing.  - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Fahrzeugtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Fahrzeugtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Fahrzeugtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Fertigungstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Geb\u00e4udetechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
+        "Dipl.-Ing. - Holz- und Faserwerkstofftechnik"
     ], 
     [
         "Dipl.-Ing. - Bergtechnik"
     ], 
     [
-        "Dipl.-Ing. - Elektrotechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Krankenhausbetriebstechnik"
-    ], 
-    [
         "Dipl.-Ing. - Maschinenbau"
     ], 
     [
-        "Dipl.-Ing. - Maschinenbau"
+        "Dipl.-Ing. - Lebensmitteltechn."
     ], 
     [
-        "Dipl.-Ing. - Maschinenbau"
+        "Dipl.-Ing. - Trinational -Projektmanagm. Mechatronik"
     ], 
     [
-        "Dipl.-Ing. - Physikalische Technik"
+        "Dipl.-Ing. - Bergbau"
     ], 
     [
-        "Dipl.-Ing. - Raumplanung"
+        "Dipl.-Ing. - Geoinformatik"
     ], 
     [
-        "Dipl.-Ing. - Recycling"
+        "Dipl.-Ing. - Pharmatechnik"
     ], 
     [
-        "Dipl.-Ing. - Stadt- und Regionalplanung"
-    ], 
-    [
-        "Dipl.-Ing. - Product-Engineering"
-    ], 
-    [
-        "Dipl.-Ing. - Proze\u00dfautomatisierung"
-    ], 
-    [
-        "Dipl.-Ing. - Sicherheitstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Stadt- und Regionalplanung"
-    ], 
-    [
-        "Dipl.-Ing. - Verlagsherstellung"
-    ], 
-    [
-        "Dipl.-Ing. - Elektrotechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Verpackungstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Weinbau u. Kellerwirtschaft"
-    ], 
-    [
-        "Dipl.-Ing. - Werkstofftechn."
-    ], 
-    [
-        "Dipl.-Ing. - Techn. Informatik"
-    ], 
-    [
-        "Dipl.-Ing. - Energie-, W\u00e4rme- u. Reaktortechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Geb\u00e4udetechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Infrastruktur und Umwelt"
-    ], 
-    [
-        "Dipl.-Ing. - Lebensmitteltechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Markscheidewesen", 
-        "Geod\u00e4sie"
-    ], 
-    [
-        "Dipl.-Ing. - Nanotechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Technische Kybernetik"
-    ], 
-    [
-        "Dipl.-Ing.  - Biotechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Rehabilitationstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Rehabilitationstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Physik"
-    ], 
-    [
-        "Dipl.-Ing. - Physik"
-    ], 
-    [
-        "Dipl.-Ing. - Verarb.", 
-        "Verfahrenstech."
-    ], 
-    [
-        "Dipl.-Ing. - Verarb.", 
-        "Verfahrenstech."
-    ], 
-    [
-        "Dipl.-Ing. - Verarb.", 
-        "Verfahrenstech."
-    ], 
-    [
-        "Dipl.-Ing. - Verarb.", 
-        "Verfahr."
-    ], 
-    [
-        "Dipl.-Ing. - Verfahrenstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Verfahrenstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Materialwissenschaften"
-    ], 
-    [
-        "Dipl.-Ing. - Materialwissenschaften"
-    ], 
-    [
-        "Dipl.-Ing. - Photoingenieurwesen und Medientechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Landschafts\u00f6kologie"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Gartenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Verfahrenstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Ern\u00e4hrung und Versorgungsmanagement"
-    ], 
-    [
-        "Dipl.-Ing. - Ern\u00e4hrung und Versorgungsmanagement"
-    ], 
-    [
-        "Dipl.-Ing. - Informationstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Informationstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Elektroniktechnologie"
-    ], 
-    [
-        "Dipl.-Ing.  - Mechanisierung der Pflanzenproduktion"
-    ], 
-    [
-        "Dipl.-Ing.  - Mechanisierung der Tierproduktion"
-    ], 
-    [
-        "Dipl.-Ing.  - Technologie der Instandsetzung"
-    ], 
-    [
-        "Dipl.-Ing. - Orthop\u00e4die- und Rehatechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Orthop\u00e4die- und Rehatechnik"
-    ], 
-    [
-        "Dipl.-Ing. - App.", 
-        "Anlagen Stoffumwandlung", 
-        "-wirtschaft"
-    ], 
-    [
-        "Dipl.-Ing.  - Schiffsbetriebstechnik", 
-        "-maschinenbetr"
-    ], 
-    [
-        "Dipl.-Ing. - Fischereitechnik"
+        "Dipl.-Ing. - Werkstoffwiss."
     ], 
     [
         "Dipl.-Ing. - Angewandte Mechanik"
     ], 
     [
-        "Dipl.-Ing. - Konstruktionstechnik"
+        "Dipl.-Ing. - L\u00fcftungstechnik"
     ], 
     [
-        "Dipl.-Ing. - Antriebstechnik"
+        "Dipl.-Ing. - H\u00fcttentechnik"
     ], 
     [
-        "Dipl.-Ing. - Str\u00f6mungsmechanik", 
-        "Thermodynamik"
-    ], 
-    [
-        "Dipl.-Ing. - Energieanlagentechn.", 
-        "-maschinen", 
-        "-anlagen"
-    ], 
-    [
-        "Dipl.-Ing. - Thermischer u. hydraulischer Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Klima- u. Trocknungstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Umwelttechnik", 
-        "Techn.Umweltschutz"
-    ], 
-    [
-        "Dipl.-Ing. - Werkzeugmasch.konstruktion"
-    ], 
-    [
-        "Dipl.-Ing. - Techn. metallverarb. Ind."
-    ], 
-    [
-        "Dipl.-Ing. - Fertigungsmittelentwicklung"
-    ], 
-    [
-        "Dipl.-Ing.  - Fertigungsmittelentwicklung"
-    ], 
-    [
-        "Dipl.-Ing. - Fertigungsprozessgestaltung"
-    ], 
-    [
-        "Dipl.-Ing.  - Fertigungsprozessgestaltung"
-    ], 
-    [
-        "Dipl.-Ing. - Montage und F\u00fcgetechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Betriebsgestaltung"
-    ], 
-    [
-        "Dipl.-Ing.  - Betriebsgestaltung"
-    ], 
-    [
-        "Dipl.-Ing. - Qualit\u00e4tssicherung", 
-        "Fertigungsmesstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - F\u00f6rdertechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Gewinnungs- und Aufbereitungsmaschinen"
-    ], 
-    [
-        "Dipl.-Ing. - Baumaschinen"
-    ], 
-    [
-        "Dipl.-Ing. - Baumaschinen"
-    ], 
-    [
-        "Dipl.-Ing. - Ausr\u00fcstungen"
-    ], 
-    [
-        "Dipl.-Ing. - Schienenfahrzeugtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Kraftfahrzeugtechnik"
-    ], 
-    [
-        "Dipl.-Ing.  - Kraftfahrzeugtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Landtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Elektrotechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Werkstoffwissenschaften, Vertief.", 
-        "Kunstst"
-    ], 
-    [
-        "Dipl.-Ing. - Verarbeitungsmaschinen"
-    ], 
-    [
-        "Dipl.-Ing. - Bergmaschinentechn.", 
-        "Montanmaschinentech."
-    ], 
-    [
-        "Dipl.-Ing. - Grundstoffverfahrenstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Prozessverfahrenstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Systemverfahrenstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Anlagenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Silikattechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Lebensmitteltechnologie und- technik"
-    ], 
-    [
-        "Dipl.-Ing. - Landmaschinentechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Chemische Technik"
-    ], 
-    [
-        "Dipl.-Ing. - Kohleveredlung"
+        "Dipl.-Ing. - Schwachstromtechnik"
     ], 
     [
         "Dipl.-Ing. - Elektrotech", 
         "Elektronik - Alle Fachr."
     ], 
     [
-        "Dipl.-Ing. - Theoretische Elektrotechnik"
+        "Dipl.-Ing. - Techn. Eisenbahn-", 
+        "Luft-", 
+        "Stra\u00dfentransport."
     ], 
     [
-        "Dipl.-Ing. - Automatisierungstechn.", 
-        "techn.Kyberbnetik"
+        "Dipl.-Ing. - Elektrotechnik"
     ], 
     [
-        "Dipl.-Ing.  - Automat.techn.", 
-        "Kybernetik"
+        "Dipl.-Ing. - Metallurgie", 
+        "Werkstofftechn."
     ], 
     [
-        "Dipl.-Ing.  - Informationstechnik"
+        "Dipl.-Ing. - Lebensmittel"
     ], 
     [
-        "Dipl.-Ing. - Elektronische Bauelemente"
+        "Dipl.-Ing. - Sicherheitstechnik"
     ], 
     [
-        "Dipl.-Ing. - Ger\u00e4tetechnik"
+        "Dipl.-Ing.  - Fahrzeugelektronik", 
+        "mechatronische Systeme"
     ], 
     [
-        "Dipl.-Ing.  - Elektrotechnik"
+        "Dipl.-Ing. - Ern\u00e4hrung und Versorgungsmanagement"
     ], 
     [
-        "Dipl.-Ing.  - Elektroniktechnologie"
+        "Dipl.-Ing. - Informatik"
     ], 
     [
-        "Dipl.-Ing. - Mikroelektronik"
-    ], 
-    [
-        "Dipl.-Ing. - Mikroelektronik", 
-        "Elektroniktechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Schwachstromtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Schwachstromtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Regenerative Energietechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Regenerative Energietechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Optoelektronik"
-    ], 
-    [
-        "Dipl.-Ing. - Schwachstromtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Schwachstromtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Starkstromtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Starkstromtech."
-    ], 
-    [
-        "Dipl.-Ing. - Industrieofentechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Kernernergietechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Kernkraftwerkstechnik"
+        "Dipl.-Ing. - Verlagsherstellung"
     ], 
     [
         "Dipl.-Ing. - Kommunaler Tiefbau"
-    ], 
-    [
-        "Dipl.-Ing. - Technologie der Bauproduktion"
-    ], 
-    [
-        "Dipl.-Ing. - Vorfertigung im Bauwesen"
-    ], 
-    [
-        "Dipl.-Ing. - Eisenbahnbau"
-    ], 
-    [
-        "Dipl.-Ing. - Informationsverarbeitung im Bauwesen"
-    ], 
-    [
-        "Dipl.-Ing. - Baustoffe"
-    ], 
-    [
-        "Dipl.-Ing. - Transporttechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Technik", 
-        "Technol.Post", 
-        "Zeitung.", 
-        "Nachrichten"
-    ], 
-    [
-        "Dipl.-Ing. - Schiffsf\u00fchrung Handelsschifffahrt"
-    ], 
-    [
-        "Dipl.-Ing. - Schiffsf\u00fchrung Hochseefischerei"
-    ], 
-    [
-        "Dipl.-Ing. - Schiffsf\u00fchrung"
-    ], 
-    [
-        "Dipl.-Ing. - Schiffselektronik", 
-        "Nachrichtendienst"
-    ], 
-    [
-        "Dipl.-Ing. - Bergbau - Geotechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Elektrotechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Elektrotechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Medientechnik", 
-        "-technologie"
-    ], 
-    [
-        "Dipl.-Ing. - Tiefbohrtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Bergbau - Tagebau"
-    ], 
-    [
-        "Dipl.-Ing. - Bohrtechnik", 
-        "Fluidbergbau"
-    ], 
-    [
-        "Dipl.-Ing. - Bergbau - Tiefbau"
-    ], 
-    [
-        "Dipl.-Ing. - Werkstofftechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Entwicklung metallischer Werkstoffe"
-    ], 
-    [
-        "Dipl.-Ing. - Entwicklung anorg.- nichtmetall. Werkst."
-    ], 
-    [
-        "Dipl.-Ing. - Erzeugung von Eisenwerkstoffen"
-    ], 
-    [
-        "Dipl.-Ing. - Erzeugung von Nichteisenmetallen"
-    ], 
-    [
-        "Dipl.-Ing. - Metallformung"
-    ], 
-    [
-        "Dipl.-Ing. - Werkstoffeinsatz"
-    ], 
-    [
-        "Dipl.-Ing. - Polymerwerkstofftechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Werkstoffentwicklung"
-    ], 
-    [
-        "Dipl.-Ing. - Lebensmittel"
-    ], 
-    [
-        "Dipl.-Ing. - Lebensmittel"
-    ], 
-    [
-        "Dipl.-Ing. - Lebensmittel"
-    ], 
-    [
-        "Dipl.-Ing. - Lebensmittel"
-    ], 
-    [
-        "Dipl.-Ing. - Lebensmittel"
-    ], 
-    [
-        "Dipl.-Ing. - Textiltechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Milchverarbeitende- und Fettindustrie"
-    ], 
-    [
-        "Dipl.-Ing. - Textil- und Konfektionstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Polygraphische Technik"
-    ], 
-    [
-        "Dipl.-Ing. - Chemiefasertechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Holz- und Faserwerkstofftechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Plast- und Elasttechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Arbeitsgestaltung"
-    ], 
-    [
-        "Dipl.-Ing. - Brandschutz"
-    ], 
-    [
-        "Dipl.Ing. - Informationsverarbeitung", 
-        "Theor.Informatik"
-    ], 
-    [
-        "Dipl.-Ing. - Angewandte Informatik"
-    ], 
-    [
-        "Dipl.-Ing. - Rechnersystemgestaltung und -Betrieb"
-    ], 
-    [
-        "Dipl.-Ing. - Systemsoftware"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Technische Informatik"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Informatik"
-    ], 
-    [
-        "Dipl.-Ing. - Informatik"
-    ], 
-    [
-        "Dipl.-Ing.  - Klimasystemtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Technische Informatik"
-    ], 
-    [
-        "Dipl.-Ing.  - Elektr.Regelungstechnik"
-    ], 
-    [
-        "Dipl.-Ing.  - Elektr.Regelungstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Landeskultur und Umweltschutz"
-    ], 
-    [
-        "Dipl.-Ing. - Landeskultur und Umweltschutz"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Elektrotechnik und Informationstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Elektrotechnik und Informationstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Geotechnik u. Bergbau"
-    ], 
-    [
-        "Dipl.-Ing. - Geotechnik u. Bergbau"
-    ], 
-    [
-        "Dipl.-Ing. - Gie\u00dfereitechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Mikrotechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Mikrotechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing.  - Technisches Management", 
-        "Engineering"
-    ], 
-    [
-        "Dipl.-Ing. - Holzbau und Ausbau"
-    ], 
-    [
-        "Dipl.-Ing. - Holzbau und Ausbau"
-    ], 
-    [
-        "Dipl.-Ing. - Masch.B. Verkehrstechn.Verkehrsingenierw."
-    ], 
-    [
-        "Dipl.-Ing. - Masch.B. Verkehrstechn.Verkehrsingenierw."
-    ], 
-    [
-        "Dipl.-Ing. - Agrarwirtschaft"
-    ], 
-    [
-        "Dipl.-Ing. - Agrarwissenschaft"
-    ], 
-    [
-        "Dipl.-Ing. - Weinbau u. Kellerwirtschaft"
-    ], 
-    [
-        "Dipl.-Ing. - Agrarwirtschaft"
-    ], 
-    [
-        "Dipl.-Ing. - Weinbau u. Getr\u00e4nketechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Agrarwirtschaft"
-    ], 
-    [
-        "Dipl.-Ing. - Weinbau u. Getr\u00e4nketechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Mechatronik"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing.  - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Mechatronik"
-    ], 
-    [
-        "Dipl.-Ing. - Produktionstechnik", 
-        "Fertigungstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Product-Engineering"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Fertigungstechnik"
     ], 
     [
         "Dipl.-Ing. - Maschinenbau"
@@ -1017,445 +83,373 @@
         "Dipl.-Ing. - Produktionstechnik"
     ], 
     [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Mechatronik"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing.  - Mechatronik"
-    ], 
-    [
-        "Dipl.-Ing. - Mechatronik"
-    ], 
-    [
-        "Dipl.-Ing.  - Produktionstechnik"
-    ], 
-    [
-        "Dipl.-Ing.  - Techn. Projektmanagement"
-    ], 
-    [
-        "Dipl.-Ing. - Fahrzeugtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Fahrzeugtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Fahrzeugtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Fahrzeugtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Fahrzeugtechn."
-    ], 
-    [
-        "Dipl.-Ing. - Fahrzeugbau"
-    ], 
-    [
-        "Dipl.-Ing. - Fahrzeugbau"
-    ], 
-    [
-        "Dipl.-Ing. - Schiffbau", 
-        "Schiffstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Schiffstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Schiffs- u. Meerestechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Schiffbau", 
-        "Schiffstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Schiffs- u. Meerestechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Luft- u. Raumfahrttechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Luft- u. Raumfahrttechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Luft- u. Raumfahrttechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Luft- u. Raumfahrttechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Fahrzeugtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Luft- u. Raumfahrttechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Feinwerk- u. Mikrotechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Feinwerktechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Mikrosystemtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Optoelektronik"
-    ], 
-    [
-        "Dipl.-Ing. - Feinwerk- u. Mikrotechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Mikrosystemtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Feinwerktechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Mikrosystemtechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Mikrosystemtechnik"
-    ], 
-    [
-        "Dipl.-Ing.  - Medizintechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Versorgungstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - W\u00e4rme- u. Brennstofftechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Energie-, W\u00e4rme- u. Reaktortechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Versorgungstechnik"
-    ], 
-    [
-        "Dipl.-Ing.  - Versorgungs- u. Umwelttechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Landmaschinentechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - Verfahrenstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Maschinenbau"
-    ], 
-    [
-        "Dipl.-Ing. - F\u00f6rder- u. F\u00f6rderanlagentechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Verfahrenstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Elektrotechnik", 
-        "Elektroniktechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Elektrotechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Elektrotechnik", 
-        "Elektroniktechnologie"
+        "Dipl.-Ing. - Fertigungsmittelentwicklung"
     ], 
     [
         "Dipl.-Ing.  - Elektrotechnik"
     ], 
     [
-        "Dipl.-Ing. - Elektrische Energietechnik"
+        "Dipl.-Ing. - Werkstoffeinsatz"
     ], 
     [
-        "Dipl.-Ing. - Elektronik"
+        "Dipl.-Ing. - Chemie"
     ], 
     [
-        "Dipl.-Ing. - Elektronik"
+        "Dipl.-Ing. - Geb\u00e4udetechnik"
     ], 
     [
-        "Dipl.-Ing. - Elektronik"
+        "Dipl.-Ing. - Verfahrenstechnik"
     ], 
     [
-        "Dipl.-Ing. - Informationselektronik"
+        "Dipl.-Ing. - Biomedizinische Technik"
     ], 
     [
-        "Dipl.-Ing. - Elektrotechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Informationstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Informationstechnik"
-    ], 
-    [
-        "Dipl.-Ing.  - Informations-", 
-        "Kommunikationstechnik"
-    ], 
-    [
-        "Dipl.-Ing.  - Ingenieurinformat."
-    ], 
-    [
-        "Dipl.-Ing.  - Informatik"
-    ], 
-    [
-        "Dipl.-Ing. - Prozessautomatisierung"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing.  - Bau"
-    ], 
-    [
-        "Dipl.-Ing.  - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Architektur"
-    ], 
-    [
-        "Dipl.-Ing. - Architektur"
-    ], 
-    [
-        "Dipl.-Ing. - Architektur"
-    ], 
-    [
-        "Dipl.-Ing. - Raumplanung"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Bau"
-    ], 
-    [
-        "Dipl.-Ing. - Vermessungswesen"
-    ], 
-    [
-        "Dipl.-Ing. - Vermessungswesen", 
-        "Geod\u00e4sie"
-    ], 
-    [
-        "Dipl.-Ing. - Vermessungswesen", 
-        "Geod\u00e4sie"
+        "Dipl.-Ing. - Mikrosystemtechnik"
     ], 
     [
         "Dipl.-Ing. - Markscheidewesen", 
         "Geod\u00e4sie"
     ], 
     [
-        "Dipl.-Ing. - Kartographie"
+        "Dipl.-Ing.  - Kraftwerkstechnik"
     ], 
     [
-        "Dipl.-Ing. - Kartographie"
+        "Dipl.-Ing. - Elektronische Bauelemente"
     ], 
     [
-        "Dipl.-Ing. - Steine Erden"
+        "Dipl.-Ing. - Silikattechnik"
     ], 
     [
-        "Dipl.-Ing. - Bergtechnik"
+        "Dipl.-Ing. - Verfahrenstechnik"
     ], 
     [
-        "Dipl.-Ing. - Bergbau"
+        "Dipl.-Ing. - Fischereitechnik"
     ], 
     [
-        "Dipl.-Ing. - Bergbau"
+        "Dipl.-Ing. - Schiffsf\u00fchrung Hochseefischerei"
     ], 
     [
-        "Dipl.-Ing. - Gie\u00dfereitechnik"
+        "Dipl.-Ing. - Informationselektronik"
+    ], 
+    [
+        "Dipl.-Ing. - Hochfrequenztechnik"
     ], 
     [
         "Dipl.-Ing. - Werkstofftechnik"
     ], 
     [
-        "Dipl.-Ing. - Metallurgie", 
-        "Werkstofftechn."
-    ], 
-    [
-        "Dipl.-Ing. - Getr\u00e4nketechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Lebensmitteltechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Brauwesen u. Getr\u00e4nketechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Brauwesen u. Getr\u00e4nketechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Textil"
-    ], 
-    [
-        "Dipl.-Ing. - Bekleidungstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Ledertechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Textil"
-    ], 
-    [
-        "Dipl.-Ing. - Holztechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Verfahrenstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Werkstoffwiss."
-    ], 
-    [
-        "Dipl.-Ing. - Werkstofftechn."
-    ], 
-    [
-        "Dipl.-Ing. - Kunststofftechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Farben, Lacke, Kunststoffe"
+        "Dipl.-Ing. - Thermischer u. hydraulischer Maschinenbau"
     ], 
     [
         "Dipl.-Ing. - Maschinenbau"
     ], 
     [
-        "Dipl.-Ing. - Kunststofftechnik"
+        "Dipl.-Ing. - Arbeitsgestaltung"
     ], 
     [
-        "Dipl.-Ing. - Drucktechnik"
+        "Dipl.-Ing. - Vermessungswesen", 
+        "Geod\u00e4sie"
     ], 
     [
-        "Dipl.-Ing. - Druck- u. Medientechnik"
+        "Dipl.-Ing. - Bau"
+    ], 
+    [
+        "Dipl.-Ing. - Materialwissenschaften"
+    ], 
+    [
+        "Dipl.-Ing. - Schiffbau", 
+        "Schiffstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Forstwirtschaft"
+    ], 
+    [
+        "Dipl.-Ing. - Medizintechnik"
+    ], 
+    [
+        "Dipl.-Ing.  - Fertigungsprozessgestaltung"
+    ], 
+    [
+        "Dipl.-Ing.  - Technologie der Instandsetzung"
+    ], 
+    [
+        "Dipl.-Ing. - Bau"
+    ], 
+    [
+        "Dipl.-Ing. - Landtechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Landeskultur und Umweltschutz"
+    ], 
+    [
+        "Dipl.-Ing.  - Bau"
+    ], 
+    [
+        "Dipl.-Ing.  - Elektrotech."
+    ], 
+    [
+        "Dipl.-Ing. - Montage und F\u00fcgetechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Geowissenschaften"
+    ], 
+    [
+        "Dipl.-Ing. - Automatisierungstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Architektur"
+    ], 
+    [
+        "Dipl.-Ing. - Geotechnik u. Bergbau"
+    ], 
+    [
+        "Dipl.-Ing. - Fahrzeugtechnik"
+    ], 
+    [
+        "Dipl.-Ing.  - Textiltechnologie"
+    ], 
+    [
+        "Dipl.-Ing. - Bau"
+    ], 
+    [
+        "Dipl.-Ing. - Angewandte Informatik"
+    ], 
+    [
+        "Dipl.-Ing.  - Mechanisierung der Tierproduktion"
     ], 
     [
         "Dipl.-Ing. - Verpackungstechnik"
     ], 
     [
-        "Dipl.-Ing. - Lebensmitteltechn."
-    ], 
-    [
-        "Dipl.-Ing.  - Technischer Vertrieb"
-    ], 
-    [
-        "Dipl.-Ing.  - Engineering"
-    ], 
-    [
-        "Dipl.-Ing.  - Wirtschaftsingenieurwesen"
-    ], 
-    [
-        "Dipl.-Ing. - Sicherheitstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Entsorgungstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Entsorgungstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Umwelttechnik", 
-        "Techn.Umweltschutz"
-    ], 
-    [
-        "Dipl.-Ing. - Techn. Umweltschutz"
-    ], 
-    [
-        "Dipl.-Ing. - Pharmatechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Biomedizinische Technik"
-    ], 
-    [
-        "Dipl.-Ing. - Krankenhausbetriebstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Umwelt-, Hygiene- und Sicherheitstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Umweltschutz"
-    ], 
-    [
-        "Dipl.-Ing. - Techn. Umweltschutz"
-    ], 
-    [
-        "Dipl.-Ing. - Medientechnik", 
-        "Multimedia"
-    ], 
-    [
-        "Dipl.-Ing. - Medientechnik", 
-        "-technologie"
-    ], 
-    [
-        "Dipl.-Ing. - Stadt- und Regionalplanung"
-    ], 
-    [
-        "Dipl.-Ing. - Photoingenieurwesen und Medientechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Medientechnik", 
-        "Multimedia"
-    ], 
-    [
-        "Dipl.-Ing. - Biotechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Biotechnologie"
-    ], 
-    [
-        "Dipl.-Ing. - Chemie"
-    ], 
-    [
-        "Dipl.-Ing. - Verfahrenstechnik"
-    ], 
-    [
-        "Dipl.-Ing. - Pharmazeutische Chemie"
+        "Dipl.-Ing. - Milch- und Lebensmitteltechnologie"
     ], 
     [
         "Dipl.-Ing. - Maschinenbau"
     ], 
     [
-        "Dipl.-Ing. - Physikalische Technik"
+        "Dipl.-Ing. - Eisenbahnbau"
     ], 
     [
-        "Dipl.-Ing. - Physik"
+        "Dipl.-Ing. - Mikroelektronik"
     ], 
     [
-        "Dipl.-Ing. - Technische Kybernetik"
+        "Dipl.-Ing. - Schienenfahrzeugtechnik"
     ], 
     [
-        "Dipl.-Ing. - Gartenbau"
+        "Dipl.-Ing. - Luft- u. Raumfahrttechnik"
     ], 
     [
-        "Dipl.-Ing. - Gartenbau"
+        "Dipl.-Ing. - Physikingenieurwesen"
     ], 
     [
-        "Dipl.-Ing. - Landschaftsarchitektur", 
-        "Landespfl.", 
-        "-planung"
+        "Dipl.-Ing. - Maschinenbau"
+    ], 
+    [
+        "Dipl.-Ing.  - Informations-", 
+        "Kommunikationstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Bergbau - Geotechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Masch.B. Verkehrstechn.Verkehrsingenierw."
+    ], 
+    [
+        "Dipl.-Ing. - Agrarwirtschaft"
+    ], 
+    [
+        "Dipl.-Ing. - Verfahrenstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Lebensmittel"
+    ], 
+    [
+        "Dipl.-Ing. - Starkstromtechnik"
+    ], 
+    [
+        "Dipl.-Ing.  - Informationstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Tiefbohrtechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Chemietechnik", 
+        "techn. Chemie"
+    ], 
+    [
+        "Dipl.-Ing. - Luft- u. Raumfahrttechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Maschinenbau"
+    ], 
+    [
+        "Dipl.-Ing.  - Elektroniktechnologie"
+    ], 
+    [
+        "Dipl.-Ing. - Techn. Umweltschutz"
+    ], 
+    [
+        "Dipl.-Ing. - Prozessautomatisierung"
+    ], 
+    [
+        "Dipl.-Ing. - Geod\u00e4sie"
+    ], 
+    [
+        "Dipl.-Ing. - Maschinenbau"
+    ], 
+    [
+        "Dipl.-Ing. - Rechnersystemgestaltung und -Betrieb"
+    ], 
+    [
+        "Dipl.-Ing. - Krankenhausbetriebstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Landschaft.", 
+        "Naturschutz"
+    ], 
+    [
+        "Dipl.-Ing. - Chemiefasertechnologie"
+    ], 
+    [
+        "Dipl.-Ing. - Bau"
+    ], 
+    [
+        "Dipl.-Ing. - Fahrzeugtechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Holztechnik"
+    ], 
+    [
+        "Dipl.-Ing. - F\u00f6rdertechnik"
+    ], 
+    [
+        "Dipl.-Ing. - App.", 
+        "Anlagen Stoffumwandlung", 
+        "-wirtschaft"
+    ], 
+    [
+        "Dipl.-Ing. - Agrarwissenschaft"
+    ], 
+    [
+        "Dipl.-Ing. - Energieanlagentechn.", 
+        "-maschinen", 
+        "-anlagen"
+    ], 
+    [
+        "Dipl.-Ing. - Fertigungsprozessgestaltung"
+    ], 
+    [
+        "Dipl.-Ing. - Kartographie"
+    ], 
+    [
+        "Dipl.-Ing. - Infrastruktur und Umwelt"
+    ], 
+    [
+        "Dipl.-Ing. - Augenoptik"
+    ], 
+    [
+        "Dipl.-Ing. - Polygraphische Technik"
+    ], 
+    [
+        "Dipl.-Ing. - Techn. metallverarb. Ind."
+    ], 
+    [
+        "Dipl.-Ing. - Orthop\u00e4die- und Rehatechnik"
+    ], 
+    [
+        "Dipl.-Ing. - H\u00f6rtechnik u. Audiologie"
+    ], 
+    [
+        "Dipl.-Ing. - Recycling"
+    ], 
+    [
+        "Dipl.-Ing. - Schwachstromtechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Grundstoffverfahrenstechnik"
+    ], 
+    [
+        "Dipl.-Ing.  - Schiffsbetriebstechnik", 
+        "-maschinenbetr"
+    ], 
+    [
+        "Dipl.-Ing. - Verarb.", 
+        "Verfahr."
+    ], 
+    [
+        "Dipl.-Ing.  - K\u00e4ltesystemtechnik"
+    ], 
+    [
+        "Dipl.-Ing.  - Automatisierungstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Qualit\u00e4tssicherung", 
+        "Fertigungsmesstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Textiltechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Luft- u. Raumfahrttechnik"
+    ], 
+    [
+        "Dipl.-Ing.  - Technischer Vertrieb"
+    ], 
+    [
+        "Dipl.-Ing. - Medienbetriebstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Lebensmitteltechnologie"
+    ], 
+    [
+        "Dipl.-Ing.  - Metallbau"
+    ], 
+    [
+        "Dipl.-Ing. - Maschinenbau"
+    ], 
+    [
+        "Dipl.-Ing. - Konstruktionstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Lebensmittel"
+    ], 
+    [
+        "Dipl.-Ing. - Gie\u00dfereitechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Druck- u. Medientechnik"
+    ], 
+    [
+        "Dipl.-Ing. - F\u00f6rder- u. F\u00f6rderanlagentechnik"
+    ], 
+    [
+        "Dipl.-Ing.  - Technisches Management", 
+        "Engineering"
+    ], 
+    [
+        "Dipl.-Ing. - Elektrotechnik"
+    ], 
+    [
+        "Dipl.-Ing. - W\u00e4rme- u. Brennstofftechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Landmaschinentechnik"
+    ], 
+    [
+        "Dipl.-Ing.  - Betriebsgestaltung"
+    ], 
+    [
+        "Dipl.-Ing. - Antriebstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Schwachstromtechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Informationsverarbeitung im Bauwesen"
+    ], 
+    [
+        "Dipl.-Ing. - Medientechnik", 
+        "-technologie"
     ], 
     [
         "Dipl.-Ing. - Landschaftsarchitektur", 
@@ -1463,32 +457,594 @@
         "planung"
     ], 
     [
-        "Dipl.-Ing. - Landschaftsarchitektur", 
-        "Landespfl.", 
-        "-planung"
+        "Dipl.-Ing. - Bau"
     ], 
     [
-        "Dipl.-Ing. - Landschafts\u00f6kologie"
+        "Dipl.-Ing.  - Mechatronik"
     ], 
     [
-        "Dipl.-Ing. - Forstwirtschaft"
+        "Dipl.-Ing. - Bau"
     ], 
     [
-        "Dipl.-Ing. - Forstwirtschaft"
+        "Dipl.-Ing. - Nanotechnologie"
     ], 
     [
-        "Dipl.-Ing. - Angewandte Informatik"
+        "Dipl.-Ing. - Fertigungstechnik"
     ], 
     [
-        "Dipl.-Ing. - Techn. Informatik"
+        "Dipl.-Ing.  - Elektr.Regelungstechnik"
     ], 
     [
-        "Dipl.-Ing. - Informatik"
+        "Dipl.-Ing. - Mechatronik"
+    ], 
+    [
+        "Dipl.-Ing. - Maschinenbau"
+    ], 
+    [
+        "Dipl.-Ing.  - Service Engineering"
+    ], 
+    [
+        "Dipl.-Ing.  - Umwelttechnik, Strahlenschutz"
+    ], 
+    [
+        "Dipl.-Ing. - Textil- und Konfektionstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Technische Informatik"
+    ], 
+    [
+        "Dipl.-Ing. - Fernsehtechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Verarbeitungsmaschinen"
+    ], 
+    [
+        "Dipl.-Ing. - Werkstofftechn."
     ], 
     [
         "Dipl.-Ing. - Theater- u. Veranstaltungstechnik"
     ], 
     [
+        "Dipl.-Ing. - Fahrzeugtechnologie"
+    ], 
+    [
+        "Dipl.-Ing.  - Bauwirtschaft"
+    ], 
+    [
+        "Dipl.-Ing. - Schiffsf\u00fchrung"
+    ], 
+    [
+        "Dipl.-Ing. - Bioinformatik"
+    ], 
+    [
+        "Dipl.-Ing. - Technik", 
+        "Technol.Post", 
+        "Zeitung.", 
+        "Nachrichten"
+    ], 
+    [
+        "Dipl.-Ing. - Klima- u. Trocknungstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Fahrzeugtechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Vermessungswesen"
+    ], 
+    [
+        "Dipl.-Ing. - Metallformung"
+    ], 
+    [
+        "Dipl.-Ing. - Energie-, W\u00e4rme- u. Reaktortechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Entwicklung anorg.- nichtmetall. Werkst."
+    ], 
+    [
+        "Dipl.-Ing. - Ger\u00e4tetechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Rohstoffe und Geotechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Maschinenbau"
+    ], 
+    [
+        "Dipl.-Ing. - Kernernergietechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Elektronik"
+    ], 
+    [
+        "Dipl.-Ing. - Prozessverfahrenstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Agrarwirtschaft"
+    ], 
+    [
+        "Dipl.-Ing. - Feinwerktechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Physikalische Technik"
+    ], 
+    [
+        "Dipl.-Ing.  - Veranstaltungs- und Produktionstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Maschinenbau"
+    ], 
+    [
+        "Dipl.-Ing. - Elektrotechnik und Informationstechnik"
+    ], 
+    [
+        "Dipl.-Ing.  - Biotechnologie"
+    ], 
+    [
+        "Dipl.-Ing. - Baumaschinen"
+    ], 
+    [
+        "Dipl.-Ing. - Getr\u00e4nketechnologie"
+    ], 
+    [
+        "Dipl.-Ing. - Maschinenbau"
+    ], 
+    [
         "Dipl.-Ing.  - Innenarchitektur"
+    ], 
+    [
+        "Dipl.-Ing. - Pharmazeutische Chemie"
+    ], 
+    [
+        "Dipl.-Ing. - Allgemeine Physik"
+    ], 
+    [
+        "Dipl.-Ing. - Brauwesen u. Getr\u00e4nketechnologie"
+    ], 
+    [
+        "Dipl.-Ing. - Elektronik"
+    ], 
+    [
+        "Dipl.-Ing. - Maschinenbau"
+    ], 
+    [
+        "Dipl.-Ing. - Weinbau u. Getr\u00e4nketechnologie"
+    ], 
+    [
+        "Dipl.-Ing. - Lebensmitteltechnologie und- technik"
+    ], 
+    [
+        "Dipl.-Ing. - Brandschutz"
+    ], 
+    [
+        "Dipl.-Ing. - Kohleveredlung"
+    ], 
+    [
+        "Dipl.-Ing.  - Ingenieurinformat."
+    ], 
+    [
+        "Dipl.-Ing. - Elektrotechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Polymerwerkstofftechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Anlagenbau"
+    ], 
+    [
+        "Dipl.-Ing. - Maschinenbau"
+    ], 
+    [
+        "Dipl.-Ing. -Fertigungsmesstechnik und Qualit\u00e4tsmanagement"
+    ], 
+    [
+        "Dipl.-Ing. - Industrieofentechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Produktionstechnik"
+    ], 
+    [
+        "Dipl.-Ing.  - Holztechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Werkstoffwissenschaft"
+    ], 
+    [
+        "Dipl.-Ing. - Bergbau - Tagebau"
+    ], 
+    [
+        "Dipl.-Ing. - Masch.bau"
+    ], 
+    [
+        "Dipl.-Ing. - Bau"
+    ], 
+    [
+        "Dipl.-Ing. - Bau"
+    ], 
+    [
+        "Dipl.-Ing. - Theoretische Elektrotechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Schiffselektronik", 
+        "Nachrichtendienst"
+    ], 
+    [
+        "Dipl.-Ing. - Starkstromtech."
+    ], 
+    [
+        "Dipl.-Ing. - Technische Kybernetik"
+    ], 
+    [
+        "Dipl.-Ing. - Str\u00f6mungsmechanik", 
+        "Thermodynamik"
+    ], 
+    [
+        "Dipl.-Ing. - Produktionstechnik", 
+        "Fertigungstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Kraftfahrzeugtechnik"
+    ], 
+    [
+        "Dipl.-Ing.  - Klimasystemtechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Kosmetika u. Waschmittel"
+    ], 
+    [
+        "Dipl.-Ing. - Maschinenbau"
+    ], 
+    [
+        "Dipl.-Ing. - Landbau", 
+        "Landwirtschaft"
+    ], 
+    [
+        "Dipl.-Ing. - Elektrotechnik"
+    ], 
+    [
+        "Dipl.-Ing.  - Wirtschaftsingenieurwesen"
+    ], 
+    [
+        "Dipl.-Ing. - Kernkraftwerkstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Elektroniktechnologie"
+    ], 
+    [
+        "Dipl.-Ing. - Bau"
+    ], 
+    [
+        "Dipl.-Ing. - Product-Engineering"
+    ], 
+    [
+        "Dipl.-Ing. - Verarb.", 
+        "Verfahrenstech."
+    ], 
+    [
+        "Dipl.-Ing. - Holzbau und Ausbau"
+    ], 
+    [
+        "Dipl.-Ing. - Verarb.", 
+        "Verfahrenstech."
+    ], 
+    [
+        "Dipl.-Ing. - Verfahrens- und Umwelttechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Regenerative Energietechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Werkzeugmasch.konstruktion"
+    ], 
+    [
+        "Dipl.-Ing. - Bau"
+    ], 
+    [
+        "Dipl.-Ing. - Steine Erden"
+    ], 
+    [
+        "Dipl.-Ing. - Gewinnungs- und Aufbereitungsmaschinen"
+    ], 
+    [
+        "Dipl.-Ing. - Bekleidungstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Versorgungstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Fahrzeugbau"
+    ], 
+    [
+        "Dipl.-Ing.  - Produktionstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Betriebsgestaltung"
+    ], 
+    [
+        "Datenfern\u00fcbertragungsspezialist", 
+        "in"
+    ], 
+    [
+        "Dipl.-Ing. - Ausr\u00fcstungen"
+    ], 
+    [
+        "Dipl.-Ing.  - Mechanisierung der Pflanzenproduktion"
+    ], 
+    [
+        "Dipl.-Ing. - Lebensmittel"
+    ], 
+    [
+        "Dipl.-Ing. - Farben, Lacke, Kunststoffe"
+    ], 
+    [
+        "Dipl.-Ing. - Schiffsf\u00fchrung Handelsschifffahrt"
+    ], 
+    [
+        "Dipl.-Ing. - Oberfl\u00e4chentechnik", 
+        "Werkstoffkunde"
+    ], 
+    [
+        "Dipl.-Ing. - Systemsoftware"
+    ], 
+    [
+        "Dipl.-Ing. - Maschinenbau"
+    ], 
+    [
+        "Dipl.-Ing. - Maschinenbau"
+    ], 
+    [
+        "Dipl.-Ing. - Technologie der Bauproduktion"
+    ], 
+    [
+        "Dipl.-Ing.  - Medizintechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Landschafts\u00f6kologie"
+    ], 
+    [
+        "Dipl.-Ing. - Optoelektronik"
+    ], 
+    [
+        "Dipl.-Ing.  - Fertigungsmittelentwicklung"
+    ], 
+    [
+        "Dipl.-Ing. - Maschinenbau"
+    ], 
+    [
+        "Dipl.-Ing. - Maschinenbau"
+    ], 
+    [
+        "Dipl.-Ing. - Agrarmarketing u.Agrarmanagement"
+    ], 
+    [
+        "Dipl.-Ing. - Mikroelektronik", 
+        "Elektroniktechnologie"
+    ], 
+    [
+        "Dipl.-Ing. - Verfahrens- und Biotechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Maschinenbau"
+    ], 
+    [
+        "Dipl.-Ing. - Maschinenbau"
+    ], 
+    [
+        "Dipl.-Ing.  - Papiertechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Mikrotechnologie"
+    ], 
+    [
+        "Dipl.-Ing. - Drucktechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Baustoffe"
+    ], 
+    [
+        "Dipl.-Ing. - Milchverarbeitende- und Fettindustrie"
+    ], 
+    [
+        "Dipl.Ing. - Informationsverarbeitung", 
+        "Theor.Informatik"
+    ], 
+    [
+        "Dipl.-Ing. - Chemische Technik"
+    ], 
+    [
+        "Dipl.-Ing. - Physik"
+    ], 
+    [
+        "Dipl.-Ing. - Technologie der Polygraphie"
+    ], 
+    [
+        "Dipl.-Ing. - Automatisierungstechn.", 
+        "techn.Kyberbnetik"
+    ], 
+    [
+        "Dipl.-Ing. - Fahrzeugtechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Rehabilitationstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Feinwerk- u. Mikrotechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Raumplanung"
+    ], 
+    [
+        "Dipl.-Ing. - Bohrtechnik", 
+        "Fluidbergbau"
+    ], 
+    [
+        "Dipl.-Ing. - Maschinenbau"
+    ], 
+    [
+        "Dipl.-Ing. - Werkstoffwissenschaften, Vertief.", 
+        "Kunstst"
+    ], 
+    [
+        "Dipl.-Ing. - Erzeugung von Eisenwerkstoffen"
+    ], 
+    [
+        "Dipl.-Ing. - Gartenbau"
+    ], 
+    [
+        "Dipl.-Ing. - Fahrzeugbau"
+    ], 
+    [
+        "Dipl.-Ing. - Fahrzeugtechn."
+    ], 
+    [
+        "Dipl.-Ing.  - Techn. Projektmanagement - Mechatronik"
+    ], 
+    [
+        "Dipl.-Ing. - Luft- u. Raumfahrttechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Textil"
+    ], 
+    [
+        "Dipl.-Ing.  - Techn. Optik", 
+        "Optoelektronik"
+    ], 
+    [
+        "Dipl.-Ing. - Bodenwissenschaften"
+    ], 
+    [
+        "Dipl.-Ing.  - Bau"
+    ], 
+    [
+        "Dipl.-Ing. - Elektrotechnik", 
+        "Elektroniktechnologie"
+    ], 
+    [
+        "Dipl.-Ing. - Plast- und Elasttechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Medientechnik", 
+        "Multimedia"
+    ], 
+    [
+        "Dipl.-Ing. - Ledertechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Weinbau u. Kellerwirtschaft"
+    ], 
+    [
+        "Dipl.-Ing. - Systemverfahrenstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Lebensmittel"
+    ], 
+    [
+        "Dipl.-Ing. - Schiffstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Biotechnologie"
+    ], 
+    [
+        "Dipl.-Ing. - Bergmaschinentechn.", 
+        "Montanmaschinentech."
+    ], 
+    [
+        "Dipl.-Ing. - Umwelt-, Hygiene- und Sicherheitstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Entwicklung metallischer Werkstoffe"
+    ], 
+    [
+        "Dipl.-Ing. - Umwelttechnik", 
+        "Techn.Umweltschutz"
+    ], 
+    [
+        "Dipl.-Ing. - Vorfertigung im Bauwesen"
+    ], 
+    [
+        "Dipl.-Ing. - Landwirtschaft"
+    ], 
+    [
+        "Dipl.-Ing. - Transporttechnologie"
+    ], 
+    [
+        "Dipl.-Ing. - Bau"
+    ], 
+    [
+        "Dipl.-Ing. - Schwachstromtechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Informationstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Fahrzeugbau"
+    ], 
+    [
+        "Dipl.-Ing.  - Maschinenbau"
+    ], 
+    [
+        "Dipl.-Ing.  - Versorgungs- u. Umwelttechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Maschinenbau"
+    ], 
+    [
+        "Dipl.-Ing.  - Informatik"
+    ], 
+    [
+        "Dipl.-Ing.  - Engineering"
+    ], 
+    [
+        "Dipl.-Ing. - Medientechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Kunststofftechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Elektrotechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Werkstoffentwicklung"
+    ], 
+    [
+        "Dipl.-Ing. - Agrarwirtschaft"
+    ], 
+    [
+        "Dipl.-Ing. - Fahrzeugtechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Umweltschutz"
+    ], 
+    [
+        "Dipl.-Ing. - Bau"
+    ], 
+    [
+        "Dipl.-Ing. - Elektrische Energietechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Verfahrenstechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Schiffs- u. Meerestechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Erzeugung von Nichteisenmetallen"
+    ], 
+    [
+        "Dipl.-Ing. - Elektronik"
+    ], 
+    [
+        "Dipl.-Ing. - Bergbau - Tiefbau"
+    ], 
+    [
+        "Dipl.-Ing. - Maschinenbau"
+    ], 
+    [
+        "Dipl.-Ing. - Elektronik"
+    ], 
+    [
+        "Dipl.-Ing. - Photoingenieurwesen und Medientechnik"
+    ], 
+    [
+        "Dipl.-Ing. - Entsorgungstechnik"
     ]
 ]

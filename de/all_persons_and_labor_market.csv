@@ -1,0 +1,412 @@
+	men	women	all_persons	men_ratio	labor_market_women_ratio	profession	Bias	prof_gender	labor_market_domin	labor_market_all	women_ratio	labor_market_women	labor_market_men
+Abfallbeauftragter	3	0	3	1.0	26.1261261261	Abfallbeauftragter	male	male	male	555.0	0.0	145.0	410.0
+Abt	5	1	6	0.833333333333	62.5711035267	Abt	male	male	female	879.0	0.166666666667	550.0	329.0
+Altenpflegehelfer	3	1	4	0.75	85.0894719246	Altenpflegehelfer	male	male	female	502504.0	0.25	427578.0	74926.0
+Altenpfleger	2	3	5	0.4	85.0894719246	Altenpfleger	male	male	female	502504.0	0.6	427578.0	74926.0
+Angestellter	14	3	17	0.823529411765		Angestellter	male	male			0.176470588235		
+Anwendungsprogrammierer	1	0	1	1.0	13.505193109	Anwendungsprogrammierer	male	male	male	32158.0	0.0	4342.99999999	27815.0
+Anästhesietechnischer Assistent	2	1	3	0.666666666667	77.7285201604	Anästhesietechnischer Assistent	male	male	female	9474.0	0.333333333333	7364.0	2110.0
+Apotheker	29	1	30	0.966666666667	83.8102088662	Apotheker	neutral	male	female	37536.0	0.0333333333333	31459.0	6076.99999998
+Arbeitsvermittler	5	2	7	0.714285714286	66.3964145433	Arbeitsvermittler	male	male	female	99290.0	0.285714285714	65925.0	33365.0
+Architekt	13	7	20	0.65	46.4820056611	Architekt	male	male	male	59352.0	0.35	27588.0	31764.0
+Archivar	3	3	6	0.5	67.26062468	Archivar	male	male	female	9765.0	0.5	6568.0	3197.0
+Arrangeur	91	7	98	0.928571428571	31.8181818182	Arrangeur	male	male	male	22.0	0.0714285714286	7.0	15.0
+Artist (Darsteller)	5	16	21	0.238095238095	41.5165165165	Artist (Darsteller)	male	male	male	1332.0	0.761904761905	553.0	779.0
+Arzt	21	3	24	0.875	90.9643696925	Arzt	male	male	female	66769.0	0.125	60736.0	6033.00000001
+Astronom	3	0	3	1.0	13.6886395512	Astronom	male	male	male	7130.0	0.0	976.000000001	6154.0
+Au-pair	2	10	12	0.166666666667	91.0178488053	Au-pair	neutral	neutral	female	732486.0	0.833333333333	666693.0	65793.0
+Audiodesign	1	0	1	1.0	35.5086372361	Audiodesign	neutral	neutral	male	521.0	0.0	185.0	336.0
+Aufsichtsperson	2	1	3	0.666666666667	76.9933233157	Aufsichtsperson	neutral	neutral	female	129106.0	0.333333333333	99403.0	29703.0
+Augenoptiker	1	0	1	1.0	76.7466540888	Augenoptiker	male	male	female	33922.0	0.0	26034.0	7888.0
+Ausbilder	1	0	1	1.0	33.7182984156	Ausbilder	male	male	male	34462.0	0.0	11620.0	22842.0
+Automatenfachmann	1	0	1	1.0	31.1041666667	Automatenfachmann	male	male	male	4800.0	0.0	1493.0	3307.0
+Ballettmeister	26	2	28	0.928571428571	53.1545741325	Ballettmeister	male	male	female	2536.0	0.0714285714286	1348.0	1188.0
+Ballettrepetitor	6	0	6	1.0	35.5086372361	Ballettrepetitor	male	male	male	521.0	0.0	185.0	336.0
+Bankkaufmann	2	1	3	0.666666666667	59.7982510844	Bankkaufmann	male	male	female	501911.0	0.333333333333	300134.0	201777.0
+Bauchredner	12	1	13	0.923076923077	30.9090909091	Bauchredner	male	male	male	385.0	0.0769230769231	119.0	266.0
+Baumeister	40	8	48	0.833333333333	22.5084770306	Baumeister	male	male	male	82871.0	0.166666666667	18653.0	64218.0
+Bautechniker	1	0	1	1.0	22.5084770306	Bautechniker	male	male	male	82871.0	0.0	18653.0	64218.0
+Bauzeichner	1	0	1	1.0	55.2902652383	Bauzeichner	male	male	female	106885.0	0.0	59097.0	47788.0
+Beleuchtungsmeister	1	0	1	1.0	19.2571659265	Beleuchtungsmeister	male	male	male	2477.0	0.0	476.999999999	2000.0
+Berechnungsingenieur	1	0	1	1.0	12.2531548471	Berechnungsingenieur	male	male	male	213798.0	0.0	26197.0	187601.0
+Berg- und Maschinenmann	0	1	1	0.0	7.26492128967	Berg- und Maschinenmann	male	male	male	23758.0	1.0	1726.0	22032.0
+Berufskraftfahrer	1	0	1	1.0	1.7043032114	Berufskraftfahrer	male	male	male	551193.0	0.0	9394.00000001	541799.0
+Bestatter	9	3	12	0.75	26.2594161959	Bestatter	male	male	male	8496.0	0.25	2231.0	6265.0
+Bestattungsfachkraft	5	0	5	1.0	26.2594161959	Bestattungsfachkraft	neutral	neutral	male	8496.0	0.0	2231.0	6265.0
+Betriebsführer	2	1	3	0.666666666667	25.9924816691	Betriebsführer	male	male	male	451696.0	0.333333333333	117407.0	334289.0
+Betriebswirt	1	0	1	1.0	44.2377678932	Betriebswirt	male	male	male	4946.0	0.0	2188.0	2758.0
+Bewährungshelfer	2	0	2	1.0	74.9556154125	Bewährungshelfer	male	male	female	278813.0	0.0	208986.0	69826.9999999
+Bibliothekar	22	14	36	0.611111111111	81.5969741542	Bibliothekar	male	male	female	23795.0	0.388888888889	19416.0	4379.00000001
+Bildredakteur	1	2	3	0.333333333333	50.5608415413	Bildredakteur	male	male	female	71678.0	0.666666666667	36241.0	35437.0
+Biologe	1	1	2	0.5	64.447695684	Biologe	male	male	female	1367.0	0.5	881.0	486.0
+Bodenleger	1	0	1	1.0	0.557103064067	Bodenleger	male	male	male	4308.0	0.0	24.0	4284.0
+Bootsmann	2	0	2	1.0	3.8146208153	Bootsmann	male	male	male	8782.0	0.0	335.0	8447.0
+Bote	5	0	5	1.0	47.8940392206	Bote	neutral	male	male	205963.0	0.0	98643.9999999	107319.0
+Botin	2	1	3	0.666666666667	47.8940392206	Botin	neutral	female	male	205963.0	0.333333333333	98643.9999999	107319.0
+Buchbinder	8	0	8	1.0	36.6999465145	Buchbinder	male	male	male	11218.0	0.0	4117.0	7101.0
+Buchhändler	9	2	11	0.818181818182	83.0677624958	Buchhändler	male	male	female	11924.0	0.181818181818	9905.0	2019.0
+Bundeskanzlerin	1	3	4	0.25	18.1568088033	Bundeskanzlerin	neutral	female	male	2908.0	0.75	528.0	2380.0
+Butler	30	13	43	0.697674418605	93.6919095072	Butler	male	male	female	190866.0	0.302325581395	178826.0	12040.0
+Bäcker	1	0	1	1.0	29.4110759864	Bäcker	male	male	male	76869.0	0.0	22608.0	54261.0
+Büchsenmacher	1	0	1	1.0	3.10172465159	Büchsenmacher	male	male	male	90627.0	0.0	2811.0	87816.0
+Büchsenmeister	7	0	7	1.0	2.87769784173	Büchsenmeister	male	male	male	3336.0	0.0	96.0000000001	3240.0
+Bühnenmaler	0	1	1	0.0	70.9736680955	Bühnenmaler	male	male	female	3266.0	1.0	2318.0	948.000000001
+Chefredakteur	12	4	16	0.75	31.7397555715	Chefredakteur	male	male	male	2782.0	0.25	882.999999999	1899.0
+Chemielaborant	11	2	13	0.846153846154	59.1680426246	Chemielaborant	male	male	female	72071.0	0.153846153846	42643.0	29428.0
+Chemigraf	16	0	16	1.0	44.0740740741	Chemigraf	male	male	male	270.0	0.0	119.0	151.0
+Chemiker	13	2	15	0.866666666667	14.1397849462	Chemiker	male	male	male	13020.0	0.133333333333	1841.0	11179.0
+Chemisch-Technischer Assistent	3	1	4	0.75	59.1680426246	Chemisch-Technischer Assistent	male	male	female	72071.0	0.25	42643.0	29428.0
+Clown	56	10	66	0.848484848485	54.5454545455	Clown	male	male	female	33.0	0.151515151515	18.0	15.0
+Conférencier	12	0	12	1.0	48.0295566502	Conférencier	male	male	male	406.0	0.0	195.0	211.0
+Croupier	4	0	4	1.0	18.8318693173	Croupier	male	male	male	6489.0	0.0	1222.0	5267.0
+Cutter (Film)	1	2	3	0.333333333333	26.5236833389	Cutter (Film)	male	male	male	12076.0	0.666666666667	3203.00000001	8872.99999999
+Datenschutzbeauftragter	8	1	9	0.888888888889	57.9327818764	Datenschutzbeauftragter	male	male	female	26838.0	0.111111111111	15548.0	11290.0
+Datenverarbeitungskaufmann	1	0	1	1.0	25.5314765985	Datenverarbeitungskaufmann	male	male	male	24272.0	0.0	6196.99999999	18075.0
+Dekorationsmalerei	15	0	15	1.0	70.9736680955	Dekorationsmalerei	neutral	neutral	female	3266.0	0.0	2318.0	948.000000001
+Denkmaltechnischer Assistent	2	0	2	1.0	13.1957960296	Denkmaltechnischer Assistent	male	male	male	2569.0	0.0	339.0	2230.0
+Desinfektor	1	0	1	1.0	13.1873479319	Desinfektor	male	male	male	2055.0	0.0	271.000000001	1784.0
+Detektiv	19	3	22	0.863636363636	14.3413873733	Detektiv	male	male	male	2566.0	0.136363636364	367.999999999	2198.0
+Diakon	19	3	22	0.863636363636	58.6139959235	Diakon	neutral	male	female	10303.0	0.136363636364	6039.0	4264.0
+Diakonin	16	6	22	0.727272727273	58.6139959235	Diakonin	neutral	female	female	10303.0	0.272727272727	6039.0	4264.0
+Dichter	5	0	5	1.0	47.7832512315	Dichter	male	male	male	812.0	0.0	388.0	424.0
+Diener	33	7	40	0.825	93.6919095072	Diener	male	male	female	190866.0	0.175	178826.0	12040.0
+Dirigent	12	8	20	0.6	27.8372591006	Dirigent	male	male	male	934.0	0.4	260.0	674.0
+Disponent	1	0	1	1.0	21.3708058503	Disponent	male	male	male	52305.0	0.0	11178.0	41127.0
+Dokumentar	1	0	1	1.0	62.5742942051	Dokumentar	male	male	female	10768.0	0.0	6738.00000001	4029.99999999
+Dolmetscher	1	0	1	1.0	69.8481848185	Dolmetscher	male	male	female	7575.0	0.0	5291.0	2284.0
+Dompteur	14	6	20	0.7	41.5165165165	Dompteur	male	male	male	1332.0	0.3	553.0	779.0
+Dramatiker	6	0	6	1.0	51.4743851067	Dramatiker	male	male	female	7359.0	0.0	3788.0	3571.0
+Dramaturg	21	0	21	1.0	51.4743851067	Dramaturg	male	male	female	7359.0	0.0	3788.0	3571.0
+Drechsler	6	1	7	0.857142857143	60.4	Drechsler	male	male	female	750.0	0.142857142857	453.0	297.0
+Drehbuchautor	7	0	7	1.0	47.7832512315	Drehbuchautor	male	male	male	812.0	0.0	388.0	424.0
+Drogist	6	0	6	1.0	96.3538976351	Drogist	male	male	female	89054.0	0.0	85807.0	3247.00000004
+Einrichtungsberater	1	0	1	1.0	56.4822153968	Einrichtungsberater	male	male	female	40372.0	0.0	22803.0	17569.0
+Elektroanlagenmonteur	0	1	1	0.0	3.41477678862	Elektroanlagenmonteur	male	male	male	30778.0	1.0	1051.0	29727.0
+Elektrofachkraft	1	0	1	1.0	25.5998730188	Elektrofachkraft	neutral	neutral	male	220505.0	0.0	56449.0000001	164056.0
+Elektroinstallateur	2	0	2	1.0	11.4381605553	Elektroinstallateur	male	male	male	191884.0	0.0	21947.9999999	169936.0
+Energieberater	1	0	1	1.0	41.0920869968	Energieberater	male	male	male	10805.0	0.0	4440.0	6365.0
+Erzieher	5	4	9	0.555555555556	91.0178488053	Erzieher	male	male	female	732486.0	0.444444444444	666693.0	65793.0
+Ethnologe	20	11	31	0.645161290323	64.6258503401	Ethnologe	male	male	female	147.0	0.354838709677	94.9999999999	52.0000000001
+Ewerführer	4	2	6	0.666666666667	5.69221386461	Ewerführer	male	male	male	4919.0	0.333333333333	280.0	4639.0
+Fachangestellter für Medien- und Informationsdienste	7	5	12	0.583333333333	62.5742942051	Fachangestellter für Medien- und Informationsdienste	male	male	female	10768.0	0.416666666667	6738.00000001	4029.99999999
+Facharbeiter für Nachrichtentechnik	1	0	1	1.0	11.4381605553	Facharbeiter für Nachrichtentechnik	male	male	male	191884.0	0.0	21947.9999999	169936.0
+Fachinformatiker	1	0	1	1.0	16.2154269235	Fachinformatiker	male	male	male	164362.0	0.0	26652.0	137710.0
+Fachkraft	1	1	2	0.5		Fachkraft	neutral	neutral			0.5		
+Fachkraft für Automatenservice	1	1	2	0.5	31.1041666667	Fachkraft für Automatenservice	neutral	neutral	male	4800.0	0.5	1493.0	3307.0
+Fachkraft für Holz- und Bautenschutzarbeiten	1	0	1	1.0	1.22249388753	Fachkraft für Holz- und Bautenschutzarbeiten	neutral	neutral	male	1636.0	0.0	20.0	1616.0
+Fachkraft für Kreislauf- und Abfallwirtschaft	1	0	1	1.0	8.06979280262	Fachkraft für Kreislauf- und Abfallwirtschaft	neutral	neutral	male	11004.0	0.0	888.0	10116.0
+Fachkraft für Lebensmitteltechnik	1	0	1	1.0	38.6667510562	Fachkraft für Lebensmitteltechnik	neutral	neutral	male	126398.0	0.0	48874.0	77524.0
+Fachkraft für Metalltechnik	0	2	2	0.0	18.4493427603	Fachkraft für Metalltechnik	neutral	neutral	male	396735.0	1.0	73195.0000001	323540.0
+Fachkraft für Wasserversorgungstechnik	2	1	3	0.666666666667	3.55635707845	Fachkraft für Wasserversorgungstechnik	neutral	neutral	male	27725.0	0.333333333333	986.0	26739.0
+Fachkraft im Fahrbetrieb	2	0	2	1.0	11.6309063196	Fachkraft im Fahrbetrieb	neutral	neutral	male	119406.0	0.0	13888.0	105518.0
+Fachpraktiker	5	0	5	1.0		Fachpraktiker	male	male			0.0		
+Fachtierarzt	1	0	1	1.0	72.8797953964	Fachtierarzt	male	male	female	9775.0	0.0	7124.0	2651.0
+Fahrlehrer	1	1	2	0.5	13.4048438238	Fahrlehrer	male	male	male	14823.0	0.5	1987.0	12836.0
+Feinwerkmechaniker	0	1	1	0.0	14.6782915793	Feinwerkmechaniker	male	male	male	45305.0	1.0	6650.0	38655.0
+Feldwebel	7	0	7	1.0	43.2896890344	Feldwebel	male	male	male	2444.0	0.0	1058.0	1386.0
+Feuerungs- und Schornsteinbauer	1	0	1	1.0	1.2849391531	Feuerungs- und Schornsteinbauer	male	male	male	423522.0	0.0	5441.99999999	418080.0
+Filmgeschäftsführung	6	2	8	0.75	40.1872883044	Filmgeschäftsführung	neutral	neutral	male	5019.0	0.25	2017.0	3002.0
+Filmregisseur	22	0	22	1.0	50.9119332986	Filmregisseur	male	male	female	1919.0	0.0	977.0	942.0
+Filmvorführer	6	1	7	0.857142857143	16.156507852	Filmvorführer	male	male	male	3757.0	0.142857142857	607.0	3150.0
+Fischwirt	1	0	1	1.0	17.7215189873	Fischwirt	male	male	male	790.0	0.0	140.0	650.0
+Flachglasmechaniker	1	0	1	1.0	22.984008166	Flachglasmechaniker	male	male	male	11756.0	0.0	2701.99999999	9054.00000001
+Fleischer	6	0	6	1.0	13.9570504204	Fleischer	male	male	male	63982.0	0.0	8929.99999998	55052.0
+Flugbegleiter	3	8	11	0.272727272727	78.2033652524	Flugbegleiter	male	male	female	39997.0	0.727272727273	31279.0	8718.0
+Fluggerätmechaniker	1	0	1	1.0	7.47075732134	Fluggerätmechaniker	male	male	male	35137.0	0.0	2625.0	32512.0
+Fluglotse	5	0	5	1.0	30.8085212408	Fluglotse	male	male	male	8027.0	0.0	2473.0	5554.0
+Formstecher	1	0	1	1.0	50.1462693284	Formstecher	male	male	female	62214.0	0.0	31198.0	31016.0
+Forstwirt	3	0	3	1.0	5.09963399756	Forstwirt	male	male	male	24590.0	0.0	1254.0	23336.0
+Fotograf	3	2	5	0.6	64.1671278362	Fotograf	male	male	female	7228.0	0.4	4638.0	2590.0
+Fremdenführer	1	1	2	0.5	58.0346820809	Fremdenführer	male	male	female	1730.0	0.5	1004.0	726.0
+Friseur	18	7	25	0.72	91.9347511287	Friseur	male	male	female	140876.0	0.28	129514.0	11361.9999999
+Funker	6	0	6	1.0	45.3608247423	Funker	male	male	male	388.0	0.0	176.0	212.0
+Fußballtrainer	7	0	7	1.0	7.80452224654	Fußballtrainer	male	male	male	1371.0	0.0	107.0	1264.0
+Färber	22	2	24	0.916666666667	43.0767459267	Färber	male	male	male	17369.0	0.0833333333333	7482.00000001	9886.99999999
+Fördermaschinist	2	0	2	1.0	7.26492128967	Fördermaschinist	male	male	male	23758.0	0.0	1726.0	22032.0
+Förster	6	3	9	0.666666666667	5.09963399756	Förster	male	male	male	24590.0	0.333333333333	1254.0	23336.0
+Galerist	4	1	5	0.8	70.4447632712	Galerist	male	male	female	697.0	0.2	491.0	206.0
+Gastwirt	0	1	1	0.0	46.9442078365	Gastwirt	male	male	male	18784.0	1.0	8818.00000001	9965.99999999
+Gebäudereiniger	2	0	2	1.0	61.5522574535	Gebäudereiniger	male	male	female	99249.0	0.0	61090.0	38159.0
+Gehilfe	5	0	5	1.0	76.2525479477	Gehilfe	male	male	female	172688.0	0.0	131679.0	41009.0000001
+Geigenbauer	35	3	38	0.921052631579	29.8076923077	Geigenbauer	male	male	male	416.0	0.0789473684211	124.0	292.0
+Gelbgießer	1	0	1	1.0	4.20514511873	Gelbgießer	male	male	male	6064.0	0.0	255.0	5809.0
+Gemeindereferent	1	1	2	0.5	58.6139959235	Gemeindereferent	male	male	female	10303.0	0.5	6039.0	4264.0
+Geograph	53	1	54	0.981481481481	42.5909494232	Geograph	male	male	male	2254.0	0.0185185185185	959.999999999	1294.0
+Geologe	2	1	3	0.666666666667	30.4119850187	Geologe	male	male	male	5340.0	0.333333333333	1624.0	3716.0
+Gerätezusammensetzer	1	0	1	1.0	21.0325537037	Gerätezusammensetzer	male	male	male	171962.0	0.0	36168.0	135794.0
+Gerüstbauer	2	1	3	0.666666666667	0.170745589072	Gerüstbauer	male	male	male	12299.0	0.333333333333	21.0	12278.0
+Gesundheits- und Krankenpflegehelfer	2	0	2	1.0	84.9596721778	Gesundheits- und Krankenpflegehelfer	male	male	female	807755.0	0.0	686266.0	121489.0
+Gesundheits- und Krankenpfleger	3	8	11	0.272727272727	84.9596721778	Gesundheits- und Krankenpfleger	male	male	female	807755.0	0.727272727273	686266.0	121489.0
+Glasapparatebauer	1	0	1	1.0	21.9696969697	Glasapparatebauer	male	male	male	396.0	0.0	87.0	309.0
+Glasbläser	2	0	2	1.0	27.8772378517	Glasbläser	male	male	male	391.0	0.0	109.0	282.0
+Glasmacher	1	0	1	1.0	17.5054582097	Glasmacher	male	male	male	17863.0	0.0	3127.0	14736.0
+Gleichstellungsbeauftragte	0	6	6	0.0	32.0429252782	Gleichstellungsbeauftragte	female	female	male	12580.0	1.0	4031.0	8549.0
+Goldschläger	2	1	3	0.666666666667	60.9995903318	Goldschläger	male	male	female	4882.0	0.333333333333	2978.0	1904.0
+Goldschmied	39	1	40	0.975	60.9995903318	Goldschmied	male	male	female	4882.0	0.025	2978.0	1904.0
+Grafiker	1	0	1	1.0	48.9152458611	Grafiker	male	male	male	40470.0	0.0	19796.0	20674.0
+Gruppenleiter	1	0	1	1.0	25.9924816691	Gruppenleiter	male	male	male	451696.0	0.0	117407.0	334289.0
+Gärtner	8	0	8	1.0	21.8356761854	Gärtner	male	male	male	135732.0	0.0	29638.0	106094.0
+Hafenarbeiter	11	0	11	1.0	24.9768310941	Hafenarbeiter	male	male	male	1265705.0	0.0	316133.0	949572.0
+Handelsfachwirt	2	1	3	0.666666666667	49.2979461483	Handelsfachwirt	male	male	male	18161.0	0.333333333333	8952.99999999	9208.00000001
+Handelsvertreter	3	1	4	0.75	34.1969853683	Handelsvertreter	male	male	male	462146.0	0.25	158040.0	304106.0
+Hauslehrer	5	0	5	1.0	75.0819356083	Hauslehrer	male	male	female	10374.0	0.0	7789.00000001	2584.99999999
+Hausmeister	1	1	2	0.5	6.86331637035	Hausmeister	male	male	male	231681.0	0.5	15901.0	215780.0
+Hebamme	35	41	76	0.460526315789	99.8431372549	Hebamme	female	female	female	10200.0	0.539473684211	10184.0	16.0000000002
+Heilgehilfe	0	1	1	0.0	84.9596721778	Heilgehilfe	male	male	female	807755.0	1.0	686266.0	121489.0
+Heilpraktiker	7	1	8	0.875	76.6557645135	Heilpraktiker	male	male	female	2446.0	0.125	1875.0	571.0
+Heizer	1	1	2	0.5	12.501779731	Heizer	male	male	male	210706.0	0.5	26342.0	184364.0
+Helfer	8	2	10	0.8		Helfer	male	male			0.2		
+Hilfspolizei	13	3	16	0.8125	37.7005047672	Hilfspolizei	neutral	neutral	male	8915.0	0.1875	3361.0	5554.0
+Historiker	157	8	165	0.951515151515	49.6703296703	Historiker	male	male	male	910.0	0.0484848484848	452.0	458.0
+Holz- und Bautenschützer	1	0	1	1.0	1.22249388753	Holz- und Bautenschützer	male	male	male	1636.0	0.0	20.0	1616.0
+Holzblasinstrumentenmacher	2	0	2	1.0	29.4294294294	Holzblasinstrumentenmacher	male	male	male	333.0	0.0	97.9999999999	235.0
+Holzfäller	3	0	3	1.0	5.09963399756	Holzfäller	male	male	male	24590.0	0.0	1254.0	23336.0
+Holzspielzeugmacher	0	1	1	0.0	60.4	Holzspielzeugmacher	male	male	female	750.0	1.0	453.0	297.0
+Honorarprofessor	2	0	2	1.0	42.812488391	Honorarprofessor	male	male	male	188431.0	0.0	80672.0	107759.0
+Host	3	1	4	0.75	58.3260838046	Host	neutral	male	female	27588.0	0.25	16091.0	11497.0
+Hostess	1	2	3	0.333333333333	58.3260838046	Hostess	neutral	female	female	27588.0	0.666666666667	16091.0	11497.0
+Hotelfachmann	1	0	1	1.0	79.2351889413	Hotelfachmann	male	male	female	141499.0	0.0	112117.0	29381.9999999
+Illusionist	19	1	20	0.95	19.2592592593	Illusionist	male	male	male	135.0	0.05	26.0000000001	109.0
+Imker	20	4	24	0.833333333333	28.5714285714	Imker	male	male	male	126.0	0.166666666667	36.0	90.0
+Immissionsschutzbeauftragter	1	0	1	1.0	26.1261261261	Immissionsschutzbeauftragter	male	male	male	555.0	0.0	145.0	410.0
+Immobilienmakler	3	0	3	1.0	57.0449103969	Immobilienmakler	male	male	female	55132.0	0.0	31450.0	23682.0
+Industriemeister	2	0	2	1.0	7.61356849122	Industriemeister	male	male	male	145661.0	0.0	11090.0	134571.0
+Ingenieur	22	13	35	0.628571428571	7.47075732134	Ingenieur	male	male	male	35137.0	0.371428571429	2625.0	32512.0
+Inspektor	5	0	5	1.0	16.2258392675	Inspektor	male	male	male	3932.0	0.0	637.999999998	3294.0
+Installateur	1	0	1	1.0	3.41477678862	Installateur	male	male	male	30778.0	0.0	1051.0	29727.0
+Intendant	69	5	74	0.932432432432	40.1872883044	Intendant	male	male	male	5019.0	0.0675675675676	2017.0	3002.0
+Jockey	6	1	7	0.857142857143	8.49660523763	Jockey	neutral	neutral	male	5155.0	0.142857142857	438.0	4717.0
+Journalist	41	18	59	0.694915254237	50.5608415413	Journalist	male	male	female	71678.0	0.305084745763	36241.0	35437.0
+Jurist	17	3	20	0.85	57.9327818764	Jurist	male	male	female	26838.0	0.15	15548.0	11290.0
+Justiziar	19	0	19	1.0	57.9327818764	Justiziar	male	male	female	26838.0	0.0	15548.0	11290.0
+Juwelier	1	0	1	1.0	60.9995903318	Juwelier	male	male	female	4882.0	0.0	2978.0	1904.0
+Jäger	8	1	9	0.888888888889	9.27835051546	Jäger	male	male	male	388.0	0.111111111111	36.0	352.0
+Kaffeeröster	7	0	7	1.0	39.4550784618	Kaffeeröster	male	male	male	5799.0	0.0	2288.0	3511.0
+Kameramann	61	5	66	0.924242424242	16.156507852	Kameramann	male	male	male	3757.0	0.0757575757576	607.0	3150.0
+Kapitän	2	0	2	1.0	4.49203447375	Kapitän	male	male	male	3829.0	0.0	172.0	3657.0
+Kartograf	94	1	95	0.989473684211	47.4680548982	Kartograf	male	male	male	2113.0	0.0105263157895	1003.0	1110.0
+Kastellan	0	1	1	0.0	27.9733089101	Kastellan	male	male	male	7643.0	1.0	2138.0	5505.0
+Kaufmann	5	0	5	1.0		Kaufmann	male	male			0.0		
+Kellermeister	2	0	2	1.0	4.35766836446	Kellermeister	male	male	male	1767.0	0.0	77.0	1690.0
+Kinder- und Jugendlichenpsychotherapeut	5	4	9	0.555555555556	78.1458251666	Kinder- und Jugendlichenpsychotherapeut	male	male	female	5102.0	0.444444444444	3987.0	1115.0
+Kindheitspädagoge	7	0	7	1.0	74.5593544277	Kindheitspädagoge	male	male	female	37672.0	0.0	28088.0	9584.0
+Klavierbauer	4	0	4	1.0	16.3310961969	Klavierbauer	male	male	male	894.0	0.0	146.0	748.0
+Klavierstimmer	1	0	1	1.0	16.3310961969	Klavierstimmer	male	male	male	894.0	0.0	146.0	748.0
+Klempner	6	0	6	1.0	1.24864495925	Klempner	male	male	male	24907.0	0.0	311.0	24596.0
+Knecht	11	0	11	1.0	21.5765899789	Knecht	neutral	male	male	124357.0	0.0	26832.0000001	97524.9999999
+Koch	17	3	20	0.85	52.9232533486	Koch	male	male	female	449961.0	0.15	238134.0	211827.0
+Komparse	3	1	4	0.75	41.5165165165	Komparse	male	male	male	1332.0	0.25	553.0	779.0
+Komponist	14	4	18	0.777777777778	31.8181818182	Komponist	male	male	male	22.0	0.222222222222	7.0	15.0
+Konstrukteur	30	0	30	1.0	12.2194707453	Konstrukteur	male	male	male	102975.0	0.0	12583.0	90392.0
+Korrektor	7	1	8	0.875	76.9957343083	Korrektor	male	male	female	3282.0	0.125	2527.0	755.000000002
+Korrepetitor	4	1	5	0.8	35.5086372361	Korrepetitor	male	male	male	521.0	0.2	185.0	336.0
+Kostümbildner	1	1	2	0.5	70.9736680955	Kostümbildner	male	male	female	3266.0	0.5	2318.0	948.000000001
+Kraftfahrer	1	2	3	0.333333333333	24.9768310941	Kraftfahrer	male	male	male	1265705.0	0.666666666667	316133.0	949572.0
+Kunsthistoriker	6	2	8	0.75	67.3256247669	Kunsthistoriker	male	male	female	2681.0	0.25	1805.0	875.999999999
+Kunstkritiker	34	6	40	0.85	50.5608415413	Kunstkritiker	male	male	female	71678.0	0.15	36241.0	35437.0
+Kunstschmied	12	2	14	0.857142857143	14.0532544379	Kunstschmied	male	male	male	676.0	0.142857142857	95.0000000002	581.0
+Kupferschmied	3	0	3	1.0	3.29425467804	Kupferschmied	male	male	male	39493.0	0.0	1301.0	38192.0
+Kupferstecher	57	1	58	0.98275862069	48.7741935484	Kupferstecher	male	male	male	775.0	0.0172413793103	378.0	397.0
+Kutscher	1	0	1	1.0	15.3005464481	Kutscher	male	male	male	366.0	0.0	56.0	310.0
+Küchenchef	1	0	1	1.0	18.02864773	Küchenchef	male	male	male	20595.0	0.0	3712.99999999	16882.0
+Künstler	18	1	19	0.947368421053	54.5947166403	Künstler	male	male	female	4429.0	0.0526315789474	2418.0	2011.0
+Küper	2	0	2	1.0	14.3576367827	Küper	male	male	male	16486.0	0.0	2367.0	14119.0
+Kürschner	15	4	19	0.789473684211	65.6862745098	Kürschner	male	male	female	306.0	0.210526315789	201.0	105.0
+Küster	7	1	8	0.875	67.8608515057	Küster	male	male	female	15408.0	0.125	10456.0	4952.0
+Lagerhalter	0	1	1	0.0	24.9768310941	Lagerhalter	male	male	male	1265705.0	1.0	316133.0	949572.0
+Landarbeiter	17	4	21	0.809523809524	21.5765899789	Landarbeiter	male	male	male	124357.0	0.190476190476	26832.0000001	97524.9999999
+Landschaftsarchitekt	3	0	3	1.0	13.8494826824	Landschaftsarchitekt	male	male	male	65627.0	0.0	9088.99999998	56538.0
+Landwirt	37	1	38	0.973684210526	21.5765899789	Landwirt	male	male	male	124357.0	0.0263157894737	26832.0000001	97524.9999999
+Lebensmittelchemiker	1	0	1	1.0	45.3470549595	Lebensmittelchemiker	male	male	male	4567.0	0.0	2071.0	2496.0
+Lehrer	21	3	24	0.875	70.4238331399	Lehrer	male	male	female	142155.0	0.125	100111.0	42044.0
+Lehrrettungsassistent	3	0	3	1.0	63.6176386302	Lehrrettungsassistent	male	male	female	55832.0	0.0	35519.0	20313.0
+Leuchtröhrenglasbläser	1	0	1	1.0	26.8707482993	Leuchtröhrenglasbläser	male	male	male	294.0	0.0	78.9999999999	215.0
+Lichtgestalter	5	3	8	0.625	12.5905136121	Lichtgestalter	male	male	male	17815.0	0.375	2243.0	15572.0
+Liedermacher	86	9	95	0.905263157895	48.1166205576	Liedermacher	male	male	male	4699.0	0.0947368421053	2261.0	2438.0
+Listbroker	1	0	1	1.0	60.5296610169	Listbroker	male	male	female	9440.0	0.0	5714.0	3726.0
+Literat	7	0	7	1.0	47.7832512315	Literat	male	male	male	812.0	0.0	388.0	424.0
+Literaturagent	4	1	5	0.8	60.5296610169	Literaturagent	male	male	female	9440.0	0.2	5714.0	3726.0
+Lotse	3	0	3	1.0	6.25990491284	Lotse	male	male	male	1262.0	0.0	79.0	1183.0
+Magd	0	1	1	0.0	21.5765899789	Magd	neutral	female	male	124357.0	1.0	26832.0000001	97524.9999999
+Makler	1	0	1	1.0	39.2475851551	Makler	male	male	male	1967.0	0.0	772.000000001	1195.0
+Maler und Lackierer	4	0	4	1.0	5.53319493285	Maler und Lackierer	male	male	male	141618.0	0.0	7836.0	133782.0
+Mannequin	5	0	5	1.0	88.7755102041	Mannequin	neutral	female	female	98.0	0.0	87.0	11.0
+Maschinenzusammensetzer	1	0	1	1.0	21.0325537037	Maschinenzusammensetzer	male	male	male	171962.0	0.0	36168.0	135794.0
+Maskenbildner	2	0	2	1.0	90.6659674882	Maskenbildner	male	male	female	1907.0	0.0	1729.0	178.0
+Mathematiker	2	1	3	0.666666666667	34.0704906704	Mathematiker	male	male	male	2894.0	0.333333333333	986.000000001	1908.0
+Mathematisch-Technischer Assistent	2	0	2	1.0	12.3967931919	Mathematisch-Technischer Assistent	male	male	male	141948.0	0.0	17597.0	124351.0
+Maurer	5	0	5	1.0	0.209680237638	Maurer	male	male	male	97291.0	0.0	204.0	97087.0
+Maßschneider	0	1	1	0.0	84.4050647718	Maßschneider	male	male	female	34197.0	1.0	28864.0	5332.99999999
+Mediaberater	0	1	1	0.0	54.6682417799	Mediaberater	male	male	female	152370.0	1.0	83298.0	69072.0
+Medienkaufmann Digital und Print	5	0	5	1.0	65.0971858153	Medienkaufmann Digital und Print	male	male	female	20219.0	0.0	13162.0	7057.0
+Medientechnik	2	0	2	1.0	11.4381605553	Medientechnik	neutral	neutral	male	191884.0	0.0	21947.9999999	169936.0
+Medizinisch-technischer Assistent	1	1	2	0.5	78.6312445856	Medizinisch-technischer Assistent	male	male	female	3463.0	0.5	2723.0	740.000000001
+Messebau	4	2	6	0.666666666667	2.72014753343	Messebau	neutral	neutral	male	23859.0	0.333333333333	649.000000001	23210.0
+Messerschmied	2	0	2	1.0	3.10172465159	Messerschmied	male	male	male	90627.0	0.0	2811.0	87816.0
+Metallblasinstrumentenmacher	18	2	20	0.9	16.6666666667	Metallblasinstrumentenmacher	male	male	male	342.0	0.1	57.0000000001	285.0
+Missionar	90	1	91	0.989010989011	67.8608515057	Missionar	male	male	female	15408.0	0.010989010989	10456.0	4952.0
+Mitarbeiter	2	0	2	1.0	34.1969853683	Mitarbeiter	male	male	male	462146.0	0.0	158040.0	304106.0
+Model	39	78	117	0.333333333333	88.7755102041	Model	neutral	neutral	female	98.0	0.666666666667	87.0	11.0
+Moderator (Beruf)	10	3	13	0.769230769231	48.0295566502	Moderator (Beruf)	male	male	male	406.0	0.230769230769	195.0	211.0
+Modist	1	5	6	0.166666666667	84.4050647718	Modist	male	male	female	34197.0	0.833333333333	28864.0	5332.99999999
+Musikalienhändler	1	1	2	0.5	33.5901386749	Musikalienhändler	male	male	male	649.0	0.5	218.0	431.0
+Musiker	8	0	8	1.0	37.9399437331	Musiker	male	male	male	17417.0	0.0	6607.99999999	10809.0
+Musikfachhändler	0	1	1	0.0	33.5901386749	Musikfachhändler	male	male	male	649.0	1.0	218.0	431.0
+Mönchtum	36	1	37	0.972972972973	62.5711035267	Mönchtum	neutral	neutral	female	879.0	0.027027027027	550.0	329.0
+Mühlenbauer	12	0	12	1.0	3.68870499164	Mühlenbauer	male	male	male	22718.0	0.0	838.000000001	21880.0
+Müller	14	0	14	1.0	3.44827586207	Müller	male	male	male	3248.0	0.0	112.0	3136.0
+Nonne	3	1	4	0.75	62.5711035267	Nonne	neutral	female	female	879.0	0.25	550.0	329.0
+Notar	22	1	23	0.95652173913	48.031496063	Notar	male	male	male	2794.0	0.0434782608696	1342.0	1452.0
+Notenstecher	1	0	1	1.0	50.1462693284	Notenstecher	male	male	female	62214.0	0.0	31198.0	31016.0
+Notfallsanitäter	1	0	1	1.0	21.3708058503	Notfallsanitäter	male	male	male	52305.0	0.0	11178.0	41127.0
+Offizier	13	0	13	1.0	43.2896890344	Offizier	male	male	male	2444.0	0.0	1058.0	1386.0
+Online-Redakteur	2	1	3	0.666666666667	50.5608415413	Online-Redakteur	male	male	female	71678.0	0.333333333333	36241.0	35437.0
+Operationstechnischer Assistent	3	1	4	0.75	77.7285201604	Operationstechnischer Assistent	male	male	female	9474.0	0.25	7364.0	2110.0
+Ordensschwester	2	0	2	1.0	62.5711035267	Ordensschwester	neutral	female	female	879.0	0.0	550.0	329.0
+Orgelbauer	6	0	6	1.0	9.93690851735	Orgelbauer	male	male	male	634.0	0.0	63.0	571.0
+Orientalist	137	6	143	0.958041958042	53.3333333333	Orientalist	male	male	female	15.0	0.041958041958	8.0	7.0
+Orthoptist	4	1	5	0.8	95.4093343535	Orthoptist	male	male	female	1307.0	0.2	1247.0	59.9999999998
+Pantomime	71	10	81	0.876543209877	41.5165165165	Pantomime	male	male	male	1332.0	0.123456790123	553.0	779.0
+Pastoralreferent	11	1	12	0.916666666667	30.0088759784	Pastoralreferent	male	male	male	12393.0	0.0833333333333	3719.0	8674.0
+Patentanwalt (Deutschland)	1	1	2	0.5	46.2251399884	Patentanwalt (Deutschland)	male	male	male	31074.0	0.5	14364.0	16710.0
+Personaldienstleistungskaufmann	2	0	2	1.0	66.3964145433	Personaldienstleistungskaufmann	male	male	female	99290.0	0.0	65925.0	33365.0
+Personaldisponent	0	1	1	0.0	66.3964145433	Personaldisponent	male	male	female	99290.0	1.0	65925.0	33365.0
+Pfarrer	21	1	22	0.954545454545	30.0088759784	Pfarrer	male	male	male	12393.0	0.0454545454545	3719.0	8674.0
+Pferdewirt	3	1	4	0.75	60.9494015234	Pferdewirt	male	male	female	7352.0	0.25	4481.0	2871.0
+Pflasterer	5	0	5	1.0	0.528109028961	Pflasterer	male	male	male	5870.0	0.0	31.0	5839.0
+Pflegedienstleitung	5	5	10	0.5	78.3566481054	Pflegedienstleitung	neutral	neutral	female	36815.0	0.5	28847.0	7968.0
+Philosoph	31	4	35	0.885714285714	54.4837441944	Philosoph	male	male	female	2799.0	0.114285714286	1525.0	1274.0
+Physiker	10	0	10	1.0	16.2575709276	Physiker	male	male	male	9411.0	0.0	1530.0	7881.0
+Physiotherapeut	2	0	2	1.0	77.4982405505	Physiotherapeut	male	male	female	140669.0	0.0	109016.0	31653.0
+Pilot	2	0	2	1.0	6.46539170954	Pilot	male	male	male	10301.0	0.0	666.0	9635.0
+Polier	1	0	1	1.0	1.0979692033	Polier	male	male	male	22405.0	0.0	245.999999999	22159.0
+Politesse	2	0	2	1.0	37.7005047672	Politesse	neutral	female	male	8915.0	0.0	3361.0	5554.0
+Polizeivollzugsbeamter	8	0	8	1.0	52.8379772962	Polizeivollzugsbeamter	male	male	female	1938.0	0.0	1024.0	914.0
+Portier	1	0	1	1.0	79.2351889413	Portier	male	male	female	141499.0	0.0	112117.0	29381.9999999
+Porzellanmaler	35	1	36	0.972222222222	75.4844144903	Porzellanmaler	male	male	female	1187.0	0.0277777777778	896.0	291.0
+Postjungbote	8	1	9	0.888888888889	47.8940392206	Postjungbote	male	male	male	205963.0	0.111111111111	98643.9999999	107319.0
+Pressefotograf	1	0	1	1.0	64.1671278362	Pressefotograf	male	male	female	7228.0	0.0	4638.0	2590.0
+Pressesprecher	6	2	8	0.75	65.267451247	Pressesprecher	male	male	female	23537.0	0.25	15362.0	8174.99999999
+Prior	4	3	7	0.571428571429	62.5711035267	Prior	male	male	female	879.0	0.428571428571	550.0	329.0
+Privatdozent	11	0	11	1.0	42.812488391	Privatdozent	male	male	male	188431.0	0.0	80672.0	107759.0
+Produktionstechnologe	1	0	1	1.0	15.718731148	Produktionstechnologe	male	male	male	230413.0	0.0	36218.0	194195.0
+Professor	43	47	90	0.477777777778	42.812488391	Professor	male	male	male	188431.0	0.522222222222	80672.0	107759.0
+Projektleiter	10	3	13	0.769230769231	25.9924816691	Projektleiter	male	male	male	451696.0	0.230769230769	117407.0	334289.0
+Präparator	3	0	3	1.0	51.5706806283	Präparator	male	male	female	1146.0	0.0	591.0	555.0
+Psychoanalytiker	2	0	2	1.0	78.1458251666	Psychoanalytiker	male	male	female	5102.0	0.0	3987.0	1115.0
+Psychologe	4	3	7	0.571428571429	77.9567882775	Psychologe	male	male	female	26752.0	0.428571428571	20855.0	5897.0
+Psychologischer Psychotherapeut	2	0	2	1.0	78.1458251666	Psychologischer Psychotherapeut	male	male	female	5102.0	0.0	3987.0	1115.0
+Pyrotechniker	2	0	2	1.0	5.76271186441	Pyrotechniker	male	male	male	295.0	0.0	17.0	278.0
+Rabbiner	25	15	40	0.625	30.0088759784	Rabbiner	male	male	male	12393.0	0.375	3719.0	8674.0
+Rauchwarenzurichter	3	0	3	1.0	65.6862745098	Rauchwarenzurichter	male	male	female	306.0	0.0	201.0	105.0
+Raumausstatter	3	0	3	1.0	40.0455860437	Raumausstatter	male	male	male	11407.0	0.0	4568.0	6839.0
+Reaktorfahrer	1	0	1	1.0	6.16331126919	Reaktorfahrer	male	male	male	36409.0	0.0	2244.0	34165.0
+Rechtsanwalt	23	4	27	0.851851851852	46.2251399884	Rechtsanwalt	male	male	male	31074.0	0.148148148148	14364.0	16710.0
+Rechtsanwaltsfachangestellter	7	3	10	0.7	94.3062952197	Rechtsanwaltsfachangestellter	male	male	female	94262.0	0.3	88895.0	5367.00000001
+Rechtspfleger	9	0	9	1.0	93.3804860355	Rechtspfleger	male	male	female	16542.0	0.0	15447.0	1095.00000001
+Redakteur	5	3	8	0.625	50.5608415413	Redakteur	male	male	female	71678.0	0.375	36241.0	35437.0
+Redenschreiber	25	4	29	0.862068965517	47.7832512315	Redenschreiber	male	male	male	812.0	0.137931034483	388.0	424.0
+Referent	1	0	1	1.0	46.213592233	Referent	male	male	male	3090.0	0.0	1428.0	1662.0
+Regieassistent	2	0	2	1.0	50.9119332986	Regieassistent	male	male	female	1919.0	0.0	977.0	942.0
+Registrator	1	0	1	1.0	67.26062468	Registrator	male	male	female	9765.0	0.0	6568.0	3197.0
+Reiseleiter	2	0	2	1.0	58.0346820809	Reiseleiter	male	male	female	1730.0	0.0	1004.0	726.0
+Rektor	1	0	1	1.0	29.7738693467	Rektor	male	male	male	796.0	0.0	237.0	559.0
+Reporter	3	0	3	1.0	50.5608415413	Reporter	male	male	female	71678.0	0.0	36241.0	35437.0
+Restaurator	5	2	7	0.714285714286	2.2858399983	Restaurator	male	male	male	281822.0	0.285714285714	6442.00000001	275380.0
+Rettungsassistent	7	1	8	0.875	21.3708058503	Rettungsassistent	male	male	male	52305.0	0.125	11178.0	41127.0
+Rettungshelfer	5	1	6	0.833333333333	21.3708058503	Rettungshelfer	male	male	male	52305.0	0.166666666667	11178.0	41127.0
+Rettungssanitäter	8	2	10	0.8	21.3708058503	Rettungssanitäter	male	male	male	52305.0	0.2	11178.0	41127.0
+Rettungsschwimmer	1	0	1	1.0	39.2836746349	Rettungsschwimmer	male	male	male	12257.0	0.0	4815.0	7442.0
+Richter	10	0	10	1.0	38.4615384615	Richter	male	male	male	39.0	0.0	15.0	24.0
+Saaldiener	3	0	3	1.0	58.3260838046	Saaldiener	male	male	female	27588.0	0.0	16091.0	11497.0
+Sachverständiger	10	1	11	0.909090909091		Sachverständiger	male	male			0.0909090909091		
+Schauspieler	29	8	37	0.783783783784	44.0665569574	Schauspieler	male	male	male	5469.0	0.216216216216	2410.0	3059.0
+Schausteller	13	2	15	0.866666666667	18.8318693173	Schausteller	male	male	male	6489.0	0.133333333333	1222.0	5267.0
+Scherer	46	14	60	0.766666666667	20.9806780897	Scherer	male	male	male	5486.0	0.233333333333	1151.0	4335.0
+Schiffbauingenieur	8	0	8	1.0	6.19822907741	Schiffbauingenieur	male	male	male	3501.0	0.0	217.0	3284.0
+Schiffsingenieur	2	0	2	1.0	3.8146208153	Schiffsingenieur	male	male	male	8782.0	0.0	335.0	8447.0
+Schilder- und Lichtreklamehersteller	1	0	1	1.0	34.2415730337	Schilder- und Lichtreklamehersteller	male	male	male	3560.0	0.0	1219.0	2341.0
+Schirmmacher	3	2	5	0.6	54.8604292327	Schirmmacher	male	male	female	7129.0	0.4	3911.0	3218.0
+Schmied	14	0	14	1.0	2.2858399983	Schmied	male	male	male	281822.0	0.0	6442.00000001	275380.0
+Schneider	4	1	5	0.8	84.4050647718	Schneider	male	male	female	34197.0	0.2	28864.0	5332.99999999
+Schneidwerkzeugmechaniker	1	0	1	1.0	3.10172465159	Schneidwerkzeugmechaniker	male	male	male	90627.0	0.0	2811.0	87816.0
+Schnellzeichner	6	0	6	1.0	48.7741935484	Schnellzeichner	male	male	male	775.0	0.0	378.0	397.0
+Schornsteinfeger	3	1	4	0.75	8.08986148295	Schornsteinfeger	male	male	male	8591.0	0.25	695.0	7896.0
+Schriftdolmetscher	1	0	1	1.0	69.8481848185	Schriftdolmetscher	male	male	female	7575.0	0.0	5291.0	2284.0
+Schriftsetzer	32	0	32	1.0	50.1462693284	Schriftsetzer	male	male	female	62214.0	0.0	31198.0	31016.0
+Schriftsteller	38	10	48	0.791666666667	47.7832512315	Schriftsteller	male	male	male	812.0	0.208333333333	388.0	424.0
+Schuhfertiger	1	0	1	1.0	37.8797535585	Schuhfertiger	male	male	male	9414.0	0.0	3566.0	5848.0
+Schuhmacher	5	0	5	1.0	37.8797535585	Schuhmacher	male	male	male	9414.0	0.0	3566.0	5848.0
+Segellehrer	1	0	1	1.0	47.4358974359	Segellehrer	male	male	male	3198.0	0.0	1517.0	1681.0
+Segelmacher	1	0	1	1.0	54.8604292327	Segelmacher	male	male	female	7129.0	0.0	3911.0	3218.0
+Sekretär	4	6	10	0.4	86.944437789	Sekretär	male	male	female	83474.0	0.6	72576.0	10898.0
+Servicefachkraft für Dialogmarketing	3	0	3	1.0	60.0417870759	Servicefachkraft für Dialogmarketing	neutral	neutral	female	147414.0	0.0	88510.0000001	58903.9999999
+Sicherheitsbeauftragter	1	0	1	1.0	13.1710869017	Sicherheitsbeauftragter	male	male	male	35707.0	0.0	4702.99999999	31004.0
+Social-Media-Manager	7	3	10	0.7	54.6682417799	Social-Media-Manager	male	male	female	152370.0	0.3	83298.0	69072.0
+Softwareentwickler	3	0	3	1.0	12.3967931919	Softwareentwickler	male	male	male	141948.0	0.0	17597.0	124351.0
+Soldat	13	1	14	0.928571428571	43.2896890344	Soldat	male	male	male	2444.0	0.0714285714286	1058.0	1386.0
+Sommelier	1	0	1	1.0	64.7840765227	Sommelier	male	male	female	14218.0	0.0	9211.0	5007.0
+Sonnenschutztechniker	2	0	2	1.0	2.22108756702	Sonnenschutztechniker	male	male	male	7834.0	0.0	174.0	7660.0
+Souffleur	7	2	9	0.777777777778	60.3174603175	Souffleur	male	male	female	945.0	0.222222222222	570.0	375.0
+Soziologe	5	0	5	1.0	60.7961399276	Soziologe	male	male	female	2487.0	0.0	1512.0	975.000000001
+Sportlehrer	2	0	2	1.0	44.6119065561	Sportlehrer	male	male	male	15924.0	0.0	7103.99999999	8820.00000001
+Sprachmittler	2	4	6	0.333333333333	69.8481848185	Sprachmittler	male	male	female	7575.0	0.666666666667	5291.0	2284.0
+Staatsanwalt	5	1	6	0.833333333333	75.0484007466	Staatsanwalt	male	male	female	172518.0	0.166666666667	129472.0	43046.0
+Stallmeister	20	5	25	0.8	67.2918572736	Stallmeister	male	male	female	2186.0	0.2	1471.0	714.999999999
+Stanz- und Umformmechaniker	1	2	3	0.333333333333	12.937104197	Stanz- und Umformmechaniker	male	male	male	25423.0	0.666666666667	3289.0	22134.0
+Steinbildhauer	33	2	35	0.942857142857	38.6581469649	Steinbildhauer	male	male	male	313.0	0.0571428571429	121.0	192.0
+Steinhauer	5	2	7	0.714285714286	5.44459089527	Steinhauer	male	male	male	9863.0	0.285714285714	537.0	9326.0
+Steinmetz	45	7	52	0.865384615385	38.6581469649	Steinmetz	male	male	male	313.0	0.134615384615	121.0	192.0
+Steuerberater	5	4	9	0.555555555556	76.2525479477	Steuerberater	male	male	female	172688.0	0.444444444444	131679.0	41009.0000001
+Straßenreiniger	1	0	1	1.0	6.25302705321	Straßenreiniger	male	male	male	57812.0	0.0	3615.0	54197.0
+Straßenwärter	1	0	1	1.0	2.21180663155	Straßenwärter	male	male	male	25816.0	0.0	571.000000001	25245.0
+Stuckateur	76	1	77	0.987012987013	0.919488674591	Stuckateur	male	male	male	17836.0	0.012987012987	164.0	17672.0
+Stuntman	20	3	23	0.869565217391	41.5165165165	Stuntman	male	male	male	1332.0	0.130434782609	553.0	779.0
+Synchronsprecher	17	0	17	1.0	44.0665569574	Synchronsprecher	male	male	male	5469.0	0.0	2410.0	3059.0
+Syndikus	6	3	9	0.666666666667	46.2251399884	Syndikus	male	male	male	31074.0	0.333333333333	14364.0	16710.0
+Systeminformatiker	1	0	1	1.0	11.4381605553	Systeminformatiker	male	male	male	191884.0	0.0	21947.9999999	169936.0
+Sänger	29	3	32	0.90625	48.1166205576	Sänger	male	male	male	4699.0	0.09375	2261.0	2438.0
+Süßwarentechnologe	1	1	2	0.5	57.6938758868	Süßwarentechnologe	male	male	female	12263.0	0.5	7075.0	5188.0
+Taxi	23	6	29	0.793103448276	13.9629239126	Taxi	neutral	neutral	male	74927.0	0.206896551724	10462.0	64465.0
+Teamleiter	3	1	4	0.75	25.9924816691	Teamleiter	male	male	male	451696.0	0.25	117407.0	334289.0
+Technischer Redakteur	14	7	21	0.666666666667	50.5608415413	Technischer Redakteur	male	male	female	71678.0	0.333333333333	36241.0	35437.0
+Telefonist	2	3	5	0.4	79.4443583916	Telefonist	male	male	female	1969075.0	0.6	1564319.0	404756.000001
+Testpilot	35	1	36	0.972222222222	6.46539170954	Testpilot	male	male	male	10301.0	0.0277777777778	666.0	9635.0
+Tierheilpraktiker	1	2	3	0.333333333333	73.8573730179	Tierheilpraktiker	male	male	female	11793.0	0.666666666667	8710.0	3083.0
+Tischler	53	6	59	0.898305084746	3.90146033877	Tischler	male	male	male	143049.0	0.101694915254	5581.00000001	137468.0
+Toningenieur	2	0	2	1.0	26.5236833389	Toningenieur	male	male	male	12076.0	0.0	3203.00000001	8872.99999999
+Tonmeister	2	0	2	1.0	26.5236833389	Tonmeister	male	male	male	12076.0	0.0	3203.00000001	8872.99999999
+Tontechniker	1	0	1	1.0	26.5236833389	Tontechniker	male	male	male	12076.0	0.0	3203.00000001	8872.99999999
+Trainer	3	1	4	0.75		Trainer	male	male			0.25		
+Tätowierer	29	10	39	0.74358974359	41.125	Tätowierer	male	male	male	800.0	0.25641025641	329.0	471.0
+Uhrmacher	23	0	23	1.0	31.7169069463	Uhrmacher	male	male	male	3052.0	0.0	968.000000001	2084.0
+Unternehmensberater	23	3	26	0.884615384615	26.911058483	Unternehmensberater	male	male	male	60804.0	0.115384615385	16363.0	44441.0
+Veranstaltungskaufmann	6	0	6	1.0	58.3260838046	Veranstaltungskaufmann	male	male	female	27588.0	0.0	16091.0	11497.0
+Vergolder	2	0	2	1.0	12.6353874883	Vergolder	male	male	male	42840.0	0.0	5412.99999999	37427.0
+Verlagskaufmann	2	1	3	0.666666666667	65.0971858153	Verlagskaufmann	male	male	female	20219.0	0.333333333333	13162.0	7057.0
+Verleger	186	8	194	0.958762886598	34.1969853683	Verleger	male	male	male	462146.0	0.0412371134021	158040.0	304106.0
+Verwaltungsfachangestellter	1	0	1	1.0	74.1246797609	Verwaltungsfachangestellter	male	male	female	471913.0	0.0	349804.0	122109.0
+Veterinäringenieur	1	0	1	1.0	87.6854599407	Veterinäringenieur	male	male	female	674.0	0.0	591.0	82.9999999997
+Videojournalist	13	3	16	0.8125	50.5608415413	Videojournalist	male	male	female	71678.0	0.1875	36241.0	35437.0
+Vizepräsident	6	0	6	1.0	29.7738693467	Vizepräsident	male	male	male	796.0	0.0	237.0	559.0
+Volkswirt	1	0	1	1.0	45.1293759513	Volkswirt	male	male	male	7884.0	0.0	3558.0	4326.0
+Vollziehungsbeamter	4	1	5	0.8	27.2030651341	Vollziehungsbeamter	male	male	male	1305.0	0.2	355.0	950.0
+Weber	3	5	8	0.375	34.0723731095	Weber	male	male	male	12629.0	0.625	4303.0	8326.0
+Werbetexter	16	2	18	0.888888888889	54.6682417799	Werbetexter	male	male	female	152370.0	0.111111111111	83298.0	69072.0
+Winzer	4	0	4	1.0	18.034026465	Winzer	male	male	male	2645.0	0.0	476.999999999	2168.0
+Wirtschaftsprüfer	5	1	6	0.833333333333	38.28113879	Wirtschaftsprüfer	male	male	male	28100.0	0.166666666667	10757.0	17343.0
+Wissenschaftlicher Mitarbeiter	0	1	1	0.0	42.812488391	Wissenschaftlicher Mitarbeiter	male	male	male	188431.0	1.0	80672.0	107759.0
+Wächter	1	0	1	1.0	31.0871031175	Wächter	male	male	male	212059.0	0.0	65922.9999999	146136.0
+Yogalehrer	1	0	1	1.0	57.8800147221	Yogalehrer	male	male	female	13585.0	0.0	7863.0	5722.0
+Zahlmeister	2	0	2	1.0	31.3624678663	Zahlmeister	male	male	male	389.0	0.0	122.0	267.0
+Zahnarzt	15	3	18	0.833333333333	66.0346097202	Zahnarzt	male	male	female	16296.0	0.166666666667	10761.0	5535.0
+Zahntechniker	2	0	2	1.0	60.2778057373	Zahntechniker	male	male	female	49675.0	0.0	29943.0	19732.0
+Zauberer	52	6	58	0.896551724138	19.2592592593	Zauberer	male	male	male	135.0	0.103448275862	26.0000000001	109.0
+Zimmerer	12	0	12	1.0	1.21315420092	Zimmerer	male	male	male	49870.0	0.0	604.999999999	49265.0
+Zinngießer	6	1	7	0.857142857143	4.20514511873	Zinngießer	male	male	male	6064.0	0.142857142857	255.0	5809.0
+Zoologe	48	4	52	0.923076923077	46.332046332	Zoologe	male	male	male	259.0	0.0769230769231	120.0	139.0
+Zootechniker	1	0	1	1.0	43.2111947848	Zootechniker	male	male	male	17794.0	0.0	7689.00000001	10105.0
+Zupfinstrumentenmacher	5	0	5	1.0	29.8076923077	Zupfinstrumentenmacher	male	male	male	416.0	0.0	124.0	292.0
+Zuschneider	0	1	1	0.0	84.4050647718	Zuschneider	male	male	female	34197.0	1.0	28864.0	5332.99999999
+Zusteller	26	2	28	0.928571428571	47.8940392206	Zusteller	male	male	male	205963.0	0.0714285714286	98643.9999999	107319.0
+Übersetzer	1	0	1	1.0	69.8481848185	Übersetzer	male	male	female	7575.0	0.0	5291.0	2284.0
