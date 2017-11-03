@@ -1,6 +1,7 @@
 # Measuring Gender Inequalities of German Professions on Wikipedia
 
-@authors [Olga Zagovora](http://olgazagovora.ucoz.net/) olga.zagovora (at) gesis (dot) org
+## Description
+
 
 Master thesis project **"Measuring Gender Inequalities of German Professions on Wikipedia"**
 
@@ -11,6 +12,7 @@ Wikipedia is a community-created online encyclopedia; arguably, it is the most p
 
 Supervised by: [Claudia Wagner]( http://www.claudiawagner.info ), [Fabian Flöck]( https://f-squared.org/about.html ) 
 
+## Further Reading
 
 [My slides]( https://www.slideshare.net/OlgaZagovora1/measuring-gender-inequalities-of-german-professions-on-wikipedia )
 
@@ -18,6 +20,17 @@ Supervised by: [Claudia Wagner]( http://www.claudiawagner.info ), [Fabian Flöck
 
 [Thesis on ArXiv]( https://arxiv.org/abs/1702.00829 )
 
+### How to cite
+
 **Olga Zagovora**, Fabian Flöck, and Claudia Wagner. 2017. "(Weitergeleitet von Journalistin)": The Gendered Presentation of Professions on Wikipedia. In Proceedings of the 2017 ACM on Web Science Conference (WebSci '17). ACM, New York, NY, USA, 83-92. DOI: https://doi.org/10.1145/3091478.3091488 
 [Download preprint](https://arxiv.org/abs/1706.03848) 
 
+## Contact
+
+[Olga Zagovora](http://olgazagovora.ucoz.net/) olga.zagovora (at) gesis (dot) org
+
+## License
+
+This work is licensed under ????
+
+Developed at ***[Computational Social Science](https://www.gesis.org/en/institute/abteilungen/computational-social-science/)*** department of ***GESIS - Leibniz Institute for the Social Sciences, Cologne (Germany)*** and WeST Institute for Web Science and Technologies of the University of Koblenz-Landau, Koblenz (Germany).
