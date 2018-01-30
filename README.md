@@ -1,5 +1,7 @@
 # Measuring Gender Inequalities of German Professions on Wikipedia
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 
 
@@ -31,6 +33,6 @@ Supervised by: [Claudia Wagner]( http://www.claudiawagner.info ), [Fabian Flöck
 
 ## License
 
-This work is licensed under ????
+This work is licensed under the MIT license. See ``LICENSE`` file in this repository.
 
 Developed at ***[Computational Social Science](https://www.gesis.org/en/institute/abteilungen/computational-social-science/)*** department of ***GESIS - Leibniz Institute for the Social Sciences, Cologne (Germany)*** and WeST Institute for Web Science and Technologies of the University of Koblenz-Landau, Koblenz (Germany).
