@@ -16,6 +16,8 @@ Supervised by: [Claudia Wagner]( http://www.claudiawagner.info ), [Fabian Flöck
 
 ## Further Reading
 
+[Paper](https://doi.org/10.1145/3091478.3091488)
+
 [My slides]( https://www.slideshare.net/OlgaZagovora1/measuring-gender-inequalities-of-german-professions-on-wikipedia )
 
 [Slides (by Claudia Wagner)]( http://www.slideshare.net/clauwa/measuring-gender-inequality-in-wikipedia )
